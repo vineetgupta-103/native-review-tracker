@@ -12,9 +12,16 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
-ASIN = "B0G4CHKBGP"
-CSV_PATH = Path(__file__).parent / f"amazon_review_tracking_{ASIN}.csv"
-PRODUCT_URL = f"https://www.amazon.in/Native-M2-Pro-Dispensing-Mineraliser/dp/{ASIN}/"
+PRODUCTS = [
+    {"label": "M2 Pro", "asin": "B0G4CHKBGP",
+     "url": "https://www.amazon.in/Native-M2-Pro-Dispensing-Mineraliser/dp/B0G4CHKBGP/"},
+    {"label": "M0", "asin": "B0FB3L3FSH",
+     "url": "https://www.amazon.in/Native-RO-Mineraliser-Purifier-Unconditional/dp/B0FB3L3FSH/"},
+]
+
+
+def csv_path(asin):
+    return Path(__file__).parent / f"amazon_review_tracking_{asin}.csv"
 
 STAR_COLORS = {
     "5": "#1a9850",
@@ -237,10 +244,49 @@ def count_pct_combo(df, star, color):
     )
 
 
-df = load_data(CSV_PATH)
+def render_product(label, asin, product_url):
+    """Render the full metrics + chart set for one product (used inside a tab)."""
+    df = load_data(csv_path(asin))
+    if df.empty:
+        st.warning(
+            f"No data yet for {label}. The tracking CSV is missing or empty — "
+            "it gets a new row each day from the scheduled scraper."
+        )
+        return
+
+    latest = df.iloc[-1]
+    prev = df.iloc[-2] if len(df) > 1 else None
+
+    def delta(col):
+        return None if prev is None else f"{latest[col] - prev[col]:+,.0f}"
+
+    c1, c2, c3, c4 = st.columns(4)
+    c1.metric("Avg rating", f"{latest['avg_stars']:.1f} ★",
+              None if prev is None else f"{latest['avg_stars'] - prev['avg_stars']:+.2f}")
+    c2.metric("Total ratings", f"{int(latest['total_ratings']):,}", delta("total_ratings"))
+    c3.metric("Days tracked", f"{len(df)}")
+    c4.metric("Latest date", latest["date"].strftime("%d %b %Y"))
+    st.caption(f"[View {label} on Amazon.in]({product_url})")
+
+    st.divider()
+    st.subheader("1 · Total ratings by star & average rating")
+    st.altair_chart(overview_combo_chart(df), use_container_width=True)
+
+    st.divider()
+    for star in ["5", "4", "3", "2", "1"]:
+        st.subheader(f"{6 - int(star)} · {star}-star ratings — count & % of total")
+        st.altair_chart(count_pct_combo(df, star, STAR_COLORS[star]), use_container_width=True)
+        st.divider()
+
+    with st.expander("Raw tracking data"):
+        out = df.assign(date=df["date"].dt.strftime("%Y-%m-%d"))
+        st.dataframe(out, use_container_width=True, hide_index=True)
+        st.download_button("Download CSV", data=out.to_csv(index=False),
+                           file_name=csv_path(asin).name, mime="text/csv", key=f"dl_{asin}")
+
 
 st.markdown(
-    f"""
+    """
     <div style="background:#1c1c1e;border-radius:16px;padding:22px 26px;
                 display:flex;align-items:center;gap:18px;margin:4px 0 18px 0;
                 font-family:'Source Sans Pro',sans-serif;">
@@ -253,10 +299,7 @@ st.markdown(
           Native — Ratings Tracker
         </div>
         <div style="color:#9b9ba3;font-size:14px;margin-top:6px;">
-          Water Purifiers · Native M2 Pro ·
-          <a href="{PRODUCT_URL}" target="_blank"
-             style="color:#9b9ba3;text-decoration:underline;">Amazon.in</a>
-          · ratings updated daily
+          Water Purifiers · Native M2 Pro &amp; M0 · Amazon.in · ratings updated daily
         </div>
       </div>
     </div>
@@ -264,55 +307,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-if df.empty:
-    st.warning(
-        "No data yet. The tracking CSV is missing or empty. "
-        "It gets a new row each day from the scheduled scraper."
-    )
-    st.stop()
-
-latest = df.iloc[-1]
-prev = df.iloc[-2] if len(df) > 1 else None
-
-
-def delta(col):
-    if prev is None:
-        return None
-    return f"{latest[col] - prev[col]:+,.0f}"
-
-
-# ---- Top-line metrics ----
-c1, c2, c3, c4 = st.columns(4)
-c1.metric("Avg rating", f"{latest['avg_stars']:.1f} ★",
-          None if prev is None else f"{latest['avg_stars'] - prev['avg_stars']:+.2f}")
-c2.metric("Total ratings", f"{int(latest['total_ratings']):,}", delta("total_ratings"))
-c3.metric("Days tracked", f"{len(df)}")
-c4.metric("Latest date", latest["date"].strftime("%d %b %Y"))
-
-st.divider()
-
-# ---- Chart 1: total ratings (stacked by star) + avg rating, one dual-axis chart ----
-st.subheader("1 · Total ratings by star & average rating")
-st.altair_chart(overview_combo_chart(df), use_container_width=True)
-
-st.divider()
-
-# ---- Charts 2-6: per-star count (bars) + % of total (line), one dual-axis chart each ----
-for star in ["5", "4", "3", "2", "1"]:
-    st.subheader(f"{6 - int(star)} · {star}-star ratings — count & % of total")
-    st.altair_chart(count_pct_combo(df, star, STAR_COLORS[star]), use_container_width=True)
-    st.divider()
-
-# ---- Raw data ----
-with st.expander("Raw tracking data"):
-    st.dataframe(
-        df.assign(date=df["date"].dt.strftime("%Y-%m-%d")),
-        use_container_width=True,
-        hide_index=True,
-    )
-    st.download_button(
-        "Download CSV",
-        data=df.assign(date=df["date"].dt.strftime("%Y-%m-%d")).to_csv(index=False),
-        file_name=CSV_PATH.name,
-        mime="text/csv",
-    )
+tabs = st.tabs([p["label"] for p in PRODUCTS])
+for tab, p in zip(tabs, PRODUCTS):
+    with tab:
+        render_product(p["label"], p["asin"], p["url"])
