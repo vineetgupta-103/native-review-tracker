@@ -109,17 +109,43 @@ def overview_combo_chart(df):
         text=alt.Text("avg_stars:Q", format=".1f")
     )
 
+    total_labels = (
+        alt.Chart(df)
+        .mark_text(dy=-6, fontSize=9, color="#333")
+        .encode(
+            x=alt.X("date:T"),
+            y=alt.Y("total_ratings:Q"),
+            text=alt.Text("total_ratings:Q", format=",.0f"),
+        )
+    )
+
     return (
-        alt.layer(bars, alt.layer(line, labels))
+        alt.layer(alt.layer(bars, total_labels), alt.layer(line, labels))
         .resolve_scale(y="independent")
         .properties(height=360, title="Total ratings (stacked by star) + average rating ★")
     )
+
+
+def _pct_domain(series, min_span=20.0):
+    """Y-domain for a % axis that always spans at least `min_span` points,
+    so small day-to-day moves don't look like dramatic swings."""
+    pmin, pmax = float(series.min()), float(series.max())
+    span = pmax - pmin
+    pad = (min_span - span) / 2 if span < min_span else 2.0
+    lo, hi = max(0.0, pmin - pad), min(100.0, pmax + pad)
+    if hi - lo < min_span:  # re-expand if clamping at 0/100 shrank it
+        if lo == 0.0:
+            hi = min(100.0, lo + min_span)
+        elif hi == 100.0:
+            lo = max(0.0, hi - min_span)
+    return [lo, hi]
 
 
 def count_pct_combo(df, star, color):
     """Single dual-axis chart for one star level: absolute count as bars (left axis)
     + share of total as a line (right axis)."""
     cnt, pct = f"count_{star}", f"pct_{star}"
+
     bars = (
         alt.Chart(df)
         .mark_bar(color=color, opacity=0.75)
@@ -132,25 +158,37 @@ def count_pct_combo(df, star, color):
             ],
         )
     )
-    line = (
+    bar_labels = (
         alt.Chart(df)
-        .mark_line(point=True, color="#111", strokeWidth=2.5)
+        .mark_text(dy=-6, fontSize=9, color=color)
         .encode(
-            x=alt.X("date:T", title="Date"),
-            y=alt.Y(
-                f"{pct}:Q",
-                title=f"% {star}★ of total",
-                scale=alt.Scale(zero=False),
-                axis=alt.Axis(orient="right", format=".1f", titleColor="#111"),
-            ),
-            tooltip=[
-                alt.Tooltip("date:T", title="Date"),
-                alt.Tooltip(f"{pct}:Q", title=f"% {star}★", format=".1f"),
-            ],
+            x=alt.X("date:T"),
+            y=alt.Y(f"{cnt}:Q"),
+            text=alt.Text(f"{cnt}:Q", format=",.0f"),
         )
     )
+
+    pct_base = alt.Chart(df).encode(
+        x=alt.X("date:T", title="Date"),
+        y=alt.Y(
+            f"{pct}:Q",
+            title=f"% {star}★ of total",
+            scale=alt.Scale(domain=_pct_domain(df[pct])),
+            axis=alt.Axis(orient="right", format=".0f", titleColor="#111"),
+        ),
+    )
+    line = pct_base.mark_line(point=True, color="#111", strokeWidth=2.5).encode(
+        tooltip=[
+            alt.Tooltip("date:T", title="Date"),
+            alt.Tooltip(f"{pct}:Q", title=f"% {star}★", format=".0f"),
+        ]
+    )
+    pct_labels = pct_base.mark_text(dy=-10, fontSize=9, color="#111", fontWeight="bold").encode(
+        text=alt.Text(f"{pct}:Q", format=".0f")
+    )
+
     return (
-        alt.layer(bars, line)
+        alt.layer(alt.layer(bars, bar_labels), alt.layer(line, pct_labels))
         .resolve_scale(y="independent")
         .properties(height=320, title=f"{star}★ — count (bars) & % of total (line)")
     )
