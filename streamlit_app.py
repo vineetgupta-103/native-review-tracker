@@ -37,6 +37,50 @@ st.set_page_config(
     layout="wide",
 )
 
+GSHEET_URL = "https://docs.google.com/spreadsheets/d/1SMTlR8oeegom6rSxsL4mc8sbkhvnGsbNV0ihZ0uDaV0/edit"
+
+st.markdown(
+    """
+    <style>
+      :root { --accent:#6c4cff; --good:#1a9850; --bad:#d73027; }
+      .stApp { background:#f4f5f7; }
+      .block-container { padding-top:1.3rem; padding-bottom:2rem; max-width:1180px; }
+      #MainMenu, footer, [data-testid="stDecoration"] { visibility:hidden; }
+
+      /* Tabs — purple active underline */
+      .stTabs [data-baseweb="tab-list"] { gap:26px; border-bottom:1px solid #e6e6ea; }
+      .stTabs [data-baseweb="tab"] { font-size:16px; font-weight:600; color:#7a7a86; padding:6px 2px; }
+      .stTabs [data-baseweb="tab"][aria-selected="true"] { color:#1c1c1e; }
+      .stTabs [data-baseweb="tab-highlight"],
+      .stTabs [data-baseweb="tab-border"] { background-color:var(--accent); height:3px; }
+
+      /* Chart cards (st.container keyed with 'chartcard') become white cards */
+      [class*="st-key-chartcard"] {
+        background:#fff; border:1px solid #ececf0 !important; border-radius:14px !important;
+        box-shadow:0 1px 3px rgba(16,17,33,.04); padding:18px 20px;
+      }
+
+      /* Executive summary */
+      .exec-wrap { background:#fff; border:1px solid #ececf0; border-radius:16px;
+        padding:20px 22px; margin-bottom:18px; box-shadow:0 1px 3px rgba(16,17,33,.04); }
+      .exec-label { border-left:4px solid var(--accent); padding-left:10px; font-size:12px;
+        letter-spacing:.08em; font-weight:700; color:#3a3a44; margin-bottom:16px; }
+      .exec-cards { display:flex; gap:16px; flex-wrap:wrap; }
+      .exec-card { flex:1 1 200px; background:#fafafb; border:1px solid #eee; border-radius:12px;
+        padding:16px 18px; border-top-width:3px; border-top-style:solid; }
+      .exec-card .t { font-size:11px; letter-spacing:.06em; font-weight:700; color:#8a8a95; }
+      .exec-card .v { font-size:30px; font-weight:800; color:#1c1c1e; margin-top:6px; line-height:1.1; }
+      .exec-card .d { font-size:13px; font-weight:700; margin-top:4px; }
+      .exec-card .s { font-size:12px; color:#9b9ba3; margin-top:8px; }
+
+      /* Section headings inside cards */
+      .sec-title { font-size:18px; font-weight:700; color:#1c1c1e; }
+      .sec-sub { font-size:13px; color:#8a8a95; margin-top:2px; margin-bottom:6px; }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 
 @st.cache_data(ttl=60)
 def load_data(path: Path) -> pd.DataFrame:
@@ -244,8 +288,49 @@ def count_pct_combo(df, star, color):
     )
 
 
+def _section(title, subtitle):
+    st.markdown(f'<div class="sec-title">{title}</div>'
+                f'<div class="sec-sub">{subtitle}</div>', unsafe_allow_html=True)
+
+
+def _exec_card(title, value, delta_txt, good, sub):
+    color = "var(--good)" if good else "var(--bad)"
+    return (
+        f'<div class="exec-card" style="border-top-color:{color}">'
+        f'<div class="t">{title}</div>'
+        f'<div class="v">{value}</div>'
+        f'<div class="d" style="color:{color}">{delta_txt}</div>'
+        f'<div class="s">{sub}</div></div>'
+    )
+
+
+def _executive_summary(label, df):
+    latest = df.iloc[-1]
+    prev = df.iloc[-2] if len(df) > 1 else latest
+    d_avg = latest["avg_stars"] - prev["avg_stars"]
+    d_tot = latest["total_ratings"] - prev["total_ratings"]
+    d_p5 = latest["pct_5"] - prev["pct_5"]
+    d_p1 = latest["pct_1"] - prev["pct_1"]
+    cards = "".join([
+        _exec_card("AVG RATING", f"{latest['avg_stars']:.1f} ★", f"{d_avg:+.2f}",
+                   d_avg >= 0, "Amazon overall rating"),
+        _exec_card("TOTAL RATINGS", f"{int(latest['total_ratings']):,}", f"{d_tot:+,.0f}",
+                   d_tot >= 0, "Cumulative # of ratings"),
+        _exec_card("5★ SHARE", f"{int(latest['pct_5'])}%", f"{d_p5:+.0f}pp",
+                   d_p5 >= 0, "Share of 5-star ratings"),
+        _exec_card("1★ SHARE", f"{int(latest['pct_1'])}%", f"{d_p1:+.0f}pp",
+                   d_p1 <= 0, "Share of 1-star ratings (lower is better)"),
+    ])
+    st.markdown(
+        f'<div class="exec-wrap"><div class="exec-label">EXECUTIVE SUMMARY — {label.upper()}'
+        f' · {len(df)} DAYS · {latest["date"].strftime("%d %b %Y")}</div>'
+        f'<div class="exec-cards">{cards}</div></div>',
+        unsafe_allow_html=True,
+    )
+
+
 def render_product(label, asin, product_url):
-    """Render the full metrics + chart set for one product (used inside a tab)."""
+    """Render the executive summary + chart set for one product (used inside a tab)."""
     df = load_data(csv_path(asin))
     if df.empty:
         st.warning(
@@ -254,54 +339,49 @@ def render_product(label, asin, product_url):
         )
         return
 
-    latest = df.iloc[-1]
-    prev = df.iloc[-2] if len(df) > 1 else None
+    _executive_summary(label, df)
 
-    def delta(col):
-        return None if prev is None else f"{latest[col] - prev[col]:+,.0f}"
+    with st.container(border=True, key=f"chartcard_{asin}_overview"):
+        _section("Total ratings by star & average rating",
+                 "Daily total ratings split by star (stacked bars), with the average rating line above.")
+        st.altair_chart(overview_combo_chart(df), use_container_width=True)
 
-    c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Avg rating", f"{latest['avg_stars']:.1f} ★",
-              None if prev is None else f"{latest['avg_stars'] - prev['avg_stars']:+.2f}")
-    c2.metric("Total ratings", f"{int(latest['total_ratings']):,}", delta("total_ratings"))
-    c3.metric("Days tracked", f"{len(df)}")
-    c4.metric("Latest date", latest["date"].strftime("%d %b %Y"))
-    st.caption(f"[View {label} on Amazon.in]({product_url})")
-
-    st.divider()
-    st.subheader("1 · Total ratings by star & average rating")
-    st.altair_chart(overview_combo_chart(df), use_container_width=True)
-
-    st.divider()
     for star in ["5", "4", "3", "2", "1"]:
-        st.subheader(f"{6 - int(star)} · {star}-star ratings — count & % of total")
-        st.altair_chart(count_pct_combo(df, star, STAR_COLORS[star]), use_container_width=True)
-        st.divider()
+        with st.container(border=True, key=f"chartcard_{asin}_{star}"):
+            _section(f"{star}-star ratings",
+                     "Daily count (bars, left axis) and share of total (line, right axis).")
+            st.altair_chart(count_pct_combo(df, star, STAR_COLORS[star]), use_container_width=True)
 
     with st.expander("Raw tracking data"):
         out = df.assign(date=df["date"].dt.strftime("%Y-%m-%d"))
         st.dataframe(out, use_container_width=True, hide_index=True)
         st.download_button("Download CSV", data=out.to_csv(index=False),
                            file_name=csv_path(asin).name, mime="text/csv", key=f"dl_{asin}")
+        st.caption(f"[View {label} on Amazon.in]({product_url})")
 
 
 st.markdown(
-    """
+    f"""
     <div style="background:#1c1c1e;border-radius:16px;padding:22px 26px;
-                display:flex;align-items:center;gap:18px;margin:4px 0 18px 0;
-                font-family:'Source Sans Pro',sans-serif;">
-      <div style="width:54px;height:54px;border-radius:14px;background:#6c4cff;
-                  display:flex;align-items:center;justify-content:center;flex:0 0 auto;">
-        <span style="color:#fff;font-size:26px;font-weight:700;">N</span>
-      </div>
-      <div>
-        <div style="color:#fff;font-size:26px;font-weight:800;line-height:1.2;">
-          Native — Ratings Tracker
+                display:flex;align-items:center;justify-content:space-between;gap:18px;
+                margin:4px 0 18px 0;font-family:'Source Sans Pro',sans-serif;">
+      <div style="display:flex;align-items:center;gap:18px;">
+        <div style="width:54px;height:54px;border-radius:14px;background:#6c4cff;
+                    display:flex;align-items:center;justify-content:center;flex:0 0 auto;">
+          <span style="color:#fff;font-size:26px;font-weight:700;">N</span>
         </div>
-        <div style="color:#9b9ba3;font-size:14px;margin-top:6px;">
-          Water Purifiers · Native M2 Pro &amp; M0 · Amazon.in · ratings updated daily
+        <div>
+          <div style="color:#fff;font-size:26px;font-weight:800;line-height:1.2;">
+            Native — Ratings Tracker
+          </div>
+          <div style="color:#9b9ba3;font-size:14px;margin-top:6px;">
+            Water Purifiers · Native M2 Pro &amp; M0 · Amazon.in · ratings updated daily
+          </div>
         </div>
       </div>
+      <a href="{GSHEET_URL}" target="_blank" style="background:#2b2b30;border:1px solid #46464d;
+         color:#fff;padding:9px 16px;border-radius:9px;text-decoration:none;font-size:13px;
+         font-weight:600;white-space:nowrap;flex:0 0 auto;">Google Sheet</a>
     </div>
     """,
     unsafe_allow_html=True,
