@@ -17,6 +17,8 @@ PRODUCTS = [
      "url": "https://www.amazon.in/Native-M2-Pro-Dispensing-Mineraliser/dp/B0G4CHKBGP/"},
     {"label": "M0", "asin": "B0FB3L3FSH",
      "url": "https://www.amazon.in/Native-RO-Mineraliser-Purifier-Unconditional/dp/B0FB3L3FSH/"},
+    {"label": "Locks Pro", "asin": "B0DJGYW9R9",
+     "url": "https://www.amazon.in/Native-UC-Doorbell-Installation-Warranty/dp/B0DJGYW9R9/"},
 ]
 
 
@@ -375,7 +377,7 @@ st.markdown(
             Native — Ratings Tracker
           </div>
           <div style="color:#9b9ba3;font-size:14px;margin-top:6px;">
-            Water Purifiers · Native M2 Pro &amp; M0 · Amazon.in · ratings updated daily
+            Native · M2 Pro &amp; M0 purifiers · Locks Pro · Amazon.in · ratings updated daily
           </div>
         </div>
       </div>

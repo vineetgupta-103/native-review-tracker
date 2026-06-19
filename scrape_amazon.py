@@ -27,6 +27,8 @@ PRODUCTS = [
      "url": "https://www.amazon.in/Native-M2-Pro-Dispensing-Mineraliser/dp/B0G4CHKBGP/"},
     {"asin": "B0FB3L3FSH", "label": "M0",
      "url": "https://www.amazon.in/Native-RO-Mineraliser-Purifier-Unconditional/dp/B0FB3L3FSH/"},
+    {"asin": "B0DJGYW9R9", "label": "Locks Pro",
+     "url": "https://www.amazon.in/Native-UC-Doorbell-Installation-Warranty/dp/B0DJGYW9R9/"},
 ]
 
 UA = (
