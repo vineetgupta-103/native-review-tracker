@@ -25,7 +25,7 @@ STAR_COLORS = {
 }
 
 st.set_page_config(
-    page_title="Native M2 Pro — Amazon Review Tracker",
+    page_title="Native — Ratings Tracker",
     page_icon="💧",
     layout="wide",
 )
@@ -239,8 +239,30 @@ def count_pct_combo(df, star, color):
 
 df = load_data(CSV_PATH)
 
-st.title("💧 Native M2 Pro — Amazon.in Review Tracker")
-st.caption(f"[{ASIN}]({PRODUCT_URL}) · data appended daily by the scheduled scraper · source: `{CSV_PATH.name}`")
+st.markdown(
+    f"""
+    <div style="background:#1c1c1e;border-radius:16px;padding:22px 26px;
+                display:flex;align-items:center;gap:18px;margin:4px 0 18px 0;
+                font-family:'Source Sans Pro',sans-serif;">
+      <div style="width:54px;height:54px;border-radius:14px;background:#6c4cff;
+                  display:flex;align-items:center;justify-content:center;flex:0 0 auto;">
+        <span style="color:#fff;font-size:26px;font-weight:700;">N</span>
+      </div>
+      <div>
+        <div style="color:#fff;font-size:26px;font-weight:800;line-height:1.2;">
+          Native — Ratings Tracker
+        </div>
+        <div style="color:#9b9ba3;font-size:14px;margin-top:6px;">
+          Water Purifiers · Native M2 Pro ·
+          <a href="{PRODUCT_URL}" target="_blank"
+             style="color:#9b9ba3;text-decoration:underline;">Amazon.in</a>
+          · ratings updated daily
+        </div>
+      </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 if df.empty:
     st.warning(
