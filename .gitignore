@@ -3,8 +3,10 @@
 __pycache__/
 *.pyc
 
-# Local logs
+# Local logs / scraper runtime artifacts
 streamlit.log
+scrape_cron.log
+scrape_debug.png
 
 # Claude session data
 .claude/
