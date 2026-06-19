@@ -67,6 +67,71 @@ def line_chart(df, y_col, title, y_title, color, is_pct=False):
     return chart
 
 
+def avg_rating_chart(df):
+    """Line chart of average stars with a decimal axis + value labels so 4.4 reads as 4.4."""
+    lo = max(0.0, float(df["avg_stars"].min()) - 0.3)
+    hi = min(5.0, float(df["avg_stars"].max()) + 0.3)
+    base = alt.Chart(df).encode(
+        x=alt.X("date:T", title="Date"),
+        y=alt.Y(
+            "avg_stars:Q",
+            title="Avg stars",
+            scale=alt.Scale(domain=[lo, hi]),
+            axis=alt.Axis(format=".1f"),
+        ),
+    )
+    line = base.mark_line(point=True, color="#3366cc", strokeWidth=2.5).encode(
+        tooltip=[
+            alt.Tooltip("date:T", title="Date"),
+            alt.Tooltip("avg_stars:Q", title="Avg stars", format=".2f"),
+        ]
+    )
+    labels = base.mark_text(dy=-12, color="#3366cc", fontWeight="bold").encode(
+        text=alt.Text("avg_stars:Q", format=".1f")
+    )
+    return (line + labels).properties(height=300, title="Average rating (★)")
+
+
+def stacked_ratings_chart(df):
+    """Stacked bar of total ratings split into 5/4/3/2/1-star counts per day."""
+    star_cols = {
+        "count_5": "5",
+        "count_4": "4",
+        "count_3": "3",
+        "count_2": "2",
+        "count_1": "1",
+    }
+    long = df.melt(
+        id_vars=["date"],
+        value_vars=list(star_cols.keys()),
+        var_name="star_col",
+        value_name="count",
+    )
+    long["star"] = long["star_col"].map(star_cols)
+    order = ["5", "4", "3", "2", "1"]
+    return (
+        alt.Chart(long)
+        .mark_bar()
+        .encode(
+            x=alt.X("date:T", title="Date"),
+            y=alt.Y("count:Q", title="# ratings", stack=True),
+            color=alt.Color(
+                "star:N",
+                title="Star",
+                scale=alt.Scale(domain=order, range=[STAR_COLORS[s] for s in order]),
+                sort=order,
+            ),
+            order=alt.Order("star:N", sort="descending"),
+            tooltip=[
+                alt.Tooltip("date:T", title="Date"),
+                alt.Tooltip("star:N", title="Star"),
+                alt.Tooltip("count:Q", title="# ratings", format=",.0f"),
+            ],
+        )
+        .properties(height=300, title="Total ratings (by star)")
+    )
+
+
 df = load_data(CSV_PATH)
 
 st.title("💧 Native M2 Pro — Amazon.in Review Tracker")
@@ -103,15 +168,9 @@ st.divider()
 st.subheader("1 · Daily average rating & total number of ratings")
 g1, g2 = st.columns(2)
 with g1:
-    st.altair_chart(
-        line_chart(df, "avg_stars", "Average rating (★)", "Avg stars", "#3366cc"),
-        use_container_width=True,
-    )
+    st.altair_chart(avg_rating_chart(df), use_container_width=True)
 with g2:
-    st.altair_chart(
-        line_chart(df, "total_ratings", "Total ratings", "# ratings", "#9933cc"),
-        use_container_width=True,
-    )
+    st.altair_chart(stacked_ratings_chart(df), use_container_width=True)
 
 st.divider()
 
