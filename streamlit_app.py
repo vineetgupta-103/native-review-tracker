@@ -48,52 +48,9 @@ def load_data(path: Path) -> pd.DataFrame:
     return df
 
 
-def line_chart(df, y_col, title, y_title, color, is_pct=False):
-    fmt = ".1f" if is_pct else ",.0f"
-    enc_y = alt.Y(f"{y_col}:Q", title=y_title, scale=alt.Scale(zero=False))
-    chart = (
-        alt.Chart(df)
-        .mark_line(point=True, color=color, strokeWidth=2.5)
-        .encode(
-            x=alt.X("date:T", title="Date"),
-            y=enc_y,
-            tooltip=[
-                alt.Tooltip("date:T", title="Date"),
-                alt.Tooltip(f"{y_col}:Q", title=y_title, format=fmt),
-            ],
-        )
-        .properties(height=300, title=title)
-    )
-    return chart
-
-
-def avg_rating_chart(df):
-    """Line chart of average stars with a decimal axis + value labels so 4.4 reads as 4.4."""
-    lo = max(0.0, float(df["avg_stars"].min()) - 0.3)
-    hi = min(5.0, float(df["avg_stars"].max()) + 0.3)
-    base = alt.Chart(df).encode(
-        x=alt.X("date:T", title="Date"),
-        y=alt.Y(
-            "avg_stars:Q",
-            title="Avg stars",
-            scale=alt.Scale(domain=[lo, hi]),
-            axis=alt.Axis(format=".1f"),
-        ),
-    )
-    line = base.mark_line(point=True, color="#3366cc", strokeWidth=2.5).encode(
-        tooltip=[
-            alt.Tooltip("date:T", title="Date"),
-            alt.Tooltip("avg_stars:Q", title="Avg stars", format=".2f"),
-        ]
-    )
-    labels = base.mark_text(dy=-12, color="#3366cc", fontWeight="bold").encode(
-        text=alt.Text("avg_stars:Q", format=".1f")
-    )
-    return (line + labels).properties(height=300, title="Average rating (★)")
-
-
-def stacked_ratings_chart(df):
-    """Stacked bar of total ratings split into 5/4/3/2/1-star counts per day."""
+def overview_combo_chart(df):
+    """Single dual-axis chart: total ratings as a stacked-by-star bar (left axis)
+    + average rating as a line with value labels (right axis)."""
     star_cols = {
         "count_5": "5",
         "count_4": "4",
@@ -109,7 +66,8 @@ def stacked_ratings_chart(df):
     )
     long["star"] = long["star_col"].map(star_cols)
     order = ["5", "4", "3", "2", "1"]
-    return (
+
+    bars = (
         alt.Chart(long)
         .mark_bar()
         .encode(
@@ -128,7 +86,73 @@ def stacked_ratings_chart(df):
                 alt.Tooltip("count:Q", title="# ratings", format=",.0f"),
             ],
         )
-        .properties(height=300, title="Total ratings (by star)")
+    )
+
+    lo = max(0.0, float(df["avg_stars"].min()) - 0.3)
+    hi = min(5.0, float(df["avg_stars"].max()) + 0.3)
+    avg_base = alt.Chart(df).encode(
+        x=alt.X("date:T", title="Date"),
+        y=alt.Y(
+            "avg_stars:Q",
+            title="Avg stars",
+            scale=alt.Scale(domain=[lo, hi]),
+            axis=alt.Axis(orient="right", format=".1f", titleColor="#111"),
+        ),
+    )
+    line = avg_base.mark_line(point=True, color="#111", strokeWidth=2.5).encode(
+        tooltip=[
+            alt.Tooltip("date:T", title="Date"),
+            alt.Tooltip("avg_stars:Q", title="Avg stars", format=".2f"),
+        ]
+    )
+    labels = avg_base.mark_text(dy=-12, color="#111", fontWeight="bold").encode(
+        text=alt.Text("avg_stars:Q", format=".1f")
+    )
+
+    return (
+        alt.layer(bars, alt.layer(line, labels))
+        .resolve_scale(y="independent")
+        .properties(height=360, title="Total ratings (stacked by star) + average rating ★")
+    )
+
+
+def count_pct_combo(df, star, color):
+    """Single dual-axis chart for one star level: absolute count as bars (left axis)
+    + share of total as a line (right axis)."""
+    cnt, pct = f"count_{star}", f"pct_{star}"
+    bars = (
+        alt.Chart(df)
+        .mark_bar(color=color, opacity=0.75)
+        .encode(
+            x=alt.X("date:T", title="Date"),
+            y=alt.Y(f"{cnt}:Q", title=f"# {star}★ ratings (abs)"),
+            tooltip=[
+                alt.Tooltip("date:T", title="Date"),
+                alt.Tooltip(f"{cnt}:Q", title=f"# {star}★", format=",.0f"),
+            ],
+        )
+    )
+    line = (
+        alt.Chart(df)
+        .mark_line(point=True, color="#111", strokeWidth=2.5)
+        .encode(
+            x=alt.X("date:T", title="Date"),
+            y=alt.Y(
+                f"{pct}:Q",
+                title=f"% {star}★ of total",
+                scale=alt.Scale(zero=False),
+                axis=alt.Axis(orient="right", format=".1f", titleColor="#111"),
+            ),
+            tooltip=[
+                alt.Tooltip("date:T", title="Date"),
+                alt.Tooltip(f"{pct}:Q", title=f"% {star}★", format=".1f"),
+            ],
+        )
+    )
+    return (
+        alt.layer(bars, line)
+        .resolve_scale(y="independent")
+        .properties(height=320, title=f"{star}★ — count (bars) & % of total (line)")
     )
 
 
@@ -164,31 +188,16 @@ c4.metric("Latest date", latest["date"].strftime("%d %b %Y"))
 
 st.divider()
 
-# ---- Chart 1: avg rating + total ratings ----
-st.subheader("1 · Daily average rating & total number of ratings")
-g1, g2 = st.columns(2)
-with g1:
-    st.altair_chart(avg_rating_chart(df), use_container_width=True)
-with g2:
-    st.altair_chart(stacked_ratings_chart(df), use_container_width=True)
+# ---- Chart 1: total ratings (stacked by star) + avg rating, one dual-axis chart ----
+st.subheader("1 · Total ratings by star & average rating")
+st.altair_chart(overview_combo_chart(df), use_container_width=True)
 
 st.divider()
 
-# ---- Charts 2-6: per-star absolute + % ----
+# ---- Charts 2-6: per-star count (bars) + % of total (line), one dual-axis chart each ----
 for star in ["5", "4", "3", "2", "1"]:
-    st.subheader(f"{6 - int(star)} · {star}-star ratings — absolute & % of total")
-    color = STAR_COLORS[star]
-    a, b = st.columns(2)
-    with a:
-        st.altair_chart(
-            line_chart(df, f"count_{star}", f"# of {star}★ ratings (absolute)", "Count", color),
-            use_container_width=True,
-        )
-    with b:
-        st.altair_chart(
-            line_chart(df, f"pct_{star}", f"{star}★ as % of total", "% of total", color, is_pct=True),
-            use_container_width=True,
-        )
+    st.subheader(f"{6 - int(star)} · {star}-star ratings — count & % of total")
+    st.altair_chart(count_pct_combo(df, star, STAR_COLORS[star]), use_container_width=True)
     st.divider()
 
 # ---- Raw data ----
