@@ -342,7 +342,7 @@ def _executive_summary(label, df):
     ])
     st.markdown(
         f'<div class="exec-wrap"><div class="exec-label">EXECUTIVE SUMMARY — {label.upper()}'
-        f' · {len(df)} DAYS · {latest["date"].strftime("%d %b %Y")}</div>'
+        f' · {len(df)} DAY{"" if len(df) == 1 else "S"} · {latest["date"].strftime("%d %b %Y")}</div>'
         f'<div class="exec-cards">{cards}</div></div>',
         unsafe_allow_html=True,
     )
