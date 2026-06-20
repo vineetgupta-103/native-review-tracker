@@ -25,6 +25,20 @@ PRODUCTS = [
 def csv_path(asin):
     return Path(__file__).parent / f"amazon_review_tracking_{asin}.csv"
 
+
+# Products overlaid in the "vs competitors" average-rating line chart.
+COMPARISON = [
+    {"label": "Native M2 Pro", "asin": "B0G4CHKBGP", "color": "#6c4cff", "native": True},
+    {"label": "Native M0", "asin": "B0FB3L3FSH", "color": "#16a34a", "native": True},
+    {"label": "Native M1", "asin": "B0D79G62J3", "color": "#0891b2", "native": True},
+    {"label": "Native M1 Pro", "asin": "B0GWQFXMTY", "color": "#db2777", "native": True},
+    {"label": "Atomberg Intellon", "asin": "B0F6CXR97M", "color": "#f59e0b", "native": False},
+    {"label": "Aquaguard Ritz", "asin": "B0DN1KJFY7", "color": "#2563eb", "native": False},
+    {"label": "Kent Grand Plus", "asin": "B07PZPN3J9", "color": "#dc2626", "native": False},
+    {"label": "Kent Supreme Plus", "asin": "B0CB8KG44H", "color": "#9333ea", "native": False},
+    {"label": "Aquaguard Delight", "asin": "B0F5PXXWM9", "color": "#0d9488", "native": False},
+]
+
 STAR_COLORS = {
     "5": "#1a9850",
     "4": "#91cf60",
@@ -331,6 +345,54 @@ def _executive_summary(label, df):
     )
 
 
+def render_comparison():
+    """Day-on-day average rating line chart: Native models vs competitors."""
+    frames = []
+    for item in COMPARISON:
+        d = load_data(csv_path(item["asin"]))
+        if d.empty:
+            continue
+        sub = d[["date", "avg_stars"]].copy()
+        sub["product"] = item["label"]
+        frames.append(sub)
+    if not frames:
+        st.warning("No comparison data yet — it builds once the daily scraper runs.")
+        return
+
+    long = pd.concat(frames, ignore_index=True)
+    order = [i["label"] for i in COMPARISON]
+    colors = [i["color"] for i in COMPARISON]
+    natives = [i["label"] for i in COMPARISON if i["native"]]
+    comps = [i["label"] for i in COMPARISON if not i["native"]]
+    lo = max(0.0, float(long["avg_stars"].min()) - 0.15)
+    hi = min(5.0, float(long["avg_stars"].max()) + 0.12)
+    zoom = alt.selection_interval(bind="scales", encodings=["x"])
+
+    base = alt.Chart(long).encode(
+        x=alt.X("date:T", title="Date"),
+        y=alt.Y("avg_stars:Q", title="Avg rating (★)", scale=alt.Scale(domain=[lo, hi])),
+        color=alt.Color("product:N", title=None, sort=order,
+                        scale=alt.Scale(domain=order, range=colors),
+                        legend=alt.Legend(orient="bottom", columns=3, symbolType="stroke")),
+        tooltip=[alt.Tooltip("date:T", title="Date"),
+                 alt.Tooltip("product:N", title="Product"),
+                 alt.Tooltip("avg_stars:Q", title="Avg rating", format=".1f")],
+    )
+    comp_line = (base.transform_filter(alt.FieldOneOfPredicate(field="product", oneOf=comps))
+                 .mark_line(strokeWidth=1.6, opacity=0.8, strokeDash=[4, 2]))
+    native_line = (base.transform_filter(alt.FieldOneOfPredicate(field="product", oneOf=natives))
+                   .mark_line(point=True, strokeWidth=3))
+    chart = (alt.layer(comp_line, native_line)
+             .add_params(zoom).properties(height=470))
+
+    with st.container(border=True, key="chartcard_comparison"):
+        _section("Average rating — Native vs competitors",
+                 "Daily Amazon average rating (Native models = solid bold, competitors = dashed). "
+                 "M2 Pro & M0 include history from Apr; M1/M1 Pro & competitors start when daily scraping begins. "
+                 "Drag the x-axis to zoom.")
+        st.altair_chart(chart, use_container_width=True)
+
+
 def render_product(label, asin, product_url):
     """Render the executive summary + chart set for one product (used inside a tab)."""
     df = load_data(csv_path(asin))
@@ -389,7 +451,9 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-tabs = st.tabs([p["label"] for p in PRODUCTS])
+tabs = st.tabs([p["label"] for p in PRODUCTS] + ["Purifiers vs Competitors"])
 for tab, p in zip(tabs, PRODUCTS):
     with tab:
         render_product(p["label"], p["asin"], p["url"])
+with tabs[-1]:
+    render_comparison()

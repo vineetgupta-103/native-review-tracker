@@ -29,6 +29,15 @@ PRODUCTS = [
      "url": "https://www.amazon.in/Native-RO-Mineraliser-Purifier-Unconditional/dp/B0FB3L3FSH/"},
     {"asin": "B0DJGYW9R9", "label": "Locks Pro",
      "url": "https://www.amazon.in/Native-UC-Doorbell-Installation-Warranty/dp/B0DJGYW9R9/"},
+    # Native (for the vs-competitors comparison)
+    {"asin": "B0D79G62J3", "label": "Native M1", "url": "https://www.amazon.in/dp/B0D79G62J3/"},
+    {"asin": "B0GWQFXMTY", "label": "Native M1 Pro", "url": "https://www.amazon.in/dp/B0GWQFXMTY/"},
+    # Competitors
+    {"asin": "B0F6CXR97M", "label": "Atomberg Intellon", "url": "https://www.amazon.in/dp/B0F6CXR97M/"},
+    {"asin": "B0DN1KJFY7", "label": "Aquaguard Ritz", "url": "https://www.amazon.in/dp/B0DN1KJFY7/"},
+    {"asin": "B07PZPN3J9", "label": "Kent Grand Plus", "url": "https://www.amazon.in/dp/B07PZPN3J9/"},
+    {"asin": "B0CB8KG44H", "label": "Kent Supreme Plus", "url": "https://www.amazon.in/dp/B0CB8KG44H/"},
+    {"asin": "B0F5PXXWM9", "label": "Aquaguard Delight", "url": "https://www.amazon.in/dp/B0F5PXXWM9/"},
 ]
 
 UA = (
