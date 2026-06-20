@@ -29,6 +29,8 @@ PRODUCTS = [
      "url": "https://www.amazon.in/Native-RO-Mineraliser-Purifier-Unconditional/dp/B0FB3L3FSH/"},
     {"asin": "B0DJGYW9R9", "label": "Locks Pro",
      "url": "https://www.amazon.in/Native-UC-Doorbell-Installation-Warranty/dp/B0DJGYW9R9/"},
+    {"asin": "B0H2MVF2L2", "label": "Locks Ultra",
+     "url": "https://www.amazon.in/Native-Lock-Ultra-Urban-Company/dp/B0H2MVF2L2/"},
     # Native (for the vs-competitors comparison)
     {"asin": "B0D79G62J3", "label": "Native M1", "url": "https://www.amazon.in/dp/B0D79G62J3/"},
     # Competitors
