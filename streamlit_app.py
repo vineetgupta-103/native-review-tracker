@@ -377,8 +377,9 @@ def render_comparison():
                  alt.Tooltip("product:N", title="Product"),
                  alt.Tooltip("avg_stars:Q", title="Avg rating", format=".1f")],
     )
+    # point=True so single-day series (competitors/M1 just started) still show as a dot.
     comp_line = (base.transform_filter(alt.FieldOneOfPredicate(field="product", oneOf=comps))
-                 .mark_line(strokeWidth=1.6, opacity=0.8, strokeDash=[4, 2]))
+                 .mark_line(point=True, strokeWidth=1.6, opacity=0.85, strokeDash=[4, 2]))
     native_line = (base.transform_filter(alt.FieldOneOfPredicate(field="product", oneOf=natives))
                    .mark_line(point=True, strokeWidth=3))
     chart = (alt.layer(comp_line, native_line)
@@ -450,7 +451,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-tabs = st.tabs([p["label"] for p in PRODUCTS] + ["Purifiers vs Competitors"])
+tabs = st.tabs([p["label"] for p in PRODUCTS] + ["Water Purifier vs Competitors"])
 for tab, p in zip(tabs, PRODUCTS):
     with tab:
         render_product(p["label"], p["asin"], p["url"])
