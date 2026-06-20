@@ -31,7 +31,6 @@ PRODUCTS = [
      "url": "https://www.amazon.in/Native-UC-Doorbell-Installation-Warranty/dp/B0DJGYW9R9/"},
     # Native (for the vs-competitors comparison)
     {"asin": "B0D79G62J3", "label": "Native M1", "url": "https://www.amazon.in/dp/B0D79G62J3/"},
-    {"asin": "B0GWQFXMTY", "label": "Native M1 Pro", "url": "https://www.amazon.in/dp/B0GWQFXMTY/"},
     # Competitors
     {"asin": "B0F6CXR97M", "label": "Atomberg Intellon", "url": "https://www.amazon.in/dp/B0F6CXR97M/"},
     {"asin": "B0DN1KJFY7", "label": "Aquaguard Ritz", "url": "https://www.amazon.in/dp/B0DN1KJFY7/"},

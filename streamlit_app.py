@@ -31,7 +31,6 @@ COMPARISON = [
     {"label": "Native M2 Pro", "asin": "B0G4CHKBGP", "color": "#6c4cff", "native": True},
     {"label": "Native M0", "asin": "B0FB3L3FSH", "color": "#16a34a", "native": True},
     {"label": "Native M1", "asin": "B0D79G62J3", "color": "#0891b2", "native": True},
-    {"label": "Native M1 Pro", "asin": "B0GWQFXMTY", "color": "#db2777", "native": True},
     {"label": "Atomberg Intellon", "asin": "B0F6CXR97M", "color": "#f59e0b", "native": False},
     {"label": "Aquaguard Ritz", "asin": "B0DN1KJFY7", "color": "#2563eb", "native": False},
     {"label": "Kent Grand Plus", "asin": "B07PZPN3J9", "color": "#dc2626", "native": False},
