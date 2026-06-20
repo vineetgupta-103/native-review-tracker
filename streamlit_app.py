@@ -53,6 +53,7 @@ LOCK_COMPETITORS = [
     {"label": "Atomberg SL 1", "brand": "Atomberg", "asin": "B0C2CS3FNJ", "color": "#2563eb"},
     {"label": "Mygate Plus", "brand": "Mygate", "asin": "B0DCBMB7Q2", "color": "#9333ea"},
     {"label": "Godrej Catus Advantage", "brand": "Godrej", "asin": "B0FGQ65W9G", "color": "#d97706"},
+    {"label": "Godrej Neo Pro View", "brand": "Godrej", "asin": "B0G34MC2B9", "color": "#0d9488"},
     {"label": "Atomberg Cypheo Elite", "brand": "Atomberg", "asin": "B0GMXB2XJ5", "color": "#dc2626"},
 ]
 LOCK_COMPARISON = [

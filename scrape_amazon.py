@@ -46,6 +46,7 @@ PRODUCTS = [
     {"asin": "B0C2CS3FNJ", "label": "Atomberg SL 1", "url": "https://www.amazon.in/dp/B0C2CS3FNJ/"},
     {"asin": "B0DCBMB7Q2", "label": "Mygate Plus", "url": "https://www.amazon.in/dp/B0DCBMB7Q2/"},
     {"asin": "B0FGQ65W9G", "label": "Godrej Catus Advantage", "url": "https://www.amazon.in/dp/B0FGQ65W9G/"},
+    {"asin": "B0G34MC2B9", "label": "Godrej Neo Pro View", "url": "https://www.amazon.in/dp/B0G34MC2B9/"},
     {"asin": "B0GMXB2XJ5", "label": "Atomberg Cypheo Elite", "url": "https://www.amazon.in/dp/B0GMXB2XJ5/"},
 ]
 
