@@ -534,6 +534,10 @@ def _render_amazon_voice(asin):
                     f'{html.escape(r.get("author") or "")}</div>'
                     f'<div class="rev-body">{html.escape(r.get("body") or "")}</div></div>'
                 )
+            blocks += (
+                f'<a class="cc-link" href="https://www.amazon.in/product-reviews/{asin}/?sortBy=recent"'
+                f' target="_blank">See all reviews on Amazon ↗</a>'
+            )
             st.markdown(blocks, unsafe_allow_html=True)
 
 
