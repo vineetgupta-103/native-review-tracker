@@ -13,6 +13,7 @@ Exit codes: 0 = at least one product updated/confirmed, 1 = all scrapes failed.
 """
 import csv
 import datetime
+import json
 import re
 import subprocess
 import sys
@@ -89,6 +90,70 @@ def parse_reviews(text):
     return avg, total, pct
 
 
+JS_REVIEWS = """() => {
+  const out = [];
+  document.querySelectorAll('div[data-hook="review"]').forEach(r => {
+    const author = (r.querySelector('.a-profile-name') || {}).textContent || '';
+    const rating = (r.querySelector('[data-hook="review-star-rating"] .a-icon-alt, [data-hook="cmps-review-star-rating"] .a-icon-alt') || {}).textContent || '';
+    const tEl = r.querySelector('[data-hook="reviewTitle"], [data-hook="review-title"]');
+    let title = tEl ? (tEl.innerText || tEl.textContent || '') : '';
+    title = title.split('\\n').map(s => s.trim())
+      .filter(s => s && !/out of 5 stars/i.test(s)).join(' ');
+    const date = (r.querySelector('[data-hook="review-date"]') || {}).textContent || '';
+    const bEl = r.querySelector('[data-hook="reviewText"], [data-hook="review-body"]');
+    const body = bEl ? (bEl.innerText || bEl.textContent || '') : '';
+    out.push({author: author.trim(), rating: rating.trim(), title: title.trim(),
+              date: date.trim(), body: body.replace(/\\s+/g,' ').trim().slice(0, 600)});
+  });
+  return out;
+}"""
+
+
+def _parse_review_date(txt):
+    m = re.search(r"on (\d{1,2} \w+ \d{4})", txt)
+    if not m:
+        return None
+    try:
+        return datetime.datetime.strptime(m.group(1), "%d %B %Y").date()
+    except ValueError:
+        return None
+
+
+def extract_extras(page, text):
+    """The 'Customers say' AI summary, aspect chips, and 5 most recent reviews."""
+    cs = re.search(r"Customers say\s+(.*?)\s+(?:AI )?Generated from the text", text, re.S)
+    customers_say = re.sub(r"\s+", " ", cs.group(1)).strip() if cs else ""
+
+    aspects = []
+    reg = re.search(r"Select to learn more(.*?)(?:Top reviews|Reviews with images|"
+                    r"Products related|Customers who|See more|How are ratings)", text, re.S)
+    if reg:
+        for m in re.finditer(r"([A-Za-z][A-Za-z &]+?)\s*\((\d[\d.,KkMm]*)\)", reg.group(1)):
+            aspects.append({"name": m.group(1).strip(), "count": m.group(2)})
+
+    reviews = []
+    try:
+        for r in page.evaluate(JS_REVIEWS):
+            d = _parse_review_date(r.get("date", ""))
+            rm = re.search(r"([0-9.]+)\s*out of", r.get("rating", ""))
+            reviews.append({
+                "author": r.get("author", ""),
+                "rating": float(rm.group(1)) if rm else None,
+                "title": r.get("title", ""),
+                "date": d.isoformat() if d else "",
+                "date_label": re.sub(r"^Reviewed in .*? on ", "", r.get("date", "")),
+                "body": r.get("body", ""),
+                "_o": d.toordinal() if d else 0,
+            })
+    except Exception as e:  # noqa: BLE001
+        log(f"review extract error: {e}")
+    reviews.sort(key=lambda x: x["_o"], reverse=True)
+    top = reviews[:5]
+    for r in top:
+        r.pop("_o", None)
+    return {"customers_say": customers_say, "aspects": aspects[:10], "reviews": top}
+
+
 def scrape_one(page, product):
     url, label = product["url"], product["label"]
     for attempt in (1, 2):
@@ -100,9 +165,12 @@ def scrape_one(page, product):
                 " && /ratings/.test(document.body.innerText)",
                 timeout=30000,
             )
-            parsed = parse_reviews(page.inner_text("body"))
+            text = page.inner_text("body")
+            parsed = parse_reviews(text)
             if parsed:
-                return parsed
+                avg, total, pct = parsed
+                return {"avg": avg, "total": total, "pct": pct,
+                        "extras": extract_extras(page, text)}
             log(f"[{label}] Could not parse review block; retrying…")
         except Exception as e:  # noqa: BLE001
             log(f"[{label}] Attempt {attempt} error: {e}")
@@ -152,14 +220,23 @@ def upsert_csv(asin, label, avg, total, pct):
     log(f"[{label}] Wrote row for {today}: total={total}, avg={avg}, 5★={pct['5']}%")
 
 
-def git_push(today, changed):
+def summary_path(asin):
+    return PROJECT / f"amazon_summary_{asin}.json"
+
+
+def write_summary(asin, extras, today):
+    data = {"scraped": today, **extras}
+    summary_path(asin).write_text(json.dumps(data, ensure_ascii=False, indent=2))
+
+
+def git_push(today, files):
     def run(*args):
         return subprocess.run(["git", "-C", str(PROJECT), *args],
                               capture_output=True, text=True)
-    for asin in changed:
-        run("add", csv_path(asin).name)
+    for f in files:
+        run("add", f)
     if run("diff", "--cached", "--quiet").returncode == 0:
-        log("No CSV change to commit.")
+        log("No change to commit.")
         return
     run("-c", "user.name=Native Tracker",
         "-c", "user.email=vineetgupta@urbancompany.com",
@@ -173,19 +250,20 @@ def main():
     log("=== scrape run start ===")
     results = scrape_all()
     today = datetime.date.today().isoformat()
-    changed = []
+    files = []
     for product in PRODUCTS:
-        parsed = results.get(product["asin"])
-        if not parsed:
-            log(f"[{product['label']}] SCRAPE FAILED — CSV left unchanged.")
+        res = results.get(product["asin"])
+        if not res:
+            log(f"[{product['label']}] SCRAPE FAILED — left unchanged.")
             continue
-        avg, total, pct = parsed
-        upsert_csv(product["asin"], product["label"], avg, total, pct)
-        changed.append(product["asin"])
-    if not changed:
+        upsert_csv(product["asin"], product["label"], res["avg"], res["total"], res["pct"])
+        write_summary(product["asin"], res["extras"], today)
+        files.append(csv_path(product["asin"]).name)
+        files.append(summary_path(product["asin"]).name)
+    if not files:
         log("All scrapes failed.")
         sys.exit(1)
-    git_push(today, changed)
+    git_push(today, files)
     log("=== scrape run done ===")
 
 

@@ -5,6 +5,8 @@ Reads amazon_review_tracking_B0G4CHKBGP.csv (one row per day, appended by the
 scheduled scraper) and renders day-on-day charts of the rating distribution.
 """
 
+import html
+import json
 import os
 from pathlib import Path
 
@@ -28,6 +30,18 @@ PRODUCTS = [
 
 def csv_path(asin):
     return Path(__file__).parent / f"amazon_review_tracking_{asin}.csv"
+
+
+@st.cache_data(ttl=60)
+def load_summary(asin):
+    """Per-product 'Customers say' summary, aspect chips and recent reviews."""
+    path = Path(__file__).parent / f"amazon_summary_{asin}.json"
+    if not path.exists():
+        return None
+    try:
+        return json.loads(path.read_text())
+    except Exception:
+        return None
 
 
 # --- Water purifiers: comparison line + competitor cards ---
@@ -132,6 +146,22 @@ st.markdown(
       .cc-pct { font-size:11px; color:#6b6b76; width:36px; text-align:right; }
       .cc-link { display:inline-block; margin-top:12px; font-size:12px; font-weight:600;
         color:#ff7a1a; text-decoration:none; }
+
+      /* Customers-say summary + aspect chips */
+      .cs-text { font-size:14px; color:#33333a; line-height:1.6; }
+      .aspect-wrap { display:flex; flex-wrap:wrap; gap:8px; margin-top:14px; }
+      .aspect-chip { font-size:12px; color:#0a7d33; background:#eef7f0; border:1px solid #d6ebdc;
+        border-radius:16px; padding:4px 11px; }
+      .aspect-chip b { font-weight:700; }
+      .cs-credit { font-size:11px; color:#9b9ba3; margin-top:10px; }
+
+      /* Recent reviews */
+      .rev { padding:13px 0; border-top:1px solid #f0f0f3; }
+      .rev:first-child { border-top:none; }
+      .rev-stars { color:#f5a623; font-size:13px; letter-spacing:1px; }
+      .rev-title { font-weight:700; font-size:14px; color:#1c1c1e; margin-left:6px; }
+      .rev-meta { font-size:12px; color:#8a8a95; margin:3px 0 6px; }
+      .rev-body { font-size:13px; color:#44444c; line-height:1.55; }
     </style>
     """,
     unsafe_allow_html=True,
@@ -469,6 +499,44 @@ def render_versus(comparison, competitors, key):
     _competitor_cards(competitors)
 
 
+def _render_amazon_voice(asin):
+    """Bottom-of-tab: Amazon 'Customers say' summary + chips, and 5 recent reviews."""
+    s = load_summary(asin)
+    if not s:
+        return
+
+    if s.get("customers_say") or s.get("aspects"):
+        with st.container(border=True, key=f"saycard_{asin}"):
+            _section("Customers say", "Amazon's AI-generated summary of customer reviews")
+            if s.get("customers_say"):
+                st.markdown(f'<div class="cs-text">{html.escape(s["customers_say"])}</div>',
+                            unsafe_allow_html=True)
+            if s.get("aspects"):
+                chips = "".join(
+                    f'<span class="aspect-chip">{html.escape(a["name"])} <b>({a["count"]})</b></span>'
+                    for a in s["aspects"])
+                st.markdown(f'<div class="aspect-wrap">{chips}</div>', unsafe_allow_html=True)
+            st.markdown('<div class="cs-credit">Generated from the text of customer reviews · '
+                        'refreshed daily</div>', unsafe_allow_html=True)
+
+    revs = s.get("reviews") or []
+    if revs:
+        with st.container(border=True, key=f"revcard_{asin}"):
+            _section("Recent reviews", "5 most recent reviews on Amazon (refreshed daily)")
+            blocks = ""
+            for r in revs:
+                full = int(round(r.get("rating") or 0))
+                stars = "★" * full + "☆" * (5 - full)
+                blocks += (
+                    f'<div class="rev"><div><span class="rev-stars">{stars}</span>'
+                    f'<span class="rev-title">{html.escape(r.get("title") or "")}</span></div>'
+                    f'<div class="rev-meta">{html.escape(r.get("date_label") or "")} · '
+                    f'{html.escape(r.get("author") or "")}</div>'
+                    f'<div class="rev-body">{html.escape(r.get("body") or "")}</div></div>'
+                )
+            st.markdown(blocks, unsafe_allow_html=True)
+
+
 def render_product(label, asin, product_url):
     """Render the executive summary + chart set for one product (used inside a tab)."""
     df = load_data(csv_path(asin))
@@ -498,6 +566,8 @@ def render_product(label, asin, product_url):
         st.download_button("Download CSV", data=out.to_csv(index=False),
                            file_name=csv_path(asin).name, mime="text/csv", key=f"dl_{asin}")
         st.caption(f"[View {label} on Amazon.in]({product_url})")
+
+    _render_amazon_voice(asin)
 
 
 st.markdown(
