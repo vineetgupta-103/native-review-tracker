@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find this water purifier to be a best-in-class product with good taste and immediate installation, considering it excellent value for money. However, the functionality receives mixed feedback, with some saying it works well while others report it stops working. Moreover, durability and leakage are significant concerns, with customers reporting damage within three months and water leakage issues. Additionally, the water wastage feature receives mixed reviews, with customers questioning its effectiveness.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "166"
+    },
+    {
+      "name": "Value for money",
+      "count": "56"
+    },
+    {
+      "name": "Installation",
+      "count": "40"
+    },
+    {
+      "name": "Water taste",
+      "count": "22"
+    },
+    {
+      "name": "Functionality",
+      "count": "42"
+    },
+    {
+      "name": "Water wastage",
+      "count": "24"
+    },
+    {
+      "name": "Durability",
+      "count": "17"
+    },
+    {
+      "name": "Leakage",
+      "count": "10"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-18",
+      "date_label": "18 June 2026",
+      "body": ""
+    },
+    {
+      "author": "sachithkr",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-02",
+      "date_label": "2 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 1.0,
+      "title": "",
+      "date": "2026-05-21",
+      "date_label": "21 May 2026",
+      "body": ""
+    },
+    {
+      "author": "REDDY MAHENDRA REDDY",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-10",
+      "date_label": "10 May 2026",
+      "body": ""
+    },
+    {
+      "author": "ALOK KUMAR VERMA",
+      "rating": 4.0,
+      "title": "",
+      "date": "2026-05-07",
+      "date_label": "7 May 2026",
+      "body": ""
+    }
+  ]
+}

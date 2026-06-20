@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find the digital lock to be feature-rich with multiple unlocking options and appreciate its functionality, with one mentioning it works well on wooden doors. The installation and service receive positive feedback, and customers value its security and ease of use, with one noting it's easy for different family members to use. The value for money receives mixed reviews, with several customers finding it overpriced.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "69"
+    },
+    {
+      "name": "Installation",
+      "count": "35"
+    },
+    {
+      "name": "Installation service",
+      "count": "13"
+    },
+    {
+      "name": "Ease of use",
+      "count": "11"
+    },
+    {
+      "name": "Functionality",
+      "count": "11"
+    },
+    {
+      "name": "Security",
+      "count": "11"
+    },
+    {
+      "name": "Features",
+      "count": "10"
+    },
+    {
+      "name": "Value for money",
+      "count": "11"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Anusha murari",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-15",
+      "date_label": "15 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Garima",
+      "rating": 1.0,
+      "title": "",
+      "date": "2026-06-09",
+      "date_label": "9 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Rakesh Roshan Koul",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-03",
+      "date_label": "3 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Sushmita Sarma",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-30",
+      "date_label": "30 May 2026",
+      "body": ""
+    },
+    {
+      "author": "Rashmi",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-22",
+      "date_label": "22 May 2026",
+      "body": ""
+    }
+  ]
+}

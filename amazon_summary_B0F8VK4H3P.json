@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find the smart door lock to be of excellent quality, with solid build construction and an attractive appearance that looks great on doors. The installation process is well-executed, and customers appreciate its ease of use, particularly as a main door security solution. Moreover, they like its features, with one customer highlighting its multiple access options, and consider it good value for money. However, functionality receives mixed reviews, with some customers reporting issues with the fingerprint scanner stopping unexpectedly.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "64"
+    },
+    {
+      "name": "Installation",
+      "count": "36"
+    },
+    {
+      "name": "Appearance",
+      "count": "25"
+    },
+    {
+      "name": "Ease of use",
+      "count": "16"
+    },
+    {
+      "name": "Features",
+      "count": "15"
+    },
+    {
+      "name": "Value for money",
+      "count": "15"
+    },
+    {
+      "name": "Build quality",
+      "count": "13"
+    },
+    {
+      "name": "Functionality",
+      "count": "43"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Rajeshwari",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-17",
+      "date_label": "17 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Biju Thomas",
+      "rating": 1.0,
+      "title": "",
+      "date": "2026-04-15",
+      "date_label": "15 April 2026",
+      "body": ""
+    },
+    {
+      "author": "ATISH DHAWARE",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-03-02",
+      "date_label": "2 March 2026",
+      "body": ""
+    },
+    {
+      "author": "Hemlata Thakre",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-01-06",
+      "date_label": "6 January 2026",
+      "body": ""
+    },
+    {
+      "author": "Manik",
+      "rating": 1.0,
+      "title": "",
+      "date": "2025-09-20",
+      "date_label": "20 September 2025",
+      "body": ""
+    }
+  ]
+}

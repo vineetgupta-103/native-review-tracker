@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its installation process, taste, and water quality. However, the reliability and durability receive mixed reviews - while some say it works well, others report it stops working completely, and while some praise the service, others complain about poor service. Moreover, opinions on value for money are divided, with some considering it a good value while others find it expensive. Additionally, durability is a concern, with customers reporting damage to the machine within two months of use.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "1.8K"
+    },
+    {
+      "name": "Installation",
+      "count": "670"
+    },
+    {
+      "name": "Taste",
+      "count": "217"
+    },
+    {
+      "name": "Water quality",
+      "count": "152"
+    },
+    {
+      "name": "Reliability",
+      "count": "473"
+    },
+    {
+      "name": "Value for money",
+      "count": "445"
+    },
+    {
+      "name": "Service",
+      "count": "161"
+    },
+    {
+      "name": "Durability",
+      "count": "149"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Sumit Kumar Rout",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-17",
+      "date_label": "17 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Pushpa",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-16",
+      "date_label": "16 June 2026",
+      "body": ""
+    },
+    {
+      "author": "manasa",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-16",
+      "date_label": "16 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Sunil Patel",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-15",
+      "date_label": "15 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Abeeb Rahiman Mohamed",
+      "rating": 4.0,
+      "title": "",
+      "date": "2026-06-10",
+      "date_label": "10 June 2026",
+      "body": ""
+    }
+  ]
+}

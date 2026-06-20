@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find this water purifier to be of good quality and appreciate its appearance, with one noting its modern touch panel with LED indicators. The product is easy to use, with one customer highlighting its convenience for elderly people, and customers find it saves money in the long run. They like the smart features, with one mentioning the preset dispensing modes, and the water tastes good. While the purifier performs well initially, some customers report it stops working when there's no power.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "409"
+    },
+    {
+      "name": "Installation",
+      "count": "105"
+    },
+    {
+      "name": "Value for money",
+      "count": "82"
+    },
+    {
+      "name": "Water taste",
+      "count": "54"
+    },
+    {
+      "name": "Ease of use",
+      "count": "43"
+    },
+    {
+      "name": "Appearance",
+      "count": "42"
+    },
+    {
+      "name": "Features",
+      "count": "38"
+    },
+    {
+      "name": "Reliability",
+      "count": "95"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Sushil Sakhuja",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-10",
+      "date_label": "10 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Manoj Joshi",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-09",
+      "date_label": "9 June 2026",
+      "body": ""
+    },
+    {
+      "author": "bondili mahender singh",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-04",
+      "date_label": "4 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Woxell",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-31",
+      "date_label": "31 May 2026",
+      "body": ""
+    },
+    {
+      "author": "Gen reviews",
+      "rating": 4.0,
+      "title": "",
+      "date": "2026-05-30",
+      "date_label": "30 May 2026",
+      "body": ""
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find this water purifier impressive, with features including TDS control, multiple taste adjustment options, and a user-friendly mobile application. They appreciate its appearance, particularly the LED light that gives it a modern look, and consider it good value for money, with one customer noting it will pay off in three years. Installation is free, and customers find the purifier easy to use. However, reliability receives mixed feedback, with some reporting it stops working.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "524"
+    },
+    {
+      "name": "Installation",
+      "count": "247"
+    },
+    {
+      "name": "Value for money",
+      "count": "96"
+    },
+    {
+      "name": "Water taste",
+      "count": "72"
+    },
+    {
+      "name": "Appearance",
+      "count": "70"
+    },
+    {
+      "name": "Features",
+      "count": "57"
+    },
+    {
+      "name": "Ease of use",
+      "count": "54"
+    },
+    {
+      "name": "Reliability",
+      "count": "148"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Gopal U",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-18",
+      "date_label": "18 May 2026",
+      "body": ""
+    },
+    {
+      "author": "Riyaz ahmad",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-13",
+      "date_label": "13 May 2026",
+      "body": ""
+    },
+    {
+      "author": "Ritwik",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-13",
+      "date_label": "13 May 2026",
+      "body": ""
+    },
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-04-06",
+      "date_label": "6 April 2026",
+      "body": ""
+    },
+    {
+      "author": "Piyush",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-04-03",
+      "date_label": "3 April 2026",
+      "body": ""
+    }
+  ]
+}

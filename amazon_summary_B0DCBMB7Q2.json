@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find the smart door lock to be of excellent quality, with one noting it has no flaws at all. Moreover, the installation receives positive feedback, with one customer highlighting the excellent job with the GATE app installation. Additionally, the functionality works as expected with all notifications as described, and customers appreciate its ease of use, with one mentioning it's suitable for all age groups. The lock offers multiple access methods and advanced security features, setting a new standard for modern home safety. Customers also praise its appearance and consider it an absolute value for money.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "158"
+    },
+    {
+      "name": "Installation",
+      "count": "96"
+    },
+    {
+      "name": "Functionality",
+      "count": "63"
+    },
+    {
+      "name": "Ease of use",
+      "count": "42"
+    },
+    {
+      "name": "Features",
+      "count": "34"
+    },
+    {
+      "name": "Security",
+      "count": "24"
+    },
+    {
+      "name": "Value for money",
+      "count": "21"
+    },
+    {
+      "name": "Appearance",
+      "count": "17"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Nitish",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-08",
+      "date_label": "8 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Ash",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-26",
+      "date_label": "26 May 2026",
+      "body": ""
+    },
+    {
+      "author": "kanav",
+      "rating": 1.0,
+      "title": "",
+      "date": "2026-05-18",
+      "date_label": "18 May 2026",
+      "body": ""
+    },
+    {
+      "author": "Dileep Viswanathan",
+      "rating": 4.0,
+      "title": "",
+      "date": "2026-05-02",
+      "date_label": "2 May 2026",
+      "body": ""
+    },
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-02-17",
+      "date_label": "17 February 2026",
+      "body": ""
+    }
+  ]
+}

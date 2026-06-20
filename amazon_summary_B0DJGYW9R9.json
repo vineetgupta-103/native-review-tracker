@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find this smart lock to be of excellent quality, with professional installation and reliable performance. They appreciate its sleek appearance, ease of use with good app interface, and consider it a great value. They like the features, with one customer highlighting the multiple access options for self and family, and another mentioning the password masking functionality.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "108"
+    },
+    {
+      "name": "Installation",
+      "count": "63"
+    },
+    {
+      "name": "Reliability",
+      "count": "37"
+    },
+    {
+      "name": "Appearance",
+      "count": "22"
+    },
+    {
+      "name": "Service",
+      "count": "17"
+    },
+    {
+      "name": "Ease of use",
+      "count": "15"
+    },
+    {
+      "name": "Value for money",
+      "count": "15"
+    },
+    {
+      "name": "Features",
+      "count": "14"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-08",
+      "date_label": "8 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Eldhose George",
+      "rating": 4.0,
+      "title": "",
+      "date": "2026-06-08",
+      "date_label": "8 June 2026",
+      "body": ""
+    },
+    {
+      "author": "chandran",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-07",
+      "date_label": "7 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Arun s.",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-07",
+      "date_label": "7 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Niranjan Reddy Nare",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-07",
+      "date_label": "7 June 2026",
+      "body": ""
+    }
+  ]
+}

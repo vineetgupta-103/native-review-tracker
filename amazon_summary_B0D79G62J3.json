@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find this water purifier to be the best in the market, with excellent installation and value for money, particularly noting the transparent pricing. Moreover, the machine works superbly, and customers appreciate its premium appearance and sweet-tasting water. Additionally, the service receives positive feedback, with one customer highlighting its quick response time.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "1.5K"
+    },
+    {
+      "name": "Installation",
+      "count": "389"
+    },
+    {
+      "name": "Value for money",
+      "count": "273"
+    },
+    {
+      "name": "Reliability",
+      "count": "247"
+    },
+    {
+      "name": "Appearance",
+      "count": "203"
+    },
+    {
+      "name": "Water taste",
+      "count": "185"
+    },
+    {
+      "name": "Water quality",
+      "count": "177"
+    },
+    {
+      "name": "Service",
+      "count": "144"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Sudhir Dhadge",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-16",
+      "date_label": "16 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Nandan Kumar",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-15",
+      "date_label": "15 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Margi Buch",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-13",
+      "date_label": "13 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Sweta",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-05",
+      "date_label": "5 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Raizada vageesh",
+      "rating": 4.0,
+      "title": "",
+      "date": "2026-05-30",
+      "date_label": "30 May 2026",
+      "body": ""
+    }
+  ]
+}

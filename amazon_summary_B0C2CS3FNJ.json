@@ -1,0 +1,80 @@
+{
+  "scraped": "2026-06-20",
+  "customers_say": "Customers find this smart lock to be a feature-rich device with strong security and a beautiful appearance. They appreciate its functionality, with one customer noting flawless real-time alerts, and its ease of use with multiple unlock options. Customers consider it good value for money and praise its installation process, with one mentioning seamless integration through the app.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "63"
+    },
+    {
+      "name": "Installation",
+      "count": "47"
+    },
+    {
+      "name": "Functionality",
+      "count": "26"
+    },
+    {
+      "name": "Ease of use",
+      "count": "23"
+    },
+    {
+      "name": "Features",
+      "count": "13"
+    },
+    {
+      "name": "Appearance",
+      "count": "12"
+    },
+    {
+      "name": "Security",
+      "count": "12"
+    },
+    {
+      "name": "Value for money",
+      "count": "11"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Manish",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-14",
+      "date_label": "14 June 2026",
+      "body": ""
+    },
+    {
+      "author": "LSR Subbarao",
+      "rating": 1.0,
+      "title": "",
+      "date": "2026-06-12",
+      "date_label": "12 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Ramesh Bisht",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-06-04",
+      "date_label": "4 June 2026",
+      "body": ""
+    },
+    {
+      "author": "Chirag",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-05-19",
+      "date_label": "19 May 2026",
+      "body": ""
+    },
+    {
+      "author": "Ablash",
+      "rating": 5.0,
+      "title": "",
+      "date": "2026-03-05",
+      "date_label": "5 March 2026",
+      "body": ""
+    }
+  ]
+}
