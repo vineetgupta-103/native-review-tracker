@@ -39,6 +39,14 @@ PRODUCTS = [
     {"asin": "B07PZPN3J9", "label": "Kent Grand Plus", "url": "https://www.amazon.in/dp/B07PZPN3J9/"},
     {"asin": "B0CB8KG44H", "label": "Kent Supreme Plus", "url": "https://www.amazon.in/dp/B0CB8KG44H/"},
     {"asin": "B0F5PXXWM9", "label": "Aquaguard Delight", "url": "https://www.amazon.in/dp/B0F5PXXWM9/"},
+    # Smart-lock competitors
+    {"asin": "B0F8VK4H3P", "label": "QUBO Optima", "url": "https://www.amazon.in/dp/B0F8VK4H3P/"},
+    {"asin": "B0CCV4ZW5S", "label": "Golens X32", "url": "https://www.amazon.in/dp/B0CCV4ZW5S/"},
+    {"asin": "B0CTHS9H4Z", "label": "LAVNA LA44", "url": "https://www.amazon.in/dp/B0CTHS9H4Z/"},
+    {"asin": "B0C2CS3FNJ", "label": "Atomberg SL 1", "url": "https://www.amazon.in/dp/B0C2CS3FNJ/"},
+    {"asin": "B0DCBMB7Q2", "label": "Mygate Plus", "url": "https://www.amazon.in/dp/B0DCBMB7Q2/"},
+    {"asin": "B0FGQ65W9G", "label": "Godrej Catus Advantage", "url": "https://www.amazon.in/dp/B0FGQ65W9G/"},
+    {"asin": "B0GMXB2XJ5", "label": "Atomberg Cypheo Elite", "url": "https://www.amazon.in/dp/B0GMXB2XJ5/"},
 ]
 
 UA = (

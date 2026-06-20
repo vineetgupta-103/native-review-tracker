@@ -30,17 +30,36 @@ def csv_path(asin):
     return Path(__file__).parent / f"amazon_review_tracking_{asin}.csv"
 
 
-# Products overlaid in the "vs competitors" average-rating line chart.
-COMPARISON = [
+# --- Water purifiers: comparison line + competitor cards ---
+PURIFIER_COMPETITORS = [
+    {"label": "Atomberg Intellon", "brand": "Atomberg", "asin": "B0F6CXR97M", "color": "#f59e0b"},
+    {"label": "Aquaguard Ritz", "brand": "Aquaguard", "asin": "B0DN1KJFY7", "color": "#2563eb"},
+    {"label": "Kent Grand Plus", "brand": "Kent", "asin": "B07PZPN3J9", "color": "#dc2626"},
+    {"label": "Kent Supreme Plus", "brand": "Kent", "asin": "B0CB8KG44H", "color": "#9333ea"},
+    {"label": "Aquaguard Delight", "brand": "Aquaguard", "asin": "B0F5PXXWM9", "color": "#0d9488"},
+]
+PURIFIER_COMPARISON = [
     {"label": "Native M2 Pro", "asin": "B0G4CHKBGP", "color": "#6c4cff", "native": True},
     {"label": "Native M0", "asin": "B0FB3L3FSH", "color": "#16a34a", "native": True},
     {"label": "Native M1", "asin": "B0D79G62J3", "color": "#0891b2", "native": True},
-    {"label": "Atomberg Intellon", "asin": "B0F6CXR97M", "color": "#f59e0b", "native": False},
-    {"label": "Aquaguard Ritz", "asin": "B0DN1KJFY7", "color": "#2563eb", "native": False},
-    {"label": "Kent Grand Plus", "asin": "B07PZPN3J9", "color": "#dc2626", "native": False},
-    {"label": "Kent Supreme Plus", "asin": "B0CB8KG44H", "color": "#9333ea", "native": False},
-    {"label": "Aquaguard Delight", "asin": "B0F5PXXWM9", "color": "#0d9488", "native": False},
+] + [{"label": c["label"], "asin": c["asin"], "color": c["color"], "native": False}
+     for c in PURIFIER_COMPETITORS]
+
+# --- Smart locks: comparison line + competitor cards ---
+LOCK_COMPETITORS = [
+    {"label": "QUBO Optima", "brand": "QUBO", "asin": "B0F8VK4H3P", "color": "#06b6d4"},
+    {"label": "Golens X32", "brand": "Golens", "asin": "B0CCV4ZW5S", "color": "#84cc16"},
+    {"label": "LAVNA LA44", "brand": "LAVNA", "asin": "B0CTHS9H4Z", "color": "#db2777"},
+    {"label": "Atomberg SL 1", "brand": "Atomberg", "asin": "B0C2CS3FNJ", "color": "#2563eb"},
+    {"label": "Mygate Plus", "brand": "Mygate", "asin": "B0DCBMB7Q2", "color": "#9333ea"},
+    {"label": "Godrej Catus Advantage", "brand": "Godrej", "asin": "B0FGQ65W9G", "color": "#d97706"},
+    {"label": "Atomberg Cypheo Elite", "brand": "Atomberg", "asin": "B0GMXB2XJ5", "color": "#dc2626"},
 ]
+LOCK_COMPARISON = [
+    {"label": "Native Locks Pro", "asin": "B0DJGYW9R9", "color": "#6c4cff", "native": True},
+    {"label": "Native Locks Ultra", "asin": "B0H2MVF2L2", "color": "#16a34a", "native": True},
+] + [{"label": c["label"], "asin": c["asin"], "color": c["color"], "native": False}
+     for c in LOCK_COMPETITORS]
 
 STAR_COLORS = {
     "5": "#1a9850",
@@ -95,6 +114,23 @@ st.markdown(
       /* Section headings inside cards */
       .sec-title { font-size:18px; font-weight:700; color:#1c1c1e; }
       .sec-sub { font-size:13px; color:#8a8a95; margin-top:2px; margin-bottom:6px; }
+
+      /* Competitor rating-distribution cards */
+      .cc-grid { display:flex; flex-wrap:wrap; gap:14px; margin-top:4px; }
+      .cc-card { flex:1 1 205px; max-width:320px; background:#fff; border:1px solid #ececf0;
+        border-radius:14px; padding:16px 18px; box-shadow:0 1px 3px rgba(16,17,33,.04); }
+      .cc-head { display:flex; justify-content:space-between; align-items:flex-start; gap:8px; }
+      .cc-name { font-size:15px; font-weight:700; color:#1c1c1e; line-height:1.2; }
+      .cc-brand { font-size:12px; color:#8a8a95; margin-top:3px; }
+      .cc-rating { font-size:23px; font-weight:800; white-space:nowrap; }
+      .cc-meta { font-size:12px; color:#6b6b76; margin:8px 0 12px; }
+      .cc-row { display:flex; align-items:center; gap:8px; margin:5px 0; }
+      .cc-star { font-size:11px; color:#8a8a95; width:24px; }
+      .cc-track { flex:1; height:6px; background:#ececef; border-radius:4px; overflow:hidden; }
+      .cc-fill { height:100%; border-radius:4px; }
+      .cc-pct { font-size:11px; color:#6b6b76; width:36px; text-align:right; }
+      .cc-link { display:inline-block; margin-top:12px; font-size:12px; font-weight:600;
+        color:#ff7a1a; text-decoration:none; }
     </style>
     """,
     unsafe_allow_html=True,
@@ -348,53 +384,88 @@ def _executive_summary(label, df):
     )
 
 
-def render_comparison():
-    """Day-on-day average rating line chart: Native models vs competitors."""
+def _competitor_card(item, df):
+    latest = df.iloc[-1]
+    avg = float(latest["avg_stars"])
+    total = int(latest["total_ratings"])
+    p5 = int(latest["pct_5"])
+    bars = ""
+    for s in ["5", "4", "3", "2", "1"]:
+        pct = int(latest[f"pct_{s}"])
+        bars += (
+            f'<div class="cc-row"><span class="cc-star">{s}★</span>'
+            f'<div class="cc-track"><div class="cc-fill" style="width:{pct}%;'
+            f'background:{STAR_COLORS[s]}"></div></div>'
+            f'<span class="cc-pct">{pct}%</span></div>'
+        )
+    return (
+        f'<div class="cc-card"><div class="cc-head">'
+        f'<div><div class="cc-name">{item["label"]}</div>'
+        f'<div class="cc-brand">{item["brand"]}</div></div>'
+        f'<div class="cc-rating" style="color:{item["color"]}">{avg:.1f} ★</div></div>'
+        f'<div class="cc-meta">{total:,} ratings · {p5}% are 5★</div>'
+        f'<div>{bars}</div>'
+        f'<a class="cc-link" href="https://www.amazon.in/dp/{item["asin"]}/" target="_blank">'
+        f'View on Amazon ↗</a></div>'
+    )
+
+
+def _competitor_cards(competitors):
+    cards = "".join(_competitor_card(c, load_data(csv_path(c["asin"])))
+                    for c in competitors if not load_data(csv_path(c["asin"])).empty)
+    if not cards:
+        st.info("Competitor snapshots appear once the daily scraper runs.")
+        return
+    st.markdown(f'<div class="cc-grid">{cards}</div>', unsafe_allow_html=True)
+
+
+def render_versus(comparison, competitors, key):
+    """Day-on-day average-rating line chart (Native vs competitors) + today's
+    competitor rating-distribution cards."""
     frames = []
-    for item in COMPARISON:
+    for item in comparison:
         d = load_data(csv_path(item["asin"]))
         if d.empty:
             continue
         sub = d[["date", "avg_stars"]].copy()
         sub["product"] = item["label"]
         frames.append(sub)
-    if not frames:
-        st.warning("No comparison data yet — it builds once the daily scraper runs.")
-        return
 
-    long = pd.concat(frames, ignore_index=True)
-    order = [i["label"] for i in COMPARISON]
-    colors = [i["color"] for i in COMPARISON]
-    natives = [i["label"] for i in COMPARISON if i["native"]]
-    comps = [i["label"] for i in COMPARISON if not i["native"]]
-    lo = max(0.0, float(long["avg_stars"].min()) - 0.15)
-    hi = min(5.0, float(long["avg_stars"].max()) + 0.12)
-    zoom = alt.selection_interval(bind="scales", encodings=["x"])
-
-    base = alt.Chart(long).encode(
-        x=alt.X("date:T", title="Date"),
-        y=alt.Y("avg_stars:Q", title="Avg rating (★)", scale=alt.Scale(domain=[lo, hi])),
-        color=alt.Color("product:N", title=None, sort=order,
-                        scale=alt.Scale(domain=order, range=colors),
-                        legend=alt.Legend(orient="bottom", columns=3, symbolType="stroke")),
-        tooltip=[alt.Tooltip("date:T", title="Date"),
-                 alt.Tooltip("product:N", title="Product"),
-                 alt.Tooltip("avg_stars:Q", title="Avg rating", format=".1f")],
-    )
-    # point=True so single-day series (competitors/M1 just started) still show as a dot.
-    comp_line = (base.transform_filter(alt.FieldOneOfPredicate(field="product", oneOf=comps))
-                 .mark_line(point=True, strokeWidth=1.6, opacity=0.85, strokeDash=[4, 2]))
-    native_line = (base.transform_filter(alt.FieldOneOfPredicate(field="product", oneOf=natives))
-                   .mark_line(point=True, strokeWidth=3))
-    chart = (alt.layer(comp_line, native_line)
-             .add_params(zoom).properties(height=470))
-
-    with st.container(border=True, key="chartcard_comparison"):
+    with st.container(border=True, key=f"chartcard_{key}"):
         _section("Average rating — Native vs competitors",
-                 "Daily Amazon average rating (Native models = solid bold, competitors = dashed). "
-                 "M2 Pro & M0 include history from Apr; M1/M1 Pro & competitors start when daily scraping begins. "
-                 "Drag the x-axis to zoom.")
-        st.altair_chart(chart, use_container_width=True)
+                 "Daily Amazon average rating (Native = solid bold, competitors = dashed). "
+                 "Series with only today's data show as a dot until more days accrue. Drag the x-axis to zoom.")
+        if not frames:
+            st.warning("No comparison data yet — it builds once the daily scraper runs.")
+        else:
+            long = pd.concat(frames, ignore_index=True)
+            order = [i["label"] for i in comparison]
+            colors = [i["color"] for i in comparison]
+            natives = [i["label"] for i in comparison if i["native"]]
+            comps = [i["label"] for i in comparison if not i["native"]]
+            lo = max(0.0, float(long["avg_stars"].min()) - 0.15)
+            hi = min(5.0, float(long["avg_stars"].max()) + 0.12)
+            zoom = alt.selection_interval(bind="scales", encodings=["x"])
+            base = alt.Chart(long).encode(
+                x=alt.X("date:T", title="Date"),
+                y=alt.Y("avg_stars:Q", title="Avg rating (★)", scale=alt.Scale(domain=[lo, hi])),
+                color=alt.Color("product:N", title=None, sort=order,
+                                scale=alt.Scale(domain=order, range=colors),
+                                legend=alt.Legend(orient="bottom", columns=3, symbolType="stroke")),
+                tooltip=[alt.Tooltip("date:T", title="Date"),
+                         alt.Tooltip("product:N", title="Product"),
+                         alt.Tooltip("avg_stars:Q", title="Avg rating", format=".1f")],
+            )
+            comp_line = (base.transform_filter(alt.FieldOneOfPredicate(field="product", oneOf=comps))
+                         .mark_line(point=True, strokeWidth=1.6, opacity=0.85, strokeDash=[4, 2]))
+            native_line = (base.transform_filter(alt.FieldOneOfPredicate(field="product", oneOf=natives))
+                           .mark_line(point=True, strokeWidth=3))
+            st.altair_chart(alt.layer(comp_line, native_line).add_params(zoom).properties(height=470),
+                            use_container_width=True)
+
+    _section("Competitor reviews — today's snapshot",
+             "Rating distribution per competitor as of the latest scrape.")
+    _competitor_cards(competitors)
 
 
 def render_product(label, asin, product_url):
@@ -455,9 +526,12 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-tabs = st.tabs([p["label"] for p in PRODUCTS] + ["Water Purifier vs Competitors"])
+tabs = st.tabs([p["label"] for p in PRODUCTS]
+               + ["Water Purifier vs Competitors", "Locks vs Competitors"])
 for tab, p in zip(tabs, PRODUCTS):
     with tab:
         render_product(p["label"], p["asin"], p["url"])
-with tabs[-1]:
-    render_comparison()
+with tabs[len(PRODUCTS)]:
+    render_versus(PURIFIER_COMPARISON, PURIFIER_COMPETITORS, key="purifier_vs")
+with tabs[len(PRODUCTS) + 1]:
+    render_versus(LOCK_COMPARISON, LOCK_COMPETITORS, key="locks_vs")
