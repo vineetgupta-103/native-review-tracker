@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-20",
+  "scraped": "2026-06-21",
   "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its installation process, taste, and water quality. However, the reliability and durability receive mixed reviews - while some say it works well, others report it stops working completely, and while some praise the service, others complain about poor service. Moreover, opinions on value for money are divided, with some considering it a good value while others find it expensive. Additionally, durability is a concern, with customers reporting damage to the machine within two months of use.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "670"
+      "count": "672"
     },
     {
       "name": "Taste",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Reliability",
-      "count": "473"
+      "count": "474"
     },
     {
       "name": "Value for money",
@@ -37,12 +37,12 @@
   ],
   "reviews": [
     {
-      "author": "Sumit Kumar Rout",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "Quality and Service",
-      "date": "2026-06-17",
-      "date_label": "17 June 2026",
-      "body": "Good in quality in each aspect everything is good"
+      "title": "Nice Product",
+      "date": "2026-06-18",
+      "date_label": "18 June 2026",
+      "body": "Nice Product Till Now no problem had come"
     },
     {
       "author": "Pushpa",

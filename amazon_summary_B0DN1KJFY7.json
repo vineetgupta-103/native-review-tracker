@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-06-20",
+  "scraped": "2026-06-21",
   "customers_say": "Customers find the water purifier delivers good water quality and works well, with quick and perfect installation by Aquaguard experts. The product receives positive feedback for its taste, elegant design, value for money, and ease of use, with one customer noting the convenient tap design for one-handed water collection. The service aspect receives mixed reviews, with some praising the excellent service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "823"
+      "count": "827"
     },
     {
       "name": "Reliability",
-      "count": "225"
+      "count": "227"
     },
     {
       "name": "Installation",
-      "count": "181"
+      "count": "183"
     },
     {
       "name": "Value for money",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Design",
-      "count": "74"
+      "count": "76"
     },
     {
       "name": "Ease of use",
@@ -32,17 +32,33 @@
     },
     {
       "name": "Service",
-      "count": "45"
+      "count": "46"
     }
   ],
   "reviews": [
     {
-      "author": "Arvind Kharra",
+      "author": "Gautham skoyal",
       "rating": 4.0,
-      "title": "Services",
-      "date": "2026-06-13",
-      "date_label": "13 June 2026",
-      "body": "It's a nice product"
+      "title": "Hey",
+      "date": "2026-06-18",
+      "date_label": "18 June 2026",
+      "body": "Working good and fine ... installation was smooth and the product looks classy ..water feels premium"
+    },
+    {
+      "author": "Vidya",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-06-18",
+      "date_label": "18 June 2026",
+      "body": "It looks good. Product is good"
+    },
+    {
+      "author": "Jyoti Vijayvargia",
+      "rating": 4.0,
+      "title": "Good product",
+      "date": "2026-06-18",
+      "date_label": "18 June 2026",
+      "body": "Good"
     },
     {
       "author": "saurabh k.",
@@ -59,22 +75,6 @@
       "date": "2026-06-11",
       "date_label": "11 June 2026",
       "body": "Product quality and features are great. 2inch Slimmer would be good to fit in my kitchen cabinet."
-    },
-    {
-      "author": "Siddhartha",
-      "rating": 5.0,
-      "title": "Worth the price",
-      "date": "2026-06-09",
-      "date_label": "9 June 2026",
-      "body": "Good purifier... Good installation..."
-    },
-    {
-      "author": "JODU NARESH",
-      "rating": 5.0,
-      "title": "Nothing",
-      "date": "2026-06-09",
-      "date_label": "9 June 2026",
-      "body": "Product is good only that's why I ordered, I hope it will work properly and , I think it don't disappoint me for 2years"
     }
   ]
 }

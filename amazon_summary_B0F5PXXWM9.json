@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-06-20",
+  "scraped": "2026-06-21",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its ease of use and professional installation process. Moreover, they consider it an affordable water purifier with amazing water quality after purification, and one customer mentions it saves money on canned or packaged water. However, opinions about service are mixed, with some customers reporting very bad service while others find it satisfactory.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "2K"
+      "count": "2.1K"
     },
     {
       "name": "Reliability",
-      "count": "609"
+      "count": "613"
     },
     {
       "name": "Installation",
-      "count": "561"
+      "count": "563"
     },
     {
       "name": "Value for money",
-      "count": "492"
+      "count": "495"
     },
     {
       "name": "Water quality",
-      "count": "208"
+      "count": "209"
     },
     {
       "name": "Water taste",
@@ -32,18 +32,10 @@
     },
     {
       "name": "Service",
-      "count": "156"
+      "count": "157"
     }
   ],
   "reviews": [
-    {
-      "author": "swapnil jagdish shinde",
-      "rating": 5.0,
-      "title": "It is the best purifier",
-      "date": "2026-06-18",
-      "date_label": "18 June 2026",
-      "body": "Product is very good. Also service is very good. And it is working very well. My water tds was 750 and now it is near about 150. So i am so satisfied with this purifier"
-    },
     {
       "author": "Amazon Customer",
       "rating": 4.0,
@@ -75,6 +67,14 @@
       "date": "2026-06-14",
       "date_label": "14 June 2026",
       "body": "⭐⭐⭐☆☆ (3/5) I'm giving 3 stars only because of the poor delivery and service experience. The product delivery was delayed by around 7–8 days beyond the expected date. After receiving the package, I also found that one item was missing from the box. A valve that fits into the filter was supposed to be provided in a pair, but only one was included. That said, the product itself is excellent and delivers satisfactory results. The quality and performance meet expectations. However, the installation technician was not very professional, which was disappointing considering the reputation of Eureka F"
+    },
+    {
+      "author": "Prakash P",
+      "rating": 5.0,
+      "title": "Highly Recommend - Best Product",
+      "date": "2026-06-09",
+      "date_label": "9 June 2026",
+      "body": "I love the product and purity of the water is the best part in Aquaguard, usually my kids get cold for any outside water and with Aquaguard there are no signs of distress to my kids. The TDS meter along with the product helps us to understand and test it whenever required. It's easy to use and clean. There is no bad Odor with the water. Best value for money. With respect to service, only change of filter every 2 years and yearly once cleaning is recommended for long term life. Important Notice: Please check your home water pressure in Kitchen and based on that please install pressure controlle"
     }
   ]
 }

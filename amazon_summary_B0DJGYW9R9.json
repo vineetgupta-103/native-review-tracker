@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-06-20",
+  "scraped": "2026-06-21",
   "customers_say": "Customers find this smart lock to be of excellent quality, with professional installation and reliable performance. They appreciate its sleek appearance, ease of use with good app interface, and consider it a great value. They like the features, with one customer highlighting the multiple access options for self and family, and another mentioning the password masking functionality.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "108"
+      "count": "109"
     },
     {
       "name": "Installation",
-      "count": "63"
+      "count": "62"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Swetha",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-06-18",
+      "date_label": "18 June 2026",
+      "body": "Good product. Using it since a week now, no problem. Has good locking features and easy to use app. Opening the door with the app is definitely an advantage. Only con is it doesn't have video talking options"
+    },
     {
       "author": "Amazon Customer",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-07",
       "date_label": "7 June 2026",
       "body": "Working great"
-    },
-    {
-      "author": "Niranjan Reddy Nare",
-      "rating": 5.0,
-      "title": "Best Lock",
-      "date": "2026-06-07",
-      "date_label": "7 June 2026",
-      "body": "Excellent Service by UC, Bhim technician arrived is a professional guy and made a neat installation"
     }
   ]
 }

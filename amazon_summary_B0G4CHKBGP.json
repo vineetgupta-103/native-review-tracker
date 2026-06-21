@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-06-20",
+  "scraped": "2026-06-21",
   "customers_say": "Customers find this water purifier to be of good quality and appreciate its appearance, with one noting its modern touch panel with LED indicators. The product is easy to use, with one customer highlighting its convenience for elderly people, and customers find it saves money in the long run. They like the smart features, with one mentioning the preset dispensing modes, and the water tastes good. While the purifier performs well initially, some customers report it stops working when there's no power.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "409"
+      "count": "422"
     },
     {
       "name": "Installation",
-      "count": "105"
+      "count": "107"
     },
     {
       "name": "Value for money",
-      "count": "82"
+      "count": "84"
     },
     {
       "name": "Water taste",
-      "count": "54"
-    },
-    {
-      "name": "Ease of use",
-      "count": "43"
+      "count": "55"
     },
     {
       "name": "Appearance",
-      "count": "42"
+      "count": "44"
+    },
+    {
+      "name": "Ease of use",
+      "count": "44"
     },
     {
       "name": "Features",
-      "count": "38"
+      "count": "39"
     },
     {
       "name": "Reliability",
-      "count": "95"
+      "count": "99"
     }
   ],
   "reviews": [
@@ -61,20 +61,20 @@
       "body": "I recently purchased the Native M2 Pro Water Purifier by Urban Company, and my experience has been very positive. The product quality is excellent, and the water tastes clean and fresh after purification. One of the standout features is the smart app connectivity. The mobile app allows me to easily track water consumption, monitor filter health, and check the purifier's performance in real time. This feature provides added convenience and peace of mind, ensuring that the purifier is always functioning efficiently. The installation process was smooth, and the overall design is sleek and user-fr"
     },
     {
+      "author": "swapnil sharma",
+      "rating": 5.0,
+      "title": "Satisfied with this purchase",
+      "date": "2026-06-01",
+      "date_label": "1 June 2026",
+      "body": "After using the Native M2 Pro for a few weeks, I can say it feels much more advanced than traditional purifiers. Installation was smooth, and the technician explained all features clearly. The touch controls are easy to use, and preset dispensing is very handy in daily life. I also like checking water quality and filter life through the app. Most importantly, the water tastes cleaner and fresher. Overall, it has been a practical and satisfying upgrade."
+    },
+    {
       "author": "Woxell",
       "rating": 5.0,
       "title": "You Must Buy",
       "date": "2026-05-31",
       "date_label": "31 May 2026",
       "body": "Absolutely amazing RO purifier! The Native M2 Pro has exceeded my expectations in every way. The water taste is excellent, the 10-stage purification gives peace of mind, and the smart app monitoring feature is very useful for tracking filter health and water quality. The touch dispensing and bottle-fill modes make daily use super convenient. Installation was smooth, and the design looks premium in the kitchen. The 2-year no-service promise and unconditional warranty make it even more value for money. Highly recommended for anyone looking for a modern, reliable, and smart water purifier."
-    },
-    {
-      "author": "Gen reviews",
-      "rating": 4.0,
-      "title": "Good Water Purifier with Useful Features",
-      "date": "2026-05-30",
-      "date_label": "30 May 2026",
-      "body": "I purchased the Native M2 Pro water purifier during the Summer Sale for around ₹14,800. After using it for about a month, I am quite satisfied with the product. It comes with several useful features, like monitoring some data in mobile application. The installation process was smooth and professionally handled. One thing I really liked is that it includes a pre-filter, which is a nice addition and provides extra protection for the purifier. The only area where I feel there is room for improvement is the storage tank. It comes with a food-grade plastic tank, which is perfectly functional, but i"
     }
   ]
 }
