@@ -522,7 +522,9 @@ def _render_amazon_voice(asin):
     revs = s.get("reviews") or []
     if revs:
         with st.container(border=True, key=f"revcard_{asin}"):
-            _section("Recent reviews", "5 most recent reviews on Amazon (refreshed daily)")
+            _section("Top reviews",
+                     "Amazon's top reviews, newest first (refreshed daily). "
+                     "For the absolute latest, use the link below.")
             blocks = ""
             for r in revs:
                 full = int(round(r.get("rating") or 0))
