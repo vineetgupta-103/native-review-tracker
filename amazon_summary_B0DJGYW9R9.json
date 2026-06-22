@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-06-21",
+  "scraped": "2026-06-22",
   "customers_say": "Customers find this smart lock to be of excellent quality, with professional installation and reliable performance. They appreciate its sleek appearance, ease of use with good app interface, and consider it a great value. They like the features, with one customer highlighting the multiple access options for self and family, and another mentioning the password masking functionality.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "109"
+      "count": "110"
     },
     {
       "name": "Installation",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Reliability",
-      "count": "37"
+      "count": "38"
     },
     {
       "name": "Appearance",
@@ -24,15 +24,15 @@
     },
     {
       "name": "Ease of use",
+      "count": "16"
+    },
+    {
+      "name": "Features",
       "count": "15"
     },
     {
       "name": "Value for money",
       "count": "15"
-    },
-    {
-      "name": "Features",
-      "count": "14"
     }
   ],
   "reviews": [
@@ -53,14 +53,6 @@
       "body": "Very good lock"
     },
     {
-      "author": "Eldhose George",
-      "rating": 4.0,
-      "title": "Native Lock Pro Smart Door Lock Detailed Review",
-      "date": "2026-06-08",
-      "date_label": "8 June 2026",
-      "body": "Installation was handled by the seller’s team. The installation in my location required an additional charge because it was outside the standard service area. The installers completed the job, but I also hired a local carpenter to reinforce the door thickness; the lock fits well when the door meets the recommended specifications, and special tools may be needed to avoid damage during installation. In daily use the lock performs reliably. The camera, unlocking methods, app connectivity, and sensors all work smoothly with no noticeable delays or false alerts. After 20 days of medium usage the ap"
-    },
-    {
       "author": "chandran",
       "rating": 5.0,
       "title": "Perfect front door lock.perfect installation",
@@ -75,6 +67,14 @@
       "date": "2026-06-07",
       "date_label": "7 June 2026",
       "body": "Working great"
+    },
+    {
+      "author": "Niranjan Reddy Nare",
+      "rating": 5.0,
+      "title": "Best Lock",
+      "date": "2026-06-07",
+      "date_label": "7 June 2026",
+      "body": "Excellent Service by UC, Bhim technician arrived is a professional guy and made a neat installation"
     }
   ]
 }

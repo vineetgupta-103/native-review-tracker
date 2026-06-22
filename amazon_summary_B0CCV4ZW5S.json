@@ -1,8 +1,16 @@
 {
-  "scraped": "2026-06-21",
+  "scraped": "2026-06-22",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "Chirag Mehta",
+      "rating": 5.0,
+      "title": "Easy setup",
+      "date": "2026-06-19",
+      "date_label": "19 June 2026",
+      "body": "Very nice product and easy setup"
+    },
     {
       "author": "Vikram Yoganand",
       "rating": 5.0,
@@ -20,28 +28,20 @@
       "body": "This GoLens smart lock is a very good product, we feel proud to have bought it. All its functions are very good and preferred."
     },
     {
+      "author": "Ajit Sawant",
+      "rating": 5.0,
+      "title": "Smart & Secure – Worth the Upgrade!",
+      "date": "2026-04-13",
+      "date_label": "13 April 2026",
+      "body": "Using the Golens X95 from last 3-4 months—very convenient and reliable. Face unlock and fingerprint are quick and accurate, and the mobile app makes remote access easy. Build quality feels strong with a secure multi-bolt system. Battery backup is decent with alerts, so no worry about sudden lockouts."
+    },
+    {
       "author": "Pooja ghatge",
       "rating": 4.0,
       "title": "Excellent smart lock - safe & convenient",
       "date": "2026-04-08",
       "date_label": "8 April 2026",
       "body": "I recently purchased the Golens Smart Lock and I am very satisfied with the product. The installation process was smooth and the overall build quality feels premium. The multiple unlocking options like fingerprint, password, and mobile access make it very convenient and secure to use. The lock responds quickly and works reliably. It has made daily usage much easier and gives a sense of safety. Overall, it is a great product and I would definitely recommend it to others. Thank you for providing such a useful and high-quality smart lock."
-    },
-    {
-      "author": "R@vitej@",
-      "rating": 5.0,
-      "title": "Nice product..!!",
-      "date": "2026-04-04",
-      "date_label": "4 April 2026",
-      "body": "Very nice product. And it exceeded my expectation Especially with Face id. It was really smooth operating. The installation person is also an expert and knows his work very well. I had a very nice experience with the product and service too."
-    },
-    {
-      "author": "Srikanta Panigrahy",
-      "rating": 3.0,
-      "title": "Good but needs lot of improvement and support.",
-      "date": "2026-02-19",
-      "date_label": "19 February 2026",
-      "body": "Good : With the list of features available in this one with the price no other brand able to provide. Bad: - Notification is delayed in 90% of time - battery gone in one year, I had to get one more for ₹1500 from vendor. - chopping off of the door border is required when the thread wears off and doesn't open actively. This video's extra amount again. - if someone press bell once, again can't press as the keyboard doesn't take until * is pressed to go back to activate the bell button again."
     }
   ]
 }
