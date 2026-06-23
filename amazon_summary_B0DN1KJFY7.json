@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-06-22",
+  "scraped": "2026-06-23",
   "customers_say": "Customers find the water purifier delivers good water quality and works well, with quick and perfect installation by Aquaguard experts. The product receives positive feedback for its taste, elegant design, value for money, and ease of use, with one customer noting the convenient tap design for one-handed water collection. The service aspect receives mixed reviews, with some praising the excellent service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "834"
+      "count": "833"
     },
     {
       "name": "Reliability",
-      "count": "227"
+      "count": "230"
     },
     {
       "name": "Installation",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Service",
-      "count": "46"
+      "count": "48"
     }
   ],
   "reviews": [
+    {
+      "author": "Harini Kapila",
+      "rating": 5.0,
+      "title": "Good water filter with 12 stages",
+      "date": "2026-06-20",
+      "date_label": "20 June 2026",
+      "body": "Service is good, tank fills quickly and water wastage is less. Dont have to change Filter till 10 K Liters is more exciting for me"
+    },
     {
       "author": "Gautham skoyal",
       "rating": 4.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-11",
       "date_label": "11 June 2026",
       "body": "Satisfied and good response. The person who came to install was also humble."
-    },
-    {
-      "author": "Suresh",
-      "rating": 5.0,
-      "title": "Overall good product",
-      "date": "2026-06-11",
-      "date_label": "11 June 2026",
-      "body": "Product quality and features are great. 2inch Slimmer would be good to fit in my kitchen cabinet."
     }
   ]
 }

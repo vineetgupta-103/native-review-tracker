@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-22",
+  "scraped": "2026-06-23",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its ease of use and professional installation process. Moreover, they consider it an affordable water purifier with amazing water quality after purification, and one customer mentions it saves money on canned or packaged water. However, opinions about service are mixed, with some customers reporting very bad service while others find it satisfactory.",
   "aspects": [
     {
@@ -8,34 +8,50 @@
     },
     {
       "name": "Reliability",
-      "count": "616"
+      "count": "620"
     },
     {
       "name": "Installation",
-      "count": "563"
+      "count": "564"
     },
     {
       "name": "Value for money",
-      "count": "498"
+      "count": "501"
     },
     {
       "name": "Water quality",
-      "count": "209"
+      "count": "211"
     },
     {
       "name": "Water taste",
-      "count": "199"
+      "count": "200"
     },
     {
       "name": "Ease of use",
-      "count": "118"
+      "count": "119"
     },
     {
       "name": "Service",
-      "count": "157"
+      "count": "158"
     }
   ],
   "reviews": [
+    {
+      "author": "Sonu y.",
+      "rating": 4.0,
+      "title": "Good product but tds setup needed",
+      "date": "2026-06-20",
+      "date_label": "20 June 2026",
+      "body": "Good product but need tds controler in it"
+    },
+    {
+      "author": "Ashok",
+      "rating": 4.0,
+      "title": "Basic RO purifier which does the job",
+      "date": "2026-06-19",
+      "date_label": "19 June 2026",
+      "body": "This is basic RO water purifier from Aquaguard. my usage was mainly with municipal water but to protect against contaminated Kaveri water (TDS wise RO was not required but from other mineral contamination and impurities), I had gone with RO purifier. Although it claims its 60% higher water recovery compared to normal RO, its actually other way, this for municipal water, it wastes 1.5 x (for 1 litre water purified, it wastes 1.5 litre water out). i got this for exchange and got it at good discount during May'26 sales for 6.9K. installation was promt and there was no over selling of anything. It"
+    },
     {
       "author": "Amazon Customer",
       "rating": 4.0,
@@ -59,22 +75,6 @@
       "date": "2026-06-15",
       "date_label": "15 June 2026",
       "body": "Good and budget friendly"
-    },
-    {
-      "author": "Nikhil Panchal",
-      "rating": 3.0,
-      "title": "Product is Great, Delivery and Installation Were Disappointing",
-      "date": "2026-06-14",
-      "date_label": "14 June 2026",
-      "body": "⭐⭐⭐☆☆ (3/5) I'm giving 3 stars only because of the poor delivery and service experience. The product delivery was delayed by around 7–8 days beyond the expected date. After receiving the package, I also found that one item was missing from the box. A valve that fits into the filter was supposed to be provided in a pair, but only one was included. That said, the product itself is excellent and delivers satisfactory results. The quality and performance meet expectations. However, the installation technician was not very professional, which was disappointing considering the reputation of Eureka F"
-    },
-    {
-      "author": "Prakash P",
-      "rating": 5.0,
-      "title": "Highly Recommend - Best Product",
-      "date": "2026-06-09",
-      "date_label": "9 June 2026",
-      "body": "I love the product and purity of the water is the best part in Aquaguard, usually my kids get cold for any outside water and with Aquaguard there are no signs of distress to my kids. The TDS meter along with the product helps us to understand and test it whenever required. It's easy to use and clean. There is no bad Odor with the water. Best value for money. With respect to service, only change of filter every 2 years and yearly once cleaning is recommended for long term life. Important Notice: Please check your home water pressure in Kitchen and based on that please install pressure controlle"
     }
   ]
 }

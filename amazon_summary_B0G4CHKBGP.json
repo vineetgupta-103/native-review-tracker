@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-06-22",
+  "scraped": "2026-06-23",
   "customers_say": "Customers find this water purifier to be a high-quality RO unit that makes daily usage simple and saves money in the long run. They appreciate its modern appearance, with one customer noting the touch panel with LED indicators, and another mentioning it stands out in the kitchen. The installation process receives positive feedback, and customers find the water tastes good. While many say it performs wonderfully, some report issues with it not working when there is no power.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "425"
+      "count": "427"
     },
     {
       "name": "Installation",
-      "count": "107"
+      "count": "109"
     },
     {
       "name": "Value for money",
-      "count": "85"
+      "count": "86"
     },
     {
       "name": "Water taste",
@@ -32,18 +32,10 @@
     },
     {
       "name": "Reliability",
-      "count": "100"
+      "count": "101"
     }
   ],
   "reviews": [
-    {
-      "author": "Anil Lalvani",
-      "rating": 5.0,
-      "title": "Excellent Purifier",
-      "date": "2026-06-18",
-      "date_label": "18 June 2026",
-      "body": "It's been 2 months now I am using Native M2 by Urban.The water quality is excellent—crystal clear and fresh.Installation was smooth and hassle-free, and the technician explained everything properly. The purifier looks modern, works quietly.customer service has also been helpful and fast responsive."
-    },
     {
       "author": "Sushil Sakhuja",
       "rating": 5.0,
@@ -66,7 +58,7 @@
       "title": "Highly Satisfied with Native M2 Pro Water Purifier",
       "date": "2026-06-04",
       "date_label": "4 June 2026",
-      "body": "I recently purchased the Native M2 Pro Water Purifier by Urban Company, and my experience has been very positive. The product quality is excellent, and the water tastes clean and fresh after purification. One of the standout features is the smart app connectivity. The mobile app allows me to easily track water consumption, monitor filter health, and check the purifier's performance in real time. This feature provides added convenience and peace of mind, ensuring that the purifier is always functioning efficiently. The installation process was smooth, and the overall design is sleek and user-fr"
+      "body": "No spoken audio I recently purchased the Native M2 Pro Water Purifier by Urban Company, and my experience has been very positive. The product quality is excellent, and the water tastes clean and fresh after purification. One of the standout features is the smart app connectivity. The mobile app allows me to easily track water consumption, monitor filter health, and check the purifier's performance in real time. This feature provides added convenience and peace of mind, ensuring that the purifier is always functioning efficiently. The installation process was smooth, and the overall design is s"
     },
     {
       "author": "swapnil sharma",
@@ -75,6 +67,14 @@
       "date": "2026-06-01",
       "date_label": "1 June 2026",
       "body": "After using the Native M2 Pro for a few weeks, I can say it feels much more advanced than traditional purifiers. Installation was smooth, and the technician explained all features clearly. The touch controls are easy to use, and preset dispensing is very handy in daily life. I also like checking water quality and filter life through the app. Most importantly, the water tastes cleaner and fresher. Overall, it has been a practical and satisfying upgrade."
+    },
+    {
+      "author": "Woxell",
+      "rating": 5.0,
+      "title": "You Must Buy",
+      "date": "2026-05-31",
+      "date_label": "31 May 2026",
+      "body": "Absolutely amazing RO purifier! The Native M2 Pro has exceeded my expectations in every way. The water taste is excellent, the 10-stage purification gives peace of mind, and the smart app monitoring feature is very useful for tracking filter health and water quality. The touch dispensing and bottle-fill modes make daily use super convenient. Installation was smooth, and the design looks premium in the kitchen. The 2-year no-service promise and unconditional warranty make it even more value for money. Highly recommended for anyone looking for a modern, reliable, and smart water purifier."
     }
   ]
 }

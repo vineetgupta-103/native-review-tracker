@@ -1,48 +1,23 @@
 {
-  "scraped": "2026-06-22",
-  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its installation process, taste, and water quality. However, the reliability and durability receive mixed reviews - while some say it works well, others report it stops working completely, and while some praise the service, others complain about poor service. Moreover, opinions on value for money are divided, with some considering it a good value while others find it expensive. Additionally, durability is a concern, with customers reporting damage to the machine within two months of use.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "1.8K"
-    },
-    {
-      "name": "Installation",
-      "count": "659"
-    },
-    {
-      "name": "Taste",
-      "count": "217"
-    },
-    {
-      "name": "Water quality",
-      "count": "152"
-    },
-    {
-      "name": "Reliability",
-      "count": "472"
-    },
-    {
-      "name": "Value for money",
-      "count": "445"
-    },
-    {
-      "name": "Service",
-      "count": "161"
-    },
-    {
-      "name": "Durability",
-      "count": "150"
-    }
-  ],
+  "scraped": "2026-06-23",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
     {
-      "author": "Amazon Customer",
+      "author": "Hareesh",
+      "rating": 4.0,
+      "title": "Water purifier",
+      "date": "2026-06-20",
+      "date_label": "20 June 2026",
+      "body": "Good"
+    },
+    {
+      "author": "Vignesh M",
       "rating": 5.0,
-      "title": "Nice Product",
-      "date": "2026-06-18",
-      "date_label": "18 June 2026",
-      "body": "Nice Product Till Now no problem had come"
+      "title": "Go for it!",
+      "date": "2026-06-17",
+      "date_label": "17 June 2026",
+      "body": "No concerns after 4 months of usage. The TDS level can be adjusted with some efforts as required. Installation was quick and easy. I regret not purchasing this earlier. Totally value for money! The best filter in this price range. There may be some minor noises for few seconds, other than that it's quiet."
     },
     {
       "author": "Pushpa",
@@ -53,28 +28,20 @@
       "body": "I am fully satisfied with KENT Supreme Star RO Water Purifier. The quality of water is really clean and tasty. Thanks to its RO+UV+UF filtration, and due to alkaline and copper enrichment technology. This model comes equipped with a digital display indicating water quality and filter conditions, thus, monitoring performance has never been easier. The large 9-liter water capacity and rapid speed of filtration mean that we will always have plenty of water available even in case of a power outage. I especially liked the presence of UV LED technology in the storage tank as it ensures the purity of"
     },
     {
+      "author": "Nanji Reddy Ayyagari",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-06-16",
+      "date_label": "16 June 2026",
+      "body": "Good value for money"
+    },
+    {
       "author": "manasa",
       "rating": 5.0,
       "title": "Quality",
       "date": "2026-06-16",
       "date_label": "16 June 2026",
       "body": "Nice product, works well"
-    },
-    {
-      "author": "Sunil Patel",
-      "rating": 5.0,
-      "title": "Good product and after sale support.",
-      "date": "2026-06-15",
-      "date_label": "15 June 2026",
-      "body": "Installation done by engineer in a very professional manner."
-    },
-    {
-      "author": "Rakesh Baruah",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-06-14",
-      "date_label": "14 June 2026",
-      "body": "The installation was very good . Srinivas jee is wonderful in his job. Explained along with the installation"
     }
   ]
 }

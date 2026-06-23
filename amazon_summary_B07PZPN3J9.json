@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-06-22",
+  "scraped": "2026-06-23",
   "customers_say": "Customers find this water purifier to be a best-in-class product that's easy to install, with good taste and value for money. However, the reliability receives mixed feedback - while some say it does the job well, others report it stopped working. Moreover, durability and leakage are significant concerns, with customers reporting damage within three months and water leakage issues.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "163"
+      "count": "164"
     },
     {
       "name": "Value for money",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Brahmaiah. kalluri",
+      "rating": 1.0,
+      "title": "Defective product",
+      "date": "2026-06-20",
+      "date_label": "20 June 2026",
+      "body": "Don't buy electrical items in online, Amazon delivered defective product to me, after installation one week worked properly later it's not working"
+    },
+    {
       "author": "Placeholder",
       "rating": 5.0,
       "title": "Perfect RO for homes",
@@ -51,14 +59,6 @@
       "date": "2026-06-02",
       "date_label": "2 June 2026",
       "body": "The product quality and service is on point"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 1.0,
-      "title": "Worst product and life span of the product is only for one year.",
-      "date": "2026-05-21",
-      "date_label": "21 May 2026",
-      "body": "Good upto one year after that product should be in dustbin. Stopped working and spare parts are very costly and valid for one year only. Total Product and money waste. Product lifespan is for one year. Not worth for money. Absolute cheating."
     },
     {
       "author": "REDDY MAHENDRA REDDY",

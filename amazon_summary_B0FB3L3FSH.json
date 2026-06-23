@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-06-22",
+  "scraped": "2026-06-23",
   "customers_say": "Customers find this water purifier to be a very good filter with reliable RO technology and professional installation. They appreciate its value for money, great taste, and appearance, with one customer noting its premium matte finish. Customers find it easy to use and maintain. However, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "169"
+      "count": "170"
     },
     {
       "name": "Reliability",
-      "count": "53"
+      "count": "54"
     },
     {
       "name": "Installation",
@@ -16,11 +16,11 @@
     },
     {
       "name": "Value for money",
-      "count": "36"
+      "count": "37"
     },
     {
       "name": "Water taste",
-      "count": "27"
+      "count": "28"
     },
     {
       "name": "Appearance",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Balachander",
+      "rating": 5.0,
+      "title": "Good machine at a reasonable price",
+      "date": "2026-06-20",
+      "date_label": "20 June 2026",
+      "body": "Prompt delivery...The technician also came to install the machine the next day as per schedule... Started using...gives tds of around 50 after purification, which is perfect. Taste of water is good."
+    },
     {
       "author": "Gaurav",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-05-09",
       "date_label": "9 May 2026",
       "body": "Good product and post filtration water TDS level is excellent. Installation was bit delayed but installation quality is good."
-    },
-    {
-      "author": "Comet A",
-      "rating": 5.0,
-      "title": "Value for money with peace of mind",
-      "date": "2026-05-06",
-      "date_label": "6 May 2026",
-      "body": "Good product and great service. The installatiom was perfect as promised. The size of the equipement if also great. Technician was professional and explained everything well about the filtration and warranty service. This is one of best RO featuring all filters covering in the warranty and the same can be renewed for ever 2 yrs without any nunber of water capacity limit which is there in other RO. There is no leakage which was checked and prefected."
     }
   ]
 }

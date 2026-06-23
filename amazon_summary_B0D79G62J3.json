@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-22",
+  "scraped": "2026-06-23",
   "customers_say": "Customers find this water purifier to be the best in the market, with excellent installation and value for money, particularly noting the transparent pricing. Moreover, the machine works superbly, and customers appreciate its premium appearance and sweet-tasting water. Additionally, the service receives positive feedback, with one customer highlighting its quick response time.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "389"
+      "count": "390"
     },
     {
       "name": "Value for money",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "No need",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-06-19",
+      "date_label": "19 June 2026",
+      "body": "Very good product and installed quickly."
+    },
     {
       "author": "Nandan Kumar",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-05",
       "date_label": "5 June 2026",
       "body": "1. Has 100% RO and water tasting good. 2. App shows filter and water health 3. 2 year warranty without t&c. No amc, less expensive in long run. 4. Very good design, looks good in my kitchen. Product is as promised. Happy with purchase."
-    },
-    {
-      "author": "Raizada vageesh",
-      "rating": 4.0,
-      "title": "good quality",
-      "date": "2026-05-30",
-      "date_label": "30 May 2026",
-      "body": "water does not taste too bitter. quality seems nice. great installation service too. even attached a custom faucet i provided for no additional charge. no leakage as of yet. machine not too loud as well. the black pipes add a nice touch to the overall smartphone esque theme"
     }
   ]
 }
