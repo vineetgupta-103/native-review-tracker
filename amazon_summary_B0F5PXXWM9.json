@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-23",
+  "scraped": "2026-06-24",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its ease of use and professional installation process. Moreover, they consider it an affordable water purifier with amazing water quality after purification, and one customer mentions it saves money on canned or packaged water. However, opinions about service are mixed, with some customers reporting very bad service while others find it satisfactory.",
   "aspects": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Installation",
-      "count": "564"
+      "count": "565"
     },
     {
       "name": "Value for money",
@@ -37,6 +37,22 @@
   ],
   "reviews": [
     {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Excellent water purifier with great service",
+      "date": "2026-06-22",
+      "date_label": "22 June 2026",
+      "body": "I have been using the **Aquaguard Delight Aquasaver Water Purifier** and I am extremely satisfied with its performance. The water quality is excellent, with a fresh and clean taste that gives complete confidence in the safety of the drinking water. The installation process was very smooth and hassle-free. The Aquaguard service team was prompt, professional, and ensured everything was set up properly. Their customer support and after-sales service have been impressive, with quick responses whenever assistance is needed. One feature I particularly like is the **built-in TDS meter**, which allows"
+    },
+    {
+      "author": "anuj",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-06-22",
+      "date_label": "22 June 2026",
+      "body": "Here's a concise product review you can use: ⭐⭐⭐⭐⭐ I am very satisfied with this RO water purifier. It is working perfectly and provides clean, fresh-tasting drinking water. The installation was smooth, the build quality is good, and it operates quietly. The water quality has improved significantly, and the TDS is maintained properly. Overall, it's a reliable product with excellent performance. Highly recommended for anyone looking for a good RO water purifier."
+    },
+    {
       "author": "Sonu y.",
       "rating": 4.0,
       "title": "Good product but tds setup needed",
@@ -53,28 +69,12 @@
       "body": "This is basic RO water purifier from Aquaguard. my usage was mainly with municipal water but to protect against contaminated Kaveri water (TDS wise RO was not required but from other mineral contamination and impurities), I had gone with RO purifier. Although it claims its 60% higher water recovery compared to normal RO, its actually other way, this for municipal water, it wastes 1.5 x (for 1 litre water purified, it wastes 1.5 litre water out). i got this for exchange and got it at good discount during May'26 sales for 6.9K. installation was promt and there was no over selling of anything. It"
     },
     {
-      "author": "Amazon Customer",
-      "rating": 4.0,
-      "title": "Satisfactory",
-      "date": "2026-06-17",
-      "date_label": "17 June 2026",
-      "body": "Product was good, my tap water TDS was 1400 and its was giving 250 TDS after filter process. I am fine with product."
-    },
-    {
       "author": "saif ansari",
       "rating": 4.0,
       "title": "Satisfied with the product",
       "date": "2026-06-16",
       "date_label": "16 June 2026",
       "body": "The overall look and functionality is good, you can buy it."
-    },
-    {
-      "author": "Antto",
-      "rating": 4.0,
-      "title": "Worth!!",
-      "date": "2026-06-15",
-      "date_label": "15 June 2026",
-      "body": "Good and budget friendly"
     }
   ]
 }
