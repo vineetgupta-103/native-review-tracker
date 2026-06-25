@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-24",
+  "scraped": "2026-06-25",
   "customers_say": "Customers find this water purifier to be a best-in-class product that's easy to install, with good taste and value for money. However, the reliability receives mixed feedback - while some say it does the job well, others report it stopped working. Moreover, durability and leakage are significant concerns, with customers reporting damage within three months and water leakage issues.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Value for money",
-      "count": "56"
+      "count": "57"
     },
     {
       "name": "Installation",
@@ -20,15 +20,15 @@
     },
     {
       "name": "Reliability",
-      "count": "46"
+      "count": "47"
     },
     {
       "name": "Water wastage",
-      "count": "24"
+      "count": "25"
     },
     {
       "name": "Durability",
-      "count": "17"
+      "count": "18"
     },
     {
       "name": "Leakage",

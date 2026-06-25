@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-06-24",
+  "scraped": "2026-06-25",
   "customers_say": "Customers find the digital lock to be feature-rich with multiple unlocking options and appreciate its functionality, with one mentioning it works well on wooden doors. The installation and service receive positive feedback, and customers value its security and ease of use, with one noting it's easy for different family members to use. The value for money receives mixed reviews, with several customers finding it overpriced.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "70"
+      "count": "69"
     },
     {
       "name": "Installation",
-      "count": "35"
+      "count": "34"
     },
     {
       "name": "Installation service",
@@ -36,14 +36,6 @@
     }
   ],
   "reviews": [
-    {
-      "author": "Anusha murari",
-      "rating": 5.0,
-      "title": "Excellent",
-      "date": "2026-06-15",
-      "date_label": "15 June 2026",
-      "body": "Installation was down Mr Ravindra chary shown every thing and easily to acess explained clerely"
-    },
     {
       "author": "Garima",
       "rating": 1.0,
@@ -75,6 +67,14 @@
       "date": "2026-05-22",
       "date_label": "22 May 2026",
       "body": "Excellent product very useful and safe to use. The technician explained the whole process and made it user friendly for us."
+    },
+    {
+      "author": "sandhya",
+      "rating": 5.0,
+      "title": "Product and service are really good.",
+      "date": "2026-05-19",
+      "date_label": "19 May 2026",
+      "body": "Product was really good. The installation was prompt. They explained everything clearly."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-24",
+  "scraped": "2026-06-25",
   "customers_say": "Customers find this water purifier to be the best in the market, with excellent installation and value for money, particularly noting the transparent pricing. Moreover, the machine works superbly, and customers appreciate its premium appearance and sweet-tasting water. Additionally, the service receives positive feedback, with one customer highlighting its quick response time.",
   "aspects": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Value for money",
-      "count": "274"
+      "count": "275"
     },
     {
       "name": "Reliability",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Service",
-      "count": "145"
+      "count": "146"
     }
   ],
   "reviews": [
@@ -43,6 +43,14 @@
       "date": "2026-06-19",
       "date_label": "19 June 2026",
       "body": "Very good product and installed quickly."
+    },
+    {
+      "author": "Sudhir Dhadge",
+      "rating": 5.0,
+      "title": "Water purifier with great looks.",
+      "date": "2026-06-16",
+      "date_label": "16 June 2026",
+      "body": "Very useful product, also enhances the look of kitchen.. It comes with TDS meter, so you can check the TDS level of water any time.."
     },
     {
       "author": "Nandan Kumar",
@@ -67,14 +75,6 @@
       "date": "2026-06-10",
       "date_label": "10 June 2026",
       "body": "I got M1 PRO few weeks ago from Amazon. Next day delivery. the purification is very gud. the water is fresh and clean, not flat. Ro has 2 years warranty and the technician was very gud. no upselling or any problem like in last RO. Looks very gud in the kitchen also and can see everything on app now. I like this Ro"
-    },
-    {
-      "author": "Sweta",
-      "rating": 5.0,
-      "title": "M1 pro review",
-      "date": "2026-06-05",
-      "date_label": "5 June 2026",
-      "body": "1. Has 100% RO and water tasting good. 2. App shows filter and water health 3. 2 year warranty without t&c. No amc, less expensive in long run. 4. Very good design, looks good in my kitchen. Product is as promised. Happy with purchase."
     }
   ]
 }
