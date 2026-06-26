@@ -1,7 +1,40 @@
 {
-  "scraped": "2026-06-25",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-06-26",
+  "customers_say": "Customers find this smart lock to be of high quality, with all features working smoothly. They appreciate its versatility with multiple unlocking options, including fingerprint recognition, and find it easy to use, with one customer noting it's particularly suitable for children. The lock receives positive feedback for its appearance, value for money, and security features, with one customer highlighting its secure multi-bolt system. Customers like the installation process, with one mentioning it can be installed on both single and double panel doors.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "180"
+    },
+    {
+      "name": "Reliability",
+      "count": "96"
+    },
+    {
+      "name": "Installation",
+      "count": "67"
+    },
+    {
+      "name": "Value for money",
+      "count": "49"
+    },
+    {
+      "name": "Ease of use",
+      "count": "47"
+    },
+    {
+      "name": "Appearance",
+      "count": "33"
+    },
+    {
+      "name": "Features",
+      "count": "32"
+    },
+    {
+      "name": "Security",
+      "count": "32"
+    }
+  ],
   "reviews": [
     {
       "author": "Chirag Mehta",

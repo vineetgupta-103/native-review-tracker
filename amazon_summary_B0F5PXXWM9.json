@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-25",
+  "scraped": "2026-06-26",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its ease of use and professional installation process. Moreover, they consider it an affordable water purifier with amazing water quality after purification, and one customer mentions it saves money on canned or packaged water. However, opinions about service are mixed, with some customers reporting very bad service while others find it satisfactory.",
   "aspects": [
     {
@@ -8,15 +8,15 @@
     },
     {
       "name": "Reliability",
-      "count": "624"
+      "count": "628"
     },
     {
       "name": "Installation",
-      "count": "568"
+      "count": "572"
     },
     {
       "name": "Value for money",
-      "count": "505"
+      "count": "507"
     },
     {
       "name": "Water quality",
@@ -28,14 +28,22 @@
     },
     {
       "name": "Ease of use",
-      "count": "121"
+      "count": "123"
     },
     {
       "name": "Service",
-      "count": "158"
+      "count": "159"
     }
   ],
   "reviews": [
+    {
+      "author": "Bhagavan r.",
+      "rating": 4.0,
+      "title": "Good product and timely service.",
+      "date": "2026-06-23",
+      "date_label": "23 June 2026",
+      "body": "Very Good , and no issues till now. Timely service"
+    },
     {
       "author": "Amazon Customer",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-06-22",
       "date_label": "22 June 2026",
       "body": "I have been using the **Aquaguard Delight Aquasaver Water Purifier** and I am extremely satisfied with its performance. The water quality is excellent, with a fresh and clean taste that gives complete confidence in the safety of the drinking water. The installation process was very smooth and hassle-free. The Aquaguard service team was prompt, professional, and ensured everything was set up properly. Their customer support and after-sales service have been impressive, with quick responses whenever assistance is needed. One feature I particularly like is the **built-in TDS meter**, which allows"
-    },
-    {
-      "author": "Nitish",
-      "rating": 5.0,
-      "title": "No need for tap connection",
-      "date": "2026-06-22",
-      "date_label": "22 June 2026",
-      "body": "It doesn't need a motor, it takes the water from well below it's position. You donot need a tap connection or 24x7 water supply, best for homes with intermittentwater supply, hence its very useful in urban homes. Keep the inlet pipe in a bucket or drum with water, and it's done, very easy. It also comes with a TDS meter. My water was 310 before purification and after RO- it came down to 40s. I got it in an offer and it's really worth the money."
     },
     {
       "author": "anuj",
@@ -61,20 +61,20 @@
       "body": "Here's a concise product review you can use: ⭐⭐⭐⭐⭐ I am very satisfied with this RO water purifier. It is working perfectly and provides clean, fresh-tasting drinking water. The installation was smooth, the build quality is good, and it operates quietly. The water quality has improved significantly, and the TDS is maintained properly. Overall, it's a reliable product with excellent performance. Highly recommended for anyone looking for a good RO water purifier."
     },
     {
-      "author": "Sonu y.",
-      "rating": 4.0,
-      "title": "Good product but tds setup needed",
-      "date": "2026-06-20",
-      "date_label": "20 June 2026",
-      "body": "Good product but need tds controler in it"
+      "author": "Nitish",
+      "rating": 5.0,
+      "title": "No need for tap connection",
+      "date": "2026-06-22",
+      "date_label": "22 June 2026",
+      "body": "It doesn't need a motor, it takes the water from well below it's position. You donot need a tap connection or 24x7 water supply, best for homes with intermittentwater supply, hence its very useful in urban homes. Keep the inlet pipe in a bucket or drum with water, and it's done, very easy. It also comes with a TDS meter. My water was 310 before purification and after RO- it came down to 40s. I got it in an offer and it's really worth the money."
     },
     {
-      "author": "Ashok",
+      "author": "rohit kamraddi",
       "rating": 4.0,
-      "title": "Basic RO purifier which does the job",
-      "date": "2026-06-19",
-      "date_label": "19 June 2026",
-      "body": "This is basic RO water purifier from Aquaguard. my usage was mainly with municipal water but to protect against contaminated Kaveri water (TDS wise RO was not required but from other mineral contamination and impurities), I had gone with RO purifier. Although it claims its 60% higher water recovery compared to normal RO, its actually other way, this for municipal water, it wastes 1.5 x (for 1 litre water purified, it wastes 1.5 litre water out). i got this for exchange and got it at good discount during May'26 sales for 6.9K. installation was promt and there was no over selling of anything. It"
+      "title": "Good product",
+      "date": "2026-06-22",
+      "date_label": "22 June 2026",
+      "body": "Working fine after 1st service"
     }
   ]
 }
