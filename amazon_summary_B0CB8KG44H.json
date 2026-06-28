@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-06-27",
+  "scraped": "2026-06-28",
   "customers_say": "Customers find the water purifier provides good water quality and appreciate its installation process. However, the product's reliability is mixed, with some reporting it completely stops working while others say it performs satisfactorily. Moreover, durability is a concern as internal parts frequently get damaged and filters fail within 6 months. Additionally, customers report issues with noise, including a vibrating sound from the purifier, and water leakage problems. The value for money and service receive mixed feedback, with some considering it the best affordable home water purifier while others say it's not worth the cost, and some praising the service while others report poor service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "421"
+      "count": "424"
     },
     {
       "name": "Installation",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Service",
-      "count": "38"
+      "count": "39"
     },
     {
       "name": "Durability",
@@ -53,6 +53,14 @@
       "body": "The installation was very good. Bineesh did a great job and explained everything clearly."
     },
     {
+      "author": "Balasaheb patkar",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-06-23",
+      "date_label": "23 June 2026",
+      "body": "Good product"
+    },
+    {
       "author": "Jignesh Gajjar",
       "rating": 5.0,
       "title": "Kent Supreme Plus - Best Purifier in Segment",
@@ -67,14 +75,6 @@
       "date": "2026-06-16",
       "date_label": "16 June 2026",
       "body": "Nice product, works well"
-    },
-    {
-      "author": "Rakesh Baruah",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-06-14",
-      "date_label": "14 June 2026",
-      "body": "The installation was very good . Srinivas jee is wonderful in his job. Explained along with the installation"
     }
   ]
 }

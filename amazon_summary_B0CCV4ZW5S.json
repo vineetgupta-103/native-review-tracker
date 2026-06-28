@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-27",
+  "scraped": "2026-06-28",
   "customers_say": "Customers find this smart lock to be of high quality, with all features working smoothly. They appreciate its versatility with multiple unlocking options, including fingerprint recognition, and find it easy to use, with one customer noting it's particularly suitable for children. The lock receives positive feedback for its appearance, value for money, and security features, with one customer highlighting its secure multi-bolt system. Customers like the installation process, with one mentioning it can be installed on both single and double panel doors.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Raghu Nadh",
+      "rating": 5.0,
+      "title": "Excellent Quality.",
+      "date": "2026-06-22",
+      "date_label": "22 June 2026",
+      "body": "Excellent product. Excellent items for Home Security."
+    },
+    {
       "author": "Chirag Mehta",
       "rating": 5.0,
       "title": "Easy setup",
@@ -59,14 +67,6 @@
       "date": "2026-06-16",
       "date_label": "16 June 2026",
       "body": "This GoLens smart lock is a very good product, we feel proud to have bought it. All its functions are very good and preferred."
-    },
-    {
-      "author": "Ajit Sawant",
-      "rating": 5.0,
-      "title": "Smart & Secure – Worth the Upgrade!",
-      "date": "2026-04-13",
-      "date_label": "13 April 2026",
-      "body": "Using the Golens X95 from last 3-4 months—very convenient and reliable. Face unlock and fingerprint are quick and accurate, and the mobile app makes remote access easy. Build quality feels strong with a secure multi-bolt system. Battery backup is decent with alerts, so no worry about sudden lockouts."
     },
     {
       "author": "Pooja ghatge",

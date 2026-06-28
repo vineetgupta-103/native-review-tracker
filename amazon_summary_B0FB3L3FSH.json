@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-06-27",
+  "scraped": "2026-06-28",
   "customers_say": "Customers find this water purifier to be a very good filter with reliable RO technology and professional installation. They appreciate its value for money, great taste, and appearance, with one customer noting its premium matte finish. Customers find it easy to use and maintain. However, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "170"
+      "count": "172"
     },
     {
       "name": "Reliability",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Value for money",
-      "count": "37"
+      "count": "38"
     },
     {
       "name": "Water taste",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Ease of use",
-      "count": "13"
+      "count": "14"
     },
     {
       "name": "Water leakage",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "varun karnati",
+      "rating": 5.0,
+      "title": "Best product - budget friendly",
+      "date": "2026-06-25",
+      "date_label": "25 June 2026",
+      "body": "Budget friendly product, low maintenance, good filtration,5 litre storage, Material strong durable body Good product"
+    },
     {
       "author": "Balachander",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-05-14",
       "date_label": "14 May 2026",
       "body": "Good buy. Worth the cost. Satisfied after using for a couple of weeks. Installation was also seamless. Urban Company picked up the details from the sales and set up schedule for the technician to install the machine with multiple sms with option to reschedule. The technician was also extremely competent to install the machine. The water quality has improved a lot which is evident from the taste of the water. The TDH meter supplied with the purifier also shows the marked difference. The company could have added a cover in the package which I had to purchase separately from Amazon. And also a ou"
-    },
-    {
-      "author": "Asish",
-      "rating": 4.0,
-      "title": "Native M0 Water Purifier",
-      "date": "2026-05-09",
-      "date_label": "9 May 2026",
-      "body": "Good product and post filtration water TDS level is excellent. Installation was bit delayed but installation quality is good."
     }
   ]
 }
