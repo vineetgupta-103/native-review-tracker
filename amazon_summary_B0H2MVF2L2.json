@@ -1,8 +1,16 @@
 {
-  "scraped": "2026-06-28",
+  "scraped": "2026-06-30",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "Deeksha tripathi",
+      "rating": 5.0,
+      "title": "WORKS WELL. LOOKS 10/10*",
+      "date": "2026-06-28",
+      "date_label": "28 June 2026",
+      "body": "Performance is what you would expect from something in this price range. Face unlock is fast, app is stable, auto-lock works well also. No complaints there. What surprised me was the way my door looks now. The handleless design is very clean. Gets noticed by everyone who visits our house. Installation was done on time and the technician was professional. Set up everything properly and gave a detailed demo. Great experience."
+    },
     {
       "author": "Ayesha Tabassum",
       "rating": 5.0,
@@ -34,14 +42,6 @@
       "date": "2026-05-23",
       "date_label": "23 May 2026",
       "body": "Lock feels very sturdy and premium while using. The handleless design looks very unique and modern compared to other locks I saw. Installation was done nicely by UC technician. He came on time and setup app and everything. Remote unlock feature is very helpful when maid or guests come home before us."
-    },
-    {
-      "author": "MAYANK",
-      "rating": 5.0,
-      "title": "Best in segment",
-      "date": "2026-05-13",
-      "date_label": "13 May 2026",
-      "body": "Top of the line Product. I was hesitant at first but if you compare the features this lock has no one else is providing those at this range. I saw qubo and godrej screen lock also but built quality and features are just far too good. I have a white door so the black matte finish looks good. Face id is seamless, it works even in complete darkness. The live video feature is also very useful to talk to delivery guys when they ring door bell, without calling them. Installation was also very quick I thought it will take too much time but mine got installed within 2 hours."
     }
   ]
 }

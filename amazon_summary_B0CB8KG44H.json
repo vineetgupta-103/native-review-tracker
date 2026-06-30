@@ -1,64 +1,31 @@
 {
-  "scraped": "2026-06-28",
-  "customers_say": "Customers find the water purifier provides good water quality and appreciate its installation process. However, the product's reliability is mixed, with some reporting it completely stops working while others say it performs satisfactorily. Moreover, durability is a concern as internal parts frequently get damaged and filters fail within 6 months. Additionally, customers report issues with noise, including a vibrating sound from the purifier, and water leakage problems. The value for money and service receive mixed feedback, with some considering it the best affordable home water purifier while others say it's not worth the cost, and some praising the service while others report poor service.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "424"
-    },
-    {
-      "name": "Installation",
-      "count": "115"
-    },
-    {
-      "name": "Reliability",
-      "count": "121"
-    },
-    {
-      "name": "Value for money",
-      "count": "66"
-    },
-    {
-      "name": "Service",
-      "count": "39"
-    },
-    {
-      "name": "Durability",
-      "count": "34"
-    },
-    {
-      "name": "Noise",
-      "count": "23"
-    },
-    {
-      "name": "Water leakage",
-      "count": "19"
-    }
-  ],
+  "scraped": "2026-06-30",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
     {
-      "author": "Boreddy Anvesh Reddy",
-      "rating": 5.0,
-      "title": "Kent product review",
-      "date": "2026-06-25",
-      "date_label": "25 June 2026",
-      "body": "Good product and good service and technician is kind and best service"
+      "author": "Gopikrishna",
+      "rating": 4.0,
+      "title": "Kent Supreme Plus Water Purifier: Delivery & Installation",
+      "date": "2026-06-27",
+      "date_label": "27 June 2026",
+      "body": "The product is good. Amazon delivery superb. The installation is a big drag. had a tough time in scheduling installation. The technician comes without requisite plumbing items. Btw, learnt during a installation that you need to purchase the pre-water filter seperately."
     },
     {
-      "author": "Ranjan Shetty",
+      "author": "naveen",
       "rating": 5.0,
-      "title": "Very good",
+      "title": "Excellent water purifier",
+      "date": "2026-06-26",
+      "date_label": "26 June 2026",
+      "body": "A very good and usefull product. Delivery and installation was great."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Good Product and good installation",
       "date": "2026-06-24",
       "date_label": "24 June 2026",
-      "body": "The installation was very good. Bineesh did a great job and explained everything clearly."
-    },
-    {
-      "author": "Balasaheb patkar",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-06-23",
-      "date_label": "23 June 2026",
-      "body": "Good product"
+      "body": "Delivery is on time. The installation is hassle-free. Very good installation and the behavior of engineer is good Thankyou Amazon."
     },
     {
       "author": "Jignesh Gajjar",
@@ -69,12 +36,12 @@
       "body": "Off course Kent Purifiers are good and this one is one of the best in segment i can say because it provides Alkaline, Copper and UV Led in Tank. Though Storage Capacity is bit small but for our family it suffice. Leakage till date is not observed, easy to use even by daughter do it. No issues till date, genuine service received from company."
     },
     {
-      "author": "manasa",
+      "author": "Vignesh M",
       "rating": 5.0,
-      "title": "Quality",
-      "date": "2026-06-16",
-      "date_label": "16 June 2026",
-      "body": "Nice product, works well"
+      "title": "Go for it!",
+      "date": "2026-06-17",
+      "date_label": "17 June 2026",
+      "body": "No concerns after 4 months of usage. The TDS level can be adjusted with some efforts as required. Installation was quick and easy. I regret not purchasing this earlier. Totally value for money! The best filter in this price range. There may be some minor noises for few seconds, other than that it's quiet."
     }
   ]
 }

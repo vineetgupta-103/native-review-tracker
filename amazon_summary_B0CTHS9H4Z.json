@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-06-28",
-  "customers_say": "Customers find the smart door lock to be of professional quality and appreciate its efficient installation process. The lock works reliably and comes with a host of features and options, with one customer noting its multiple control methods. They find it easy to use and consider it good value for money, while also praising its stylish appearance and good service from Lavna Locks.",
+  "scraped": "2026-06-30",
+  "customers_say": "Customers find the smart door lock to be of excellent quality and reliable, with one noting it works without any lag. The installation process is easy, and customers appreciate that it offers multiple functionality options at a lower cost. They praise its security features, with one customer mentioning there's no need to worry about keys, and find it user-friendly, with one noting the app is super intuitive. Customers are satisfied with the service they receive.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "106"
-    },
-    {
-      "name": "Installation",
-      "count": "39"
+      "count": "84"
     },
     {
       "name": "Reliability",
-      "count": "29"
+      "count": "30"
+    },
+    {
+      "name": "Installation",
+      "count": "27"
     },
     {
       "name": "Value for money",
@@ -20,61 +20,61 @@
     },
     {
       "name": "Ease of use",
-      "count": "20"
+      "count": "21"
     },
     {
-      "name": "Features",
-      "count": "20"
-    },
-    {
-      "name": "Service",
+      "name": "Security",
       "count": "16"
     },
     {
-      "name": "Appearance",
-      "count": "15"
+      "name": "Service",
+      "count": "12"
+    },
+    {
+      "name": "Features",
+      "count": "10"
     }
   ],
   "reviews": [
     {
-      "author": "Jain Crockery 45",
+      "author": "Anirban",
       "rating": 5.0,
-      "title": "Good product",
+      "title": "Smart lock with outstanding security",
+      "date": "2026-06-25",
+      "date_label": "25 June 2026",
+      "body": "Excellent Smart Lock with Outstanding Security and Support I’ve been using this smart lock for several months, and it has exceeded my expectations in every way. The security features are excellent, giving me complete peace of mind when I’m away from home. Features such as real-time activity tracking, tamper alerts, auto-lock functionality, and secure access management make it a reliable solution for protecting my property. The mobile app is incredibly user-friendly and intuitive. Setting up the lock was straightforward, and the app makes it easy to lock or unlock the door remotely, create temp"
+    },
+    {
+      "author": "Neha mehta",
+      "rating": 5.0,
+      "title": "Good Product",
       "date": "2026-06-19",
       "date_label": "19 June 2026",
-      "body": "Good installation by lucky"
+      "body": "Nice and helpful service"
     },
     {
-      "author": "Ashish Shah",
+      "author": "Rupa chatterjee",
       "rating": 5.0,
-      "title": "Good service",
-      "date": "2026-06-04",
-      "date_label": "4 June 2026",
-      "body": "Very Good lock,installation by Mr. lucky also well."
+      "title": "Useful system every house need nowdays",
+      "date": "2026-06-11",
+      "date_label": "11 June 2026",
+      "body": "Value for money , good battery back up, amd easy to use and install"
     },
     {
-      "author": "Somkar Singh",
+      "author": "Tusief husaain",
+      "rating": 5.0,
+      "title": "Highly recommend",
+      "date": "2026-06-09",
+      "date_label": "9 June 2026",
+      "body": "Good product Good services"
+    },
+    {
+      "author": "Murali",
       "rating": 4.0,
-      "title": "Customer service is not up to the mark",
-      "date": "2026-06-03",
-      "date_label": "3 June 2026",
-      "body": "It is a great product but, cost is too high . Customer support is also not upto the mark."
-    },
-    {
-      "author": "Amit Savaliya",
-      "rating": 5.0,
-      "title": "Value for Money",
-      "date": "2026-05-27",
-      "date_label": "27 May 2026",
-      "body": "Value for Money, good quality and service. Also face recognition, alarm and capturing logs on every unlock is something not found in this price. For battery life and durability can't comment right now but overall a good product till now."
-    },
-    {
-      "author": "Syam",
-      "rating": 5.0,
-      "title": "Good product and great value for money",
-      "date": "2026-05-20",
-      "date_label": "20 May 2026",
-      "body": "Product is good need to learn so many basics which will be little strange to get familiar during installation"
+      "title": "Good Product, But Customer Support Needs Faster Response",
+      "date": "2026-06-06",
+      "date_label": "6 June 2026",
+      "body": "After multiple follow-ups and considerable waiting, the technician finally visited and fixed the issues. The lock itself is working well and I am satisfied with the product’s performance. However, the customer support experience needs significant improvement. The turnaround time (TAT) for service requests was much longer than expected, and communication during the process could have been better. If the support team can respond faster and reduce service delays, the overall customer experience would be much better. Overall, a good product, but the after-sales service needs attention."
     }
   ]
 }
