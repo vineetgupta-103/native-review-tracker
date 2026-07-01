@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-06-30",
-  "customers_say": "Customers find the digital lock to be feature-rich with multiple unlocking options and appreciate its functionality, with one customer noting it works well on wooden doors. The installation and service receive positive feedback, and customers value its security and ease of use, with one mentioning it's easy for different family members to use. While the quality and features are positively received, opinions on value for money are mixed, with some finding it overpriced.",
+  "scraped": "2026-07-01",
+  "customers_say": "Customers find the digital lock to be of good quality and appreciate its multiple unlocking options, with one noting it works well on wooden doors. The installation and service receive positive feedback, and customers value its security features, with one mentioning it's easy for different family members to use. While customers consider it feature-rich, opinions on value for money are mixed.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "34"
+      "count": "36"
     },
     {
       "name": "Installation service",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Value for money",
-      "count": "11"
+      "count": "12"
     }
   ],
   "reviews": [
+    {
+      "author": "PSS",
+      "rating": 4.0,
+      "title": "Un-trained technicians basically know only carpentry work only.",
+      "date": "2026-06-28",
+      "date_label": "28 June 2026",
+      "body": "Technician could not configure WIfi with the digital lock。 He is not experienced。 also does not have time to configure He put the blame on internet provider and went off。 For such a expensive lock, the technicians should be properly trained not only carpentry work but also ensures proper software and complete configuration. Very disappointing. Options are available for Rs 10K onwards, but preferred Godrej for their service, and reputation。"
+    },
     {
       "author": "Garima",
       "rating": 1.0,
@@ -67,14 +75,6 @@
       "date": "2026-05-22",
       "date_label": "22 May 2026",
       "body": "Excellent product very useful and safe to use. The technician explained the whole process and made it user friendly for us."
-    },
-    {
-      "author": "sandhya",
-      "rating": 5.0,
-      "title": "Product and service are really good.",
-      "date": "2026-05-19",
-      "date_label": "19 May 2026",
-      "body": "Product was really good. The installation was prompt. They explained everything clearly."
     }
   ]
 }

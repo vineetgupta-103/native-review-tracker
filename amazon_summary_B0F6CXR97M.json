@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-06-30",
+  "scraped": "2026-07-01",
   "customers_say": "Customers find this water purifier excellent, with features including TDS control, multiple taste adjustment options, and a modern LED light design. They appreciate the free installation and consider it good value for money, with one customer noting it will pay off in three years. The purifier's reliability receives mixed feedback - while many say it functions well, some report it stops working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "525"
+      "count": "526"
     },
     {
       "name": "Installation",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Reliability",
-      "count": "155"
+      "count": "137"
     }
   ],
   "reviews": [
+    {
+      "author": "Himanshu",
+      "rating": 5.0,
+      "title": "Excellent intelligent water purifier",
+      "date": "2026-06-28",
+      "date_label": "28 June 2026",
+      "body": "I am using atomberg intellon water purifier since last 5 months. I was looking for water purifier where we can set output TDS level, infact prepared design of making myself! As very low TDS level in standard RO is not good for health especiallywhen you have fluctuating input TDS levels due to mixing of borewell and municipalcorporation suppied river water. This atomberg purifier has performed excellently till now. We can set output tds levels through App. It shows health of each filter which is in range of 80% to 97%, Hope to get good performance in future also."
+    },
     {
       "author": "Jasmine P.",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-05-13",
       "date_label": "13 May 2026",
       "body": "Using the Atomberg water purifier for some time now and really happy with the performance. The water tastes fresh and clean, maintenance is easy, and the design looks modern too. Definitely a good choice for home use. Installation was very convenient, Installation guy did each and everything by himself... Great service and great producy"
-    },
-    {
-      "author": "Ritwik",
-      "rating": 5.0,
-      "title": "Quality and Aesthetic Product with Great Service Support! Thank You Atomberg!",
-      "date": "2026-05-13",
-      "date_label": "13 May 2026",
-      "body": "1 Month Review it is. Installation and all was so Prompt and professional. Had an issue with the Flow sensor within a month, complaint raised via app was an easy process after running diagnosis. Within 24Hrs of raising the ticket got the service expert at our door. When he checked the flow pressure was low and had to install an extra pressure Pump to maintain the required PSI. Luckily we got a thoughtfull technician and he had the pump along with him and Installation done at no Extra cost. Highly Recommended Product."
     },
     {
       "author": "Placeholder",

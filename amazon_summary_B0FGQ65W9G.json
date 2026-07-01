@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-06-30",
+  "scraped": "2026-07-01",
   "customers_say": "Customers find this electronic lock to be of excellent quality, simple to configure and use, and appreciate its nice appearance. Moreover, the functionality receives positive feedback, with one customer noting the technician spent adequate time explaining how it works. They also value the service, with one mentioning the technician's excellent service, and consider it good value for money.",
   "aspects": [
     {
@@ -33,20 +33,20 @@
   ],
   "reviews": [
     {
+      "author": "Ram",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-06-23",
+      "date_label": "23 June 2026",
+      "body": "Excellent product"
+    },
+    {
       "author": "Raja Guru",
       "rating": 5.0,
       "title": "Godrej Digital lock",
       "date": "2025-11-13",
       "date_label": "13 November 2025",
       "body": "It’s working good , and the customer service also available at any time, with in 3 working days they will come and solve the problems, It’s safe and secure for home main door, recommend to buy this digital lock.."
-    },
-    {
-      "author": "Nirmal Gandhi",
-      "rating": 1.0,
-      "title": "After sales service is pathetic",
-      "date": "2025-11-09",
-      "date_label": "9 November 2025",
-      "body": "Don’t every buy lock from Godrej. Very poor customer service my lock is malfunctioning. No one picks their customer service number. They insist on using whatsapp bot to make complaint. I complained on 30th October 2025 and today is 9th November 2025. Not resolved till date. No one picking lines."
     },
     {
       "author": "Vaibhav",

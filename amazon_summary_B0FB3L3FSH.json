@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-06-30",
+  "scraped": "2026-07-01",
   "customers_say": "Customers find this water purifier to be a very good filter with reliable RO technology and professional installation. They appreciate its value for money, great taste, and appearance, with one customer noting its premium matte finish. Customers find it easy to use and maintain. However, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "172"
+      "count": "173"
     },
     {
       "name": "Reliability",
-      "count": "55"
+      "count": "56"
     },
     {
       "name": "Installation",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Value for money",
-      "count": "38"
+      "count": "39"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "rachit rajpal",
+      "rating": 5.0,
+      "title": "No service changes",
+      "date": "2026-06-27",
+      "date_label": "27 June 2026",
+      "body": "Good quality RO with low maintainence cost and unconditional warrenty"
+    },
     {
       "author": "varun karnati",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-09",
       "date_label": "9 June 2026",
       "body": "Really best product with in the budget installation also very smooth.overall value for the money."
-    },
-    {
-      "author": "Ghintoxon Shamaddar",
-      "rating": 5.0,
-      "title": "Good purchase. A few add ons would have been nice",
-      "date": "2026-05-14",
-      "date_label": "14 May 2026",
-      "body": "Good buy. Worth the cost. Satisfied after using for a couple of weeks. Installation was also seamless. Urban Company picked up the details from the sales and set up schedule for the technician to install the machine with multiple sms with option to reschedule. The technician was also extremely competent to install the machine. The water quality has improved a lot which is evident from the taste of the water. The TDH meter supplied with the purifier also shows the marked difference. The company could have added a cover in the package which I had to purchase separately from Amazon. And also a ou"
     }
   ]
 }
