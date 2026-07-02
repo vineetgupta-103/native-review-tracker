@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-01",
+  "scraped": "2026-07-02",
   "customers_say": "Customers find this water purifier to be the best in the market, with excellent installation and value for money, particularly noting the transparent pricing. Moreover, the machine works superbly, and customers appreciate its premium appearance and sweet-tasting water. Additionally, the service receives positive feedback, with one customer highlighting its quick response time.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "1.5K"
+      "count": "1.6K"
     },
     {
       "name": "Installation",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Value for money",
-      "count": "279"
+      "count": "280"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Transform with Rajshree",
+      "rating": 5.0,
+      "title": "Good overall in budget and lookwise",
+      "date": "2026-06-29",
+      "date_label": "29 June 2026",
+      "body": "It is just installed so cannot say the exact review once I use.it for some time then only I can say. For now look wise it is good and clutter free. The service man was good and helpful."
+    },
     {
       "author": "AAYUSH",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-15",
       "date_label": "15 June 2026",
       "body": "The Native M1 Water Purifier has proven to be an excellent choice for clean and safe drinking water. The build quality feels sturdy and well-designed, making it a reliable addition to any home. Its purification performance is impressive, delivering fresh, great-tasting water consistently. The delivery agent did not deliver my product, I went myself and received my product. One of the standout features is its efficiency and ease of use. The system works smoothly without complications, and the design is user-friendly, even for first-time users. The installation process was quick and hassle-free,"
-    },
-    {
-      "author": "Raj thakkar",
-      "rating": 5.0,
-      "title": "Working well",
-      "date": "2026-06-10",
-      "date_label": "10 June 2026",
-      "body": "I got M1 PRO few weeks ago from Amazon. Next day delivery. the purification is very gud. the water is fresh and clean, not flat. Ro has 2 years warranty and the technician was very gud. no upselling or any problem like in last RO. Looks very gud in the kitchen also and can see everything on app now. I like this Ro"
     }
   ]
 }
