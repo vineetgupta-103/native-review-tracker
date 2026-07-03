@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-02",
+  "scraped": "2026-07-03",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its quick and professional installation by Aquaguard experts. The product offers excellent value for money, tastes good, and features an elegant design. Customers find it easy to use, with one mentioning the tap design makes water collection convenient. The service receives mixed reviews, with some customers praising the service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "843"
+      "count": "847"
     },
     {
       "name": "Reliability",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "MINAKSHI",
+      "rating": 4.0,
+      "title": "Good filter and service",
+      "date": "2026-06-30",
+      "date_label": "30 June 2026",
+      "body": "Its a good filter.i am satisfied with it"
+    },
+    {
       "author": "Midhun R.",
       "rating": 5.0,
       "title": "Great product",
@@ -61,20 +69,12 @@
       "body": "Product is very good. Value for money."
     },
     {
-      "author": "Harini Kapila",
+      "author": "IBRAHIM MISBAH",
       "rating": 5.0,
-      "title": "Good water filter with 12 stages",
-      "date": "2026-06-20",
-      "date_label": "20 June 2026",
-      "body": "Service is good, tank fills quickly and water wastage is less. Dont have to change Filter till 10 K Liters is more exciting for me"
-    },
-    {
-      "author": "Gautham skoyal",
-      "rating": 4.0,
-      "title": "Hey",
-      "date": "2026-06-18",
-      "date_label": "18 June 2026",
-      "body": "Working good and fine ... installation was smooth and the product looks classy ..water feels premium"
+      "title": "Amazing !!!",
+      "date": "2026-06-22",
+      "date_label": "22 June 2026",
+      "body": "Good choice, if you want a well-known brand with strong purification technology with wi-fi.......Go for it. 2 years full warranty."
     }
   ]
 }

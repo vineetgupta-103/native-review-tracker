@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-07-02",
+  "scraped": "2026-07-03",
   "customers_say": "Customers find the water purifier provides good quality water and appreciate its installation process. However, the reliability is mixed, with some reporting it stops working completely. Moreover, durability is a concern as filters break within 6 months and internal parts fail frequently. Additionally, customers report issues with noise, including loud sounds and vibrations, and water leakage problems. The value for money and service receive mixed reviews, with some finding it a good affordable purifier while others say it's not worth the cost, and some praising the service while others report poor service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "433"
+      "count": "437"
     },
     {
       "name": "Installation",
-      "count": "119"
+      "count": "120"
     },
     {
       "name": "Reliability",
-      "count": "125"
+      "count": "126"
     },
     {
       "name": "Value for money",
@@ -37,12 +37,20 @@
   ],
   "reviews": [
     {
-      "author": "Jebastin",
-      "rating": 1.0,
-      "title": "Disappointed with Product Quality and Customer Support",
-      "date": "2026-06-29",
-      "date_label": "29 June 2026",
-      "body": "**⭐ 1 Star – Very Disappointed** I purchased this KENT RO Water Purifier from Amazon in June 2026 for **₹15,599**, and I also spent an additional **₹1,500** on the filter. Unfortunately, my experience has been very disappointing. The water does not taste good, and the purifier has not been working properly. I raised a service complaint with KENT customer support in the Tambaram area, but I have not received a proper response or timely service. The after-sales support has been poor, and my issue remains still unresolved. I invested a total of over **₹17,000**, but I am not satisfied with the pr"
+      "author": "Jahangir Khan",
+      "rating": 5.0,
+      "title": "The item is really effective",
+      "date": "2026-06-30",
+      "date_label": "30 June 2026",
+      "body": "It is a really good product and have effectively improved our drinking water quality. The service provided by the company was also satisfactory."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Recommended",
+      "date": "2026-06-30",
+      "date_label": "30 June 2026",
+      "body": "Nice product and professional installation done on time"
     },
     {
       "author": "Gopikrishna",
@@ -53,28 +61,20 @@
       "body": "The product is good. Amazon delivery superb. The installation is a big drag. had a tough time in scheduling installation. The technician comes without requisite plumbing items. Btw, learnt during a installation that you need to purchase the pre-water filter seperately."
     },
     {
+      "author": "Aditya",
+      "rating": 2.0,
+      "title": "Bad choice",
+      "date": "2026-06-27",
+      "date_label": "27 June 2026",
+      "body": "Bad Choice, in 8 months time filter membrane stopped and technician asked for replacement. To the surprise, only RO membrane which was under warranty was working and all other which were out of warranty to be changed. This is a situation in a family of 2, in 8 months time we were out of city for 1.5 months."
+    },
+    {
       "author": "naveen",
       "rating": 5.0,
       "title": "Excellent water purifier",
       "date": "2026-06-26",
       "date_label": "26 June 2026",
       "body": "A very good and usefull product. Delivery and installation was great."
-    },
-    {
-      "author": "Pradeep Mani",
-      "rating": 5.0,
-      "title": "Good product and fast installation and demo",
-      "date": "2026-06-26",
-      "date_label": "26 June 2026",
-      "body": "Excellent Installation and demo is good"
-    },
-    {
-      "author": "Boreddy Anvesh Reddy",
-      "rating": 5.0,
-      "title": "Kent product review",
-      "date": "2026-06-25",
-      "date_label": "25 June 2026",
-      "body": "Good product and good service and technician is kind and best service"
     }
   ]
 }
