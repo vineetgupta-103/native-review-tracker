@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-03",
+  "scraped": "2026-07-04",
   "customers_say": "Customers find this electronic lock to be of excellent quality, simple to configure and use, and appreciate its nice appearance. Moreover, the functionality receives positive feedback, with one customer noting the technician spent adequate time explaining how it works. They also value the service, with one mentioning the technician's excellent service, and consider it good value for money.",
   "aspects": [
     {
@@ -33,14 +33,6 @@
   ],
   "reviews": [
     {
-      "author": "Chinmay kapgate",
-      "rating": 5.0,
-      "title": "Product service",
-      "date": "2026-07-01",
-      "date_label": "1 July 2026",
-      "body": "Excellent service and fast.very much satisfied"
-    },
-    {
       "author": "Ram",
       "rating": 5.0,
       "title": "Good",
@@ -71,6 +63,14 @@
       "date": "2025-09-27",
       "date_label": "27 September 2025",
       "body": "Ravindra is best in job , fast and accurate installation , fast service , demo good"
+    },
+    {
+      "author": "Sarla s.",
+      "rating": 4.0,
+      "title": "Godrej Catus touch plus digital lock",
+      "date": "2025-07-29",
+      "date_label": "29 July 2025",
+      "body": "Godrej Catus touch digital lock, I perched from Amazon , good quality , its value for money ,Finger print recognize very well ,thanks Amazon seller retailed"
     }
   ]
 }

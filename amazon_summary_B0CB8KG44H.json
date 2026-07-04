@@ -1,40 +1,7 @@
 {
-  "scraped": "2026-07-03",
-  "customers_say": "Customers find the water purifier provides good quality water and appreciate its installation process. However, the reliability is mixed, with some reporting it stops working completely. Moreover, durability is a concern as filters break within 6 months and internal parts fail frequently. Additionally, customers report issues with noise, including loud sounds and vibrations, and water leakage problems. The value for money and service receive mixed reviews, with some finding it a good affordable purifier while others say it's not worth the cost, and some praising the service while others report poor service.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "437"
-    },
-    {
-      "name": "Installation",
-      "count": "120"
-    },
-    {
-      "name": "Reliability",
-      "count": "126"
-    },
-    {
-      "name": "Value for money",
-      "count": "66"
-    },
-    {
-      "name": "Service",
-      "count": "39"
-    },
-    {
-      "name": "Durability",
-      "count": "35"
-    },
-    {
-      "name": "Noise",
-      "count": "23"
-    },
-    {
-      "name": "Water leakage",
-      "count": "19"
-    }
-  ],
+  "scraped": "2026-07-04",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
     {
       "author": "Jahangir Khan",
@@ -45,14 +12,6 @@
       "body": "It is a really good product and have effectively improved our drinking water quality. The service provided by the company was also satisfactory."
     },
     {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Recommended",
-      "date": "2026-06-30",
-      "date_label": "30 June 2026",
-      "body": "Nice product and professional installation done on time"
-    },
-    {
       "author": "Gopikrishna",
       "rating": 4.0,
       "title": "Kent Supreme Plus Water Purifier: Delivery & Installation",
@@ -61,20 +20,28 @@
       "body": "The product is good. Amazon delivery superb. The installation is a big drag. had a tough time in scheduling installation. The technician comes without requisite plumbing items. Btw, learnt during a installation that you need to purchase the pre-water filter seperately."
     },
     {
-      "author": "Aditya",
-      "rating": 2.0,
-      "title": "Bad choice",
-      "date": "2026-06-27",
-      "date_label": "27 June 2026",
-      "body": "Bad Choice, in 8 months time filter membrane stopped and technician asked for replacement. To the surprise, only RO membrane which was under warranty was working and all other which were out of warranty to be changed. This is a situation in a family of 2, in 8 months time we were out of city for 1.5 months."
-    },
-    {
       "author": "naveen",
       "rating": 5.0,
       "title": "Excellent water purifier",
       "date": "2026-06-26",
       "date_label": "26 June 2026",
       "body": "A very good and usefull product. Delivery and installation was great."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Good Product and good installation",
+      "date": "2026-06-24",
+      "date_label": "24 June 2026",
+      "body": "Delivery is on time. The installation is hassle-free. Very good installation and the behavior of engineer is good Thankyou Amazon."
+    },
+    {
+      "author": "Jignesh Gajjar",
+      "rating": 5.0,
+      "title": "Kent Supreme Plus - Best Purifier in Segment",
+      "date": "2026-06-22",
+      "date_label": "22 June 2026",
+      "body": "Off course Kent Purifiers are good and this one is one of the best in segment i can say because it provides Alkaline, Copper and UV Led in Tank. Though Storage Capacity is bit small but for our family it suffice. Leakage till date is not observed, easy to use even by daughter do it. No issues till date, genuine service received from company."
     }
   ]
 }
