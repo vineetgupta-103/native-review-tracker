@@ -1,8 +1,16 @@
 {
-  "scraped": "2026-07-04",
+  "scraped": "2026-07-05",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "Alok pandey",
+      "rating": 5.0,
+      "title": "*Small Conveniences give a luxury fee*",
+      "date": "2026-07-03",
+      "date_label": "3 July 2026",
+      "body": "Felt like i purchased a premium product when I had bags in both hands and the door opened anyway via face unlock. If you switch from a normal lock, there will be multiple instances like these that will feel like a big upgrade. Security is also a very important aspect. I monitored the entire installation process and understood how the lock functions from the technician. Lock provides top tier safety according to the price it demands. I would categorize this as a good purchase. Features are very useful. Recommended to anyone who's looking for reliable safety and convenience."
+    },
     {
       "author": "Deeksha tripathi",
       "rating": 5.0,
@@ -34,14 +42,6 @@
       "date": "2026-06-11",
       "date_label": "11 June 2026",
       "body": "Good product. Looks very nice and sleek. Go for it if you like design and reliability. Although battery performance: will check"
-    },
-    {
-      "author": "Gandhi Yash",
-      "rating": 5.0,
-      "title": "strong and stylish lock",
-      "date": "2026-05-23",
-      "date_label": "23 May 2026",
-      "body": "Lock feels very sturdy and premium while using. The handleless design looks very unique and modern compared to other locks I saw. Installation was done nicely by UC technician. He came on time and setup app and everything. Remote unlock feature is very helpful when maid or guests come home before us."
     }
   ]
 }

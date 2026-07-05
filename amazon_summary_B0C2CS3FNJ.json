@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-04",
+  "scraped": "2026-07-05",
   "customers_say": "Customers find this smart lock to be a feature-rich device with strong security and a beautiful appearance. They appreciate its functionality, with one customer noting flawless real-time alerts, and its ease of use with multiple unlock options. Customers consider it good value for money and praise its installation process, with one mentioning seamless integration through the app.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Ajith Kumar Varma",
+      "rating": 5.0,
+      "title": "Worth the price and high quality",
+      "date": "2026-06-23",
+      "date_label": "23 June 2026",
+      "body": "Works beautifully."
+    },
+    {
       "author": "Manish",
       "rating": 5.0,
       "title": "Atomsberg Lock Review",
@@ -67,14 +75,6 @@
       "date": "2026-05-19",
       "date_label": "19 May 2026",
       "body": "Looks good and feeling safe, Mr. Shravan installed lock perfectly. Will update usage review later days."
-    },
-    {
-      "author": "Ablash",
-      "rating": 5.0,
-      "title": "Great lock and experience",
-      "date": "2026-03-05",
-      "date_label": "5 March 2026",
-      "body": "Tinku Sharma was very polite and did a wonderful job with the installation. He constantly followed up after the delivery and provided a smooth experience."
     }
   ]
 }

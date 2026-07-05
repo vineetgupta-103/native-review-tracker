@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-07-04",
+  "scraped": "2026-07-05",
   "customers_say": "Customers find the smart door lock to be of professional quality and appreciate its efficient installation process. The lock works reliably and comes with a host of features and options, with one customer noting its multiple control methods. They find it easy to use and consider it good value for money, while also praising its stylish appearance and good service from Lavna Locks.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "107"
+      "count": "108"
     },
     {
       "name": "Installation",
-      "count": "39"
+      "count": "40"
     },
     {
       "name": "Reliability",
-      "count": "29"
+      "count": "30"
     },
     {
       "name": "Value for money",
@@ -37,20 +37,20 @@
   ],
   "reviews": [
     {
+      "author": "Astute Software",
+      "rating": 4.0,
+      "title": "A good product",
+      "date": "2026-07-01",
+      "date_label": "1 July 2026",
+      "body": "Seems good, sometimes it doesn't accept the finger prints but maximum times it works fine apart from this require a feature where i can see someone standing on the door. But currently its not available untill he press the bell of the lock"
+    },
+    {
       "author": "Jain Crockery 45",
       "rating": 5.0,
       "title": "Good product",
       "date": "2026-06-19",
       "date_label": "19 June 2026",
       "body": "Good installation by lucky"
-    },
-    {
-      "author": "Ashish Shah",
-      "rating": 5.0,
-      "title": "Good service",
-      "date": "2026-06-04",
-      "date_label": "4 June 2026",
-      "body": "Very Good lock,installation by Mr. lucky also well."
     },
     {
       "author": "Somkar Singh",

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-04",
+  "scraped": "2026-07-05",
   "customers_say": "Customers find this water purifier to be the best in the market, with excellent installation and value for money, particularly noting the transparent pricing. Moreover, the machine works superbly, and customers appreciate its premium appearance and sweet-tasting water. Additionally, the service receives positive feedback, with one customer highlighting its quick response time.",
   "aspects": [
     {
@@ -8,15 +8,15 @@
     },
     {
       "name": "Installation",
-      "count": "391"
+      "count": "392"
     },
     {
       "name": "Value for money",
-      "count": "281"
+      "count": "280"
     },
     {
       "name": "Reliability",
-      "count": "253"
+      "count": "255"
     },
     {
       "name": "Appearance",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Water taste",
-      "count": "189"
+      "count": "190"
     },
     {
       "name": "Water quality",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "PREM C.",
+      "rating": 5.0,
+      "title": "Amazing Product",
+      "date": "2026-07-02",
+      "date_label": "2 July 2026",
+      "body": "I am writing review after using the product for 3 months. The TDS 1200 were in my water. Which was my earlier water ro processed water tds goes to 350. But after installed native m1, amazingly tds down 80-100. Water taste is good like bisleri. Highly recommend to Native purifier."
+    },
     {
       "author": "Transform with Rajshree",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-06-24",
       "date_label": "24 June 2026",
       "body": "Good nice look properly work very good product"
-    },
-    {
-      "author": "Placeholder",
-      "rating": 5.0,
-      "title": "Must Buy!!! Very Good Water Purifier!!!",
-      "date": "2026-06-24",
-      "date_label": "24 June 2026",
-      "body": "Writing this review after using product for almost 11 months.Very Good Water Purifier!!! If you are looking for Water Purifier then go for it without any second thought. Superb product with good price. And best thing that you are not required any product service for \"2 Years\"!!!!!"
     },
     {
       "author": "Nandan Kumar",

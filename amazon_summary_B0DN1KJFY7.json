@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-04",
+  "scraped": "2026-07-05",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its quick and professional installation by Aquaguard experts. The product offers excellent value for money, tastes good, and features an elegant design. Customers find it easy to use, with one mentioning the tap design makes water collection convenient. The service receives mixed reviews, with some customers praising the service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "848"
+      "count": "852"
     },
     {
       "name": "Reliability",
-      "count": "237"
+      "count": "240"
     },
     {
       "name": "Installation",
-      "count": "188"
+      "count": "189"
     },
     {
       "name": "Value for money",
-      "count": "159"
+      "count": "160"
     },
     {
       "name": "Water taste",
@@ -37,6 +37,30 @@
   ],
   "reviews": [
     {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Nice deal",
+      "date": "2026-07-02",
+      "date_label": "2 July 2026",
+      "body": "Excellent product. Working good. Satisfied"
+    },
+    {
+      "author": "Jilu",
+      "rating": 5.0,
+      "title": "Good product and worth for money",
+      "date": "2026-07-02",
+      "date_label": "2 July 2026",
+      "body": "Satisfied with the product, prompt delivery"
+    },
+    {
+      "author": "Lakshmi Priya",
+      "rating": 5.0,
+      "title": "Excellent",
+      "date": "2026-07-02",
+      "date_label": "2 July 2026",
+      "body": "Nice and working good"
+    },
+    {
       "author": "Roshan Panda",
       "rating": 4.0,
       "title": "Overally a good product",
@@ -45,36 +69,12 @@
       "body": "Good value for money product but AMC charges are high. Working perfectly fine and there is no leakage."
     },
     {
-      "author": "Midhun R.",
-      "rating": 5.0,
-      "title": "Great product",
-      "date": "2026-06-26",
-      "date_label": "26 June 2026",
-      "body": "I have been using the product for last 1 year. The product is excellent and the service is great. The water quality is also great."
-    },
-    {
-      "author": "Rajdeep Maulik",
-      "rating": 5.0,
-      "title": "Nice product",
-      "date": "2026-06-22",
-      "date_label": "22 June 2026",
-      "body": "The product is delivered and installation is done. The product seems to be good will provide the feedback after using it for sometime."
-    },
-    {
-      "author": "Pritam Pramanick",
-      "rating": 5.0,
-      "title": "Loving it",
-      "date": "2026-06-22",
-      "date_label": "22 June 2026",
-      "body": "Product is very good. Value for money."
-    },
-    {
-      "author": "IBRAHIM MISBAH",
-      "rating": 5.0,
-      "title": "Amazing !!!",
-      "date": "2026-06-22",
-      "date_label": "22 June 2026",
-      "body": "Good choice, if you want a well-known brand with strong purification technology with wi-fi.......Go for it. 2 years full warranty."
+      "author": "MINAKSHI",
+      "rating": 4.0,
+      "title": "Good filter and service",
+      "date": "2026-06-30",
+      "date_label": "30 June 2026",
+      "body": "Its a good filter.i am satisfied with it"
     }
   ]
 }

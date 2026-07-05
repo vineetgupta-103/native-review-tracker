@@ -1,7 +1,40 @@
 {
-  "scraped": "2026-07-04",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-07-05",
+  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its installation process, taste, and water quality. However, the reliability and service receive mixed reviews - while some report no issues, others mention the purifier stopping working completely and experiencing bad service. Moreover, durability is a concern, with customers reporting damage to the machine within two months of use. Additionally, opinions on value for money are divided, with some finding it worth the investment while others consider it expensive.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "1.8K"
+    },
+    {
+      "name": "Installation",
+      "count": "678"
+    },
+    {
+      "name": "Water taste",
+      "count": "219"
+    },
+    {
+      "name": "Water quality",
+      "count": "186"
+    },
+    {
+      "name": "Reliability",
+      "count": "477"
+    },
+    {
+      "name": "Value for money",
+      "count": "441"
+    },
+    {
+      "name": "Service",
+      "count": "163"
+    },
+    {
+      "name": "Durability",
+      "count": "153"
+    }
+  ],
   "reviews": [
     {
       "author": "Jahangir Khan",
