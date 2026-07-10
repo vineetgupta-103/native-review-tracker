@@ -1,22 +1,26 @@
 {
-  "scraped": "2026-07-05",
-  "customers_say": "Customers find this smart lock to be of excellent quality, with professional installation and reliable performance. They appreciate its sleek appearance, ease of use with good app interface, and consider it a great value. They like the features, with one customer highlighting the multiple access options for self and family, and another mentioning the password masking functionality.",
+  "scraped": "2026-07-10",
+  "customers_say": "Customers find this smart lock to be the best in class, with professional installation and reliable performance. They appreciate its sleek appearance, with one customer noting it adds a modern touch to the door. The lock offers excellent security with triple deadlocks and multiple authentication methods, while the app interface is easy to use. They like its feature-rich design, including multiple unlocking options and customizable access permissions.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "110"
+      "count": "113"
     },
     {
       "name": "Installation",
-      "count": "63"
+      "count": "64"
     },
     {
       "name": "Reliability",
-      "count": "39"
+      "count": "40"
     },
     {
       "name": "Appearance",
       "count": "22"
+    },
+    {
+      "name": "Security",
+      "count": "19"
     },
     {
       "name": "Service",
@@ -29,13 +33,25 @@
     {
       "name": "Features",
       "count": "15"
-    },
-    {
-      "name": "Value for money",
-      "count": "15"
     }
   ],
   "reviews": [
+    {
+      "author": "HIMANSHU",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "Good product. I purchase a year back. No problem so far. Battries last for 6to 7 months."
+    },
+    {
+      "author": "Chandrakanth Neelam",
+      "rating": 5.0,
+      "title": "Feel secured",
+      "date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "body": "Good product"
+    },
     {
       "author": "Swetha",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-06-07",
       "date_label": "7 June 2026",
       "body": "The lock pro is a perfect solution for front door.very competent installation.very easy to use, yet quite safe.met our requirement to the full"
-    },
-    {
-      "author": "Arun s.",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-06-07",
-      "date_label": "7 June 2026",
-      "body": "Working great"
-    },
-    {
-      "author": "Niranjan Reddy Nare",
-      "rating": 5.0,
-      "title": "Best Lock",
-      "date": "2026-06-07",
-      "date_label": "7 June 2026",
-      "body": "Excellent Service by UC, Bhim technician arrived is a professional guy and made a neat installation"
     }
   ]
 }

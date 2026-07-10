@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-05",
+  "scraped": "2026-07-10",
   "customers_say": "Customers find the smart door lock to be of professional quality and appreciate its efficient installation process. The lock works reliably and comes with a host of features and options, with one customer noting its multiple control methods. They find it easy to use and consider it good value for money, while also praising its stylish appearance and good service from Lavna Locks.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "108"
+      "count": "109"
     },
     {
       "name": "Installation",
@@ -37,6 +37,22 @@
   ],
   "reviews": [
     {
+      "author": "Nitin G Gupta",
+      "rating": 5.0,
+      "title": "Excellent product and Installation",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "Excellent lock… installation is smooth nice work by Lucky."
+    },
+    {
+      "author": "Sumit",
+      "rating": 5.0,
+      "title": "Works well",
+      "date": "2026-07-02",
+      "date_label": "2 July 2026",
+      "body": "Nice lock Works well Installation was timely & very professional"
+    },
+    {
       "author": "Astute Software",
       "rating": 4.0,
       "title": "A good product",
@@ -59,22 +75,6 @@
       "date": "2026-06-03",
       "date_label": "3 June 2026",
       "body": "It is a great product but, cost is too high . Customer support is also not upto the mark."
-    },
-    {
-      "author": "Amit Savaliya",
-      "rating": 5.0,
-      "title": "Value for Money",
-      "date": "2026-05-27",
-      "date_label": "27 May 2026",
-      "body": "Value for Money, good quality and service. Also face recognition, alarm and capturing logs on every unlock is something not found in this price. For battery life and durability can't comment right now but overall a good product till now."
-    },
-    {
-      "author": "Syam",
-      "rating": 5.0,
-      "title": "Good product and great value for money",
-      "date": "2026-05-20",
-      "date_label": "20 May 2026",
-      "body": "Product is good need to learn so many basics which will be little strange to get familiar during installation"
     }
   ]
 }

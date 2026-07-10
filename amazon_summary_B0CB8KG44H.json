@@ -1,41 +1,16 @@
 {
-  "scraped": "2026-07-05",
-  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its installation process, taste, and water quality. However, the reliability and service receive mixed reviews - while some report no issues, others mention the purifier stopping working completely and experiencing bad service. Moreover, durability is a concern, with customers reporting damage to the machine within two months of use. Additionally, opinions on value for money are divided, with some finding it worth the investment while others consider it expensive.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "1.8K"
-    },
-    {
-      "name": "Installation",
-      "count": "678"
-    },
-    {
-      "name": "Water taste",
-      "count": "219"
-    },
-    {
-      "name": "Water quality",
-      "count": "186"
-    },
-    {
-      "name": "Reliability",
-      "count": "477"
-    },
-    {
-      "name": "Value for money",
-      "count": "441"
-    },
-    {
-      "name": "Service",
-      "count": "163"
-    },
-    {
-      "name": "Durability",
-      "count": "153"
-    }
-  ],
+  "scraped": "2026-07-10",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
+    {
+      "author": "Rentala Raghavendra",
+      "rating": 5.0,
+      "title": "Good quality. Value for Money.",
+      "date": "2026-07-06",
+      "date_label": "6 July 2026",
+      "body": "Super quality. Good product. Easy and fast installation. Quick repond Technician. Thank you KENT."
+    },
     {
       "author": "Jahangir Khan",
       "rating": 5.0,
@@ -67,14 +42,6 @@
       "date": "2026-06-24",
       "date_label": "24 June 2026",
       "body": "Delivery is on time. The installation is hassle-free. Very good installation and the behavior of engineer is good Thankyou Amazon."
-    },
-    {
-      "author": "Jignesh Gajjar",
-      "rating": 5.0,
-      "title": "Kent Supreme Plus - Best Purifier in Segment",
-      "date": "2026-06-22",
-      "date_label": "22 June 2026",
-      "body": "Off course Kent Purifiers are good and this one is one of the best in segment i can say because it provides Alkaline, Copper and UV Led in Tank. Though Storage Capacity is bit small but for our family it suffice. Leakage till date is not observed, easy to use even by daughter do it. No issues till date, genuine service received from company."
     }
   ]
 }

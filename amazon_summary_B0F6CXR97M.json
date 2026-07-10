@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-05",
+  "scraped": "2026-07-10",
   "customers_say": "Customers find this water purifier excellent, with features including TDS control, multiple taste adjustment options, and a modern LED light design. They appreciate the free installation and consider it good value for money, with one customer noting it will pay off in three years. The purifier's reliability receives mixed feedback - while many say it functions well, some report it stops working properly.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "528"
+      "count": "532"
     },
     {
       "name": "Installation",
-      "count": "249"
+      "count": "250"
     },
     {
       "name": "Value for money",
-      "count": "96"
+      "count": "98"
     },
     {
       "name": "Water taste",
-      "count": "73"
+      "count": "75"
     },
     {
       "name": "Appearance",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Features",
-      "count": "59"
+      "count": "60"
     },
     {
       "name": "Tds control",
-      "count": "58"
+      "count": "59"
     },
     {
       "name": "Reliability",
@@ -37,28 +37,28 @@
   ],
   "reviews": [
     {
+      "author": "Gaurav Atravalkar",
+      "rating": 5.0,
+      "title": "A perfect water purifier",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "I would simply say this is a great and the best product...!!! The best part is the adjustment of taste and mode as per the tds of the input water. The trust of atomberg, quick installation support and post sales service makes this a awesome product. Lastly affordable service prices and no dedicated amc makes it value for money. I recommend this product for all the new buyers and those who are looking for upgrading the purifier."
+    },
+    {
+      "author": "Shiv",
+      "rating": 5.0,
+      "title": "Worthy buy!!!",
+      "date": "2026-07-06",
+      "date_label": "6 July 2026",
+      "body": "Review after 9 months of use Loved the quality and installation service support by the team. Excellent customer service by the technician who checked and set things. The water pressure motor was a great added benefit. Thank you! Great value for money with latest checks possible on mobile app for status of filters etc. TDS options works like a charm with settings. Simple and elegant design with sturdy materials. Love the LED display. Considerable change in taste and quality of water, healthy because there are fewer cases of flu/throat infections after installation. Previous equipment could not "
+    },
+    {
       "author": "Himanshu",
       "rating": 5.0,
       "title": "Excellent intelligent water purifier",
       "date": "2026-06-28",
       "date_label": "28 June 2026",
       "body": "I am using atomberg intellon water purifier since last 5 months. I was looking for water purifier where we can set output TDS level, infact prepared design of making myself! As very low TDS level in standard RO is not good for health especiallywhen you have fluctuating input TDS levels due to mixing of borewell and municipalcorporation suppied river water. This atomberg purifier has performed excellently till now. We can set output tds levels through App. It shows health of each filter which is in range of 80% to 97%, Hope to get good performance in future also."
-    },
-    {
-      "author": "Jasmine P.",
-      "rating": 5.0,
-      "title": "Atomberg is Next Phillips of India",
-      "date": "2026-06-27",
-      "date_label": "27 June 2026",
-      "body": "If you're an intelligent person, you will definitely buy Atomberg products. I have done the research for 3 consecutive full days and I have selected this, being a Gujarati and especially Amdavadi, I have applied all skills and then finally waited for the offer which gives me Another Rs. 2000/- as discount, and I bought this. Performance wise it's too good. Very good for family of 4-6 members.."
-    },
-    {
-      "author": "Riyaz ahmad",
-      "rating": 5.0,
-      "title": "Value to money",
-      "date": "2026-05-13",
-      "date_label": "13 May 2026",
-      "body": "Using the Atomberg water purifier for some time now and really happy with the performance. The water tastes fresh and clean, maintenance is easy, and the design looks modern too. Definitely a good choice for home use. Installation was very convenient, Installation guy did each and everything by himself... Great service and great producy"
     },
     {
       "author": "Placeholder",

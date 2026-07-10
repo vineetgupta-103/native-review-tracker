@@ -1,8 +1,16 @@
 {
-  "scraped": "2026-07-05",
+  "scraped": "2026-07-10",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "arun kumar",
+      "rating": 4.0,
+      "title": "Perfect",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "Fentastic quality"
+    },
     {
       "author": "Kunal doshi",
       "rating": 5.0,

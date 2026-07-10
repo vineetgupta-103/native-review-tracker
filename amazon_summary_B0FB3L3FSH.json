@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-07-05",
-  "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain. The installation process is smooth with professional service, and customers consider it a budget-friendly option. While the appearance is positive, with one customer noting its premium matte finish, some report issues with water leakage from the unit.",
+  "scraped": "2026-07-10",
+  "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain. The installation process is smooth with professional service, and customers consider it a budget-friendly option. While the appearance receives positive feedback, with one customer noting its premium matte finish, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "176"
+      "count": "184"
     },
     {
-      "name": "Reliability",
-      "count": "57"
+      "name": "Performance",
+      "count": "58"
     },
     {
       "name": "Installation",
-      "count": "44"
+      "count": "46"
     },
     {
       "name": "Value for money",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Appearance",
-      "count": "20"
+      "count": "21"
     },
     {
       "name": "Ease of use",
-      "count": "14"
+      "count": "15"
     },
     {
       "name": "Water leakage",
@@ -37,12 +37,20 @@
   ],
   "reviews": [
     {
-      "author": "shyam",
+      "author": "Chauhan Vishal",
       "rating": 5.0,
-      "title": "Good Water Purifier",
-      "date": "2026-06-29",
-      "date_label": "29 June 2026",
-      "body": "Excellent product and filtration quality, value for money, best built quality, smooth delivery and installation process."
+      "title": "One of the best RO.",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "One of the best RO i have purchased before this i was using another RO for my home. But all other RO required the service on every year and cost it around 4-9K depends. But Native say you have to service on every 2 year and warranty for the same.you can renew the contract again if you want biggest win. Water test is good. From bore we getting water around 800TDS and using this RO we get around 90-110 TDS 🤝 installation process is smooth"
+    },
+    {
+      "author": "PREETAM N.",
+      "rating": 5.0,
+      "title": "Marvellous-M0",
+      "date": "2026-07-02",
+      "date_label": "2 July 2026",
+      "body": "Just a word.... \"Marvellous\". The purifier is first of its kind. It's look, finesse, performance, everything is perfect. I installed the one in my office. Now after few months of usage I m thinking of changing my home water purifier to the M0 from urban company."
     },
     {
       "author": "varun karnati",
@@ -67,14 +75,6 @@
       "date": "2026-06-14",
       "date_label": "14 June 2026",
       "body": "I was looking for a RO for my home and came to know about native RO on urban company app. After some research on Google and watching some youtube videos i finalized this product and waited for the Amazon sale. Now it's about an month I am using this RO and based on that I list some of its pros and cons. Pros: 1. Delivery by Amazon and installation service by UC was fantastic, no complains about that. Installation person was a thorough professional. 2. Water filtration is good. TDS meter is provided with the RO. 3. RO is sleek and can blend easily with any kitchen. 4. Unconditional warranty for"
-    },
-    {
-      "author": "viswanath",
-      "rating": 4.0,
-      "title": "Best in best budget",
-      "date": "2026-06-09",
-      "date_label": "9 June 2026",
-      "body": "Really best product with in the budget installation also very smooth.overall value for the money."
     }
   ]
 }

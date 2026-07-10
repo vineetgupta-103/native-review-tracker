@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-05",
+  "scraped": "2026-07-10",
   "customers_say": "Customers find this water purifier to be a best-in-class product that's easy to install, with good taste and value for money. However, the reliability receives mixed feedback - while some say it does the job well, others report it stopped working. Moreover, durability and leakage are significant concerns, with customers reporting damage within three months and water leakage issues.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "164"
+      "count": "165"
     },
     {
       "name": "Value for money",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Reliability",
-      "count": "47"
+      "count": "48"
     },
     {
       "name": "Water wastage",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Priya Tandon",
+      "rating": 4.0,
+      "title": "Good product",
+      "date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "body": "Good product , no malfunctioning observed till now"
+    },
     {
       "author": "priyanka",
       "rating": 1.0,
@@ -67,14 +75,6 @@
       "date": "2026-05-10",
       "date_label": "10 May 2026",
       "body": "Good"
-    },
-    {
-      "author": "ALOK KUMAR VERMA",
-      "rating": 4.0,
-      "title": "Okay",
-      "date": "2026-05-07",
-      "date_label": "7 May 2026",
-      "body": "The filter works fine. The filter lacks On-Off indicators. It should be provided with LED indicators to show the filter working modes. There is a continuous drain of water during the filter is in service."
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-05",
-  "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its quick and professional installation by Aquaguard experts. The product offers excellent value for money, tastes good, and features an elegant design. Customers find it easy to use, with one mentioning the tap design makes water collection convenient. The service receives mixed reviews, with some customers praising the service while others report poor service experiences.",
+  "scraped": "2026-07-10",
+  "customers_say": "Customers find the water purifier to be among the best in its class, with reliable performance and quick, professional installation by Aquaguard experts. The product delivers clean drinking water and has an elegant design, while customers appreciate its good taste and value for money. The service aspect receives mixed feedback, with some customers praising the service while others report poor service experiences.",
   "aspects": [
     {
-      "name": "Water quality",
-      "count": "852"
+      "name": "Quality",
+      "count": "835"
     },
     {
       "name": "Reliability",
-      "count": "240"
+      "count": "245"
     },
     {
       "name": "Installation",
-      "count": "189"
+      "count": "195"
     },
     {
       "name": "Value for money",
-      "count": "160"
+      "count": "163"
     },
     {
       "name": "Water taste",
@@ -24,57 +24,57 @@
     },
     {
       "name": "Design",
-      "count": "75"
+      "count": "76"
     },
     {
-      "name": "Ease of use",
-      "count": "39"
+      "name": "Water quality",
+      "count": "44"
     },
     {
       "name": "Service",
-      "count": "50"
+      "count": "52"
     }
   ],
   "reviews": [
     {
-      "author": "Amazon Customer",
+      "author": "Bobby Bujji",
       "rating": 5.0,
-      "title": "Nice deal",
-      "date": "2026-07-02",
-      "date_label": "2 July 2026",
-      "body": "Excellent product. Working good. Satisfied"
+      "title": "Good product and nice performance",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "It's good product and easyly instalation proses it works nice water purifying good tq"
     },
     {
-      "author": "Jilu",
+      "author": "NAVEEN",
       "rating": 5.0,
-      "title": "Good product and worth for money",
-      "date": "2026-07-02",
-      "date_label": "2 July 2026",
-      "body": "Satisfied with the product, prompt delivery"
+      "title": "Water purifier",
+      "date": "2026-07-06",
+      "date_label": "6 July 2026",
+      "body": "It is good and technician and installation also went very well and the size and fitting also very apt to the placement and it is useful when we compare with normal thing"
     },
     {
-      "author": "Lakshmi Priya",
+      "author": "Somnath Ghosh",
       "rating": 5.0,
-      "title": "Excellent",
-      "date": "2026-07-02",
-      "date_label": "2 July 2026",
-      "body": "Nice and working good"
+      "title": "Budget friendly product.",
+      "date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "body": "Good product, still working efficiently."
     },
     {
-      "author": "Roshan Panda",
-      "rating": 4.0,
-      "title": "Overally a good product",
-      "date": "2026-07-01",
-      "date_label": "1 July 2026",
-      "body": "Good value for money product but AMC charges are high. Working perfectly fine and there is no leakage."
+      "author": "B . saikia",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "body": "Product is genuine and good. Technician has visited yesterday on 03/07/2026.and installed properly. Technician behaviour was good."
     },
     {
-      "author": "MINAKSHI",
-      "rating": 4.0,
-      "title": "Good filter and service",
-      "date": "2026-06-30",
-      "date_label": "30 June 2026",
-      "body": "Its a good filter.i am satisfied with it"
+      "author": "Manish",
+      "rating": 5.0,
+      "title": "Value for money",
+      "date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "body": "Good product. Working well"
     }
   ]
 }

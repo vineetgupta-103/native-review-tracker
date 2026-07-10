@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-05",
-  "customers_say": "Customers find this water purifier to be the best in the market, with excellent installation and value for money, particularly noting the transparent pricing. Moreover, the machine works superbly, and customers appreciate its premium appearance and sweet-tasting water. Additionally, the service receives positive feedback, with one customer highlighting its quick response time.",
+  "scraped": "2026-07-10",
+  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its premium appearance and excellent taste. The installation process is free of cost, and customers consider it a budget-friendly option with no AMC or hidden costs. The water quality receives positive feedback, with one customer noting the TDS value is below 100. While many customers report excellent working performance, some mention issues with the machine not working properly.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,73 +8,73 @@
     },
     {
       "name": "Installation",
-      "count": "392"
+      "count": "395"
     },
     {
       "name": "Value for money",
-      "count": "280"
-    },
-    {
-      "name": "Reliability",
-      "count": "255"
+      "count": "285"
     },
     {
       "name": "Appearance",
-      "count": "207"
+      "count": "210"
     },
     {
       "name": "Water taste",
-      "count": "190"
+      "count": "193"
     },
     {
       "name": "Water quality",
-      "count": "168"
+      "count": "169"
     },
     {
       "name": "Service",
-      "count": "146"
+      "count": "151"
+    },
+    {
+      "name": "Reliability",
+      "count": "286"
     }
   ],
   "reviews": [
     {
-      "author": "PREM C.",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "Amazing Product",
-      "date": "2026-07-02",
-      "date_label": "2 July 2026",
-      "body": "I am writing review after using the product for 3 months. The TDS 1200 were in my water. Which was my earlier water ro processed water tds goes to 350. But after installed native m1, amazingly tds down 80-100. Water taste is good like bisleri. Highly recommend to Native purifier."
+      "title": "Best product in best price",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "Excellent product and best service by UC professional. The best part is their 2 years unlimited warranty on the entire product and no service cost for 2 years."
     },
     {
-      "author": "Transform with Rajshree",
+      "author": "Gohil Vinay Pravinbhai",
       "rating": 5.0,
-      "title": "Good overall in budget and lookwise",
-      "date": "2026-06-29",
-      "date_label": "29 June 2026",
-      "body": "It is just installed so cannot say the exact review once I use.it for some time then only I can say. For now look wise it is good and clutter free. The service man was good and helpful."
+      "title": "EXCELLENT RO WATER PURIFIER",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "EXCELLENT SERVICE FROM URBAN COMPANY AND TIMELY FITTING OF PURIFIER WATER QUALITY I BEST AND GOOD WATER SAVING TECHNOLOGY"
     },
     {
-      "author": "AAYUSH",
+      "author": "ANGOTHU NARESH",
       "rating": 5.0,
-      "title": "The best RO",
-      "date": "2026-06-25",
-      "date_label": "25 June 2026",
-      "body": "This RO is very good, such a good machine in this price and then there is no hassle for 2 years, all filters are good"
+      "title": "Affordable and best purifier",
+      "date": "2026-07-06",
+      "date_label": "6 July 2026",
+      "body": "Good purifier and well maintained technician who came on time and done installation perfectly... Go for it... If any complaints I will edit it here after 3 months"
     },
     {
-      "author": "Mehboob alam",
+      "author": "jayesh",
       "rating": 5.0,
-      "title": "Nativ waterpurify",
-      "date": "2026-06-24",
-      "date_label": "24 June 2026",
-      "body": "Good nice look properly work very good product"
+      "title": "Good Product",
+      "date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "body": "Nice product good look and functionality."
     },
     {
-      "author": "Nandan Kumar",
+      "author": "Placeholder",
       "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-06-15",
-      "date_label": "15 June 2026",
-      "body": "The Native M1 Water Purifier has proven to be an excellent choice for clean and safe drinking water. The build quality feels sturdy and well-designed, making it a reliable addition to any home. Its purification performance is impressive, delivering fresh, great-tasting water consistently. The delivery agent did not deliver my product, I went myself and received my product. One of the standout features is its efficiency and ease of use. The system works smoothly without complications, and the design is user-friendly, even for first-time users. The installation process was quick and hassle-free,"
+      "title": "Superb",
+      "date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "body": "After using two months ,I like they way they check and installed.Very nice .water taste is good.pH is alkalie .So,good"
     }
   ]
 }

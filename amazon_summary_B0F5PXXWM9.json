@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-05",
+  "scraped": "2026-07-10",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its ease of use and professional installation process. Moreover, they consider it an affordable water purifier with amazing water quality after purification, and one customer mentions it saves money on canned or packaged water. However, opinions about service are mixed, with some customers reporting very bad service while others find it satisfactory.",
   "aspects": [
     {
@@ -8,49 +8,65 @@
     },
     {
       "name": "Reliability",
-      "count": "650"
+      "count": "668"
     },
     {
       "name": "Installation",
-      "count": "589"
+      "count": "599"
     },
     {
       "name": "Value for money",
-      "count": "525"
+      "count": "531"
     },
     {
       "name": "Water quality",
-      "count": "213"
+      "count": "215"
     },
     {
       "name": "Water taste",
-      "count": "209"
+      "count": "213"
     },
     {
       "name": "Ease of use",
-      "count": "129"
+      "count": "131"
     },
     {
       "name": "Service",
-      "count": "162"
+      "count": "165"
     }
   ],
   "reviews": [
     {
-      "author": "Prasanthgurrala",
-      "rating": 4.0,
-      "title": "Good to use",
-      "date": "2026-06-29",
-      "date_label": "29 June 2026",
-      "body": "The product looks good and it is budget friendly and ease to use"
+      "author": "ANU",
+      "rating": 3.0,
+      "title": "Average Poor RO",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "Average RO low build quality. things are packed u cant see how many filters, as they claim 9 stage. all marketting gimmicks. The ad on Amazon what written on Box & finally inside all vary. Main dhanda is to sell some accessory in double price in cash with no bill. email id in app is fake does not work. water tank cover is not properly sealed some dust or liquid if dropped on top easily go in it. Eureka Forbes has become Sadakchaap like other Thousands of AQUA***** type companies who give RO in 3000-4000. so it is same item but they cash on brand name & marketting of Nano pure. There installati"
     },
     {
-      "author": "Kindle Customer",
+      "author": "Amazon Customer",
       "rating": 4.0,
-      "title": "Decent filter",
-      "date": "2026-06-29",
-      "date_label": "29 June 2026",
-      "body": "Works well, seems good enough"
+      "title": "Worth product",
+      "date": "2026-07-06",
+      "date_label": "6 July 2026",
+      "body": "⭐⭐⭐⭐⭐ Good product. Installation was done on time, and the water tastes clean. The purifier looks good and is easy to use. Happy with the purchase. Worth the price."
+    },
+    {
+      "author": "Divya Anand",
+      "rating": 3.0,
+      "title": "Product is good but not happy with the feedback calls",
+      "date": "2026-07-06",
+      "date_label": "6 July 2026",
+      "body": "The product is really good, but the only problem I have is, why is amazon or seller (not sure who is responsible) always forcing for the feedback. Isn't it voluntary, I got call multiple times for feedback. This is not a good practice and harrasment of customer. I am not saying one should not ask for feedback but reminding one time is fine, if I have to give feedback I will give if not I will not."
+    },
+    {
+      "author": "Ali",
+      "rating": 4.0,
+      "title": "Quality and After sales Service.",
+      "date": "2026-07-01",
+      "date_label": "1 July 2026",
+      "body": "I am delighted to have Aquaguard and the particular model which i have chosen. It was installed on time, funtions well and I am pleased with overall performance and support."
     },
     {
       "author": "Shai",
@@ -59,22 +75,6 @@
       "date": "2026-06-28",
       "date_label": "28 June 2026",
       "body": "Good product so far. Have used it only a few days, so far so good. We have used an RO system from Eureka Forbes in the past as well and had a good experience. This one came in one day after ordering and was installed within 48 hrs. Good experience with installation as well."
-    },
-    {
-      "author": "sujata",
-      "rating": 4.0,
-      "title": "GOOD PRODUCT 👍",
-      "date": "2026-06-28",
-      "date_label": "28 June 2026",
-      "body": "We are using it for last 1 month, it is working good. Maintaining TDS level with no Noise level. Good Product."
-    },
-    {
-      "author": "Ashok",
-      "rating": 4.0,
-      "title": "Basic RO purifier which does the job",
-      "date": "2026-06-19",
-      "date_label": "19 June 2026",
-      "body": "This is basic RO water purifier from Aquaguard. my usage was mainly with municipal water but to protect against contaminated Kaveri water (TDS wise RO was not required but from other mineral contamination and impurities), I had gone with RO purifier. Although it claims its 60% higher water recovery compared to normal RO, its actually other way, this for municipal water, it wastes 1.5 x (for 1 litre water purified, it wastes 1.5 litre water out). i got this for exchange and got it at good discount during May'26 sales for 6.9K. installation was promt and there was no over selling of anything. It"
     }
   ]
 }

@@ -1,49 +1,8 @@
 {
-  "scraped": "2026-07-05",
-  "customers_say": "Customers find this smart lock to be of high quality, with all features working smoothly. They appreciate its versatility with multiple unlocking options, including fingerprint recognition, and find it easy to use, with one customer noting it's particularly suitable for children. The lock receives positive feedback for its appearance, value for money, and security features, with one customer highlighting its secure multi-bolt system. Customers like the installation process, with one mentioning it can be installed on both single and double panel doors.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "183"
-    },
-    {
-      "name": "Reliability",
-      "count": "95"
-    },
-    {
-      "name": "Installation",
-      "count": "67"
-    },
-    {
-      "name": "Value for money",
-      "count": "50"
-    },
-    {
-      "name": "Ease of use",
-      "count": "47"
-    },
-    {
-      "name": "Features",
-      "count": "34"
-    },
-    {
-      "name": "Appearance",
-      "count": "33"
-    },
-    {
-      "name": "Security",
-      "count": "33"
-    }
-  ],
+  "scraped": "2026-07-10",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
-    {
-      "author": "Raghu Nadh",
-      "rating": 5.0,
-      "title": "Excellent Quality.",
-      "date": "2026-06-22",
-      "date_label": "22 June 2026",
-      "body": "Excellent product. Excellent items for Home Security."
-    },
     {
       "author": "Chirag Mehta",
       "rating": 5.0,
@@ -67,6 +26,14 @@
       "date": "2026-06-16",
       "date_label": "16 June 2026",
       "body": "This GoLens smart lock is a very good product, we feel proud to have bought it. All its functions are very good and preferred."
+    },
+    {
+      "author": "Surya P.",
+      "rating": 4.0,
+      "title": "Good Smart Lock",
+      "date": "2026-06-07",
+      "date_label": "7 June 2026",
+      "body": "Good but lock/unlock cannot be done from the smartlife app. We get option to unlock only when bell is pressed. You cannot check lock status, you cannot trigger lock from app if you forget to set auto-lock and forgot to lock as well. You cannot add this device to Google Home unless you do some research on it. Fun fact their CS even don't know how to connect to Google Home. No Indian language support even though the brand calls itself Indian, instead we get Chinese as second language for the settings. I hope you know what that means. Face recognition works but fails many times. Fingerprint works"
     },
     {
       "author": "Pooja ghatge",

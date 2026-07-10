@@ -1,17 +1,17 @@
 {
-  "scraped": "2026-07-05",
-  "customers_say": "Customers find the digital lock to be of good quality and appreciate its multiple unlocking options, with one noting it works well on wooden doors. The installation and service receive positive feedback, and customers value its security features, with one mentioning it's easy for different family members to use. While customers consider it feature-rich, opinions on value for money are mixed.",
+  "scraped": "2026-07-10",
+  "customers_say": "Customers find the digital lock to be a good upgrade from regular door locks, with excellent installation and professional service. The lock functions well, offering multiple unlocking options and providing a better sense of security. They appreciate its ease of use, with one customer noting it's easy for different family members to use, and its feature-rich design, with one mentioning the patient demo of all features by the technician. While customers consider it feature-rich, opinions on value for money are mixed.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "70"
+      "count": "71"
     },
     {
       "name": "Installation",
       "count": "36"
     },
     {
-      "name": "Installation service",
+      "name": "Service",
       "count": "13"
     },
     {
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Nitin G.",
+      "rating": 5.0,
+      "title": "Good Product",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "Good Product. and service is good."
+    },
     {
       "author": "PSS",
       "rating": 4.0,
@@ -67,14 +75,6 @@
       "date": "2026-05-30",
       "date_label": "30 May 2026",
       "body": "Technician was very good with his service. Hassle free installation. Good product"
-    },
-    {
-      "author": "Rashmi",
-      "rating": 5.0,
-      "title": "Safety",
-      "date": "2026-05-22",
-      "date_label": "22 May 2026",
-      "body": "Excellent product very useful and safe to use. The technician explained the whole process and made it user friendly for us."
     }
   ]
 }
