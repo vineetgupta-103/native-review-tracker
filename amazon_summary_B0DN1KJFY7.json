@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-07-10",
+  "scraped": "2026-07-11",
   "customers_say": "Customers find the water purifier to be among the best in its class, with reliable performance and quick, professional installation by Aquaguard experts. The product delivers clean drinking water and has an elegant design, while customers appreciate its good taste and value for money. The service aspect receives mixed feedback, with some customers praising the service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "835"
+      "count": "838"
     },
     {
       "name": "Reliability",
-      "count": "245"
+      "count": "247"
     },
     {
       "name": "Installation",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Value for money",
-      "count": "163"
+      "count": "164"
     },
     {
       "name": "Water taste",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Design",
-      "count": "76"
+      "count": "77"
     },
     {
       "name": "Water quality",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 4.0,
+      "title": "Good and within the budget",
+      "date": "2026-07-08",
+      "date_label": "8 July 2026",
+      "body": "Good product. Look and color wise. Functioning properly and less noisy"
+    },
     {
       "author": "Bobby Bujji",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-04",
       "date_label": "4 July 2026",
       "body": "Product is genuine and good. Technician has visited yesterday on 03/07/2026.and installed properly. Technician behaviour was good."
-    },
-    {
-      "author": "Manish",
-      "rating": 5.0,
-      "title": "Value for money",
-      "date": "2026-07-04",
-      "date_label": "4 July 2026",
-      "body": "Good product. Working well"
     }
   ]
 }

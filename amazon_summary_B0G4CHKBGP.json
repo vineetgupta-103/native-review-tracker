@@ -1,30 +1,30 @@
 {
-  "scraped": "2026-07-10",
+  "scraped": "2026-07-11",
   "customers_say": "Customers find this water purifier to be of good quality, with smart features that make daily usage simple and save money in the long run. They appreciate its appearance, with one customer noting its modern touch panel with LED indicators, and they like its taste. The installation process receives positive feedback. While many customers say it performs wonderfully, some report that their units stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "461"
+      "count": "472"
     },
     {
       "name": "Installation",
-      "count": "118"
+      "count": "120"
     },
     {
       "name": "Value for money",
-      "count": "89"
+      "count": "92"
     },
     {
       "name": "Water taste",
-      "count": "58"
+      "count": "59"
     },
     {
       "name": "Ease of use",
-      "count": "46"
+      "count": "48"
     },
     {
       "name": "Appearance",
-      "count": "45"
+      "count": "47"
     },
     {
       "name": "Features",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Reliability",
-      "count": "110"
+      "count": "111"
     }
   ],
   "reviews": [
+    {
+      "author": "Akhil Goud R",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "Good, value for money. Tasty Water, smooth operation,"
+    },
     {
       "author": "Anil Lalvani",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-06-09",
       "date_label": "9 June 2026",
       "body": "I am extremely satisfied with the Native M2 Pro Water Purifier by Urban Company. The water quality is excellent, the touch dispensing feature is very convenient, and the purifier looks premium in my kitchen. The installation process was smooth, and the product performance has been outstanding. A special thanks to Dawane Sir for the installation. He was punctual, professional, knowledgeable, and explained all the features and maintenance requirements clearly. The installation was completed neatly and efficiently, and he ensured everything was working perfectly before leaving. Highly recommended"
-    },
-    {
-      "author": "bondili mahender singh",
-      "rating": 5.0,
-      "title": "Highly Satisfied with Native M2 Pro Water Purifier",
-      "date": "2026-06-04",
-      "date_label": "4 June 2026",
-      "body": "I recently purchased the Native M2 Pro Water Purifier by Urban Company, and my experience has been very positive. The product quality is excellent, and the water tastes clean and fresh after purification. One of the standout features is the smart app connectivity. The mobile app allows me to easily track water consumption, monitor filter health, and check the purifier's performance in real time. This feature provides added convenience and peace of mind, ensuring that the purifier is always functioning efficiently. The installation process was smooth, and the overall design is sleek and user-fr"
     },
     {
       "author": "swapnil sharma",

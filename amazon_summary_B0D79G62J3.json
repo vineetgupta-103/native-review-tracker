@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-10",
+  "scraped": "2026-07-11",
   "customers_say": "Customers find this water purifier to be the best in the market, appreciating its premium appearance and excellent taste. The installation process is free of cost, and customers consider it a budget-friendly option with no AMC or hidden costs. The water quality receives positive feedback, with one customer noting the TDS value is below 100. While many customers report excellent working performance, some mention issues with the machine not working properly.",
   "aspects": [
     {
@@ -8,19 +8,19 @@
     },
     {
       "name": "Installation",
-      "count": "395"
+      "count": "397"
     },
     {
       "name": "Value for money",
-      "count": "285"
+      "count": "286"
     },
     {
       "name": "Appearance",
-      "count": "210"
+      "count": "211"
     },
     {
       "name": "Water taste",
-      "count": "193"
+      "count": "196"
     },
     {
       "name": "Water quality",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Service",
-      "count": "151"
+      "count": "152"
     },
     {
       "name": "Reliability",
@@ -43,6 +43,14 @@
       "date": "2026-07-07",
       "date_label": "7 July 2026",
       "body": "Excellent product and best service by UC professional. The best part is their 2 years unlimited warranty on the entire product and no service cost for 2 years."
+    },
+    {
+      "author": "RANJAN BURAGOHAIN",
+      "rating": 4.0,
+      "title": "Excellent Water Purifier & Hassle-Free Installation",
+      "date": "2026-07-07",
+      "date_label": "7 July 2026",
+      "body": "The water purifier was delivered and installed promptly. It looks premium, works quietly, and the water tastes clean and fresh. The installation technician explained everything clearly and completed the setup professionally. I'm very happy with the purchase. I'll continue using it and update my review if anything changes, but my first impression has been excellent. Highly recommended! ⭐⭐⭐⭐⭐"
     },
     {
       "author": "Gohil Vinay Pravinbhai",
@@ -67,14 +75,6 @@
       "date": "2026-07-04",
       "date_label": "4 July 2026",
       "body": "Nice product good look and functionality."
-    },
-    {
-      "author": "Placeholder",
-      "rating": 5.0,
-      "title": "Superb",
-      "date": "2026-07-04",
-      "date_label": "4 July 2026",
-      "body": "After using two months ,I like they way they check and installed.Very nice .water taste is good.pH is alkalie .So,good"
     }
   ]
 }

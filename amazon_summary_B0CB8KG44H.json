@@ -1,8 +1,65 @@
 {
-  "scraped": "2026-07-10",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-07-11",
+  "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it's similar to normal ground water. The installation process is straightforward, and the water quality receives positive feedback. However, reliability and value for money show mixed results - while some say it functions well and offers good value, others report it stops working completely and consider it expensive for use. Service experiences are also mixed, with some praising the service while others report poor service.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "1.8K"
+    },
+    {
+      "name": "Installation",
+      "count": "657"
+    },
+    {
+      "name": "Water taste",
+      "count": "215"
+    },
+    {
+      "name": "Water quality",
+      "count": "182"
+    },
+    {
+      "name": "Ease of use",
+      "count": "148"
+    },
+    {
+      "name": "Reliability",
+      "count": "472"
+    },
+    {
+      "name": "Value for money",
+      "count": "431"
+    },
+    {
+      "name": "Service",
+      "count": "158"
+    }
+  ],
   "reviews": [
+    {
+      "author": "Anirban Guha Thakurta",
+      "rating": 5.0,
+      "title": "Excellent .",
+      "date": "2026-07-08",
+      "date_label": "8 July 2026",
+      "body": "Writing this review after using 1 year . Awesome product . zero complaints . nice service . before purchase i believed this kind of review of other buyer, they were right . thanks to them . 🙏."
+    },
+    {
+      "author": "Manisha",
+      "rating": 5.0,
+      "title": "BEST IN RANGE",
+      "date": "2026-07-08",
+      "date_label": "8 July 2026",
+      "body": "Great product, compact in size, looks cool in black color, lesss maintenance and service charges gives accurate tds control"
+    },
+    {
+      "author": "Linda Banerjee",
+      "rating": 5.0,
+      "title": "Good work",
+      "date": "2026-07-08",
+      "date_label": "8 July 2026",
+      "body": "Installation completed satisfactorily ok"
+    },
     {
       "author": "Rentala Raghavendra",
       "rating": 5.0,
@@ -18,30 +75,6 @@
       "date": "2026-06-30",
       "date_label": "30 June 2026",
       "body": "It is a really good product and have effectively improved our drinking water quality. The service provided by the company was also satisfactory."
-    },
-    {
-      "author": "Gopikrishna",
-      "rating": 4.0,
-      "title": "Kent Supreme Plus Water Purifier: Delivery & Installation",
-      "date": "2026-06-27",
-      "date_label": "27 June 2026",
-      "body": "The product is good. Amazon delivery superb. The installation is a big drag. had a tough time in scheduling installation. The technician comes without requisite plumbing items. Btw, learnt during a installation that you need to purchase the pre-water filter seperately."
-    },
-    {
-      "author": "naveen",
-      "rating": 5.0,
-      "title": "Excellent water purifier",
-      "date": "2026-06-26",
-      "date_label": "26 June 2026",
-      "body": "A very good and usefull product. Delivery and installation was great."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Good Product and good installation",
-      "date": "2026-06-24",
-      "date_label": "24 June 2026",
-      "body": "Delivery is on time. The installation is hassle-free. Very good installation and the behavior of engineer is good Thankyou Amazon."
     }
   ]
 }
