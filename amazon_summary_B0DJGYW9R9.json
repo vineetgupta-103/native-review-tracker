@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-11",
+  "scraped": "2026-07-12",
   "customers_say": "Customers find this smart lock to be the best in class, with professional installation and reliable performance. They appreciate its sleek appearance, with one customer noting it adds a modern touch to the door. The lock offers excellent security with triple deadlocks and multiple authentication methods, while the app interface is easy to use. They like its feature-rich design, including multiple unlocking options and customizable access permissions.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "113"
+      "count": "114"
     },
     {
       "name": "Installation",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Features",
-      "count": "15"
+      "count": "16"
     }
   ],
   "reviews": [
+    {
+      "author": "Srilakshmi",
+      "rating": 5.0,
+      "title": "Awesome Product!",
+      "date": "2026-07-09",
+      "date_label": "9 July 2026",
+      "body": "This is an awesome product and thoroughly enjoying the features."
+    },
     {
       "author": "HIMANSHU",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-06-18",
       "date_label": "18 June 2026",
       "body": "Good product. Using it since a week now, no problem. Has good locking features and easy to use app. Opening the door with the app is definitely an advantage. Only con is it doesn't have video talking options"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Best lock",
-      "date": "2026-06-08",
-      "date_label": "8 June 2026",
-      "body": "Very good lock"
     },
     {
       "author": "chandran",

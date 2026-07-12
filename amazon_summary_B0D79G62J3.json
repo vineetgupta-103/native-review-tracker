@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-11",
-  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its premium appearance and excellent taste. The installation process is free of cost, and customers consider it a budget-friendly option with no AMC or hidden costs. The water quality receives positive feedback, with one customer noting the TDS value is below 100. While many customers report excellent working performance, some mention issues with the machine not working properly.",
+  "scraped": "2026-07-12",
+  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its premium appearance and excellent taste. The installation process is excellent, and customers consider it a budget-friendly option with no AMC or hidden costs. The water quality receives positive feedback, with one customer noting their water test results are good. While many customers report the machine works well, some mention issues with it not working properly.",
   "aspects": [
     {
       "name": "Quality",
@@ -12,30 +12,38 @@
     },
     {
       "name": "Value for money",
-      "count": "286"
+      "count": "289"
     },
     {
       "name": "Appearance",
-      "count": "211"
+      "count": "210"
     },
     {
       "name": "Water taste",
-      "count": "196"
+      "count": "197"
     },
     {
       "name": "Water quality",
-      "count": "169"
+      "count": "170"
     },
     {
       "name": "Service",
-      "count": "152"
+      "count": "150"
     },
     {
       "name": "Reliability",
-      "count": "286"
+      "count": "288"
     }
   ],
   "reviews": [
+    {
+      "author": "AdityA",
+      "rating": 5.0,
+      "title": "Good Product",
+      "date": "2026-07-08",
+      "date_label": "8 July 2026",
+      "body": "Value for money product no doubt. Have not used the in app feature till now but it looks feature rich and easy to use. The installation process was super smooth. Only negative I can think of is the nozzle is not compatible with extension pipes."
+    },
     {
       "author": "Amazon Customer",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-07-07",
       "date_label": "7 July 2026",
       "body": "Excellent product and best service by UC professional. The best part is their 2 years unlimited warranty on the entire product and no service cost for 2 years."
-    },
-    {
-      "author": "RANJAN BURAGOHAIN",
-      "rating": 4.0,
-      "title": "Excellent Water Purifier & Hassle-Free Installation",
-      "date": "2026-07-07",
-      "date_label": "7 July 2026",
-      "body": "The water purifier was delivered and installed promptly. It looks premium, works quietly, and the water tastes clean and fresh. The installation technician explained everything clearly and completed the setup professionally. I'm very happy with the purchase. I'll continue using it and update my review if anything changes, but my first impression has been excellent. Highly recommended! ⭐⭐⭐⭐⭐"
     },
     {
       "author": "Gohil Vinay Pravinbhai",

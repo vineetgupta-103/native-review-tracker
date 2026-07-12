@@ -1,7 +1,40 @@
 {
-  "scraped": "2026-07-11",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-07-12",
+  "customers_say": "Customers find the smart door lock to be of excellent quality, with solid build and smooth installation process. They appreciate its appearance, ease of use, and bundle of features, with one customer highlighting its fingerprint and passcode entry options. The functionality receives mixed feedback - while the lock works as expected, some customers report issues with the fingerprint scanner stopping unexpectedly. Customers consider it good value for money.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "56"
+    },
+    {
+      "name": "Installation",
+      "count": "29"
+    },
+    {
+      "name": "Appearance",
+      "count": "23"
+    },
+    {
+      "name": "Ease of use",
+      "count": "15"
+    },
+    {
+      "name": "Features",
+      "count": "15"
+    },
+    {
+      "name": "Build quality",
+      "count": "12"
+    },
+    {
+      "name": "Value for money",
+      "count": "12"
+    },
+    {
+      "name": "Functionality",
+      "count": "39"
+    }
+  ],
   "reviews": [
     {
       "author": "Biju Thomas",

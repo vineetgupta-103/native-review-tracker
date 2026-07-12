@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-11",
-  "customers_say": "Customers find the smart door lock to be of excellent quality, with one noting it has no flaws at all. Moreover, the installation receives positive feedback, with one customer highlighting the excellent job with the GATE app installation. Additionally, the functionality works as expected with all notifications as described, and customers appreciate its ease of use, with one mentioning it's suitable for all age groups. The lock offers multiple access methods and advanced security features, setting a new standard for modern home safety. Customers also praise its appearance and consider it an absolute value for money.",
+  "scraped": "2026-07-12",
+  "customers_say": "Customers find the smart door lock to be of excellent quality and appreciate its secure locking system that sets a new standard for home safety. Moreover, the installation process receives positive feedback, with one customer highlighting the excellent job with the GATE app installation. Additionally, they praise its user-friendly app, multiple access methods, and appearance, while also considering it good value for money.",
   "aspects": [
     {
       "name": "Quality",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Value for money",
-      "count": "21"
+      "count": "22"
     },
     {
       "name": "Appearance",
@@ -53,6 +53,14 @@
       "body": "I bought the MyGate Smart Lock Plus primarily because of its scheduled Passage Mode, expecting the door to automatically remain unlocked during specific hours so my domestic staff could enter without requiring access credentials. Unfortunately, that's not how it works. Although the app allows you to schedule Passage Mode and even shows that the mode has started, the lock does not actually enter Passage Mode automatically. It requires someone to physically unlock the door using a registered fingerprint, PIN, or another authorized access method after the scheduled start time before Passage Mode "
     },
     {
+      "author": "Nitish",
+      "rating": 5.0,
+      "title": "Overall function, high price though",
+      "date": "2026-06-08",
+      "date_label": "8 June 2026",
+      "body": "Would say functionality wise no complaints though i really wanted a video one in this price"
+    },
+    {
       "author": "Ash",
       "rating": 5.0,
       "title": "Very handy and useful",
@@ -67,14 +75,6 @@
       "date": "2026-05-02",
       "date_label": "2 May 2026",
       "body": "No installation support in Kerala. But the product is good. I had to struggle a lot and got it installed myself."
-    },
-    {
-      "author": "Placeholder",
-      "rating": 5.0,
-      "title": "Good door lock and well installed",
-      "date": "2026-02-17",
-      "date_label": "17 February 2026",
-      "body": "Super work .. Skilled professional... Super fast... Very satisfied.."
     }
   ]
 }
