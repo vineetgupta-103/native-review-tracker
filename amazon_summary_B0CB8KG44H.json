@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-12",
-  "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it's similar to normal ground water. The installation process is straightforward, and the water quality receives positive feedback. However, reliability and value for money show mixed results - while some say it functions well and offers good value, others report it stops working completely and consider it expensive for use. Service experiences are also mixed, with some praising the service while others report poor service.",
+  "scraped": "2026-07-14",
+  "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it matches normal ground water. The installation process is straightforward, and the water quality receives positive feedback, with one customer mentioning it effectively improves drinking water quality. The reliability and value for money receive mixed reviews - while some say it functions well and offers good value, others report it stops working completely and consider it not worth the investment. Service experiences are also mixed, with some finding it dependable while others report poor service.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,19 +8,19 @@
     },
     {
       "name": "Installation",
-      "count": "657"
+      "count": "659"
     },
     {
       "name": "Water taste",
-      "count": "215"
-    },
-    {
-      "name": "Water quality",
-      "count": "181"
+      "count": "216"
     },
     {
       "name": "Ease of use",
-      "count": "148"
+      "count": "149"
+    },
+    {
+      "name": "Water quality",
+      "count": "143"
     },
     {
       "name": "Reliability",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Value for money",
-      "count": "431"
+      "count": "434"
     },
     {
       "name": "Service",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Pawan Kumar",
+      "rating": 5.0,
+      "title": "Excellent Product",
+      "date": "2026-07-09",
+      "date_label": "9 July 2026",
+      "body": "\"I recently purchased the Kent Supreme Plus Arrow water purifier, and my experience has been fantastic so far. Its Alkaline Copper RO+UV+UF+TDS controller system purifies the water completely and makes it taste great. The water quality has improved significantly, and it tastes clean and sweet now. The 7-liter storage tank is perfect for my family, and its compact design takes up very little space in the kitchen. Kent’s brand value and service are highly dependable. If you are looking for an excellent and reliable RO purifier on a budget, Kent Arrow is the best option. 5 stars from my side!\""
+    },
     {
       "author": "Anirban Guha Thakurta",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-07-08",
       "date_label": "8 July 2026",
       "body": "Great product, compact in size, looks cool in black color, lesss maintenance and service charges gives accurate tds control"
-    },
-    {
-      "author": "Linda Banerjee",
-      "rating": 5.0,
-      "title": "Good work",
-      "date": "2026-07-08",
-      "date_label": "8 July 2026",
-      "body": "Installation completed satisfactorily ok"
     },
     {
       "author": "Rentala Raghavendra",

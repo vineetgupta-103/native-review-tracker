@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-12",
-  "customers_say": "Customers find the smart door lock to be of excellent quality and appreciate its secure locking system that sets a new standard for home safety. Moreover, the installation process receives positive feedback, with one customer highlighting the excellent job with the GATE app installation. Additionally, they praise its user-friendly app, multiple access methods, and appearance, while also considering it good value for money.",
+  "scraped": "2026-07-14",
+  "customers_say": "Customers find the smart door lock to be of excellent quality and appreciate its secure locking system that sets a new standard for home safety. Moreover, the installation process receives positive feedback, with one customer highlighting the excellent job done by the installer. Additionally, customers praise its user-friendly app, multiple access methods, and advanced security features, while also noting its great appearance and value for money.",
   "aspects": [
     {
       "name": "Quality",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Value for money",
-      "count": "22"
+      "count": "21"
     },
     {
       "name": "Appearance",
@@ -36,14 +36,6 @@
     }
   ],
   "reviews": [
-    {
-      "author": "Ritesh kumar",
-      "rating": 5.0,
-      "title": "Secure your Main door",
-      "date": "2026-07-09",
-      "date_label": "9 July 2026",
-      "body": "The product is good at the price working smoothly."
-    },
     {
       "author": "Abyisheik",
       "rating": 1.0,
@@ -75,6 +67,14 @@
       "date": "2026-05-02",
       "date_label": "2 May 2026",
       "body": "No installation support in Kerala. But the product is good. I had to struggle a lot and got it installed myself."
+    },
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "Good door lock and well installed",
+      "date": "2026-02-17",
+      "date_label": "17 February 2026",
+      "body": "Super work .. Skilled professional... Super fast... Very satisfied.."
     }
   ]
 }

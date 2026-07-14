@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-12",
-  "customers_say": "Customers find the smart lock highly professional and appreciate its butter-smooth installation process. Moreover, the lock functions well, with one customer noting its real-time alerts work flawlessly, and they like its 6 ways to unlock, including fingerprint and password entry. Additionally, they praise its appearance, security features, and consider it worth the price.",
+  "scraped": "2026-07-14",
+  "customers_say": "Customers find this smart lock to be an excellent upgrade over traditional door locks, with butter-smooth installation and flawless functionality, including real-time alerts. They appreciate its feature-rich design with multiple unlocking methods, including fingerprint, PIN, and NFC card options, and consider it worth the price. Customers like its appearance, with one noting its rose-gold/black finish, and value its strong security features.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "65"
+      "count": "64"
     },
     {
       "name": "Installation",
@@ -12,26 +12,26 @@
     },
     {
       "name": "Functionality",
-      "count": "29"
+      "count": "26"
     },
     {
       "name": "Ease of use",
       "count": "22"
     },
     {
+      "name": "Value for money",
+      "count": "14"
+    },
+    {
+      "name": "Features",
+      "count": "13"
+    },
+    {
       "name": "Appearance",
       "count": "12"
     },
     {
-      "name": "Features",
-      "count": "12"
-    },
-    {
       "name": "Security",
-      "count": "11"
-    },
-    {
-      "name": "Value for money",
       "count": "11"
     }
   ],

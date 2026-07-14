@@ -1,29 +1,29 @@
 {
-  "scraped": "2026-07-12",
-  "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its ease of use and professional installation process. Moreover, they consider it an affordable water purifier with amazing water quality after purification, and one customer mentions it saves money on canned or packaged water. However, opinions about service are mixed, with some customers reporting very bad service while others find it satisfactory.",
+  "scraped": "2026-07-14",
+  "customers_say": "Customers find the water purifier to be of good quality, working reliably, and appreciate that installation is free. The product receives positive feedback for its value, taste, and water quality, with one customer noting it increases water sweetness. Customers find it easy to use and professional, though opinions about service are mixed, with some praising it while others report poor service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "2.2K"
+      "count": "2.3K"
     },
     {
       "name": "Reliability",
-      "count": "677"
+      "count": "686"
     },
     {
       "name": "Installation",
-      "count": "606"
+      "count": "612"
     },
     {
       "name": "Value for money",
-      "count": "536"
+      "count": "546"
+    },
+    {
+      "name": "Taste",
+      "count": "223"
     },
     {
       "name": "Water quality",
-      "count": "217"
-    },
-    {
-      "name": "Water taste",
       "count": "216"
     },
     {
@@ -32,17 +32,41 @@
     },
     {
       "name": "Service",
-      "count": "169"
+      "count": "170"
     }
   ],
   "reviews": [
+    {
+      "author": "Amit Singh",
+      "rating": 5.0,
+      "title": "Value for money and health…. All rounder",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "The water purifier is very good. I wanted a steel tank purifier as the water temperature in my residence used to be very high during summers which is not good to be stored in plastic containers even if it food grade as they are not meant to be used at such a high temperature. Also maintenance of steel tank is easy. Water filtration capacity is better than kent which I had earlier. Taste-wise it is good and the concept that if it plain RO then TDS controller should not be installed in Aquaguard is very thoughtful as it mixes unfiltered water with filtered water thereby increases the risk of con"
+    },
+    {
+      "author": "Sammey",
+      "rating": 4.0,
+      "title": "Good value for money.",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "Good one. Value for money. Water taste not soo good. No tds adjuster. Currently water tds is below 30. Seems mineral package is not so effective. Of course 😄 u can't expect more for this price, 7200 ."
+    },
     {
       "author": "Nikhil",
       "rating": 5.0,
       "title": "Excellent water purifier with great taste and quick installation!I",
       "date": "2026-07-10",
       "date_label": "10 July 2026",
-      "body": "Recently purchased the Aquaguard and I am highly satisfied with its performance. The water taste is excellent, clean, and completely devoid of any previous odor. The [RO/UV/UF] filtration technology works perfectly for our household water supply. Pros:Design: Very sleek and compact, saves a lot of kitchen space.Water Quality: Noticeable improvement in clarity and taste.Installation: The Eureka Forbes technician arrived within [Insert timeframe, e.g., 24 hours] and completed the setup smoothly.Highly recommend this product to anyone looking for a reliable water purifier!"
+      "body": "Recently purchased the Aquaguard and I am highly satisfied with its performance. The water taste is excellent, clean, and completely devoid of any previous odor. The [RO/UV/UF] filtration technology works perfectly for our household water supply. Pros:Design: Very sleek and compact, saves a lot of kitchen space.Water Quality: Noticeable improvement in clarity and taste.Installation: The Eureka Forbes technician arrived within 24 hours and completed the setup smoothly.Highly recommend this product to anyone looking for a reliable water purifier!"
+    },
+    {
+      "author": "MOSES ROZARIO",
+      "rating": 5.0,
+      "title": "Solid Water Purifier",
+      "date": "2026-07-10",
+      "date_label": "10 July 2026",
+      "body": "I’ll be very honest—after doing thorough research online and reading many reviews, I finally chose this water purifier, and I’m extremely happy with my purchase. The product is amazing. The water tastes great, it handles very high TDS levels efficiently, and it operates with almost no noise at all, which is a big plus. The design is also elegant, modern, and looks beautiful in my kitchen. I bought it during the Amazon sale on 4th July for ₹7,200, and I believe it was an excellent deal for the features and performance it offers. Overall, I’m very satisfied with my purchase and would definitely "
     },
     {
       "author": "Amazon Customer",
@@ -51,30 +75,6 @@
       "date": "2026-07-06",
       "date_label": "6 July 2026",
       "body": "⭐⭐⭐⭐⭐ Good product. Installation was done on time, and the water tastes clean. The purifier looks good and is easy to use. Happy with the purchase. Worth the price."
-    },
-    {
-      "author": "Divya Anand",
-      "rating": 3.0,
-      "title": "Product is good but not happy with the feedback calls",
-      "date": "2026-07-06",
-      "date_label": "6 July 2026",
-      "body": "The product is really good, but the only problem I have is, why is amazon or seller (not sure who is responsible) always forcing for the feedback. Isn't it voluntary, I got call multiple times for feedback. This is not a good practice and harrasment of customer. I am not saying one should not ask for feedback but reminding one time is fine, if I have to give feedback I will give if not I will not."
-    },
-    {
-      "author": "Ali",
-      "rating": 4.0,
-      "title": "Quality and After sales Service.",
-      "date": "2026-07-01",
-      "date_label": "1 July 2026",
-      "body": "I am delighted to have Aquaguard and the particular model which i have chosen. It was installed on time, funtions well and I am pleased with overall performance and support."
-    },
-    {
-      "author": "Shai",
-      "rating": 4.0,
-      "title": "Worth buying. Free installation was quick and good technician sent by the company.",
-      "date": "2026-06-28",
-      "date_label": "28 June 2026",
-      "body": "Good product so far. Have used it only a few days, so far so good. We have used an RO system from Eureka Forbes in the past as well and had a good experience. This one came in one day after ordering and was installed within 48 hrs. Good experience with installation as well."
     }
   ]
 }

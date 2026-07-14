@@ -1,8 +1,16 @@
 {
-  "scraped": "2026-07-12",
+  "scraped": "2026-07-14",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "Shyama Srivatsa",
+      "rating": 5.0,
+      "title": "Good smart door lock",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "It's a good door lock. Best option for anyone looking for smart door lock"
+    },
     {
       "author": "Sanjeev Chakravarty",
       "rating": 1.0,
@@ -34,14 +42,6 @@
       "date": "2026-07-03",
       "date_label": "3 July 2026",
       "body": "Felt like i purchased a premium product when I had bags in both hands and the door opened anyway via face unlock. If you switch from a normal lock, there will be multiple instances like these that will feel like a big upgrade. Security is also a very important aspect. I monitored the entire installation process and understood how the lock functions from the technician. Lock provides top tier safety according to the price it demands. I would categorize this as a good purchase. Features are very useful. Recommended to anyone who's looking for reliable safety and convenience."
-    },
-    {
-      "author": "Hamaad malik",
-      "rating": 5.0,
-      "title": "Nice Buy",
-      "date": "2026-06-12",
-      "date_label": "12 June 2026",
-      "body": "Little skeptical on buying as this is slightly pricy from Others but After Installation it's really Worth it. The panels, Material and overall built quality is very premium. Mortice is very tough and heavy. What I really liked is that it came with additional plate to cover previous holes. No issues observed so far in any features will update in case anything happens."
     }
   ]
 }

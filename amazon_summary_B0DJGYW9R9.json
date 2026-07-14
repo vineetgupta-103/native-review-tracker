@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-12",
+  "scraped": "2026-07-14",
   "customers_say": "Customers find this smart lock to be the best in class, with professional installation and reliable performance. They appreciate its sleek appearance, with one customer noting it adds a modern touch to the door. The lock offers excellent security with triple deadlocks and multiple authentication methods, while the app interface is easy to use. They like its feature-rich design, including multiple unlocking options and customizable access permissions.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "114"
+      "count": "116"
     },
     {
       "name": "Installation",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Reliability",
-      "count": "40"
+      "count": "42"
     },
     {
       "name": "Appearance",
@@ -23,19 +23,35 @@
       "count": "19"
     },
     {
+      "name": "Features",
+      "count": "17"
+    },
+    {
       "name": "Service",
       "count": "17"
     },
     {
       "name": "Ease of use",
       "count": "16"
-    },
-    {
-      "name": "Features",
-      "count": "16"
     }
   ],
   "reviews": [
+    {
+      "author": "Mritunjay",
+      "rating": 5.0,
+      "title": "Review",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "Awesome product. Works really well and exceed expectation"
+    },
+    {
+      "author": "Rupender D.",
+      "rating": 5.0,
+      "title": "Nice lock and feature rich",
+      "date": "2026-07-10",
+      "date_label": "10 July 2026",
+      "body": "Good smark lock, working fine as expected on day 1 installation done."
+    },
     {
       "author": "Srilakshmi",
       "rating": 5.0,
@@ -53,28 +69,12 @@
       "body": "Good product. I purchase a year back. No problem so far. Battries last for 6to 7 months."
     },
     {
-      "author": "Chandrakanth Neelam",
-      "rating": 5.0,
-      "title": "Feel secured",
-      "date": "2026-07-04",
-      "date_label": "4 July 2026",
-      "body": "Good product"
-    },
-    {
       "author": "Swetha",
       "rating": 5.0,
       "title": "Good product",
       "date": "2026-06-18",
       "date_label": "18 June 2026",
       "body": "Good product. Using it since a week now, no problem. Has good locking features and easy to use app. Opening the door with the app is definitely an advantage. Only con is it doesn't have video talking options"
-    },
-    {
-      "author": "chandran",
-      "rating": 5.0,
-      "title": "Perfect front door lock.perfect installation",
-      "date": "2026-06-07",
-      "date_label": "7 June 2026",
-      "body": "The lock pro is a perfect solution for front door.very competent installation.very easy to use, yet quite safe.met our requirement to the full"
     }
   ]
 }

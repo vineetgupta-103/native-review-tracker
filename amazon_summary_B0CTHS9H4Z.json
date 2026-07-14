@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-11",
+  "scraped": "2026-07-14",
   "customers_say": "Customers find the smart door lock to be of professional quality and appreciate its efficient installation process. The lock works reliably and comes with a host of features and options, with one customer noting its multiple control methods. They find it easy to use and consider it good value for money, while also praising its stylish appearance and good service from Lavna Locks.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "40"
+      "count": "39"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Aswathi Praveen",
+      "rating": 1.0,
+      "title": "Pathetic Customer support and arrogant technicians",
+      "date": "2026-07-10",
+      "date_label": "10 July 2026",
+      "body": "Product installation and customer support is Pathetic. Never recommend to buy. The installation person arrived after 3 days of back to back follow up . While installing the lock, there was many unwanted and careless drillings were made . No proper introduction of usage and features were explained and while asked about it the service person told it’s not their job.Very arrogant team with Lavna and never buy this brand"
+    },
     {
       "author": "Nitin G Gupta",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-19",
       "date_label": "19 June 2026",
       "body": "Good installation by lucky"
-    },
-    {
-      "author": "Somkar Singh",
-      "rating": 4.0,
-      "title": "Customer service is not up to the mark",
-      "date": "2026-06-03",
-      "date_label": "3 June 2026",
-      "body": "It is a great product but, cost is too high . Customer support is also not upto the mark."
     }
   ]
 }

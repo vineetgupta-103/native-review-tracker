@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-12",
+  "scraped": "2026-07-14",
   "customers_say": "Customers find this water purifier to be a best-in-class product that's easy to install, with good taste and value for money. However, the reliability receives mixed feedback - while some say it does the job well, others report it stopped working. Moreover, durability and leakage are significant concerns, with customers reporting damage within three months and water leakage issues.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "165"
+      "count": "167"
     },
     {
       "name": "Value for money",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Water taste",
-      "count": "23"
+      "count": "24"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Saheli",
+      "rating": 5.0,
+      "title": "Quality of water and product services",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "Excellent product as of now. I have previously used the KENT RO , EXCELELNT TASTE"
+    },
+    {
+      "author": "Meenakshi M",
+      "rating": 5.0,
+      "title": "Nothing",
+      "date": "2026-07-08",
+      "date_label": "8 July 2026",
+      "body": "Its excellent"
+    },
     {
       "author": "Priya Tandon",
       "rating": 4.0,
@@ -59,22 +75,6 @@
       "date": "2026-06-18",
       "date_label": "18 June 2026",
       "body": "Bought a Kent RO recently ,quality feels really nice and the service team was fast and helpful. Water tastes clean and fresh, and not too soft as my old RO (so if you liked that extra “soft” feel, this one is a bit different). Overall happy with the product and service. Would recommend if you want reliable purification and good after-sales support"
-    },
-    {
-      "author": "sachithkr",
-      "rating": 5.0,
-      "title": "Quality and service",
-      "date": "2026-06-02",
-      "date_label": "2 June 2026",
-      "body": "The product quality and service is on point"
-    },
-    {
-      "author": "REDDY MAHENDRA REDDY",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-05-10",
-      "date_label": "10 May 2026",
-      "body": "Good"
     }
   ]
 }
