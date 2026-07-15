@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-14",
+  "scraped": "2026-07-15",
   "customers_say": "Customers find this smart lock to be the best in class, with professional installation and reliable performance. They appreciate its sleek appearance, with one customer noting it adds a modern touch to the door. The lock offers excellent security with triple deadlocks and multiple authentication methods, while the app interface is easy to use. They like its feature-rich design, including multiple unlocking options and customizable access permissions.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Installation",
-      "count": "64"
+      "count": "65"
     },
     {
       "name": "Reliability",
-      "count": "42"
+      "count": "43"
     },
     {
       "name": "Appearance",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Nikhil Bhagat",
+      "rating": 5.0,
+      "title": "Smooth installation, works perfectly.",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "Smooth installation, working perfectly just like advertised. Aruj ji was very helpful during the entire process."
+    },
     {
       "author": "Mritunjay",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-07",
       "date_label": "7 July 2026",
       "body": "Good product. I purchase a year back. No problem so far. Battries last for 6to 7 months."
-    },
-    {
-      "author": "Swetha",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-06-18",
-      "date_label": "18 June 2026",
-      "body": "Good product. Using it since a week now, no problem. Has good locking features and easy to use app. Opening the door with the app is definitely an advantage. Only con is it doesn't have video talking options"
     }
   ]
 }

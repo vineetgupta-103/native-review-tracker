@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-14",
+  "scraped": "2026-07-15",
   "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it matches normal ground water. The installation process is straightforward, and the water quality receives positive feedback, with one customer mentioning it effectively improves drinking water quality. The reliability and value for money receive mixed reviews - while some say it functions well and offers good value, others report it stops working completely and consider it not worth the investment. Service experiences are also mixed, with some finding it dependable while others report poor service.",
   "aspects": [
     {
@@ -20,15 +20,15 @@
     },
     {
       "name": "Water quality",
-      "count": "143"
+      "count": "144"
     },
     {
       "name": "Reliability",
-      "count": "472"
+      "count": "473"
     },
     {
       "name": "Value for money",
-      "count": "434"
+      "count": "433"
     },
     {
       "name": "Service",
@@ -61,20 +61,20 @@
       "body": "Great product, compact in size, looks cool in black color, lesss maintenance and service charges gives accurate tds control"
     },
     {
+      "author": "Shri",
+      "rating": 5.0,
+      "title": "Kent",
+      "date": "2026-07-08",
+      "date_label": "8 July 2026",
+      "body": "Good product and easily installation"
+    },
+    {
       "author": "Rentala Raghavendra",
       "rating": 5.0,
       "title": "Good quality. Value for Money.",
       "date": "2026-07-06",
       "date_label": "6 July 2026",
       "body": "Super quality. Good product. Easy and fast installation. Quick repond Technician. Thank you KENT."
-    },
-    {
-      "author": "Jahangir Khan",
-      "rating": 5.0,
-      "title": "The item is really effective",
-      "date": "2026-06-30",
-      "date_label": "30 June 2026",
-      "body": "It is a really good product and have effectively improved our drinking water quality. The service provided by the company was also satisfactory."
     }
   ]
 }

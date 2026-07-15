@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-07-14",
+  "scraped": "2026-07-15",
   "customers_say": "Customers find the water purifier to be among the best in its category, with quick and perfect installation by Aquaguard experts and good value for money. The product receives positive feedback for its taste, elegant design, and efficient purification, with one customer noting it works well even with high TDS levels. The service aspect receives mixed reviews, with some customers praising Aquaguard's service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "847"
+      "count": "849"
     },
     {
       "name": "Reliability",
-      "count": "251"
+      "count": "253"
     },
     {
       "name": "Installation",
-      "count": "197"
+      "count": "199"
     },
     {
       "name": "Value for money",
-      "count": "167"
+      "count": "168"
     },
     {
       "name": "Water taste",
-      "count": "104"
+      "count": "106"
     },
     {
       "name": "Design",
@@ -28,14 +28,30 @@
     },
     {
       "name": "Water quality",
-      "count": "60"
+      "count": "61"
     },
     {
       "name": "Service",
-      "count": "52"
+      "count": "53"
     }
   ],
   "reviews": [
+    {
+      "author": "ARKA ROY",
+      "rating": 5.0,
+      "title": "Excellent product and after sales service",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "I have purchased 2 of these in the last 1 year. Very good product. Very essential for your home. Also Aquaguard Service is top-notch"
+    },
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "Great Water Quality and Smooth Installation",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "Using this Aquaguard RO for the past week. The water taste is excellent, installation was smooth, and the IoT features are useful and easy to use. Overall, a great product with good service. Highly recommended."
+    },
     {
       "author": "Amazon Customer",
       "rating": 4.0,
@@ -59,22 +75,6 @@
       "date": "2026-07-06",
       "date_label": "6 July 2026",
       "body": "It is good and technician and installation also went very well and the size and fitting also very apt to the placement and it is useful when we compare with normal thing"
-    },
-    {
-      "author": "Somnath Ghosh",
-      "rating": 5.0,
-      "title": "Budget friendly product.",
-      "date": "2026-07-04",
-      "date_label": "4 July 2026",
-      "body": "Good product, still working efficiently."
-    },
-    {
-      "author": "B . saikia",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-07-04",
-      "date_label": "4 July 2026",
-      "body": "Product is genuine and good. Technician has visited yesterday on 03/07/2026.and installed properly. Technician behaviour was good."
     }
   ]
 }

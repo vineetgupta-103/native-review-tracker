@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-14",
+  "scraped": "2026-07-15",
   "customers_say": "Customers find the water purifier to be of good quality, working reliably, and appreciate that installation is free. The product receives positive feedback for its value, taste, and water quality, with one customer noting it increases water sweetness. Customers find it easy to use and professional, though opinions about service are mixed, with some praising it while others report poor service.",
   "aspects": [
     {
@@ -8,34 +8,42 @@
     },
     {
       "name": "Reliability",
-      "count": "686"
+      "count": "687"
     },
     {
       "name": "Installation",
-      "count": "612"
+      "count": "617"
     },
     {
       "name": "Value for money",
-      "count": "546"
+      "count": "553"
     },
     {
       "name": "Taste",
-      "count": "223"
+      "count": "224"
     },
     {
       "name": "Water quality",
-      "count": "216"
+      "count": "218"
     },
     {
       "name": "Ease of use",
-      "count": "132"
+      "count": "134"
     },
     {
       "name": "Service",
-      "count": "170"
+      "count": "171"
     }
   ],
   "reviews": [
+    {
+      "author": "siddu telkar",
+      "rating": 4.0,
+      "title": "Nothing",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "Good product. Installation was done on time, and the water tastes clean. The purifier looks good and is easy to use. Happy with the purchase. Worth the price."
+    },
     {
       "author": "Amit Singh",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-07-12",
       "date_label": "12 July 2026",
       "body": "The water purifier is very good. I wanted a steel tank purifier as the water temperature in my residence used to be very high during summers which is not good to be stored in plastic containers even if it food grade as they are not meant to be used at such a high temperature. Also maintenance of steel tank is easy. Water filtration capacity is better than kent which I had earlier. Taste-wise it is good and the concept that if it plain RO then TDS controller should not be installed in Aquaguard is very thoughtful as it mixes unfiltered water with filtered water thereby increases the risk of con"
-    },
-    {
-      "author": "Sammey",
-      "rating": 4.0,
-      "title": "Good value for money.",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "Good one. Value for money. Water taste not soo good. No tds adjuster. Currently water tds is below 30. Seems mineral package is not so effective. Of course 😄 u can't expect more for this price, 7200 ."
     },
     {
       "author": "Nikhil",

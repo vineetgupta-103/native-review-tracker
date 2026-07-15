@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-07-14",
-  "customers_say": "Customers find the water purifier to be of good quality and appreciate its modern appearance, with one noting its touch panel with LED indicators. The product is easy to use, making daily usage simple, and customers consider it worth the price, noting it saves money in the long run. They like the smart features that add convenience, and one customer mentions the preset dispensing modes are surprisingly useful. The reliability receives mixed feedback, with some saying it works better than expected while others report it stopped working suddenly.",
+  "scraped": "2026-07-15",
+  "customers_say": "Customers find the water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one noting its modern touch panel with LED indicators, and consider it worth the price as it saves money in the long run. The taste is pleasant, and installation is straightforward. While many say it performs wonderfully, some report that their purifiers stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "494"
+      "count": "506"
     },
     {
       "name": "Installation",
-      "count": "127"
+      "count": "129"
     },
     {
       "name": "Value for money",
-      "count": "94"
+      "count": "96"
     },
     {
       "name": "Water taste",
-      "count": "61"
+      "count": "65"
     },
     {
       "name": "Appearance",
-      "count": "49"
+      "count": "51"
     },
     {
       "name": "Ease of use",
@@ -28,14 +28,38 @@
     },
     {
       "name": "Features",
-      "count": "43"
+      "count": "44"
     },
     {
       "name": "Reliability",
-      "count": "119"
+      "count": "126"
     }
   ],
   "reviews": [
+    {
+      "author": "Ramesh",
+      "rating": 5.0,
+      "title": "Good Product",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "Good product Touch is comfortable Water taste is good Stylish design Value for money"
+    },
+    {
+      "author": "Tejan Yashwant Ranshevare",
+      "rating": 5.0,
+      "title": "Excellent water purifier with reliable performance and great-tasting water.",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "Great water purifier with excellent purification and fresh-tasting water. Installation was quick, the build quality is solid, and it operates quietly. Easy to use and worth the investment. Highly recommended!"
+    },
+    {
+      "author": "Sagar patil",
+      "rating": 5.0,
+      "title": "Excellent Water Purifier with Smart Features – Highly Recommended! ⭐⭐⭐⭐⭐",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "The UC Native Water Purifier was delivered on time and installed as per the scheduled appointment. The water quality is excellent—it tastes just like packaged drinking water. With the 2-year maintenance coverage, I have complete peace of mind. The mobile app is very useful. It shows all the important details, such as the water level in the tank, average daily water consumption, and the health status of the filters. One of the best features is the automatic flushing system, which cleans the purifier after the tank is full and whenever required. The touch panel is responsive, and the controlled "
+    },
     {
       "author": "Tejaswi",
       "rating": 5.0,
@@ -51,30 +75,6 @@
       "date": "2026-07-10",
       "date_label": "10 July 2026",
       "body": "Excellent product....water taste is excellent and RO Looks premium and pretty also. Installation experience also nice. Price also value for money...filtration process also zabardast(excellent). It takes 30-35 minutes to fill 8 ltr. tank...wastage water approx 8-10 ltr."
-    },
-    {
-      "author": "bolem kishore",
-      "rating": 5.0,
-      "title": "Excellent product—pure peace of mind",
-      "date": "2026-07-10",
-      "date_label": "10 July 2026",
-      "body": "Excellent product with great features. The water quality is top-notch, the design is sleek, and the 2-year unconditional warranty gives total peace of mind. Highly recommend it to anyone looking for a hassle-free, smart RO system!"
-    },
-    {
-      "author": "Jignesh mehta",
-      "rating": 5.0,
-      "title": "Excellent",
-      "date": "2026-07-09",
-      "date_label": "9 July 2026",
-      "body": "⭐⭐⭐⭐⭐ 5/5 Excellent water purifier with a premium design and smart features. The water tastes fresh and clean, and the performance has been consistently reliable. Installation was smooth, and the maintenance-free service adds great convenience. The Urban Company Native M2 Pro offers outstanding quality, innovation, and value for money. Highly recommended."
-    },
-    {
-      "author": "Baishali",
-      "rating": 5.0,
-      "title": "Go for it!!",
-      "date": "2026-07-08",
-      "date_label": "8 July 2026",
-      "body": "⭐⭐⭐⭐⭐ Excellent product and service! The installation was smooth, and Vasanth was very professional. He explained the product clearly and completed the installation neatly. Highly recommended!"
     }
   ]
 }

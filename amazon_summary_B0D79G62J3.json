@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-14",
-  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its premium appearance and excellent taste. They consider it a budget-friendly option with transparent pricing, and one customer mentions the installation was completely free of cost. The water quality receives positive feedback, with customers noting they get the purest possible water, and the service process is well-received. However, reliability receives mixed reviews, with some customers reporting the machine works superbly while others say it's not working properly.",
+  "scraped": "2026-07-15",
+  "customers_say": "Customers find the water purifier to be of excellent quality, with one noting it's the best in class. The installation process receives positive feedback, with one customer mentioning it's completely free of cost. Moreover, the product offers good value for money, particularly in terms of service costs, and customers appreciate its premium appearance and excellent taste. Additionally, the water quality is consistently good, with one customer specifically mentioning the technician's thorough water quality check, and the service process receives praise for being professional.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,19 +8,23 @@
     },
     {
       "name": "Installation",
-      "count": "400"
+      "count": "401"
     },
     {
       "name": "Value for money",
-      "count": "294"
+      "count": "297"
+    },
+    {
+      "name": "Reliability",
+      "count": "261"
     },
     {
       "name": "Appearance",
-      "count": "211"
+      "count": "215"
     },
     {
       "name": "Water taste",
-      "count": "200"
+      "count": "202"
     },
     {
       "name": "Water quality",
@@ -29,20 +33,40 @@
     {
       "name": "Service",
       "count": "150"
-    },
-    {
-      "name": "Reliability",
-      "count": "287"
     }
   ],
   "reviews": [
     {
-      "author": "Raviteja",
+      "author": "NK",
       "rating": 5.0,
-      "title": "Loved it!!!",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "Looking great..installation service was gud..filtering was nice..Loved the product"
+      "title": "Good start with water filter",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "Filter works very well. Used 3 days now and no issues. Unit looks good. Large in size though, so check dimensions and see whether it fits in your home. Installation was very well coordinated and smooth. No ‘add on’ charges. If exchanging old filter, keep in mind to detach old filter to have ready for handing over to Amazon’s delivery agent. Will post another update after further 1-2 years usage. Will validate filer change period and also cost reduction filter is supposed to provide due to reduced frequency of filter change."
+    },
+    {
+      "author": "Placeholder",
+      "rating": 4.0,
+      "title": "Good product and service",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "Good flow and low tds. Filtration working well. I recently purchased the product based on good reviews from my neighbours who are using same product. Internal plastic body looks flimsy and could be better."
+    },
+    {
+      "author": "R. S.",
+      "rating": 4.0,
+      "title": "Tap is the problem",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "Everything is OK but the problem is the tap...it's really a big problem if not used carefully..I would say conventional taps which other purifier provide, is far better!!!"
+    },
+    {
+      "author": "Pullareddy",
+      "rating": 5.0,
+      "title": "Native",
+      "date": "2026-07-10",
+      "date_label": "10 July 2026",
+      "body": "Really good product! The water tastes completely pure and clean, and the build quality is excellent. Very happy with this purchase.\""
     },
     {
       "author": "AdityA",
@@ -51,30 +75,6 @@
       "date": "2026-07-08",
       "date_label": "8 July 2026",
       "body": "Value for money product no doubt. Have not used the in app feature till now but it looks feature rich and easy to use. The installation process was super smooth. Only negative I can think of is the nozzle is not compatible with extension pipes."
-    },
-    {
-      "author": "Gohil Vinay Pravinbhai",
-      "rating": 5.0,
-      "title": "EXCELLENT RO WATER PURIFIER",
-      "date": "2026-07-07",
-      "date_label": "7 July 2026",
-      "body": "EXCELLENT SERVICE FROM URBAN COMPANY AND TIMELY FITTING OF PURIFIER WATER QUALITY I BEST AND GOOD WATER SAVING TECHNOLOGY"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Best product in best price",
-      "date": "2026-07-07",
-      "date_label": "7 July 2026",
-      "body": "Excellent product and best service by UC professional. The best part is their 2 years unlimited warranty on the entire product and no service cost for 2 years."
-    },
-    {
-      "author": "ANGOTHU NARESH",
-      "rating": 5.0,
-      "title": "Affordable and best purifier",
-      "date": "2026-07-06",
-      "date_label": "6 July 2026",
-      "body": "Good purifier and well maintained technician who came on time and done installation perfectly... Go for it... If any complaints I will edit it here after 3 months"
     }
   ]
 }
