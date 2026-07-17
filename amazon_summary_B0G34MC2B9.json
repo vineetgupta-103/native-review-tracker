@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-15",
-  "customers_say": "Customers find the digital lock to be a good upgrade from regular door locks, with excellent installation and professional service. The lock functions well, offering multiple unlocking options and providing a better sense of security. They appreciate its ease of use, with one customer noting it's easy for different family members to use, and its feature-rich design, with one mentioning the patient demo of all features by the technician. While customers consider it feature-rich, opinions on value for money are mixed.",
+  "scraped": "2026-07-17",
+  "customers_say": "Customers find the digital lock to be a good upgrade from regular door locks, with excellent installation and reliable functionality. They appreciate its security features, including multiple unlocking options, and consider it easy to use, with one customer noting it's convenient for different family members. The service receives positive feedback, and customers find it feature-rich. While opinions on value for money are mixed, with some finding it overpriced.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "71"
+      "count": "68"
     },
     {
       "name": "Installation",
       "count": "36"
     },
     {
-      "name": "Service",
-      "count": "13"
+      "name": "Functionality",
+      "count": "21"
     },
     {
-      "name": "Functionality",
-      "count": "12"
+      "name": "Service",
+      "count": "13"
     },
     {
       "name": "Ease of use",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "ilias ali",
+      "rating": 5.0,
+      "title": "Nice lock",
+      "date": "2026-07-13",
+      "date_label": "13 July 2026",
+      "body": "Nice product.... also technician Rabin is very helpful"
+    },
+    {
       "author": "Nitin G.",
       "rating": 5.0,
       "title": "Good Product",
@@ -53,28 +61,20 @@
       "body": "Technician could not configure WIfi with the digital lock。 He is not experienced。 also does not have time to configure He put the blame on internet provider and went off。 For such a expensive lock, the technicians should be properly trained not only carpentry work but also ensures proper software and complete configuration. Very disappointing. Options are available for Rs 10K onwards, but preferred Godrej for their service, and reputation。"
     },
     {
+      "author": "Anusha murari",
+      "rating": 5.0,
+      "title": "Excellent",
+      "date": "2026-06-15",
+      "date_label": "15 June 2026",
+      "body": "Installation was down Mr Ravindra chary shown every thing and easily to acess explained clerely"
+    },
+    {
       "author": "Garima",
       "rating": 1.0,
       "title": "Please Dont Buy Godrej Lock",
       "date": "2026-06-09",
       "date_label": "9 June 2026",
       "body": "3rd class service hei, Godrej ki, pls dont buy, product features bhaut ache hei, but build quality bilkul 0 hei, aaj 8 june 2026 ko almost 2 month ho gaye lock liye, but lock ka camera lock lagne k 2 din baad hi zor sei gate band hone par hi gir padda, and wo aaj tak camera ka part na to chnage kiya na hi fix kiya usko, aap agr NCR mei rehte hei to pls bilkul bhi buy mat karna, Service bhaut kharab hei, 15 eamils godrej ko kiye, every time ticket genrate k alwa kuch nahi. no response. Amazon ke kehne par kai baar jo godrej ko jo mail kya, uske sare proof amazon k sath bhi share kiye, but aaj t"
-    },
-    {
-      "author": "Rakesh Roshan Koul",
-      "rating": 5.0,
-      "title": "Excellent Smart Lock for a Secure and Modern Home",
-      "date": "2026-06-03",
-      "date_label": "3 June 2026",
-      "body": "This digital lock from Godrej is an excellent addition to any home. I am writing this review after using it for about a month, and it has been working flawlessly. The lock offers multiple access options, including biometric fingerprint recognition, RFID card access, a 6-digit password, Wi-Fi connectivity, and traditional keys. During installation, the technician will configure all the lock settings and explain the features. It’s a good idea to note these settings for future reference, especially if you need to add or modify user access later. The lock is powered by four AA batteries. For bette"
-    },
-    {
-      "author": "Sushmita Sarma",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-05-30",
-      "date_label": "30 May 2026",
-      "body": "Technician was very good with his service. Hassle free installation. Good product"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-15",
+  "scraped": "2026-07-17",
   "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it matches normal ground water. The installation process is straightforward, and the water quality receives positive feedback, with one customer mentioning it effectively improves drinking water quality. The reliability and value for money receive mixed reviews - while some say it functions well and offers good value, others report it stops working completely and consider it not worth the investment. Service experiences are also mixed, with some finding it dependable while others report poor service.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Installation",
-      "count": "659"
+      "count": "660"
     },
     {
       "name": "Water taste",
-      "count": "216"
+      "count": "217"
     },
     {
       "name": "Ease of use",
@@ -20,22 +20,38 @@
     },
     {
       "name": "Water quality",
-      "count": "144"
+      "count": "145"
     },
     {
       "name": "Reliability",
-      "count": "473"
+      "count": "474"
     },
     {
       "name": "Value for money",
-      "count": "433"
+      "count": "434"
     },
     {
       "name": "Service",
-      "count": "159"
+      "count": "160"
     }
   ],
   "reviews": [
+    {
+      "author": "Teow meow",
+      "rating": 5.0,
+      "title": "Value for money",
+      "date": "2026-07-14",
+      "date_label": "14 July 2026",
+      "body": "Good product. Was installed quickly by the Kent employee."
+    },
+    {
+      "author": "Suresh Halder",
+      "rating": 5.0,
+      "title": "Good water quality and reliable performance.",
+      "date": "2026-07-13",
+      "date_label": "13 July 2026",
+      "body": "I have been using the KENT Supreme Plus Alkaline+Copper RO Water Purifier. The water tastes clean and fresh, and the purifier works quietly.Overall, I am satisfied with the performance."
+    },
     {
       "author": "Pawan Kumar",
       "rating": 5.0,
@@ -51,22 +67,6 @@
       "date": "2026-07-08",
       "date_label": "8 July 2026",
       "body": "Writing this review after using 1 year . Awesome product . zero complaints . nice service . before purchase i believed this kind of review of other buyer, they were right . thanks to them . 🙏."
-    },
-    {
-      "author": "Manisha",
-      "rating": 5.0,
-      "title": "BEST IN RANGE",
-      "date": "2026-07-08",
-      "date_label": "8 July 2026",
-      "body": "Great product, compact in size, looks cool in black color, lesss maintenance and service charges gives accurate tds control"
-    },
-    {
-      "author": "Shri",
-      "rating": 5.0,
-      "title": "Kent",
-      "date": "2026-07-08",
-      "date_label": "8 July 2026",
-      "body": "Good product and easily installation"
     },
     {
       "author": "Rentala Raghavendra",

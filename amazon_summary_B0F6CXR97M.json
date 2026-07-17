@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-15",
+  "scraped": "2026-07-17",
   "customers_say": "Customers find this water purifier excellent, with features including TDS control, multiple taste adjustment options, and a modern LED light design. They appreciate the free installation and consider it good value for money, with one customer noting it will pay off in three years. The purifier's reliability receives mixed feedback - while many say it functions well, some report it stops working properly.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "535"
+      "count": "538"
     },
     {
       "name": "Installation",
@@ -12,11 +12,11 @@
     },
     {
       "name": "Value for money",
-      "count": "99"
+      "count": "100"
     },
     {
       "name": "Water taste",
-      "count": "76"
+      "count": "77"
     },
     {
       "name": "Appearance",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Features",
-      "count": "60"
+      "count": "61"
     },
     {
       "name": "Tds control",
-      "count": "60"
+      "count": "59"
     },
     {
       "name": "Reliability",

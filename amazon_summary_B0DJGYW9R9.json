@@ -1,41 +1,49 @@
 {
-  "scraped": "2026-07-15",
+  "scraped": "2026-07-17",
   "customers_say": "Customers find this smart lock to be the best in class, with professional installation and reliable performance. They appreciate its sleek appearance, with one customer noting it adds a modern touch to the door. The lock offers excellent security with triple deadlocks and multiple authentication methods, while the app interface is easy to use. They like its feature-rich design, including multiple unlocking options and customizable access permissions.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "116"
+      "count": "118"
     },
     {
       "name": "Installation",
-      "count": "65"
+      "count": "67"
     },
     {
       "name": "Reliability",
-      "count": "43"
+      "count": "45"
     },
     {
       "name": "Appearance",
-      "count": "22"
+      "count": "23"
     },
     {
       "name": "Security",
+      "count": "21"
+    },
+    {
+      "name": "Ease of use",
       "count": "19"
     },
     {
       "name": "Features",
-      "count": "17"
+      "count": "18"
     },
     {
       "name": "Service",
       "count": "17"
-    },
-    {
-      "name": "Ease of use",
-      "count": "16"
     }
   ],
   "reviews": [
+    {
+      "author": "Sasha",
+      "rating": 5.0,
+      "title": "Very good buy -- value for money and user friendly",
+      "date": "2026-07-13",
+      "date_label": "13 July 2026",
+      "body": "Excellent product with good customer support. The technician did the installation neatly and cleaned up the place afterward. He explained the product and it's features clearly. It saves a lot of hassle of searching for keys and is also extremely good from a safety point of view. One suggestion would be to add face recognition as a feature."
+    },
     {
       "author": "Nikhil Bhagat",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-09",
       "date_label": "9 July 2026",
       "body": "This is an awesome product and thoroughly enjoying the features."
-    },
-    {
-      "author": "HIMANSHU",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-07-07",
-      "date_label": "7 July 2026",
-      "body": "Good product. I purchase a year back. No problem so far. Battries last for 6to 7 months."
     }
   ]
 }
