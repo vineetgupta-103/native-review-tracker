@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-17",
+  "scraped": "2026-07-18",
   "customers_say": "Customers find the water purifier to be of excellent quality, with one noting it's the best in class. The installation process receives positive feedback, with one customer mentioning it's completely free of cost. Moreover, the product offers good value for money, particularly in terms of service costs, and customers appreciate its premium appearance and excellent taste. Additionally, the water quality is consistently good, with one customer specifically mentioning the technician's thorough water quality check, and the service process receives praise for being professional.",
   "aspects": [
     {
@@ -8,34 +8,50 @@
     },
     {
       "name": "Installation",
-      "count": "401"
+      "count": "405"
     },
     {
       "name": "Value for money",
-      "count": "297"
+      "count": "298"
     },
     {
       "name": "Reliability",
-      "count": "262"
+      "count": "264"
     },
     {
       "name": "Appearance",
-      "count": "216"
+      "count": "217"
     },
     {
       "name": "Water taste",
-      "count": "203"
+      "count": "204"
     },
     {
       "name": "Water quality",
-      "count": "173"
+      "count": "174"
     },
     {
       "name": "Service",
-      "count": "151"
+      "count": "152"
     }
   ],
   "reviews": [
+    {
+      "author": "Bishal saha",
+      "rating": 4.0,
+      "title": "Strongly recommend",
+      "date": "2026-07-15",
+      "date_label": "15 July 2026",
+      "body": "I bought it for me and for my parents and i can say this is one of the best water purifiers. The installation goes really smooth and the installation partner was really kind."
+    },
+    {
+      "author": "sovit kajal",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-07-13",
+      "date_label": "13 July 2026",
+      "body": "Good service, service man was a good behaviour person. I am satisfied with the service provided. Product also seems good. Let’s see how it performs in future. Look wise also neat & good looking premium product"
+    },
     {
       "author": "NK",
       "rating": 5.0,
@@ -51,22 +67,6 @@
       "date": "2026-07-12",
       "date_label": "12 July 2026",
       "body": "Good flow and low tds. Filtration working well. I recently purchased the product based on good reviews from my neighbours who are using same product. Internal plastic body looks flimsy and could be better."
-    },
-    {
-      "author": "R. S.",
-      "rating": 4.0,
-      "title": "Tap is the problem",
-      "date": "2026-07-12",
-      "date_label": "12 July 2026",
-      "body": "Everything is OK but the problem is the tap...it's really a big problem if not used carefully..I would say conventional taps which other purifier provide, is far better!!!"
-    },
-    {
-      "author": "Pullareddy",
-      "rating": 5.0,
-      "title": "Native",
-      "date": "2026-07-10",
-      "date_label": "10 July 2026",
-      "body": "Really good product! The water tastes completely pure and clean, and the build quality is excellent. Very happy with this purchase.\""
     },
     {
       "author": "AdityA",

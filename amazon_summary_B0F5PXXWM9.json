@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-17",
+  "scraped": "2026-07-18",
   "customers_say": "Customers find the water purifier to be of good quality, working reliably, and appreciate that installation is free. The product receives positive feedback for its value, taste, and water quality, with one customer noting it increases water sweetness. Customers find it easy to use and professional, though opinions about service are mixed, with some praising it while others report poor service.",
   "aspects": [
     {
@@ -8,31 +8,31 @@
     },
     {
       "name": "Reliability",
-      "count": "690"
+      "count": "692"
     },
     {
       "name": "Installation",
-      "count": "620"
+      "count": "627"
     },
     {
       "name": "Value for money",
-      "count": "554"
+      "count": "556"
     },
     {
       "name": "Taste",
-      "count": "225"
+      "count": "226"
     },
     {
       "name": "Water quality",
-      "count": "220"
+      "count": "226"
     },
     {
       "name": "Ease of use",
-      "count": "134"
+      "count": "135"
     },
     {
       "name": "Service",
-      "count": "172"
+      "count": "173"
     }
   ],
   "reviews": [

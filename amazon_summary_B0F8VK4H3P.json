@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-17",
+  "scraped": "2026-07-18",
   "customers_say": "Customers find the smart door lock to be of excellent quality, with solid build and smooth installation process. They appreciate its appearance, ease of use, and bundle of features, with one customer highlighting its fingerprint and passcode entry options. The functionality receives mixed feedback - while the lock works as expected, some customers report issues with the fingerprint scanner stopping unexpectedly. Customers consider it good value for money.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "57"
+      "count": "56"
     },
     {
       "name": "Installation",
@@ -37,14 +37,6 @@
   ],
   "reviews": [
     {
-      "author": "rahul jaiswal",
-      "rating": 5.0,
-      "title": "Door lock",
-      "date": "2026-07-14",
-      "date_label": "14 July 2026",
-      "body": "Good quality"
-    },
-    {
       "author": "Biju Thomas",
       "rating": 1.0,
       "title": "SubQuality product",
@@ -75,6 +67,14 @@
       "date": "2024-10-10",
       "date_label": "10 October 2024",
       "body": "QUBO – LOCKS QUBO Smart Door Lock Ultra from Hero Group | 6-Way Unlocking | Fingerprint | PIN | RFID Access Card | Bluetooth Mobile App | Mechanical Key | OTP Access | 2 Years Brand Warranty | (Copper) I had purchased this lock from amazon and it was received on 25/9/24 As Navaratri was fast coming wanted to install the same at the earliest. The service technician never arrives till 2/10 and then informs that due to space issue cannot install The lock. Was very worried. The product is good and commendable., hence wrote to Qubo whose customer service was very accommodative and said in case it d"
+    },
+    {
+      "author": "Durga Srinivas",
+      "rating": 5.0,
+      "title": "Amazing Lock",
+      "date": "2024-09-08",
+      "date_label": "8 September 2024",
+      "body": "The Qubo Smart Lock Ultra is an impressive device, offering excellent security features combined with modern technology. Its seamless integration with smartphones makes remote access and monitoring incredibly convenient. The fingerprint and passcode entry options provide versatility, and the auto-locking feature enhances safety. Installation is straightforward, and the lock's sleek design adds a stylish touch to any door. Overall, it's a reliable, smart choice for anyone looking to upgrade home security with ease."
     }
   ]
 }

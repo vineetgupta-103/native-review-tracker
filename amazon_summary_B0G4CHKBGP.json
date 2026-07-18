@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-07-17",
+  "scraped": "2026-07-18",
   "customers_say": "Customers find this water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one noting its modern touch panel with LED indicators, and consider it worth the price as it saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While many say it performs wonderfully, some report that their purifiers stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "521"
+      "count": "529"
     },
     {
       "name": "Installation",
-      "count": "132"
+      "count": "133"
     },
     {
       "name": "Value for money",
-      "count": "99"
+      "count": "102"
     },
     {
       "name": "Water taste",
@@ -24,25 +24,33 @@
     },
     {
       "name": "Ease of use",
-      "count": "48"
+      "count": "49"
     },
     {
       "name": "Features",
-      "count": "46"
+      "count": "48"
     },
     {
       "name": "Reliability",
-      "count": "131"
+      "count": "134"
     }
   ],
   "reviews": [
     {
-      "author": "S jaiswal",
+      "author": "Placeholder",
       "rating": 5.0,
-      "title": "Breakthrough in RO industry",
-      "date": "2026-07-14",
-      "date_label": "14 July 2026",
-      "body": "Wonderful product, specially the smart features and sleek looks. Service and installation was effortless. Full satisfaction"
+      "title": "Perfect Water Filter",
+      "date": "2026-07-15",
+      "date_label": "15 July 2026",
+      "body": "The design and quality of the product is extremely good. The water filtration is perfect. No noise is coming. Even the installation was very smooth and easy and lastly value for money indeed."
+    },
+    {
+      "author": "sankha",
+      "rating": 4.0,
+      "title": "Good product",
+      "date": "2026-07-15",
+      "date_label": "15 July 2026",
+      "body": "Installed on 14th July2026 ..product is very futuristic..tds is automatically controlled..tank refilling is at good pace..water dispensing speed is also good..presets can be changed via app"
     },
     {
       "author": "Tejan Yashwant Ranshevare",
@@ -67,14 +75,6 @@
       "date": "2026-07-11",
       "date_label": "11 July 2026",
       "body": "I purchased the M2 Pro during an offer, and after using it for the past three days, I’m genuinely impressed with its performance. One feature I particularly love is the real-time display of the input and output water TDS levels. It gives great confidence about the quality of the water being purified and reflects the product’s advanced technology. I would also like to appreciate Mr. Mandoju Purna Chary, who handled the installation. He was highly professional, knowledgeable, and courteous throughout the process. The installation was completed quickly with proper setup, and he patiently explaine"
-    },
-    {
-      "author": "manish chauhan",
-      "rating": 5.0,
-      "title": "Premium Product and excellent filtration system.",
-      "date": "2026-07-10",
-      "date_label": "10 July 2026",
-      "body": "Excellent product....water taste is excellent and RO Looks premium and pretty also. Installation experience also nice. Price also value for money...filtration process also zabardast(excellent). It takes 30-35 minutes to fill 8 ltr. tank...wastage water approx 8-10 ltr."
     }
   ]
 }
