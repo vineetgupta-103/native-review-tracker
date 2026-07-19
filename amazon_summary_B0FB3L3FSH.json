@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-07-18",
+  "scraped": "2026-07-19",
   "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain. The installation process is smooth with professional service, and customers consider it a budget-friendly option. While the appearance receives positive feedback, with one customer noting its premium matte finish, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "188"
+      "count": "189"
     },
     {
       "name": "Performance",
-      "count": "59"
+      "count": "58"
     },
     {
       "name": "Installation",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Anurag Gogoi",
+      "rating": 5.0,
+      "title": "All in the box water purifier",
+      "date": "2026-07-10",
+      "date_label": "10 July 2026",
+      "body": "Good simple water purifier. Works well and came with everything including a pre filter and tds meter."
+    },
+    {
       "author": "Chauhan Vishal",
       "rating": 5.0,
       "title": "One of the best RO.",
@@ -59,14 +67,6 @@
       "date": "2026-06-25",
       "date_label": "25 June 2026",
       "body": "Budget friendly product, low maintenance, good filtration,5 litre storage, Material strong durable body Good product"
-    },
-    {
-      "author": "Balachander",
-      "rating": 5.0,
-      "title": "Good machine at a reasonable price",
-      "date": "2026-06-20",
-      "date_label": "20 June 2026",
-      "body": "Prompt delivery...The technician also came to install the machine the next day as per schedule... Started using...gives tds of around 50 after purification, which is perfect. Taste of water is good."
     },
     {
       "author": "Gaurav",

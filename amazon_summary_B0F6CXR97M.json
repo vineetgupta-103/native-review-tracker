@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-07-18",
+  "scraped": "2026-07-19",
   "customers_say": "Customers find this water purifier excellent, with features including TDS control, multiple taste adjustment options, and a modern LED light design. They appreciate the free installation and consider it good value for money, with one customer noting it will pay off in three years. The purifier's reliability receives mixed feedback - while many say it functions well, some report it stops working properly.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "538"
+      "count": "553"
     },
     {
       "name": "Installation",
-      "count": "250"
+      "count": "251"
     },
     {
       "name": "Value for money",
@@ -32,18 +32,10 @@
     },
     {
       "name": "Reliability",
-      "count": "141"
+      "count": "156"
     }
   ],
   "reviews": [
-    {
-      "author": "Rama Krishna",
-      "rating": 1.0,
-      "title": "Yet another RO",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "My first preference for a purifier is non RO. This review is in that perspective. The TDS in my apartment is always between 240-280. So I want a non RO purifier as it unnecessarily wastes lots of water, and removes essential minerals. With little research, all my ways showed upon this water purifier as the name suggests adaptive. And it says below 300, it works as UV + UF and above that, it'll work as RO. So my expectation is if occasionally, without my notice TDS is going beyond 300, I'll get RO purified water. But, but NOOOOOO This won't work as per your TDS. The app shows the input TDS is 5"
-    },
     {
       "author": "Gaurav Atravalkar",
       "rating": 5.0,
@@ -59,6 +51,14 @@
       "date": "2026-07-06",
       "date_label": "6 July 2026",
       "body": "Review after 9 months of use Loved the quality and installation service support by the team. Excellent customer service by the technician who checked and set things. The water pressure motor was a great added benefit. Thank you! Great value for money with latest checks possible on mobile app for status of filters etc. TDS options works like a charm with settings. Simple and elegant design with sturdy materials. Love the LED display. Considerable change in taste and quality of water, healthy because there are fewer cases of flu/throat infections after installation. Previous equipment could not "
+    },
+    {
+      "author": "Shivakrishna",
+      "rating": 1.0,
+      "title": "Defective Product – Replacement Still Not Provided",
+      "date": "2026-06-28",
+      "date_label": "28 June 2026",
+      "body": "It has only been a month since I purchased this purifier, and I’ve been facing issues almost every week. Within the first week of use, I noticed white particles in the dispensed water. The service technician inspected the purifier and informed me that the particles were caused by the pipe provided inside the box, which was melting. As instructed by his supervisor, he cleaned the pipe with hot water and reinstalled it. However, the same issue reappeared within a week. The technician then replaced the pipe with a new one, but after another week, the white particles started appearing again. Unfor"
     },
     {
       "author": "Placeholder",
