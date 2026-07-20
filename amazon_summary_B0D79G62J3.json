@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-19",
+  "scraped": "2026-07-20",
   "customers_say": "Customers find the water purifier to be of excellent quality, with one noting it's the best in class. The installation process receives positive feedback, with one customer mentioning it's completely free of cost. Moreover, the product offers good value for money, particularly in terms of service costs, and customers appreciate its premium appearance and excellent taste. Additionally, the water quality is consistently good, with one customer specifically mentioning the technician's thorough water quality check, and the service process receives praise for being professional.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Installation",
-      "count": "406"
+      "count": "408"
     },
     {
       "name": "Value for money",
-      "count": "298"
+      "count": "299"
     },
     {
       "name": "Reliability",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Water taste",
-      "count": "205"
+      "count": "206"
     },
     {
       "name": "Water quality",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Sahul Sen",
+      "rating": 5.0,
+      "title": "Good Choice and Great Delivery Expenses",
+      "date": "2026-07-17",
+      "date_label": "17 July 2026",
+      "body": "Very Good Product and Installation is very Easy. Worth to Buy with a good price from Amazon"
+    },
     {
       "author": "Bishal saha",
       "rating": 4.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-12",
       "date_label": "12 July 2026",
       "body": "Good flow and low tds. Filtration working well. I recently purchased the product based on good reviews from my neighbours who are using same product. Internal plastic body looks flimsy and could be better."
-    },
-    {
-      "author": "AdityA",
-      "rating": 5.0,
-      "title": "Good Product",
-      "date": "2026-07-08",
-      "date_label": "8 July 2026",
-      "body": "Value for money product no doubt. Have not used the in app feature till now but it looks feature rich and easy to use. The installation process was super smooth. Only negative I can think of is the nozzle is not compatible with extension pipes."
     }
   ]
 }

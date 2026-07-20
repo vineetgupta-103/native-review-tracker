@@ -1,30 +1,30 @@
 {
-  "scraped": "2026-07-19",
+  "scraped": "2026-07-20",
   "customers_say": "Customers find the water purifier to be of good quality, working reliably, and appreciate that installation is free. The product receives positive feedback for its value, taste, and water quality, with one customer noting it increases water sweetness. Customers find it easy to use and professional, though opinions about service are mixed, with some praising it while others report poor service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "2.3K"
+      "count": "2.4K"
     },
     {
       "name": "Reliability",
-      "count": "698"
+      "count": "704"
     },
     {
       "name": "Installation",
-      "count": "632"
+      "count": "635"
     },
     {
       "name": "Value for money",
-      "count": "559"
+      "count": "567"
     },
     {
       "name": "Taste",
-      "count": "227"
+      "count": "229"
     },
     {
       "name": "Water quality",
-      "count": "226"
+      "count": "229"
     },
     {
       "name": "Ease of use",
@@ -37,20 +37,28 @@
   ],
   "reviews": [
     {
+      "author": "Chandan Yadav",
+      "rating": 4.0,
+      "title": "Budget friendly",
+      "date": "2026-07-17",
+      "date_label": "17 July 2026",
+      "body": "Product is good and working fine as of now after one week. It make some sound while working but remain silent afterwards"
+    },
+    {
+      "author": "xyz",
+      "rating": 3.0,
+      "title": "Buy the Aquasaver 2x model instead",
+      "date": "2026-07-16",
+      "date_label": "16 July 2026",
+      "body": "If only the Amazon listing had clearly mentioned the differences between this model and Aquasaver 2x, I would have chosen that instead. This model doesn't include a sediment filter in the box, but the Aquasaver 2x does. The installation technician told me that I definitely need one. The sediment filter cost ₹1300. The filter life of this model is 1 year compared to the 2-year filter life of the other model. With the price difference between the models being ₹2000, by the end of the first year, this model would be more expensive than the 2x model."
+    },
+    {
       "author": "Swathi Ksp",
       "rating": 5.0,
       "title": "Truly a delightful water purifier - Aquaguard",
       "date": "2026-07-14",
       "date_label": "14 July 2026",
       "body": "I am writing this review in the first week of purchase... so far it is very good experience Delivery - Excellent Installation - Excellent Overall - Excellent, compact size, no noise, good condition, good quality of water Feedback for improvements: 1. Water quality - Good, however TDS is around 25, I was expecting around 50 levels because of adding back minerals. Hoping this will better over the time. 2. Water wastage is more in spite of company claim of less water wastage. Hoping this will better over the time. 3. Outer body plastic quality should be good. For now, it seems average to below av"
-    },
-    {
-      "author": "Amit Singh",
-      "rating": 5.0,
-      "title": "Value for money and health…. All rounder",
-      "date": "2026-07-12",
-      "date_label": "12 July 2026",
-      "body": "The water purifier is very good. I wanted a steel tank purifier as the water temperature in my residence used to be very high during summers which is not good to be stored in plastic containers even if it food grade as they are not meant to be used at such a high temperature. Also maintenance of steel tank is easy. Water filtration capacity is better than kent which I had earlier. Taste-wise it is good and the concept that if it plain RO then TDS controller should not be installed in Aquaguard is very thoughtful as it mixes unfiltered water with filtered water thereby increases the risk of con"
     },
     {
       "author": "siddu telkar",
@@ -67,14 +75,6 @@
       "date": "2026-07-10",
       "date_label": "10 July 2026",
       "body": "I’ll be very honest—after doing thorough research online and reading many reviews, I finally chose this water purifier, and I’m extremely happy with my purchase. The product is amazing. The water tastes great, it handles very high TDS levels efficiently, and it operates with almost no noise at all, which is a big plus. The design is also elegant, modern, and looks beautiful in my kitchen. I bought it during the Amazon sale on 4th July for ₹7,200, and I believe it was an excellent deal for the features and performance it offers. Overall, I’m very satisfied with my purchase and would definitely "
-    },
-    {
-      "author": "Divya Anand",
-      "rating": 3.0,
-      "title": "Product is good but not happy with the feedback calls",
-      "date": "2026-07-06",
-      "date_label": "6 July 2026",
-      "body": "The product is really good, but the only problem I have is, why is amazon or seller (not sure who is responsible) always forcing for the feedback. Isn't it voluntary, I got call multiple times for feedback. This is not a good practice and harrasment of customer. I am not saying one should not ask for feedback but reminding one time is fine, if I have to give feedback I will give if not I will not."
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-07-19",
+  "scraped": "2026-07-20",
   "customers_say": "Customers find this water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one noting its modern touch panel with LED indicators, and consider it worth the price as it saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While many say it performs wonderfully, some report that their purifiers stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "536"
+      "count": "541"
     },
     {
       "name": "Installation",
-      "count": "134"
+      "count": "138"
     },
     {
       "name": "Value for money",
-      "count": "103"
+      "count": "105"
     },
     {
       "name": "Water taste",
@@ -28,14 +28,22 @@
     },
     {
       "name": "Features",
-      "count": "48"
+      "count": "49"
     },
     {
       "name": "Reliability",
-      "count": "135"
+      "count": "136"
     }
   ],
   "reviews": [
+    {
+      "author": "Khyati Guwaliwala",
+      "rating": 5.0,
+      "title": "Great Purchase",
+      "date": "2026-07-17",
+      "date_label": "17 July 2026",
+      "body": "Very Nice Product. Great Installation Service. Best Performance. MO - Pin Drop Silence."
+    },
     {
       "author": "Placeholder",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-07-15",
       "date_label": "15 July 2026",
       "body": "The design and quality of the product is extremely good. The water filtration is perfect. No noise is coming. Even the installation was very smooth and easy and lastly value for money indeed."
-    },
-    {
-      "author": "satsangram",
-      "rating": 4.0,
-      "title": "Good product",
-      "date": "2026-07-15",
-      "date_label": "15 July 2026",
-      "body": "Using since 8 months . No problem faced yet. Very good in use"
     },
     {
       "author": "Tejan Yashwant Ranshevare",
