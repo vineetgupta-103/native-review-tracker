@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-20",
-  "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it matches normal ground water. The installation process is straightforward, and the water quality receives positive feedback, with one customer mentioning it effectively improves drinking water quality. The reliability and value for money receive mixed reviews - while some say it functions well and offers good value, others report it stops working completely and consider it not worth the investment. Service experiences are also mixed, with some finding it dependable while others report poor service.",
+  "scraped": "2026-07-21",
+  "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it's similar to normal ground water. The installation process is straightforward, and the water quality receives positive feedback, with one customer highlighting its mineral content. The reliability and value for money receive mixed reviews - while some say it functions well and consider it good value, others report it stops working completely and find it expensive. Similarly, service experiences are mixed, with some praising Kent's service while others report poor service.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "635"
+      "count": "636"
     },
     {
       "name": "Water taste",
@@ -20,22 +20,30 @@
     },
     {
       "name": "Water quality",
-      "count": "140"
+      "count": "143"
     },
     {
       "name": "Reliability",
-      "count": "461"
+      "count": "462"
     },
     {
       "name": "Value for money",
-      "count": "431"
+      "count": "430"
     },
     {
       "name": "Service",
-      "count": "154"
+      "count": "155"
     }
   ],
   "reviews": [
+    {
+      "author": "Vijay Narasimha",
+      "rating": 1.0,
+      "title": "Troublesome water purifier",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "Bad water purifier and doesnt deserve the brand rating it normally reflects. Big mistake as I moved away from HUL Pureit to Kent expecting better quality and experienced bitter quality instead. The biggest problem is that the water purifier stops working atleast monthly once and I had to call the customer service and service technician who comes and just resets it. Its been almost 8 months and I had to call them atleast 8 times. He comes and says this is a common problem and no permanent solution. From the time water purifier problem starts till the technician resets it, I have to rely on buyi"
+    },
     {
       "author": "Shubham",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-04",
       "date_label": "4 July 2026",
       "body": "Very good product i recommend to buy this item"
-    },
-    {
-      "author": "Yashwant Wardhan",
-      "rating": 4.0,
-      "title": "Amazing Kent",
-      "date": "2026-06-23",
-      "date_label": "23 June 2026",
-      "body": "Amazing Kent - Needed good water at home."
     }
   ]
 }

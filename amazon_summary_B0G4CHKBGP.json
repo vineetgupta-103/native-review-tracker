@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-20",
+  "scraped": "2026-07-21",
   "customers_say": "Customers find this water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one noting its modern touch panel with LED indicators, and consider it worth the price as it saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While many say it performs wonderfully, some report that their purifiers stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "541"
+      "count": "545"
     },
     {
       "name": "Installation",
-      "count": "138"
+      "count": "139"
     },
     {
       "name": "Value for money",
-      "count": "105"
+      "count": "108"
     },
     {
       "name": "Water taste",
-      "count": "65"
+      "count": "66"
     },
     {
       "name": "Appearance",
@@ -32,25 +32,25 @@
     },
     {
       "name": "Reliability",
-      "count": "136"
+      "count": "138"
     }
   ],
   "reviews": [
     {
-      "author": "Khyati Guwaliwala",
+      "author": "Shaman Shreshth",
       "rating": 5.0,
-      "title": "Great Purchase",
+      "title": "One of the best.",
       "date": "2026-07-17",
       "date_label": "17 July 2026",
-      "body": "Very Nice Product. Great Installation Service. Best Performance. MO - Pin Drop Silence."
+      "body": "One of the best water purifier I have ever experienced. It provides clean, fresh, and great-tasting drinking water with a simple touch. The installation was smooth, and provides necessary information through app. It works efficiently and gives me confidence that my family is drinking safe water. I would definitely recommend it to anyone looking for a reliable water purifier."
     },
     {
-      "author": "Placeholder",
-      "rating": 5.0,
-      "title": "Perfect Water Filter",
-      "date": "2026-07-15",
-      "date_label": "15 July 2026",
-      "body": "The design and quality of the product is extremely good. The water filtration is perfect. No noise is coming. Even the installation was very smooth and easy and lastly value for money indeed."
+      "author": "Chandrashekar",
+      "rating": 4.0,
+      "title": "Nice but expensive for one option",
+      "date": "2026-07-17",
+      "date_label": "17 July 2026",
+      "body": "It's worth buying. We've used it for so long, and it works better, and the water's clean too. The only major difference from the last model is the battery after a power cut. But they didn't mention that if the power goes out, we can only use one option, and not the other two like bottle and glass quantity. Other than that, it's good to buy."
     },
     {
       "author": "Tejan Yashwant Ranshevare",

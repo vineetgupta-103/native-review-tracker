@@ -1,8 +1,25 @@
 {
-  "scraped": "2026-07-20",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-07-21",
+  "customers_say": "Customers praise the door lock's quality and features, with one noting it's the best in its segment. The build quality receives positive feedback, with customers describing it as having a premium feel.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "7"
+    },
+    {
+      "name": "Build quality",
+      "count": "5"
+    }
+  ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 3.0,
+      "title": "Improvement",
+      "date": "2026-07-19",
+      "date_label": "19 July 2026",
+      "body": "Could be better. the distance from door frame is very less, need to increase to avoid hurting the hand while opening"
+    },
     {
       "author": "S",
       "rating": 2.0,
@@ -20,14 +37,6 @@
       "body": "Good Quality Lock. Delayed service by UC but at last got it done. Anurag Sharma got the installation done by 10:00pm."
     },
     {
-      "author": "Shyama Srivatsa",
-      "rating": 5.0,
-      "title": "Good smart door lock",
-      "date": "2026-07-12",
-      "date_label": "12 July 2026",
-      "body": "It's a good door lock. Best option for anyone looking for smart door lock"
-    },
-    {
       "author": "priya",
       "rating": 1.0,
       "title": "Lock is good but Amazon delivery worst and Amazon customer support pathetic",
@@ -36,12 +45,12 @@
       "body": "Amazon delivery is pathetic for 3 days u need to chase customer care executives and delivery guys and nobody is aware that where is the product. Delivery guy will update the wrong info that couldn't deliver due to bla bla reason , which is all crap only However lock is good but the wifi is getting disconnected frequently due to which u cannot see live view from door lock. They should exchange the wifi receiver inside the lock. Service from urban company is too good they were asking from the day when ordered, and came as soon as it delivered. Amazon need to improve their delivery and customer c"
     },
     {
-      "author": "Sanjeev Chakravarty",
+      "author": "Shyama Srivatsa",
       "rating": 5.0,
-      "title": "Excellent products and good services of Urban Company",
-      "date": "2026-07-09",
-      "date_label": "9 July 2026",
-      "body": "Very Good product and service of Urban Company specially their Customer Care Executives Mr.Nikhil Kumar and Ms. Sudaksha Khungar. They had helped me a lot throughout the installation of the excellent UC Lock Ultra. I highly recommend UC PRODUCTS."
+      "title": "Good smart door lock",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "It's a good door lock. Best option for anyone looking for smart door lock"
     }
   ]
 }

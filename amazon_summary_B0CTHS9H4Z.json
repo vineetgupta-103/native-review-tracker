@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-07-20",
+  "scraped": "2026-07-21",
   "customers_say": "Customers find the smart door lock to be of professional quality and appreciate its efficient installation process. The lock works reliably and comes with a host of features and options, with one customer noting its multiple control methods. They find it easy to use and consider it good value for money, while also praising its stylish appearance and good service from Lavna Locks.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "110"
+      "count": "112"
     },
     {
       "name": "Installation",
-      "count": "41"
+      "count": "43"
     },
     {
       "name": "Reliability",
-      "count": "30"
+      "count": "32"
     },
     {
       "name": "Value for money",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Ease of use",
-      "count": "20"
+      "count": "21"
     },
     {
       "name": "Features",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Solid smart lock, a few rough edges",
+      "date": "2026-07-18",
+      "date_label": "18 July 2026",
+      "body": "Been using the LAVNA smart lock on my main wooden door for a while now. Installation was straightforward and the fingerprint sensor is genuinely fast and accurate. Having the built-in camera plus RFID card, PIN, and manual key backup means I’m never locked out even if the battery dies or the app acts up. What I like: • Fingerprint unlock is near-instant • App notifications when someone unlocks the door — good peace of mind • Anti-pry/tamper alarm adds real security • Manual key backup as a fail-safe What could improve: • App settings menu isn’t very intuitive — took some digging to find and ad"
+    },
+    {
+      "author": "Anonymous",
+      "rating": 5.0,
+      "title": "Great smart lock",
+      "date": "2026-07-18",
+      "date_label": "18 July 2026",
+      "body": "All sensors work flawlessly. Smooth installation. Great deaii"
+    },
     {
       "author": "The product was broken and I didn’t receive my refund also.",
       "rating": 1.0,
@@ -59,22 +75,6 @@
       "date": "2026-07-02",
       "date_label": "2 July 2026",
       "body": "Nice lock Works well Installation was timely & very professional"
-    },
-    {
-      "author": "Astute Software",
-      "rating": 4.0,
-      "title": "A good product",
-      "date": "2026-07-01",
-      "date_label": "1 July 2026",
-      "body": "Seems good, sometimes it doesn't accept the finger prints but maximum times it works fine apart from this require a feature where i can see someone standing on the door. But currently its not available untill he press the bell of the lock"
-    },
-    {
-      "author": "Jain Crockery 45",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-06-19",
-      "date_label": "19 June 2026",
-      "body": "Good installation by lucky"
     }
   ]
 }
