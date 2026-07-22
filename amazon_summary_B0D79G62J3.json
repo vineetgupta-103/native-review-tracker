@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-21",
+  "scraped": "2026-07-22",
   "customers_say": "Customers find the water purifier to be of excellent quality, with one noting it's the best in class. The installation process receives positive feedback, with one customer mentioning it's completely free of cost. Moreover, the product offers good value for money, particularly in terms of service costs, and customers appreciate its premium appearance and excellent taste. Additionally, the water quality is consistently good, with one customer specifically mentioning the technician's thorough water quality check, and the service process receives praise for being professional.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "410"
+      "count": "411"
     },
     {
       "name": "Value for money",
@@ -16,11 +16,11 @@
     },
     {
       "name": "Reliability",
-      "count": "267"
+      "count": "266"
     },
     {
       "name": "Appearance",
-      "count": "219"
+      "count": "220"
     },
     {
       "name": "Water taste",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Water quality",
-      "count": "177"
+      "count": "178"
     },
     {
       "name": "Service",
@@ -61,20 +61,20 @@
       "body": "Very Good Product and Installation is very Easy. Worth to Buy with a good price from Amazon"
     },
     {
+      "author": "sovit kajal",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-07-13",
+      "date_label": "13 July 2026",
+      "body": "Good service, service man was a good behaviour person. I am satisfied with the service provided. Product also seems good. Let’s see how it performs in future. Look wise also neat & good looking premium product"
+    },
+    {
       "author": "NK",
       "rating": 5.0,
       "title": "Good start with water filter",
       "date": "2026-07-12",
       "date_label": "12 July 2026",
       "body": "Filter works very well. Used 3 days now and no issues. Unit looks good. Large in size though, so check dimensions and see whether it fits in your home. Installation was very well coordinated and smooth. No ‘add on’ charges. If exchanging old filter, keep in mind to detach old filter to have ready for handing over to Amazon’s delivery agent. Will post another update after further 1-2 years usage. Will validate filer change period and also cost reduction filter is supposed to provide due to reduced frequency of filter change."
-    },
-    {
-      "author": "Placeholder",
-      "rating": 4.0,
-      "title": "Good product and service",
-      "date": "2026-07-12",
-      "date_label": "12 July 2026",
-      "body": "Good flow and low tds. Filtration working well. I recently purchased the product based on good reviews from my neighbours who are using same product. Internal plastic body looks flimsy and could be better."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-21",
+  "scraped": "2026-07-22",
   "customers_say": "Customers find the digital lock to be a good upgrade from regular door locks, with excellent installation and reliable functionality. They appreciate its security features, including multiple unlocking options, and consider it easy to use, with one customer noting it's convenient for different family members. The service receives positive feedback, and customers find it feature-rich. While opinions on value for money are mixed, with some finding it overpriced.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Manotosh",
+      "rating": 5.0,
+      "title": "Quality item with quality service",
+      "date": "2026-07-18",
+      "date_label": "18 July 2026",
+      "body": "Good quality lock. Installed by expert technitian of Godrej."
+    },
+    {
       "author": "ilias ali",
       "rating": 5.0,
       "title": "Nice lock",
@@ -67,14 +75,6 @@
       "date": "2026-06-15",
       "date_label": "15 June 2026",
       "body": "Installation was down Mr Ravindra chary shown every thing and easily to acess explained clerely"
-    },
-    {
-      "author": "Garima",
-      "rating": 1.0,
-      "title": "Please Dont Buy Godrej Lock",
-      "date": "2026-06-09",
-      "date_label": "9 June 2026",
-      "body": "3rd class service hei, Godrej ki, pls dont buy, product features bhaut ache hei, but build quality bilkul 0 hei, aaj 8 june 2026 ko almost 2 month ho gaye lock liye, but lock ka camera lock lagne k 2 din baad hi zor sei gate band hone par hi gir padda, and wo aaj tak camera ka part na to chnage kiya na hi fix kiya usko, aap agr NCR mei rehte hei to pls bilkul bhi buy mat karna, Service bhaut kharab hei, 15 eamils godrej ko kiye, every time ticket genrate k alwa kuch nahi. no response. Amazon ke kehne par kai baar jo godrej ko jo mail kya, uske sare proof amazon k sath bhi share kiye, but aaj t"
     }
   ]
 }

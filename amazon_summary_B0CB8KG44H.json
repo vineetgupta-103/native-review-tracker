@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-21",
+  "scraped": "2026-07-22",
   "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it's similar to normal ground water. The installation process is straightforward, and the water quality receives positive feedback, with one customer highlighting its mineral content. The reliability and value for money receive mixed reviews - while some say it functions well and consider it good value, others report it stops working completely and find it expensive. Similarly, service experiences are mixed, with some praising Kent's service while others report poor service.",
   "aspects": [
     {
@@ -15,27 +15,35 @@
       "count": "213"
     },
     {
+      "name": "Water quality",
+      "count": "163"
+    },
+    {
       "name": "Ease of use",
       "count": "145"
     },
     {
-      "name": "Water quality",
-      "count": "143"
-    },
-    {
       "name": "Reliability",
-      "count": "462"
+      "count": "463"
     },
     {
       "name": "Value for money",
-      "count": "430"
+      "count": "431"
     },
     {
       "name": "Service",
-      "count": "155"
+      "count": "156"
     }
   ],
   "reviews": [
+    {
+      "author": "shubham",
+      "rating": 5.0,
+      "title": "Perfect RO for midsize homes",
+      "date": "2026-07-20",
+      "date_label": "20 July 2026",
+      "body": "Great productbrings tds within drinking range and the water tastes good and clean"
+    },
     {
       "author": "Vijay Narasimha",
       "rating": 1.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-06",
       "date_label": "6 July 2026",
       "body": "Super quality. Good product. Easy and fast installation. Quick repond Technician. Thank you KENT."
-    },
-    {
-      "author": "saurabh v.",
-      "rating": 5.0,
-      "title": "My water tds 2300 this ro deliver 240 tds",
-      "date": "2026-07-04",
-      "date_label": "4 July 2026",
-      "body": "Very good product i recommend to buy this item"
     }
   ]
 }

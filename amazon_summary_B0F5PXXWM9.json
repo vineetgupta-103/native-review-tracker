@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-21",
+  "scraped": "2026-07-22",
   "customers_say": "Customers find the water purifier to be of good quality, working reliably, and appreciate that installation is free. The product receives positive feedback for its value, taste, and water quality, with one customer noting it increases water sweetness. Customers find it easy to use and professional, though opinions about service are mixed, with some praising it while others report poor service.",
   "aspects": [
     {
@@ -8,34 +8,42 @@
     },
     {
       "name": "Reliability",
-      "count": "707"
+      "count": "712"
     },
     {
       "name": "Installation",
-      "count": "637"
+      "count": "644"
     },
     {
       "name": "Value for money",
-      "count": "568"
+      "count": "572"
     },
     {
       "name": "Taste",
-      "count": "230"
+      "count": "232"
     },
     {
       "name": "Water quality",
-      "count": "228"
+      "count": "230"
     },
     {
       "name": "Ease of use",
-      "count": "136"
+      "count": "135"
     },
     {
       "name": "Service",
-      "count": "177"
+      "count": "179"
     }
   ],
   "reviews": [
+    {
+      "author": "Ashish",
+      "rating": 3.0,
+      "title": "Aquaguard Installation experience",
+      "date": "2026-07-20",
+      "date_label": "20 July 2026",
+      "body": "The service technician arrived on time, which I appreciate. However, the installation was done in a hurry, and he left without checking whether the water purifier was working properly. Shortly after the installation, the purifier started leaking and is still not usable. Additionally, I was charged ₹800 for two new parts required for the installation. I requested an invoice for these parts, but I have still not received one. Overall, the installation experience was disappointing. I hope the issue is resolved quickly and the invoice is provided."
+    },
     {
       "author": "Chandan Yadav",
       "rating": 4.0,
@@ -43,14 +51,6 @@
       "date": "2026-07-17",
       "date_label": "17 July 2026",
       "body": "Product is good and working fine as of now after one week. It make some sound while working but remain silent afterwards"
-    },
-    {
-      "author": "xyz",
-      "rating": 3.0,
-      "title": "Buy the Aquasaver 2x model instead",
-      "date": "2026-07-16",
-      "date_label": "16 July 2026",
-      "body": "If only the Amazon listing had clearly mentioned the differences between this model and Aquasaver 2x, I would have chosen that instead. This model doesn't include a sediment filter in the box, but the Aquasaver 2x does. The installation technician told me that I definitely need one. The sediment filter cost ₹1300. The filter life of this model is 1 year compared to the 2-year filter life of the other model. With the price difference between the models being ₹2000, by the end of the first year, this model would be more expensive than the 2x model."
     },
     {
       "author": "Swathi Ksp",
