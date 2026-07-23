@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-22",
+  "scraped": "2026-07-23",
   "customers_say": "Customers find this water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one noting its modern touch panel with LED indicators, and consider it worth the price as it saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While many say it performs wonderfully, some report that their purifiers stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "548"
+      "count": "551"
     },
     {
       "name": "Installation",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Water taste",
-      "count": "67"
+      "count": "68"
     },
     {
       "name": "Appearance",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Ease of use",
-      "count": "49"
+      "count": "50"
     },
     {
       "name": "Features",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Reliability",
-      "count": "141"
+      "count": "144"
     }
   ],
   "reviews": [
