@@ -1,41 +1,49 @@
 {
-  "scraped": "2026-07-23",
+  "scraped": "2026-07-25",
   "customers_say": "Customers find this water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one noting its modern touch panel with LED indicators, and consider it worth the price as it saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While many say it performs wonderfully, some report that their purifiers stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "551"
+      "count": "558"
     },
     {
       "name": "Installation",
-      "count": "140"
+      "count": "143"
     },
     {
       "name": "Value for money",
-      "count": "109"
+      "count": "111"
     },
     {
       "name": "Water taste",
-      "count": "68"
+      "count": "70"
     },
     {
       "name": "Appearance",
-      "count": "54"
+      "count": "56"
     },
     {
       "name": "Ease of use",
-      "count": "50"
+      "count": "51"
     },
     {
       "name": "Features",
-      "count": "49"
+      "count": "50"
     },
     {
       "name": "Reliability",
-      "count": "144"
+      "count": "147"
     }
   ],
   "reviews": [
+    {
+      "author": "JIGAR PATEL",
+      "rating": 4.0,
+      "title": "Excellent Water Quality & Great Value for Money.",
+      "date": "2026-07-22",
+      "date_label": "22 July 2026",
+      "body": "⭐⭐⭐⭐☆ **4/5** I've been using the **Native M2 Pro RO** for the last **3 months**, and so far I haven't faced any issues. The touch buttons work perfectly, and everything is functioning smoothly. My input water TDS is around **307**, and after purification it comes down to about **25–50 TDS**. The water tastes smooth and fresh, and the purification quality is excellent. The **8-liter storage capacity** is perfect for a family of **4–5 people**. The installation was quick and professional—it took **hardly 30 minutes**. Another thing I really like is how **quiet** this RO is. The noise level is e"
+    },
     {
       "author": "Shaman Shreshth",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-07-17",
       "date_label": "17 July 2026",
       "body": "One of the best water purifier I have ever experienced. It provides clean, fresh, and great-tasting drinking water with a simple touch. The installation was smooth, and provides necessary information through app. It works efficiently and gives me confidence that my family is drinking safe water. I would definitely recommend it to anyone looking for a reliable water purifier."
-    },
-    {
-      "author": "Chandrashekar",
-      "rating": 4.0,
-      "title": "Nice but expensive for one option",
-      "date": "2026-07-17",
-      "date_label": "17 July 2026",
-      "body": "It's worth buying. We've used it for so long, and it works better, and the water's clean too. The only major difference from the last model is the battery after a power cut. But they didn't mention that if the power goes out, we can only use one option, and not the other two like bottle and glass quantity. Other than that, it's good to buy."
     },
     {
       "author": "Tejan Yashwant Ranshevare",

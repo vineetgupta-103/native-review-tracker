@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-07-23",
-  "customers_say": "Customers find this smart lock to be a best-in-class product with reliable performance, featuring triple deadlocks for high security and 7 different unlocking options. They appreciate its appearance, adding a modern touch to the door, and find the app interface easy to use. The installation process is simple and professional, and they value the service provided.",
+  "scraped": "2026-07-25",
+  "customers_say": "Customers find this smart lock to be a best-in-class product with excellent digital quality and professional installation. The lock features triple deadlocks for high security and 7 different unlocking options, while the app interface is easy to use. They appreciate its appearance, adding a modern touch to doors, and consider it a great value.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "119"
+      "count": "124"
     },
     {
       "name": "Installation",
-      "count": "68"
+      "count": "69"
     },
     {
       "name": "Reliability",
@@ -31,11 +31,27 @@
       "count": "19"
     },
     {
-      "name": "Service",
-      "count": "17"
+      "name": "Value for money",
+      "count": "18"
     }
   ],
   "reviews": [
+    {
+      "author": "Komal Bakshi",
+      "rating": 5.0,
+      "title": "Good Product",
+      "date": "2026-07-21",
+      "date_label": "21 July 2026",
+      "body": "Very nice product"
+    },
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "Best digital lock with in a reasonable price",
+      "date": "2026-07-20",
+      "date_label": "20 July 2026",
+      "body": "The quality of the digital lock is excellent. The price is also reasonable when compared to other products in the market. Three years of warranty is additional advantage."
+    },
     {
       "author": "Sasha",
       "rating": 5.0,
@@ -53,28 +69,12 @@
       "body": "Smooth installation, working perfectly just like advertised. Aruj ji was very helpful during the entire process."
     },
     {
-      "author": "Mritunjay",
-      "rating": 5.0,
-      "title": "Review",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "Awesome product. Works really well and exceed expectation"
-    },
-    {
       "author": "Rupender D.",
       "rating": 5.0,
       "title": "Nice lock and feature rich",
       "date": "2026-07-10",
       "date_label": "10 July 2026",
       "body": "Good smark lock, working fine as expected on day 1 installation done."
-    },
-    {
-      "author": "Srilakshmi",
-      "rating": 5.0,
-      "title": "Awesome Product!",
-      "date": "2026-07-09",
-      "date_label": "9 July 2026",
-      "body": "This is an awesome product and thoroughly enjoying the features."
     }
   ]
 }

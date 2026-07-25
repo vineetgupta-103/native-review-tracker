@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-22",
+  "scraped": "2026-07-25",
   "customers_say": "Customers find the digital lock to be a good upgrade from regular door locks, with excellent installation and reliable functionality. They appreciate its security features, including multiple unlocking options, and consider it easy to use, with one customer noting it's convenient for different family members. The service receives positive feedback, and customers find it feature-rich. While opinions on value for money are mixed, with some finding it overpriced.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "69"
+      "count": "70"
     },
     {
       "name": "Installation",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Service",
-      "count": "13"
+      "count": "14"
     },
     {
       "name": "Ease of use",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Arijita Mitra",
+      "rating": 5.0,
+      "title": "Excellent lock",
+      "date": "2026-07-20",
+      "date_label": "20 July 2026",
+      "body": "Excellent Service"
+    },
     {
       "author": "Manotosh",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-28",
       "date_label": "28 June 2026",
       "body": "Technician could not configure WIfi with the digital lock。 He is not experienced。 also does not have time to configure He put the blame on internet provider and went off。 For such a expensive lock, the technicians should be properly trained not only carpentry work but also ensures proper software and complete configuration. Very disappointing. Options are available for Rs 10K onwards, but preferred Godrej for their service, and reputation。"
-    },
-    {
-      "author": "Anusha murari",
-      "rating": 5.0,
-      "title": "Excellent",
-      "date": "2026-06-15",
-      "date_label": "15 June 2026",
-      "body": "Installation was down Mr Ravindra chary shown every thing and easily to acess explained clerely"
     }
   ]
 }

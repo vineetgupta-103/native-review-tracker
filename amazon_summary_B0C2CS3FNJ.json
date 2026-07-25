@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-07-22",
+  "scraped": "2026-07-25",
   "customers_say": "Customers find this smart lock to be an excellent upgrade over traditional door locks, with butter-smooth installation and flawless functionality, including real-time alerts. They appreciate its feature-rich design with multiple unlocking methods, including fingerprint, PIN, and NFC card options, and consider it worth the price. Customers like its appearance, with one noting its rose-gold/black finish, and value its strong security features.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "64"
+      "count": "63"
     },
     {
       "name": "Installation",
-      "count": "47"
+      "count": "46"
     },
     {
       "name": "Functionality",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Suraj Rao",
+      "rating": 5.0,
+      "title": "Install and Fitting",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "Features are good, an Indian brand which stores ur data locally . Please go for it , worth having it."
+    },
     {
       "author": "Mastankhan",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-12",
       "date_label": "12 June 2026",
       "body": "Waste. Not useful"
-    },
-    {
-      "author": "Ramesh Bisht",
-      "rating": 5.0,
-      "title": "Feedback",
-      "date": "2026-06-04",
-      "date_label": "4 June 2026",
-      "body": "Awesome product, nice and smooth installation by suraj."
     }
   ]
 }

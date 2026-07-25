@@ -1,40 +1,48 @@
 {
-  "scraped": "2026-07-23",
-  "customers_say": "Customers praise the door lock's quality and features, with one noting it's the best in its segment. The build quality receives positive feedback, with customers describing it as having a premium feel.",
+  "scraped": "2026-07-25",
+  "customers_say": "Customers find the door lock to be of high quality with a premium feel. The functionality receives positive feedback, with one customer noting it works even in complete darkness. They like its appearance, with one mentioning there are no ugly handles sticking out.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "7"
+      "count": "8"
     },
     {
       "name": "Build quality",
+      "count": "6"
+    },
+    {
+      "name": "Functionality",
+      "count": "6"
+    },
+    {
+      "name": "Appearance",
       "count": "5"
     }
   ],
   "reviews": [
     {
-      "author": "Amazon Customer",
-      "rating": 3.0,
-      "title": "Improvement",
-      "date": "2026-07-19",
-      "date_label": "19 July 2026",
-      "body": "Could be better. the distance from door frame is very less, need to increase to avoid hurting the hand while opening"
-    },
-    {
-      "author": "S",
-      "rating": 2.0,
-      "title": "Poor service from uc",
-      "date": "2026-07-18",
-      "date_label": "18 July 2026",
-      "body": "Product quality is good but when u open key slot it feels cheap...could have been better for that value also dont expect anything from uc coustomer support...even after first lock got delayed and then their technician haven't visited to install it after so many appointments and i dident even find their coustomer care no. Just ticket is raised..but that to ai chat bot ans it...after spending so much money lock is jst lying in some corner lets see what happen will update if anything changes"
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "Fantastic, game changer (feedback after 3 months of use).",
+      "date": "2026-07-22",
+      "date_label": "22 July 2026",
+      "body": "Fantastic product, works seamlessly after 3 months of use. Facial and finger recognition is great and responsive. Best thing is a manual over ride incase of emergency or failure of battery. Even the internet connection is great. Go for it."
     },
     {
       "author": "Deepak S.",
-      "rating": 5.0,
-      "title": "Lock install",
+      "rating": 2.0,
+      "title": "Great Lock. Locked Behind Poor Service.",
       "date": "2026-07-17",
       "date_label": "17 July 2026",
-      "body": "Good Quality Lock. Delayed service by UC but at last got it done. Anurag Sharma got the installation done by 10:00pm."
+      "body": "The lock is smart. The installation process... not so much. The lock itself deserves applause. It looks premium, feels sturdy, and performs exactly as you'd expect from a product in this price range. Face unlock is quick, operation is smooth, and the overall build quality is impressive. No complaints about the hardware. Unfortunately, buying a smart lock also means buying the installation experience—and that's where things went downhill. I live in Bengaluru, the product was delivered on 11 July, but installation happened only on 18 July after days of chats, multiple phone calls, repeated follo"
+    },
+    {
+      "author": "Suman Kumar Ghosh",
+      "rating": 4.0,
+      "title": "Great lock with awesome built and features but not so great Installation service",
+      "date": "2026-07-15",
+      "date_label": "15 July 2026",
+      "body": "First of all, I have no complaints about the lock itself—its build quality and features are excellent, and I believe it is one of the best available in the market. However, there was a mismatch between the installation requirements mentioned in the product manual and the actual installation process. The booklet states that installation is supported on doors with a thickness of 30 mm, but the technician informed me that a minimum thickness of 35 mm is required. Otherwise, the installation would either be declined or cancelled. The only alternative offered was to get a local carpenter to modify "
     },
     {
       "author": "priya",

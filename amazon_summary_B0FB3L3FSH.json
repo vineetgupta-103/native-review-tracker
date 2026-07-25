@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-23",
-  "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain. The installation process is professional and free of charge, and customers consider it a budget-friendly option. While the appearance is positive, with one customer noting its premium matte finish, some report issues with water leakage from the unit.",
+  "scraped": "2026-07-25",
+  "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain. They appreciate its professional installation service, reliable performance, and consider it a budget-friendly option. The appearance receives positive feedback, with one customer noting its premium matte finish. However, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "193"
+      "count": "194"
     },
     {
-      "name": "Performance",
+      "name": "Reliability",
       "count": "59"
     },
     {
       "name": "Installation",
-      "count": "49"
+      "count": "50"
     },
     {
       "name": "Value for money",
-      "count": "43"
+      "count": "45"
     },
     {
       "name": "Water taste",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Ease of use",
-      "count": "14"
+      "count": "15"
     },
     {
       "name": "Water leakage",
@@ -36,14 +36,6 @@
     }
   ],
   "reviews": [
-    {
-      "author": "Aishwarya Singh",
-      "rating": 5.0,
-      "title": "A Good Product and A greater Service Experience",
-      "date": "2026-07-20",
-      "date_label": "20 July 2026",
-      "body": "Using it for 3weeks no issue so far. installation process was seamless. I would recommend this water purifier for if nothing else then a great customer service experience like thats a novelty in india. also paying for a filter after 2 year is a huge plus and all consultation and maintenance service free for 2 years."
-    },
     {
       "author": "Vivek Gupta",
       "rating": 5.0,
@@ -67,6 +59,14 @@
       "date": "2026-07-02",
       "date_label": "2 July 2026",
       "body": "Just a word.... \"Marvellous\". The purifier is first of its kind. It's look, finesse, performance, everything is perfect. I installed the one in my office. Now after few months of usage I m thinking of changing my home water purifier to the M0 from urban company."
+    },
+    {
+      "author": "varun karnati",
+      "rating": 5.0,
+      "title": "Best product - budget friendly",
+      "date": "2026-06-25",
+      "date_label": "25 June 2026",
+      "body": "Budget friendly product, low maintenance, good filtration,5 litre storage, Material strong durable body Good product"
     },
     {
       "author": "Gaurav",
