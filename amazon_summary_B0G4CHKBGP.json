@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-26",
+  "scraped": "2026-07-27",
   "customers_say": "Customers find the water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one customer noting its modern touch panel with LED indicators, and consider it a worthwhile investment that saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While many say it performs wonderfully, some report that their purifiers stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "560"
+      "count": "561"
     },
     {
       "name": "Installation",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Value for money",
-      "count": "111"
+      "count": "112"
     },
     {
       "name": "Water taste",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Ease of use",
-      "count": "51"
+      "count": "52"
     },
     {
       "name": "Features",
-      "count": "51"
+      "count": "52"
     },
     {
       "name": "Reliability",
@@ -61,20 +61,20 @@
       "body": "Great water purifier with excellent purification and fresh-tasting water. Installation was quick, the build quality is solid, and it operates quietly. Easy to use and worth the investment. Highly recommended!"
     },
     {
-      "author": "Sagar patil",
-      "rating": 5.0,
-      "title": "Excellent Water Purifier with Smart Features – Highly Recommended! ⭐⭐⭐⭐⭐",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "The UC Native Water Purifier was delivered on time and installed as per the scheduled appointment. The water quality is excellent—it tastes just like packaged drinking water. With the 2-year maintenance coverage, I have complete peace of mind. The mobile app is very useful. It shows all the important details, such as the water level in the tank, average daily water consumption, and the health status of the filters. One of the best features is the automatic flushing system, which cleans the purifier after the tank is full and whenever required. The touch panel is responsive, and the controlled "
-    },
-    {
       "author": "Tejaswi",
       "rating": 5.0,
       "title": "Impressed with the M2 Pro and the Professional Installation Experience",
       "date": "2026-07-11",
       "date_label": "11 July 2026",
       "body": "I purchased the M2 Pro during an offer, and after using it for the past three days, I’m genuinely impressed with its performance. One feature I particularly love is the real-time display of the input and output water TDS levels. It gives great confidence about the quality of the water being purified and reflects the product’s advanced technology. I would also like to appreciate Mr. Mandoju Purna Chary, who handled the installation. He was highly professional, knowledgeable, and courteous throughout the process. The installation was completed quickly with proper setup, and he patiently explaine"
+    },
+    {
+      "author": "Sagar patil",
+      "rating": 5.0,
+      "title": "Excellent Water Purifier with Smart Features – Highly Recommended! ⭐⭐⭐⭐⭐",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "The UC Native Water Purifier was delivered on time and installed as per the scheduled appointment. The water quality is excellent—it tastes just like packaged drinking water. With the 2-year maintenance coverage, I have complete peace of mind. The mobile app is very useful. It shows all the important details, such as the water level in the tank, average daily water consumption, and the health status of the filters. One of the best features is the automatic flushing system, which cleans the purifier after the tank is full and whenever required. The touch panel is responsive, and the controlled "
     }
   ]
 }
