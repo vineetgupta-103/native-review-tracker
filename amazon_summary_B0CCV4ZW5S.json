@@ -1,15 +1,23 @@
 {
-  "scraped": "2026-07-26",
+  "scraped": "2026-07-28",
   "customers_say": "",
   "aspects": [],
   "reviews": [
     {
-      "author": "Chirag Mehta",
+      "author": "Ekanki Aggarwal",
       "rating": 5.0,
-      "title": "Easy setup",
-      "date": "2026-06-19",
-      "date_label": "19 June 2026",
-      "body": "Very nice product and easy setup"
+      "title": "Bought Golens X95",
+      "date": "2026-07-24",
+      "date_label": "24 July 2026",
+      "body": "It's been 3 Months I am using this lock now and I would say the lock quality is really good and working perfectly fine. Happy With The Product and Service!"
+    },
+    {
+      "author": "Supriya",
+      "rating": 5.0,
+      "title": "Nice technology",
+      "date": "2026-07-24",
+      "date_label": "24 July 2026",
+      "body": "Super product. Nice security technology"
     },
     {
       "author": "Vikram Yoganand",
@@ -34,14 +42,6 @@
       "date": "2026-04-08",
       "date_label": "8 April 2026",
       "body": "I recently purchased the Golens Smart Lock and I am very satisfied with the product. The installation process was smooth and the overall build quality feels premium. The multiple unlocking options like fingerprint, password, and mobile access make it very convenient and secure to use. The lock responds quickly and works reliably. It has made daily usage much easier and gives a sense of safety. Overall, it is a great product and I would definitely recommend it to others. Thank you for providing such a useful and high-quality smart lock."
-    },
-    {
-      "author": "Jarina Jarda",
-      "rating": 5.0,
-      "title": "Overall a very good product.",
-      "date": "2025-09-13",
-      "date_label": "13 September 2025",
-      "body": "I m writing this review after using the product for 4 months. So far no complaints, it is a very good product. You can install it on a 32mm door as well. If you have 2 doors (main door + safety door) pls keep a gap of atleast 4 inches between them so that the lock and door handle fits well. Call for installation and learn the product admin features, that’s important later it becomes easy to manage. Lock is heavy and its facial recognition is good, sometimes when finger prints don’t work due to cuts, facial works perfect. Battery life is good. Very convenient when you don’t want to give your ho"
     }
   ]
 }

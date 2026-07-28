@@ -1,21 +1,17 @@
 {
-  "scraped": "2026-07-26",
-  "customers_say": "Customers find the door lock to be of high quality with a premium appearance and build. The functionality receives positive feedback, with one customer noting it works even in complete darkness. Installation experiences are mixed.",
+  "scraped": "2026-07-28",
+  "customers_say": "Customers praise the door lock's quality and features, noting its premium build and clean appearance. The installation process receives mixed feedback from customers.",
   "aspects": [
     {
       "name": "Quality",
       "count": "9"
     },
     {
-      "name": "Appearance",
-      "count": "6"
-    },
-    {
       "name": "Build quality",
-      "count": "6"
+      "count": "7"
     },
     {
-      "name": "Functionality",
+      "name": "Appearance",
       "count": "6"
     },
     {
@@ -25,20 +21,20 @@
   ],
   "reviews": [
     {
+      "author": "pratik raj",
+      "rating": 5.0,
+      "title": "Superb product and built quality",
+      "date": "2026-07-24",
+      "date_label": "24 July 2026",
+      "body": "nice lock with great 2 way talk, camera and lurker alarm. I am happy with the product. Customer care of urban company sucks. That is only negative thing that i saw"
+    },
+    {
       "author": "Amazon Customer",
       "rating": 5.0,
       "title": "Excellent Product, Delayed Installation",
       "date": "2026-07-23",
       "date_label": "23 July 2026",
       "body": "⭐⭐⭐⭐☆ The lock looks premium, has great features, and the installation by Prakaash was excellent. He was professional, helpful, and explained everything clearly. The only thing was the installation process. I had to raise a support ticket and follow up manually, and the installation was completed about a week later. Apart from that, everything went smoothly. Overall, a great product with a good first impression."
-    },
-    {
-      "author": "Placeholder",
-      "rating": 5.0,
-      "title": "Fantastic, game changer (feedback after 3 months of use).",
-      "date": "2026-07-22",
-      "date_label": "22 July 2026",
-      "body": "Fantastic product, works seamlessly after 3 months of use. Facial and finger recognition is great and responsive. Best thing is a manual over ride incase of emergency or failure of battery. Even the internet connection is great. Go for it."
     },
     {
       "author": "Deepak S.",

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-26",
+  "scraped": "2026-07-28",
   "customers_say": "Customers find this water purifier to be of high quality, with excellent installation and good value for money, particularly noting they can save on service costs. Moreover, the purifier works superbly, and customers appreciate its appearance, with one mentioning it's suitable for their home design. Additionally, the water tastes excellent, and customers consistently report getting the purest water possible.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "411"
+      "count": "412"
     },
     {
       "name": "Value for money",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Reliability",
-      "count": "267"
+      "count": "269"
     },
     {
       "name": "Appearance",
@@ -37,28 +37,20 @@
   ],
   "reviews": [
     {
+      "author": "RAJESHWARAN M",
+      "rating": 4.0,
+      "title": "Water purifier",
+      "date": "2026-07-25",
+      "date_label": "25 July 2026",
+      "body": "Installation on time and very good product."
+    },
+    {
       "author": "shaikh R.",
       "rating": 5.0,
       "title": "Good product",
       "date": "2026-07-22",
       "date_label": "22 July 2026",
       "body": "It is a very good product, the water is coming out clean and I have brought it for drinking."
-    },
-    {
-      "author": "ali ahmad khan",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-07-19",
-      "date_label": "19 July 2026",
-      "body": "So far all good. Installation was smooth. Filter vibes is also good."
-    },
-    {
-      "author": "Ekansh chadha",
-      "rating": 5.0,
-      "title": "Excellent product to buy",
-      "date": "2026-07-18",
-      "date_label": "18 July 2026",
-      "body": "Good service and installation was very easy.Talking about water quality it's super without any odd flavour"
     },
     {
       "author": "Sahul Sen",
@@ -75,6 +67,14 @@
       "date": "2026-07-17",
       "date_label": "17 July 2026",
       "body": "Good buy. Really good product."
+    },
+    {
+      "author": "sovit kajal",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-07-13",
+      "date_label": "13 July 2026",
+      "body": "Good service, service man was a good behaviour person. I am satisfied with the service provided. Product also seems good. Let’s see how it performs in future. Look wise also neat & good looking premium product"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-26",
+  "scraped": "2026-07-28",
   "customers_say": "Customers find the water purifier to be of good quality, easy to use, and appreciate its taste, with one noting it's similar to normal ground water. The installation process is straightforward, and the water quality receives positive feedback, with one customer highlighting its mineral content. The reliability and value for money receive mixed reviews - while some say it functions well and consider it good value, others report it stops working completely and find it expensive. Similarly, service experiences are mixed, with some praising Kent's service while others report poor service.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "641"
+      "count": "643"
     },
     {
       "name": "Water taste",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Value for money",
-      "count": "434"
+      "count": "435"
     },
     {
       "name": "Service",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "vlpm chandra sekhar",
+      "rating": 5.0,
+      "title": "Kent Supreme plus Alkaline + copper RO purifier review",
+      "date": "2026-07-24",
+      "date_label": "24 July 2026",
+      "body": "Everything is as expected and perfect. Also service installation is also good. Thank you VR agencies."
+    },
     {
       "author": "Shaik Safeedha Bhanu",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-07-21",
       "date_label": "21 July 2026",
       "body": "Quality is good and installation is also good"
-    },
-    {
-      "author": "Pankajam.C",
-      "rating": 5.0,
-      "title": "Value for money",
-      "date": "2026-07-21",
-      "date_label": "21 July 2026",
-      "body": "Good product and value for money"
     },
     {
       "author": "shubham",

@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-07-26",
+  "scraped": "2026-07-28",
   "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain, with professional installation service included. They appreciate its reliability, appearance, and consider it a budget-friendly option, with one customer noting its premium matte finish. However, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "196"
+      "count": "198"
     },
     {
       "name": "Reliability",
-      "count": "59"
+      "count": "60"
     },
     {
       "name": "Installation",
-      "count": "50"
+      "count": "52"
     },
     {
       "name": "Value for money",
@@ -20,15 +20,15 @@
     },
     {
       "name": "Water taste",
-      "count": "28"
+      "count": "30"
     },
     {
       "name": "Appearance",
-      "count": "21"
+      "count": "22"
     },
     {
       "name": "Ease of use",
-      "count": "15"
+      "count": "16"
     },
     {
       "name": "Water leakage",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Nikhil Shiv",
+      "rating": 5.0,
+      "title": "Excellent Product and Service",
+      "date": "2026-07-24",
+      "date_label": "24 July 2026",
+      "body": "Great product with excellent service. The water tastes much better, and the installation process was easy. Happy with my purchase and would recommend it."
+    },
     {
       "author": "Vivek Gupta",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-07-02",
       "date_label": "2 July 2026",
       "body": "Just a word.... \"Marvellous\". The purifier is first of its kind. It's look, finesse, performance, everything is perfect. I installed the one in my office. Now after few months of usage I m thinking of changing my home water purifier to the M0 from urban company."
-    },
-    {
-      "author": "varun karnati",
-      "rating": 5.0,
-      "title": "Best product - budget friendly",
-      "date": "2026-06-25",
-      "date_label": "25 June 2026",
-      "body": "Budget friendly product, low maintenance, good filtration,5 litre storage, Material strong durable body Good product"
     },
     {
       "author": "Gaurav",
