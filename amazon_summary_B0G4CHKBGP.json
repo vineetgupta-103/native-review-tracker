@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-28",
-  "customers_say": "Customers find the water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one customer noting its modern touch panel with LED indicators, and consider it a worthwhile investment that saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While many say it performs wonderfully, some report that their purifiers stopped working.",
+  "scraped": "2026-07-30",
+  "customers_say": "Customers find this water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one customer noting its modern touch panel with LED indicators, and consider it a worthwhile investment that saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While the purifier performs well initially, some report it stops working after a few days.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "560"
+      "count": "566"
     },
     {
       "name": "Installation",
-      "count": "143"
+      "count": "147"
     },
     {
       "name": "Value for money",
-      "count": "112"
+      "count": "114"
     },
     {
       "name": "Water taste",
-      "count": "72"
+      "count": "75"
     },
     {
       "name": "Appearance",
@@ -32,10 +32,26 @@
     },
     {
       "name": "Reliability",
-      "count": "148"
+      "count": "152"
     }
   ],
   "reviews": [
+    {
+      "author": "gowtham chama",
+      "rating": 5.0,
+      "title": "My Review of the Native M2 Neo Pro Water Purifier by Urban Company",
+      "date": "2026-07-27",
+      "date_label": "27 July 2026",
+      "body": "’ve been using the Native M2 Neo Pro Water Purifier by Urban Company for the past month, and I’m genuinely satisfied with the product. One of the biggest reasons I chose this purifier is its excellent RO filtration. The water in my area has a TDS of around 1,000, and this purifier consistently brings it down to around 50 TDS, providing clean, safe, and great-tasting drinking water. The difference in water quality is noticeable, and the taste is excellent. The purifier has a modern, premium design, and the touch controls are responsive and easy to use. I also love the smart IoT features, which "
+    },
+    {
+      "author": "Sathishkumar",
+      "rating": 5.0,
+      "title": "M2 Pro Review: Impressive Installation & Better Water Quality",
+      "date": "2026-07-26",
+      "date_label": "26 July 2026",
+      "body": "Bought the M2 Pro from Amazon – Excellent Delivery & Installation Experience Delivery & Installation – Hassle-Free This was the first time I’ve experienced such a smooth purchase from Amazon. Even before the product was delivered, the UC team called to schedule the installation appointment for the same day. The purifier was delivered on Sunday at around 12:00 PM, and by 2:00 PM, the installation technician had arrived with all the required tools. The entire installation process was carried out professionally. After installation, the technician flushed each filter individually before starting t"
+    },
     {
       "author": "JIGAR PATEL",
       "rating": 4.0,
@@ -59,22 +75,6 @@
       "date": "2026-07-11",
       "date_label": "11 July 2026",
       "body": "Great water purifier with excellent purification and fresh-tasting water. Installation was quick, the build quality is solid, and it operates quietly. Easy to use and worth the investment. Highly recommended!"
-    },
-    {
-      "author": "Tejaswi",
-      "rating": 5.0,
-      "title": "Impressed with the M2 Pro and the Professional Installation Experience",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "I purchased the M2 Pro during an offer, and after using it for the past three days, I’m genuinely impressed with its performance. One feature I particularly love is the real-time display of the input and output water TDS levels. It gives great confidence about the quality of the water being purified and reflects the product’s advanced technology. I would also like to appreciate Mr. Mandoju Purna Chary, who handled the installation. He was highly professional, knowledgeable, and courteous throughout the process. The installation was completed quickly with proper setup, and he patiently explaine"
-    },
-    {
-      "author": "Sagar patil",
-      "rating": 5.0,
-      "title": "Excellent Water Purifier with Smart Features – Highly Recommended! ⭐⭐⭐⭐⭐",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "The UC Native Water Purifier was delivered on time and installed as per the scheduled appointment. The water quality is excellent—it tastes just like packaged drinking water. With the 2-year maintenance coverage, I have complete peace of mind. The mobile app is very useful. It shows all the important details, such as the water level in the tank, average daily water consumption, and the health status of the filters. One of the best features is the automatic flushing system, which cleans the purifier after the tank is full and whenever required. The touch panel is responsive, and the controlled "
     }
   ]
 }

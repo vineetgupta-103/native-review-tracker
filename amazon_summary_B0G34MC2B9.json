@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-28",
-  "customers_say": "Customers find the digital lock to be a good upgrade from regular door locks, with excellent installation and reliable functionality. They appreciate its security features, including multiple unlocking options, and consider it easy to use, with one customer noting it's convenient for different family members. The service receives positive feedback, and customers find it feature-rich. While opinions on value for money are mixed, with some finding it overpriced.",
+  "scraped": "2026-07-30",
+  "customers_say": "Customers find the digital lock to be of good quality and appreciate the expert installation by Godrej technicians. The lock functions well, with one customer noting it works effectively on wooden doors, and customers value its multiple unlocking options and security features. They find it easy to use and provide excellent service, though opinions on value for money are mixed.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "70"
+      "count": "71"
     },
     {
       "name": "Installation",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Ease of use",
-      "count": "11"
+      "count": "12"
     },
     {
       "name": "Security",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "DEEPAK VEHAL",
+      "rating": 5.0,
+      "title": "Great experience",
+      "date": "2026-07-26",
+      "date_label": "26 July 2026",
+      "body": "Great experience with godrej and the installation process was very quick and easy. Technician was very good. Technician Name- Guddu"
+    },
+    {
       "author": "Arijita Mitra",
       "rating": 5.0,
       "title": "Excellent lock",
@@ -51,14 +59,6 @@
       "date": "2026-07-18",
       "date_label": "18 July 2026",
       "body": "Good quality lock. Installed by expert technitian of Godrej."
-    },
-    {
-      "author": "ilias ali",
-      "rating": 5.0,
-      "title": "Nice lock",
-      "date": "2026-07-13",
-      "date_label": "13 July 2026",
-      "body": "Nice product.... also technician Rabin is very helpful"
     },
     {
       "author": "Nitin G.",

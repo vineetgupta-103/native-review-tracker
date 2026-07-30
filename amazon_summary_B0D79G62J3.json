@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-28",
-  "customers_say": "Customers find this water purifier to be of high quality, with excellent installation and good value for money, particularly noting they can save on service costs. Moreover, the purifier works superbly, and customers appreciate its appearance, with one mentioning it's suitable for their home design. Additionally, the water tastes excellent, and customers consistently report getting the purest water possible.",
+  "scraped": "2026-07-30",
+  "customers_say": "Customers find this water purifier to be of high quality, with excellent installation and good value for money, particularly noting the transparent pricing. Moreover, the purifier works superbly, and customers appreciate its appearance, with one mentioning it's suitable for their home design. Additionally, the water tastes excellent, and customers consistently report getting purest water possible.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,15 +8,15 @@
     },
     {
       "name": "Installation",
-      "count": "412"
+      "count": "413"
     },
     {
       "name": "Value for money",
-      "count": "301"
+      "count": "304"
     },
     {
       "name": "Reliability",
-      "count": "269"
+      "count": "271"
     },
     {
       "name": "Appearance",
@@ -24,18 +24,34 @@
     },
     {
       "name": "Water taste",
-      "count": "208"
+      "count": "210"
     },
     {
       "name": "Water quality",
-      "count": "175"
+      "count": "173"
     },
     {
       "name": "Service",
-      "count": "157"
+      "count": "156"
     }
   ],
   "reviews": [
+    {
+      "author": "AKSHAY JALCHHATRI",
+      "rating": 4.0,
+      "title": "Water taste and filtration",
+      "date": "2026-07-27",
+      "date_label": "27 July 2026",
+      "body": "Value for money as I'm using it from past 2 month and it is giving me quality water and filtration works with all features.."
+    },
+    {
+      "author": "Viraj sharma",
+      "rating": 5.0,
+      "title": "Excellent Product with Professional Installation",
+      "date": "2026-07-26",
+      "date_label": "26 July 2026",
+      "body": "I’m extremely satisfied with this purchase. The product arrived in excellent condition and feels premium in terms of build quality. It offers plenty of useful features, and the water flow is impressive. The installation experience was equally outstanding. The installation technician was highly professional, completed the work quickly, and explained all the product features in detail. Their product knowledge and willingness to answer questions made the entire experience smooth and hassle-free. Overall, an excellent product backed by top-notch installation service. Highly recommended!"
+    },
     {
       "author": "RAJESHWARAN M",
       "rating": 4.0,
@@ -45,12 +61,12 @@
       "body": "Installation on time and very good product."
     },
     {
-      "author": "shaikh R.",
+      "author": "Ganesh",
       "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-07-22",
-      "date_label": "22 July 2026",
-      "body": "It is a very good product, the water is coming out clean and I have brought it for drinking."
+      "title": "Good 👍",
+      "date": "2026-07-24",
+      "date_label": "24 July 2026",
+      "body": "Good installation was very professional and good nice loved it"
     },
     {
       "author": "Sahul Sen",
@@ -59,22 +75,6 @@
       "date": "2026-07-17",
       "date_label": "17 July 2026",
       "body": "Very Good Product and Installation is very Easy. Worth to Buy with a good price from Amazon"
-    },
-    {
-      "author": "Placeholder",
-      "rating": 4.0,
-      "title": "Very convenient and tension free.",
-      "date": "2026-07-17",
-      "date_label": "17 July 2026",
-      "body": "Good buy. Really good product."
-    },
-    {
-      "author": "sovit kajal",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-07-13",
-      "date_label": "13 July 2026",
-      "body": "Good service, service man was a good behaviour person. I am satisfied with the service provided. Product also seems good. Let’s see how it performs in future. Look wise also neat & good looking premium product"
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-28",
-  "customers_say": "Customers find the water purifier to be among the best in its category, with reliable performance and quick, expert installation. The product receives positive feedback for its taste, elegant design, and efficient purification capabilities, with one customer noting it works well with high TDS levels. While many customers appreciate the value for money, opinions about service are mixed, with some praising Aquaguard's service while others find it poor.",
+  "scraped": "2026-07-30",
+  "customers_say": "Customers find the water purifier to be among the best in its category, with reliable performance and quick, professional installation by Aquaguard experts. They appreciate its elegant design, good taste, and efficient purification capabilities, considering it good value for money. The service aspect receives mixed reviews, with some customers praising the excellent service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "887"
+      "count": "885"
     },
     {
       "name": "Reliability",
-      "count": "264"
+      "count": "263"
     },
     {
       "name": "Installation",
-      "count": "221"
+      "count": "218"
     },
     {
       "name": "Value for money",
-      "count": "177"
+      "count": "178"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Ani",
+      "rating": 5.0,
+      "title": "Very much satisfied with the purifier",
+      "date": "2026-07-27",
+      "date_label": "27 July 2026",
+      "body": "It has only been a few days, and the product looks very promising. The installation team also did a great job. We had a slightly unconventional setup: the RO unit was placed in our wash area, and we connected the purified water outlet to a spout in the kitchen to dispense the RO water. Initially, the technicians were hesitant because they didn't fully understand how to execute the setup, but they later agreed and finished the installation with a neat and professional finish the next day. I was also able to connect the RO to the internet successfully. The TDS reading displayed in the app differ"
+    },
+    {
+      "author": "Manish",
+      "rating": 5.0,
+      "title": "Feed back",
+      "date": "2026-07-25",
+      "date_label": "25 July 2026",
+      "body": "The purifier is working absolutely fine..The water taste is far good. I'm really happy with this purchase and feel god about the quality of water. Thank you.."
+    },
     {
       "author": "Kiran",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-07-20",
       "date_label": "20 July 2026",
       "body": "Super easy to operate day-to-day and delivers impressive TDS numbers. The only real trade-off is that you can't rely on professional installer support, so you have to handle the setup and maintenance yourself. Overall, highly recommended if you don't mind spend extra for installation to get actual professional help"
-    },
-    {
-      "author": "Nil",
-      "rating": 5.0,
-      "title": "Aquaguard Purifier",
-      "date": "2026-07-20",
-      "date_label": "20 July 2026",
-      "body": "Been using since last 10 days, the built in TDS display (In/Out) is pretty good and helpful and the purifier can have boaring, tap and well water as well and purify it. Installation was also done quickly."
-    },
-    {
-      "author": "Harini",
-      "rating": 5.0,
-      "title": "Great Product",
-      "date": "2026-07-17",
-      "date_label": "17 July 2026",
-      "body": "working very fine for 1300 TDS near sea area. Good product. Installation also smooth"
     }
   ]
 }

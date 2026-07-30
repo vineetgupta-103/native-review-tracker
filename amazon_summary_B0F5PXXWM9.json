@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-07-28",
-  "customers_say": "Customers find the water purifier to be of excellent quality and reliable, with good taste and amazing purification results. They appreciate that installation is free and consider it an affordable water purifier, with one customer noting it saves money on packaged water. Customers find it easy to use and professional, though opinions about service are mixed, with some praising it while others report poor service.",
+  "scraped": "2026-07-30",
+  "customers_say": "Customers find the water purifier to be of excellent quality and reliable, with prompt installation and good value for money. The water quality after purification is amazing, and customers appreciate its taste, with one noting it increases water sweetness. They find it easy to use and professional, though opinions about service are mixed, with some praising it while others report very bad service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "2.5K"
+      "count": "2.4K"
     },
     {
       "name": "Reliability",
-      "count": "733"
+      "count": "732"
     },
     {
       "name": "Installation",
-      "count": "666"
+      "count": "651"
     },
     {
       "name": "Value for money",
-      "count": "591"
+      "count": "585"
     },
     {
       "name": "Taste",
-      "count": "242"
+      "count": "243"
     },
     {
       "name": "Water quality",
-      "count": "234"
+      "count": "232"
     },
     {
       "name": "Ease of use",
-      "count": "139"
+      "count": "138"
     },
     {
       "name": "Service",
-      "count": "181"
+      "count": "179"
     }
   ],
   "reviews": [
@@ -69,12 +69,12 @@
       "body": "Product is good and working fine as of now after one week. It make some sound while working but remain silent afterwards"
     },
     {
-      "author": "Amazon Customer",
-      "rating": 4.0,
-      "title": "Good but tap quality can be improved and installation need to do on time",
-      "date": "2026-07-15",
-      "date_label": "15 July 2026",
-      "body": "Product and Water quality is good. Tap to the water can be improved as it is plastic and it can be easily damaged with normal usage. Installation happened late than the scheduled date so be follow-up with the installation for on time installation. Once installation is scheduled, it’ll take hardly 30mins to finish. Annual maintenance costs are more than other brands."
+      "author": "xyz",
+      "rating": 3.0,
+      "title": "Buy the Aquasaver 2x model instead",
+      "date": "2026-07-16",
+      "date_label": "16 July 2026",
+      "body": "If only the Amazon listing had clearly mentioned the differences between this model and Aquasaver 2x, I would have chosen that instead. This model doesn't include a sediment filter in the box, but the Aquasaver 2x does. The installation technician told me that I definitely need one. The sediment filter cost ₹1300. The filter life of this model is 1 year compared to the 2-year filter life of the other model. With the price difference between the models being ₹2000, by the end of the first year, this model would be more expensive than the 2x model."
     }
   ]
 }
