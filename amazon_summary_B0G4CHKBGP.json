@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-07-30",
+  "scraped": "2026-07-31",
   "customers_say": "Customers find this water purifier to be of good quality, with smart features that make it convenient for daily use. They appreciate its appearance, with one customer noting its modern touch panel with LED indicators, and consider it a worthwhile investment that saves money in the long run. The installation process receives positive feedback, and customers like the water's taste. While the purifier performs well initially, some report it stops working after a few days.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "566"
+      "count": "568"
     },
     {
       "name": "Installation",
@@ -12,19 +12,19 @@
     },
     {
       "name": "Value for money",
-      "count": "114"
+      "count": "115"
     },
     {
       "name": "Water taste",
-      "count": "75"
+      "count": "76"
     },
     {
       "name": "Appearance",
-      "count": "56"
+      "count": "57"
     },
     {
       "name": "Ease of use",
-      "count": "53"
+      "count": "54"
     },
     {
       "name": "Features",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Wajid khan",
+      "rating": 5.0,
+      "title": "Native M2 pro",
+      "date": "2026-07-28",
+      "date_label": "28 July 2026",
+      "body": "This water purifier is an absolute game-changer for our home! We've been using it daily, and the water quality is consistently excellent. It's so reassuring knowing our family is drinking clean and healthy water. The ease of use is also a huge plus; it fits seamlessly into our daily routine. I highly recommend this for anyone looking for a reliable solution for their household water needs. It's around 1300 TDS in my area, and it purifies to 85 to 100, which is a good level for drinking."
+    },
     {
       "author": "gowtham chama",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-17",
       "date_label": "17 July 2026",
       "body": "One of the best water purifier I have ever experienced. It provides clean, fresh, and great-tasting drinking water with a simple touch. The installation was smooth, and provides necessary information through app. It works efficiently and gives me confidence that my family is drinking safe water. I would definitely recommend it to anyone looking for a reliable water purifier."
-    },
-    {
-      "author": "Tejan Yashwant Ranshevare",
-      "rating": 5.0,
-      "title": "Excellent water purifier with reliable performance and great-tasting water.",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "Great water purifier with excellent purification and fresh-tasting water. Installation was quick, the build quality is solid, and it operates quietly. Easy to use and worth the investment. Highly recommended!"
     }
   ]
 }

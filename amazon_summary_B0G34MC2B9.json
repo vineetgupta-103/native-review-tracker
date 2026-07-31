@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-07-30",
+  "scraped": "2026-07-31",
   "customers_say": "Customers find the digital lock to be of good quality and appreciate the expert installation by Godrej technicians. The lock functions well, with one customer noting it works effectively on wooden doors, and customers value its multiple unlocking options and security features. They find it easy to use and provide excellent service, though opinions on value for money are mixed.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "71"
+      "count": "72"
     },
     {
       "name": "Installation",
-      "count": "37"
+      "count": "38"
     },
     {
       "name": "Functionality",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Service",
-      "count": "14"
+      "count": "15"
     },
     {
       "name": "Ease of use",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Deepak Gupta",
+      "rating": 5.0,
+      "title": "Very good lock",
+      "date": "2026-07-28",
+      "date_label": "28 July 2026",
+      "body": "Very good installation by Shamji sales service Hariom technician"
+    },
     {
       "author": "DEEPAK VEHAL",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-07-18",
       "date_label": "18 July 2026",
       "body": "Good quality lock. Installed by expert technitian of Godrej."
-    },
-    {
-      "author": "Nitin G.",
-      "rating": 5.0,
-      "title": "Good Product",
-      "date": "2026-07-07",
-      "date_label": "7 July 2026",
-      "body": "Good Product. and service is good."
     },
     {
       "author": "PSS",

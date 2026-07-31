@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-30",
+  "scraped": "2026-07-31",
   "customers_say": "Customers find the water purifier to be of excellent quality and reliable, with prompt installation and good value for money. The water quality after purification is amazing, and customers appreciate its taste, with one noting it increases water sweetness. They find it easy to use and professional, though opinions about service are mixed, with some praising it while others report very bad service.",
   "aspects": [
     {
@@ -8,23 +8,23 @@
     },
     {
       "name": "Reliability",
-      "count": "732"
+      "count": "734"
     },
     {
       "name": "Installation",
-      "count": "651"
+      "count": "652"
     },
     {
       "name": "Value for money",
-      "count": "585"
+      "count": "584"
     },
     {
       "name": "Taste",
-      "count": "243"
+      "count": "245"
     },
     {
       "name": "Water quality",
-      "count": "232"
+      "count": "234"
     },
     {
       "name": "Ease of use",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Service",
-      "count": "179"
+      "count": "178"
     }
   ],
   "reviews": [
+    {
+      "author": "K'S Sirohi",
+      "rating": 3.0,
+      "title": "Fake Warranty",
+      "date": "2026-07-29",
+      "date_label": "29 July 2026",
+      "body": "The water filter is working OK but I had to get TDS regulator fitted additionally as this this product did not have that. Secondly, as the company claimed to provide two years comprehensive warranty on the product is not True. They will charge you for filter replacement during free service which is generally carried out within first six months. If you purchase their product, be ready to pay for any consumables even within the warranty period."
+    },
     {
       "author": "Vishnu Raj",
       "rating": 4.0,
@@ -51,14 +59,6 @@
       "date": "2026-07-20",
       "date_label": "20 July 2026",
       "body": "The service technician arrived on time, which I appreciate. However, the installation was done in a hurry, and he left without checking whether the water purifier was working properly. Shortly after the installation, the purifier started leaking and is still not usable. Additionally, I was charged ₹800 for two new parts required for the installation. I requested an invoice for these parts, but I have still not received one. Overall, the installation experience was disappointing. I hope the issue is resolved quickly and the invoice is provided."
-    },
-    {
-      "author": "Radha",
-      "rating": 4.0,
-      "title": "Good quality and very convenient",
-      "date": "2026-07-18",
-      "date_label": "18 July 2026",
-      "body": "I liked the product; it purifies the water well. It also looks good, and the best part is that Eureka Forbes sends someone for the installation, which I really liked"
     },
     {
       "author": "Chandan Yadav",

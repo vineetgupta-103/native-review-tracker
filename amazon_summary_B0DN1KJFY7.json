@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-07-30",
+  "scraped": "2026-07-31",
   "customers_say": "Customers find the water purifier to be among the best in its category, with reliable performance and quick, professional installation by Aquaguard experts. They appreciate its elegant design, good taste, and efficient purification capabilities, considering it good value for money. The service aspect receives mixed reviews, with some customers praising the excellent service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "885"
+      "count": "888"
     },
     {
       "name": "Reliability",
-      "count": "263"
+      "count": "266"
     },
     {
       "name": "Installation",
-      "count": "218"
+      "count": "219"
     },
     {
       "name": "Value for money",
-      "count": "178"
+      "count": "180"
     },
     {
       "name": "Water taste",
-      "count": "109"
+      "count": "110"
     },
     {
       "name": "Design",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Water quality",
-      "count": "63"
+      "count": "49"
     },
     {
       "name": "Service",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Reshma",
+      "rating": 4.0,
+      "title": "Good Value for Money",
+      "date": "2026-07-28",
+      "date_label": "28 July 2026",
+      "body": "Good water purifier with good water quality. It is easy to use and works well. Overall, I'm satisfied with the product and would recommend it."
+    },
+    {
+      "author": "Moosa",
+      "rating": 5.0,
+      "title": "Excellent Product & Smooth Installation",
+      "date": "2026-07-27",
+      "date_label": "27 July 2026",
+      "body": "Great product and excellent value for money. Water tastes clean and fresh, and the purifier works perfectly. Installation was quick and smooth. The technician was professional, explained everything clearly, and checked the TDS after installation. Very satisfied with the purchase. Highly recommended."
+    },
     {
       "author": "Ani",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-07-24",
       "date_label": "24 July 2026",
       "body": "Product is Good , Installation is done on the given date. Production is functing good for now, it is second day only, water taste is good."
-    },
-    {
-      "author": "Vijay Agrawal",
-      "rating": 5.0,
-      "title": "Reasonably priced product",
-      "date": "2026-07-24",
-      "date_label": "24 July 2026",
-      "body": "Amazing machine with a classy look. Technician was very professional. TDS meter provided with the machine is very useful"
-    },
-    {
-      "author": "Harish",
-      "rating": 4.0,
-      "title": "Great water purifier with no installation help",
-      "date": "2026-07-20",
-      "date_label": "20 July 2026",
-      "body": "Super easy to operate day-to-day and delivers impressive TDS numbers. The only real trade-off is that you can't rely on professional installer support, so you have to handle the setup and maintenance yourself. Overall, highly recommended if you don't mind spend extra for installation to get actual professional help"
     }
   ]
 }

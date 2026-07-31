@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-07-30",
+  "scraped": "2026-07-31",
   "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain, with professional installation service included. They appreciate its reliability, appearance, and consider it a budget-friendly option, with one customer noting its premium matte finish. However, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
       "name": "Water quality",
-      "count": "200"
+      "count": "201"
     },
     {
       "name": "Reliability",
-      "count": "61"
+      "count": "62"
     },
     {
       "name": "Installation",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Water taste",
-      "count": "30"
+      "count": "31"
     },
     {
       "name": "Appearance",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Swarup Raj Banik",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-07-26",
+      "date_label": "26 July 2026",
+      "body": "Works well, no issues thus far with just over a month's usage"
+    },
     {
       "author": "Nikhil Shiv",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-07-02",
       "date_label": "2 July 2026",
       "body": "Just a word.... \"Marvellous\". The purifier is first of its kind. It's look, finesse, performance, everything is perfect. I installed the one in my office. Now after few months of usage I m thinking of changing my home water purifier to the M0 from urban company."
-    },
-    {
-      "author": "Balachander",
-      "rating": 5.0,
-      "title": "Good machine at a reasonable price",
-      "date": "2026-06-20",
-      "date_label": "20 June 2026",
-      "body": "Prompt delivery...The technician also came to install the machine the next day as per schedule... Started using...gives tds of around 50 after purification, which is perfect. Taste of water is good."
     },
     {
       "author": "Gaurav",

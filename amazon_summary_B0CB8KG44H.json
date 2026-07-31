@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-07-30",
+  "scraped": "2026-07-31",
   "customers_say": "Customers find the water purifier to be of good quality, easy to use with smooth operation, and appreciate its taste, with one noting it matches normal ground water. The installation process is well-executed, and the water quality receives positive feedback, particularly regarding purity and TDS levels. The reliability and value for money receive mixed reviews - while some report no issues, others mention the purifier stopping working completely, and while some consider it good value, others find it expensive for use. Service experiences are also mixed, with some praising the service while others report poor service.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Installation",
-      "count": "638"
+      "count": "637"
     },
     {
       "name": "Water taste",
-      "count": "215"
+      "count": "214"
     },
     {
       "name": "Water quality",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Value for money",
-      "count": "435"
+      "count": "436"
     },
     {
       "name": "Service",
