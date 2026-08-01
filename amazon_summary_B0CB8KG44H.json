@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-07-31",
-  "customers_say": "Customers find the water purifier to be of good quality, easy to use with smooth operation, and appreciate its taste, with one noting it matches normal ground water. The installation process is well-executed, and the water quality receives positive feedback, particularly regarding purity and TDS levels. The reliability and value for money receive mixed reviews - while some report no issues, others mention the purifier stopping working completely, and while some consider it good value, others find it expensive for use. Service experiences are also mixed, with some praising the service while others report poor service.",
+  "scraped": "2026-08-01",
+  "customers_say": "Customers find the water purifier to be of good quality, easy to use with smooth operation, and appreciate its taste, with one noting it matches normal ground water. The installation process receives positive feedback, and customers like the water quality, particularly noting the purity and TDS levels. The reliability and value for money receive mixed reviews - while some report no issues, others mention the purifier stopping working completely, and opinions on value are divided between those who find it good value and those who consider it not worth the investment. Service experiences are also mixed, with some praising the service while others report poor service.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "637"
+      "count": "632"
     },
     {
       "name": "Water taste",
@@ -24,18 +24,26 @@
     },
     {
       "name": "Reliability",
-      "count": "467"
+      "count": "464"
     },
     {
       "name": "Value for money",
-      "count": "436"
+      "count": "434"
     },
     {
       "name": "Service",
-      "count": "157"
+      "count": "156"
     }
   ],
   "reviews": [
+    {
+      "author": "Sudha",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-07-29",
+      "date_label": "29 July 2026",
+      "body": "Very good and neat installation"
+    },
     {
       "author": "Anu",
       "rating": 1.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-21",
       "date_label": "21 July 2026",
       "body": "Quality is good and installation is also good"
-    },
-    {
-      "author": "shubham",
-      "rating": 5.0,
-      "title": "Perfect RO for midsize homes",
-      "date": "2026-07-20",
-      "date_label": "20 July 2026",
-      "body": "Great productbrings tds within drinking range and the water tastes good and clean"
     }
   ]
 }

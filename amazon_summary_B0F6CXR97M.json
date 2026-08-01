@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-07-31",
+  "scraped": "2026-08-01",
   "customers_say": "Customers find the water purifier to be of excellent quality and appreciate its features, including the LED light that gives it a modern look and the ability to adjust TDS levels. Moreover, they like the installation process, which includes free installation, and consider it good value for money, with one customer noting it saves money by not using RO. Additionally, they like the taste, with one mentioning it matches Bisleri's taste, and they find the purifier reliable, though some report it stopped working.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "554"
+      "count": "556"
     },
     {
       "name": "Installation",
-      "count": "252"
+      "count": "253"
     },
     {
       "name": "Value for money",
-      "count": "100"
+      "count": "101"
     },
     {
       "name": "Water taste",
-      "count": "79"
+      "count": "80"
     },
     {
       "name": "Appearance",
@@ -24,18 +24,26 @@
     },
     {
       "name": "Features",
-      "count": "61"
+      "count": "62"
     },
     {
       "name": "Tds control",
-      "count": "60"
+      "count": "61"
     },
     {
       "name": "Reliability",
-      "count": "158"
+      "count": "159"
     }
   ],
   "reviews": [
+    {
+      "author": "Sharada Rawal",
+      "rating": 5.0,
+      "title": "Adaptive feature",
+      "date": "2026-07-29",
+      "date_label": "29 July 2026",
+      "body": "Quick installation and Good product and features explanation using atomberg app"
+    },
     {
       "author": "Gaurav Atravalkar",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-06-28",
       "date_label": "28 June 2026",
       "body": "It has only been a month since I purchased this purifier, and I’ve been facing issues almost every week. Within the first week of use, I noticed white particles in the dispensed water. The service technician inspected the purifier and informed me that the particles were caused by the pipe provided inside the box, which was melting. As instructed by his supervisor, he cleaned the pipe with hot water and reinstalled it. However, the same issue reappeared within a week. The technician then replaced the pipe with a new one, but after another week, the white particles started appearing again. Unfor"
-    },
-    {
-      "author": "Placeholder",
-      "rating": 5.0,
-      "title": "GOOD SERVICE BY ATOMBERG Technician",
-      "date": "2026-04-06",
-      "date_label": "6 April 2026",
-      "body": "I recently purchased the Atomberg water purifier and I am completely satisfied with its performance. The design is modern and fits perfectly in my kitchen. The purification quality is very good and the water tastes fresh and clean. The noise level is moderate and does not disturb at all during operation. The purifier also includes a TDS control feature, which helps maintain the right minerals in the water and improves the taste. After using it, we feel the water is much safer and better for health and daily drinking. Installation service was also excellent. Technician Kamleshbhai did a very go"
     },
     {
       "author": "Piyush",
