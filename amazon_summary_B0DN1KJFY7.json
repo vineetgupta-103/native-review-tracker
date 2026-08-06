@@ -1,22 +1,22 @@
 {
-  "scraped": "2026-08-02",
+  "scraped": "2026-08-06",
   "customers_say": "Customers find the water purifier to be among the best in its category, with reliable performance and quick, professional installation by Aquaguard experts. They appreciate its elegant design, good taste, and efficient purification capabilities, considering it good value for money. The service aspect receives mixed reviews, with some customers praising the excellent service while others report poor service experiences.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "889"
+      "count": "880"
     },
     {
       "name": "Reliability",
-      "count": "266"
+      "count": "265"
     },
     {
       "name": "Installation",
-      "count": "219"
+      "count": "217"
     },
     {
       "name": "Value for money",
-      "count": "179"
+      "count": "176"
     },
     {
       "name": "Water taste",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Design",
-      "count": "78"
+      "count": "77"
     },
     {
       "name": "Water quality",
@@ -43,6 +43,14 @@
       "date": "2026-07-28",
       "date_label": "28 July 2026",
       "body": "Good water purifier with good water quality. It is easy to use and works well. Overall, I'm satisfied with the product and would recommend it."
+    },
+    {
+      "author": "Rakesh Kumar Jha",
+      "rating": 5.0,
+      "title": "Best RO / water purifier for today changing lifestyle",
+      "date": "2026-07-28",
+      "date_label": "28 July 2026",
+      "body": "As we can see it's performance real time on app so easy to monitor n Hope so TDS improvement shown by RO may help us better"
     },
     {
       "author": "Moosa",
@@ -67,14 +75,6 @@
       "date": "2026-07-25",
       "date_label": "25 July 2026",
       "body": "The purifier is working absolutely fine..The water taste is far good. I'm really happy with this purchase and feel god about the quality of water. Thank you.."
-    },
-    {
-      "author": "Kiran",
-      "rating": 5.0,
-      "title": "Aquaguard",
-      "date": "2026-07-24",
-      "date_label": "24 July 2026",
-      "body": "Product is Good , Installation is done on the given date. Production is functing good for now, it is second day only, water taste is good."
     }
   ]
 }
