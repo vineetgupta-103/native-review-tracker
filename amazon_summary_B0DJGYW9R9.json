@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-06",
+  "scraped": "2026-08-07",
   "customers_say": "Customers find this smart lock to be a best-in-class product with excellent digital quality and professional installation. The lock features triple deadlocks for high security and 7 different unlocking options, while the app interface is easy to use. They appreciate its appearance, adding a modern touch to doors, and consider it a great value.",
   "aspects": [
     {
@@ -37,14 +37,6 @@
   ],
   "reviews": [
     {
-      "author": "Soummyodeep Sengupta",
-      "rating": 4.0,
-      "title": "Smart door lock",
-      "date": "2026-07-27",
-      "date_label": "27 July 2026",
-      "body": "It does the job very well."
-    },
-    {
       "author": "Roberto",
       "rating": 1.0,
       "title": "No support",
@@ -75,6 +67,14 @@
       "date": "2026-07-13",
       "date_label": "13 July 2026",
       "body": "Excellent product with good customer support. The technician did the installation neatly and cleaned up the place afterward. He explained the product and it's features clearly. It saves a lot of hassle of searching for keys and is also extremely good from a safety point of view. One suggestion would be to add face recognition as a feature."
+    },
+    {
+      "author": "Nikhil Bhagat",
+      "rating": 5.0,
+      "title": "Smooth installation, works perfectly.",
+      "date": "2026-07-12",
+      "date_label": "12 July 2026",
+      "body": "Smooth installation, working perfectly just like advertised. Aruj ji was very helpful during the entire process."
     }
   ]
 }

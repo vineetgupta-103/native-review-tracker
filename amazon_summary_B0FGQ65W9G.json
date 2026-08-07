@@ -1,80 +1,76 @@
 {
-  "scraped": "2026-08-06",
-  "customers_say": "Customers find the digital lock to be of good quality, with fast fingerprint unlock capabilities and multiple access modes. They appreciate its appearance and value for money, while the installation service is available 24/7. The lock receives positive feedback for its reliability, with one customer noting its excellent responsiveness.",
+  "scraped": "2026-08-07",
+  "customers_say": "Customers find this electronic lock to be of excellent quality, simple to configure and use, and appreciate its nice appearance and value for money. They praise its functionality, with one customer noting it's responsive, while another mentions the technician's excellent service. They like its features, with one customer highlighting how it makes home security easier to manage.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "41"
+      "count": "50"
     },
     {
       "name": "Installation",
-      "count": "20"
+      "count": "37"
     },
     {
-      "name": "Reliability",
+      "name": "Functionality",
+      "count": "15"
+    },
+    {
+      "name": "Service",
+      "count": "14"
+    },
+    {
+      "name": "Appearance",
       "count": "8"
     },
     {
       "name": "Value for money",
-      "count": "7"
-    },
-    {
-      "name": "Appearance",
-      "count": "5"
+      "count": "8"
     },
     {
       "name": "Features",
-      "count": "5"
-    },
-    {
-      "name": "Fingerprint unlock",
-      "count": "5"
-    },
-    {
-      "name": "Service",
-      "count": "5"
+      "count": "7"
     }
   ],
   "reviews": [
     {
-      "author": "nida",
+      "author": "Ram",
       "rating": 5.0,
-      "title": "The product is nice good experience",
-      "date": "2026-08-01",
-      "date_label": "1 August 2026",
-      "body": "Very kind person , explained all the details. Good service Thank you God bless you"
+      "title": "Good",
+      "date": "2026-06-23",
+      "date_label": "23 June 2026",
+      "body": "Excellent product"
     },
     {
-      "author": "nirav r.",
+      "author": "Raja Guru",
       "rating": 5.0,
-      "title": "Excellent",
-      "date": "2026-07-18",
-      "date_label": "18 July 2026",
-      "body": "An excellent product and the best service for the same, thank you Amazon and Godhrej"
+      "title": "Godrej Digital lock",
+      "date": "2025-11-13",
+      "date_label": "13 November 2025",
+      "body": "It’s working good , and the customer service also available at any time, with in 3 working days they will come and solve the problems, It’s safe and secure for home main door, recommend to buy this digital lock.."
     },
     {
-      "author": "Preethi Anvekar",
+      "author": "Vaibhav",
       "rating": 5.0,
-      "title": "Digital lock",
-      "date": "2026-07-14",
-      "date_label": "14 July 2026",
-      "body": "Best Digital lock for home with good features."
+      "title": "Godrej Cactus",
+      "date": "2025-10-01",
+      "date_label": "1 October 2025",
+      "body": "Good product and prompt installation"
     },
     {
-      "author": "Placeholder",
+      "author": "Bharat",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2025-09-27",
+      "date_label": "27 September 2025",
+      "body": "Ravindra is best in job , fast and accurate installation , fast service , demo good"
+    },
+    {
+      "author": "Sarla s.",
       "rating": 4.0,
-      "title": "Wow review",
-      "date": "2026-07-10",
-      "date_label": "10 July 2026",
-      "body": "Good but if it's support video call then always better"
-    },
-    {
-      "author": "Satyadip",
-      "rating": 5.0,
-      "title": "Safety and quality of the product",
-      "date": "2026-07-08",
-      "date_label": "8 July 2026",
-      "body": "It's a very nice product and I must recommend this to everyone and the best service experience i ever had"
+      "title": "Godrej Catus touch plus digital lock",
+      "date": "2025-07-29",
+      "date_label": "29 July 2025",
+      "body": "Godrej Catus touch digital lock, I perched from Amazon , good quality , its value for money ,Finger print recognize very well ,thanks Amazon seller retailed"
     }
   ]
 }

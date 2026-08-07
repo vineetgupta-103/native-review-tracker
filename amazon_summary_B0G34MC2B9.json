@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-06",
+  "scraped": "2026-08-07",
   "customers_say": "Customers find the digital lock to be of good quality and appreciate the expert installation by Godrej technicians. The lock functions well, with one customer noting it works effectively on wooden doors, and customers value its multiple unlocking options and security features. They find it easy to use and provide excellent service, though opinions on value for money are mixed.",
   "aspects": [
     {
@@ -37,28 +37,20 @@
   ],
   "reviews": [
     {
-      "author": "Deepak Gupta",
+      "author": "Ankur rai",
       "rating": 5.0,
-      "title": "Very good lock",
+      "title": "Good",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "Good product and technical visit is good and great job done Thanks Godrej service"
+    },
+    {
+      "author": "Venu",
+      "rating": 5.0,
+      "title": "Happy customer",
       "date": "2026-07-28",
       "date_label": "28 July 2026",
-      "body": "Very good installation by Shamji sales service Hariom technician"
-    },
-    {
-      "author": "DEEPAK VEHAL",
-      "rating": 5.0,
-      "title": "Great experience",
-      "date": "2026-07-26",
-      "date_label": "26 July 2026",
-      "body": "Great experience with godrej and the installation process was very quick and easy. Technician was very good. Technician Name- Guddu"
-    },
-    {
-      "author": "Arijita Mitra",
-      "rating": 5.0,
-      "title": "Excellent lock",
-      "date": "2026-07-20",
-      "date_label": "20 July 2026",
-      "body": "Excellent Service"
+      "body": "I like it very much and service also very fast . Very happy"
     },
     {
       "author": "Manotosh",
@@ -75,6 +67,14 @@
       "date": "2026-06-28",
       "date_label": "28 June 2026",
       "body": "Technician could not configure WIfi with the digital lock。 He is not experienced。 also does not have time to configure He put the blame on internet provider and went off。 For such a expensive lock, the technicians should be properly trained not only carpentry work but also ensures proper software and complete configuration. Very disappointing. Options are available for Rs 10K onwards, but preferred Godrej for their service, and reputation。"
+    },
+    {
+      "author": "Anusha murari",
+      "rating": 5.0,
+      "title": "Excellent",
+      "date": "2026-06-15",
+      "date_label": "15 June 2026",
+      "body": "Installation was down Mr Ravindra chary shown every thing and easily to acess explained clerely"
     }
   ]
 }

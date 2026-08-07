@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-06",
+  "scraped": "2026-08-07",
   "customers_say": "Customers find the water purifier to be among the best in its category, with reliable performance and quick, professional installation by Aquaguard experts. They appreciate its elegant design, good taste, and efficient purification capabilities, considering it good value for money. The service aspect receives mixed reviews, with some customers praising the excellent service while others report poor service experiences.",
   "aspects": [
     {
@@ -37,20 +37,28 @@
   ],
   "reviews": [
     {
+      "author": "Sujata Das",
+      "rating": 5.0,
+      "title": "A perfect Filter",
+      "date": "2026-08-02",
+      "date_label": "2 August 2026",
+      "body": "I have got a very nice deal in Aquaguard Ritz Pro Filter. Service was prompt. The machine is functioning very nicely. Water quality is very clean."
+    },
+    {
+      "author": "Uppala venkatesh",
+      "rating": 5.0,
+      "title": "Excellent performance and complete peace of mind",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "​\"I recently purchased the Aquaguard 2X (UV+UF) water purifier, and I am very pleased with my experience so far. The water taste is noticeably clean and fresh, and the advanced filtration system offers great peace of mind regarding safety. The installation process was prompt and handled professionally by the technician. The unit has a sleek design that fits nicely in the kitchen, and the extended filter life adds great value.. 1.Complete Microbial Disinfection UV Light Technology: Exposes water to ultraviolet rays that destroy the DNA of harmful bacteria, viruses, and parasites (like E. coli, "
+    },
+    {
       "author": "Reshma",
       "rating": 4.0,
       "title": "Good Value for Money",
       "date": "2026-07-28",
       "date_label": "28 July 2026",
       "body": "Good water purifier with good water quality. It is easy to use and works well. Overall, I'm satisfied with the product and would recommend it."
-    },
-    {
-      "author": "Rakesh Kumar Jha",
-      "rating": 5.0,
-      "title": "Best RO / water purifier for today changing lifestyle",
-      "date": "2026-07-28",
-      "date_label": "28 July 2026",
-      "body": "As we can see it's performance real time on app so easy to monitor n Hope so TDS improvement shown by RO may help us better"
     },
     {
       "author": "Moosa",
@@ -67,14 +75,6 @@
       "date": "2026-07-27",
       "date_label": "27 July 2026",
       "body": "It has only been a few days, and the product looks very promising. The installation team also did a great job. We had a slightly unconventional setup: the RO unit was placed in our wash area, and we connected the purified water outlet to a spout in the kitchen to dispense the RO water. Initially, the technicians were hesitant because they didn't fully understand how to execute the setup, but they later agreed and finished the installation with a neat and professional finish the next day. I was also able to connect the RO to the internet successfully. The TDS reading displayed in the app differ"
-    },
-    {
-      "author": "Manish",
-      "rating": 5.0,
-      "title": "Feed back",
-      "date": "2026-07-25",
-      "date_label": "25 July 2026",
-      "body": "The purifier is working absolutely fine..The water taste is far good. I'm really happy with this purchase and feel god about the quality of water. Thank you.."
     }
   ]
 }

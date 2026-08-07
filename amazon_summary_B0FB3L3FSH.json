@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-06",
+  "scraped": "2026-08-07",
   "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain, with professional installation service included. They appreciate its reliability, appearance, and consider it a budget-friendly option, with one customer noting its premium matte finish. However, several customers report issues with water leakage from the unit.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Pannu",
+      "rating": 5.0,
+      "title": "Brilliant product",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "It is a useful purchase. It's been working well so far. I would recommend this product."
+    },
+    {
       "author": "Nikhil Shiv",
       "rating": 5.0,
       "title": "Excellent Product and Service",
@@ -45,36 +53,28 @@
       "body": "Great product with excellent service. The water tastes much better, and the installation process was easy. Happy with my purchase and would recommend it."
     },
     {
-      "author": "Vivek Gupta",
+      "author": "Priya Natekar",
+      "rating": 4.0,
+      "title": "Quality of water",
+      "date": "2026-07-22",
+      "date_label": "22 July 2026",
+      "body": "Excellent product from native"
+    },
+    {
+      "author": "Aishwarya Singh",
       "rating": 5.0,
-      "title": "Good product",
+      "title": "A Good Product and A greater Service Experience",
+      "date": "2026-07-20",
+      "date_label": "20 July 2026",
+      "body": "Using it for 3weeks no issue so far. installation process was seamless. I would recommend this water purifier for if nothing else then a great customer service experience like thats a novelty in india. also paying for a filter after 2 year is a huge plus and all consultation and maintenance service free for 2 years."
+    },
+    {
+      "author": "حافظ خان (Hafiz Khan)",
+      "rating": 5.0,
+      "title": "Hassle-free, sleek, and great-tasting water!",
       "date": "2026-07-19",
       "date_label": "19 July 2026",
-      "body": "Product is good and installation process was also nice. Recommended especially for senior citizens where you don't need touch buttons etc"
-    },
-    {
-      "author": "PREETAM N.",
-      "rating": 5.0,
-      "title": "Marvellous-M0",
-      "date": "2026-07-02",
-      "date_label": "2 July 2026",
-      "body": "Just a word.... \"Marvellous\". The purifier is first of its kind. It's look, finesse, performance, everything is perfect. I installed the one in my office. Now after few months of usage I m thinking of changing my home water purifier to the M0 from urban company."
-    },
-    {
-      "author": "Gaurav",
-      "rating": 5.0,
-      "title": "Good product, can go for it...",
-      "date": "2026-06-14",
-      "date_label": "14 June 2026",
-      "body": "I was looking for a RO for my home and came to know about native RO on urban company app. After some research on Google and watching some youtube videos i finalized this product and waited for the Amazon sale. Now it's about an month I am using this RO and based on that I list some of its pros and cons. Pros: 1. Delivery by Amazon and installation service by UC was fantastic, no complains about that. Installation person was a thorough professional. 2. Water filtration is good. TDS meter is provided with the RO. 3. RO is sleek and can blend easily with any kitchen. 4. Unconditional warranty for"
-    },
-    {
-      "author": "viswanath",
-      "rating": 4.0,
-      "title": "Best in best budget",
-      "date": "2026-06-09",
-      "date_label": "9 June 2026",
-      "body": "Really best product with in the budget installation also very smooth.overall value for the money."
+      "body": "I am absolutely loving the Native M0! The biggest selling point is the 2-year zero-maintenance promise—no more annoying calls for filter changes or expensive AMC contracts every few months. The multi-stage purification makes the water taste crisp and clean, and the sleek design looks fantastic in my kitchen. Installation was quick and seamless. Highly recommend this to anyone looking for a reliable, \"install-and-forget\" purifier!"
     }
   ]
 }

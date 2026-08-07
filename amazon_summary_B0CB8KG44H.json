@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-06",
+  "scraped": "2026-08-07",
   "customers_say": "Customers find the water purifier to be of good quality, easy to use with smooth operation, and appreciate its taste, with one noting it matches normal ground water. The installation process receives positive feedback, and customers like the water quality, particularly noting the purity and TDS levels. The reliability and value for money receive mixed reviews - while some report no issues, others mention the purifier stopping working completely, and opinions on value are divided between those who find it good value and those who consider it not worth the investment. Service experiences are also mixed, with some praising the service while others report poor service.",
   "aspects": [
     {
@@ -37,6 +37,30 @@
   ],
   "reviews": [
     {
+      "author": "Gajanan Chandurkar",
+      "rating": 4.0,
+      "title": "Quality",
+      "date": "2026-08-01",
+      "date_label": "1 August 2026",
+      "body": "Good"
+    },
+    {
+      "author": "D k saraschandrika",
+      "rating": 5.0,
+      "title": "👍",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "Quality. Good product. Easy and fast installation. Quick repond Technician. Thank you KENT."
+    },
+    {
+      "author": "Anitha",
+      "rating": 4.0,
+      "title": "Good",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "Good"
+    },
+    {
       "author": "Sudha",
       "rating": 5.0,
       "title": "Good",
@@ -51,30 +75,6 @@
       "date": "2026-07-27",
       "date_label": "27 July 2026",
       "body": "Do not buy this product. I purchased the Kent Supreme less than a year ago, and it has already failed 5times in the first 6 months. Major components like the SMPS and Carbon Filter have already been replaced. ​Now, the machine is dispensing foul, bad-smelling water. The service team is completely uncoordinated—one day support tells me to pay ₹500 for a Post-Carbon filter, and the next day a technician visits and says the UV membrane is broken which is cost min 1100. The technician didn't even bring the spare part and it will takes 10 days. ​Since the unit keeps breaking down, it is clearly a d"
-    },
-    {
-      "author": "vlpm chandra sekhar",
-      "rating": 5.0,
-      "title": "Kent Supreme plus Alkaline + copper RO purifier review",
-      "date": "2026-07-24",
-      "date_label": "24 July 2026",
-      "body": "Everything is as expected and perfect. Also service installation is also good. Thank you VR agencies."
-    },
-    {
-      "author": "Shaik Safeedha Bhanu",
-      "rating": 5.0,
-      "title": "Excellent Water Purifier – Highly Recommended!",
-      "date": "2026-07-23",
-      "date_label": "23 July 2026",
-      "body": "I've been using this KENT RO water purifier and I'm very satisfied with its performance. The water tastes clean, fresh, and safe to drink. Installation was quick, and the service was professional. The design looks premium and it's easy to use. Great product for families. Highly recommended!"
-    },
-    {
-      "author": "Armaan kumar",
-      "rating": 5.0,
-      "title": "Better purification",
-      "date": "2026-07-21",
-      "date_label": "21 July 2026",
-      "body": "Quality is good and installation is also good"
     }
   ]
 }
