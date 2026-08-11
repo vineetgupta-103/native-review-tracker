@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-10",
-  "customers_say": "Customers find the water purifier to be of excellent quality and reliable, with prompt installation and good value for money. The water quality is better than expected, with one customer noting it produces distilled water, and they appreciate its taste and ease of use, describing it as professional and hassle-free. The service aspect receives mixed reviews, with some customers praising the service while others report poor service experiences.",
+  "scraped": "2026-08-11",
+  "customers_say": "Customers find this water purifier to be a reliable product that works well and provides pure and clean water. They appreciate its sleek appearance, installation process, and value for money as a budget-friendly option. The taste of the water is good, and customers are satisfied with their experience using it.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "2.4K"
-    },
-    {
-      "name": "Reliability",
-      "count": "732"
-    },
-    {
-      "name": "Installation",
-      "count": "651"
+      "count": "3.5K"
     },
     {
       "name": "Value for money",
-      "count": "582"
+      "count": "815"
+    },
+    {
+      "name": "Performance",
+      "count": "803"
+    },
+    {
+      "name": "Installation",
+      "count": "525"
+    },
+    {
+      "name": "Appearance",
+      "count": "292"
     },
     {
       "name": "Water quality",
-      "count": "271"
+      "count": "241"
     },
     {
-      "name": "Taste",
-      "count": "244"
+      "name": "Water taste",
+      "count": "236"
     },
     {
-      "name": "Ease of use",
-      "count": "139"
-    },
-    {
-      "name": "Service",
-      "count": "179"
+      "name": "Experience",
+      "count": "144"
     }
   ],
   "reviews": [

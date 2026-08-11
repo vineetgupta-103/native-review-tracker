@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-10",
-  "customers_say": "Customers find the water purifier to be among the best in its category, with reliable performance and quick, professional installation by Aquaguard experts. They appreciate its elegant design, good taste, and efficient purification capabilities, considering it good value for money. The service aspect receives mixed reviews, with some customers praising the excellent service while others report poor service experiences.",
+  "scraped": "2026-08-11",
+  "customers_say": "Customers find the water purifier excellent in quality and performance, with quick and perfect installation, and appreciate its elegant appearance. The water tastes good, and they consider it a great choice for daily home use. While some customers find it good value for money, others say it's not worth the price. The service receives mixed reviews, with some praising the customer support while others report terrible service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "880"
+      "count": "1.3K"
     },
     {
-      "name": "Reliability",
-      "count": "265"
+      "name": "Performance",
+      "count": "285"
     },
     {
       "name": "Installation",
-      "count": "217"
-    },
-    {
-      "name": "Value for money",
-      "count": "176"
+      "count": "172"
     },
     {
       "name": "Water taste",
-      "count": "110"
+      "count": "104"
     },
     {
-      "name": "Design",
-      "count": "77"
+      "name": "Appearance",
+      "count": "70"
     },
     {
-      "name": "Water quality",
-      "count": "49"
+      "name": "Functionality",
+      "count": "52"
+    },
+    {
+      "name": "Value for money",
+      "count": "265"
     },
     {
       "name": "Service",
-      "count": "53"
+      "count": "46"
     }
   ],
   "reviews": [

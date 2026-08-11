@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-10",
-  "customers_say": "Customers find the digital lock to be of good quality and appreciate the expert installation by Godrej technicians. The lock functions well, with one customer noting it works effectively on wooden doors, and customers value its multiple unlocking options and security features. They find it easy to use and provide excellent service, though opinions on value for money are mixed.",
+  "scraped": "2026-08-11",
+  "customers_say": "Customers find the digital lock to be feature-rich and easy to use, with good installation and service. Moreover, they appreciate its security features, providing a better sense of security, and one customer notes it works well on wooden doors. However, opinions about value for money are mixed, and reliability receives mixed feedback.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "72"
+      "count": "97"
     },
     {
       "name": "Installation",
-      "count": "38"
-    },
-    {
-      "name": "Functionality",
-      "count": "21"
+      "count": "28"
     },
     {
       "name": "Service",
-      "count": "15"
-    },
-    {
-      "name": "Ease of use",
       "count": "12"
     },
     {
-      "name": "Security",
+      "name": "Features",
       "count": "11"
     },
     {
-      "name": "Features",
+      "name": "Ease of use",
+      "count": "10"
+    },
+    {
+      "name": "Security",
       "count": "10"
     },
     {
       "name": "Value for money",
-      "count": "12"
+      "count": "15"
+    },
+    {
+      "name": "Reliability",
+      "count": "13"
     }
   ],
   "reviews": [

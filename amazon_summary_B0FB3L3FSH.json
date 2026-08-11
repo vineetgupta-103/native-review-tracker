@@ -1,37 +1,37 @@
 {
-  "scraped": "2026-08-10",
-  "customers_say": "Customers find the water purifier delivers quality water that tastes great and is easy to maintain, with professional installation service included. They appreciate its reliability, appearance, and consider it a budget-friendly option, with one customer noting its premium matte finish. However, several customers report issues with water leakage from the unit.",
+  "scraped": "2026-08-11",
+  "customers_say": "Customers find the water purifier delivers quality water that tastes great, with noticeably cleaner results and good flow. The product is easy to maintain and comes with maintenance-free service for the first two years. They appreciate its appearance, with one customer noting its premium matte finish, and find the installation process convenient.",
   "aspects": [
     {
-      "name": "Water quality",
-      "count": "202"
+      "name": "Quality",
+      "count": "251"
     },
     {
-      "name": "Reliability",
+      "name": "Performance",
       "count": "62"
     },
     {
-      "name": "Installation",
-      "count": "52"
+      "name": "Value for money",
+      "count": "59"
     },
     {
-      "name": "Value for money",
-      "count": "46"
+      "name": "Installation",
+      "count": "40"
     },
     {
       "name": "Water taste",
-      "count": "31"
+      "count": "27"
     },
     {
       "name": "Appearance",
-      "count": "22"
+      "count": "23"
+    },
+    {
+      "name": "Water quality",
+      "count": "19"
     },
     {
       "name": "Ease of use",
-      "count": "18"
-    },
-    {
-      "name": "Water leakage",
       "count": "17"
     }
   ],

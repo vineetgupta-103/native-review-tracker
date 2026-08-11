@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-10",
-  "customers_say": "Customers find the smart door lock to be of excellent quality and appreciate its secure locking system that sets a new standard for home safety. Moreover, the installation process receives positive feedback, with one customer highlighting the excellent job done by the installer. Additionally, customers praise its user-friendly app, multiple access methods, and advanced security features, while also noting its great appearance and value for money.",
+  "scraped": "2026-08-11",
+  "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door. Moreover, the lock works as expected with all notifications functioning properly, and customers appreciate its user-friendly app and multiple unlocking options. Additionally, they value its security features, with one customer noting it sets a new standard for modern home safety. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "157"
+      "count": "199"
     },
     {
       "name": "Installation",
-      "count": "97"
+      "count": "88"
     },
     {
       "name": "Functionality",
-      "count": "63"
+      "count": "68"
     },
     {
       "name": "Ease of use",
-      "count": "42"
+      "count": "41"
     },
     {
       "name": "Features",
-      "count": "34"
+      "count": "29"
     },
     {
       "name": "Security",
-      "count": "24"
+      "count": "25"
+    },
+    {
+      "name": "Usefulness",
+      "count": "18"
     },
     {
       "name": "Value for money",
-      "count": "21"
-    },
-    {
-      "name": "Appearance",
-      "count": "17"
+      "count": "25"
     }
   ],
   "reviews": [

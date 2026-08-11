@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-10",
-  "customers_say": "Customers find this smart lock to be a best-in-class product with excellent digital quality and professional installation. The lock features triple deadlocks for high security and 7 different unlocking options, while the app interface is easy to use. They appreciate its appearance, adding a modern touch to doors, and consider it a great value.",
+  "scraped": "2026-08-11",
+  "customers_say": "Customers find the door lock to be of best-in-class quality, with simple installation and reliable performance. They appreciate its security features, including triple deadlocks and multiple authentication methods, while the app interface is easy to use. They like its appearance, noting it adds a modern touch to doors, and value its features, particularly the multiple unlocking options.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "125"
+      "count": "187"
     },
     {
       "name": "Installation",
-      "count": "69"
+      "count": "57"
     },
     {
       "name": "Reliability",
-      "count": "45"
-    },
-    {
-      "name": "Appearance",
-      "count": "23"
-    },
-    {
-      "name": "Security",
-      "count": "21"
-    },
-    {
-      "name": "Ease of use",
-      "count": "19"
-    },
-    {
-      "name": "Features",
-      "count": "19"
+      "count": "47"
     },
     {
       "name": "Value for money",
-      "count": "18"
+      "count": "28"
+    },
+    {
+      "name": "Security",
+      "count": "24"
+    },
+    {
+      "name": "Ease of use",
+      "count": "21"
+    },
+    {
+      "name": "Appearance",
+      "count": "20"
+    },
+    {
+      "name": "Features",
+      "count": "16"
     }
   ],
   "reviews": [

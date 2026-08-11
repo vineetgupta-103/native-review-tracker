@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-10",
-  "customers_say": "Customers find the water purifier to be of excellent quality and appreciate its features, including the LED light that gives it a modern look and the ability to adjust TDS levels. Moreover, they like the installation process, which includes free installation, and consider it good value for money, with one customer noting it saves money by not using RO. Additionally, they like the taste, with one mentioning it matches Bisleri's taste, and they find the purifier reliable, though some report it stopped working.",
+  "scraped": "2026-08-11",
+  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its LED light that gives it a modern look and its user-friendly app. The installation process is good, and they like the taste, noting it's free of metallic or chemical aftertaste. Moreover, the features are well-explained, and customers find the purifier easy to use. However, reliability and value for money receive mixed reviews - while some say it functions well, others report it stops working after 9 days, and while some consider it worth the money, others warn not to buy it.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "556"
+      "count": "752"
     },
     {
       "name": "Installation",
-      "count": "253"
-    },
-    {
-      "name": "Value for money",
-      "count": "101"
+      "count": "192"
     },
     {
       "name": "Water taste",
-      "count": "80"
+      "count": "73"
     },
     {
       "name": "Appearance",
       "count": "71"
     },
     {
-      "name": "Features",
-      "count": "62"
+      "name": "Ease of use",
+      "count": "59"
     },
     {
-      "name": "Tds control",
-      "count": "61"
+      "name": "Features",
+      "count": "59"
     },
     {
       "name": "Reliability",
-      "count": "159"
+      "count": "183"
+    },
+    {
+      "name": "Value for money",
+      "count": "178"
     }
   ],
   "reviews": [
