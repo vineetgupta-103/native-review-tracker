@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find this water purifier to be one of the best in the market, appreciating its top-notch water quality and easy-to-use installation process. The device features a mobile app that provides all vital information for monitoring, and customers like its premium appearance, with one noting its modern touch panel with LED indicators. While the purifier generally works well, some customers report it stopped working after just two days of use.",
+  "scraped": "2026-08-13",
+  "customers_say": "Customers find the water purifier easy to use and appreciate its smart features that make life easier. The water quality receives positive feedback, with the app clearly showing water purity and filter status, while the taste is good and the appearance is premium. The purifier offers 2 years of hassle-free service, and customers are satisfied with the installation process and overall experience. However, reliability receives mixed reviews, with some reporting it works well while others mention it stops working after 24 hours of installation.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "849"
-    },
-    {
-      "name": "Value for money",
-      "count": "188"
-    },
-    {
       "name": "Installation",
-      "count": "122"
+      "count": "127"
     },
     {
       "name": "Water quality",
-      "count": "74"
+      "count": "80"
     },
     {
       "name": "Water taste",
-      "count": "71"
+      "count": "76"
     },
     {
       "name": "Appearance",
-      "count": "57"
+      "count": "59"
     },
     {
-      "name": "App functionality",
+      "name": "Features",
+      "count": "49"
+    },
+    {
+      "name": "Experience",
+      "count": "48"
+    },
+    {
+      "name": "Service",
       "count": "47"
     },
     {
       "name": "Reliability",
-      "count": "164"
+      "count": "180"
     }
   ],
   "reviews": [
