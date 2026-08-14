@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find this water purifier to be among the best in the market, offering good value for money with transparent pricing and the ability to save on service costs. They appreciate its premium appearance, excellent installation process, and performance, noting it makes a noticeable difference in water quality. The taste receives mixed feedback, with some customers finding it excellent while others disagree.",
+  "scraped": "2026-08-14",
+  "customers_say": "Customers find this water purifier to be among the best in the market, offering good value with transparent pricing. The installation process is excellent, and the purifier works superbly, with one customer noting it performs well with any type of water. They appreciate its premium appearance, excellent taste, and noticeable improvement in water quality, with one mentioning it makes water completely clear. The service receives positive feedback, with one customer highlighting the technical expertise of the service team.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,31 +8,31 @@
     },
     {
       "name": "Value for money",
-      "count": "448"
+      "count": "458"
     },
     {
       "name": "Installation",
-      "count": "315"
+      "count": "323"
     },
     {
-      "name": "Performance",
-      "count": "291"
+      "name": "Reliability",
+      "count": "297"
     },
     {
       "name": "Appearance",
-      "count": "226"
-    },
-    {
-      "name": "Water quality",
-      "count": "168"
-    },
-    {
-      "name": "Service",
-      "count": "139"
+      "count": "229"
     },
     {
       "name": "Water taste",
-      "count": "201"
+      "count": "204"
+    },
+    {
+      "name": "Water quality",
+      "count": "153"
+    },
+    {
+      "name": "Service",
+      "count": "140"
     }
   ],
   "reviews": [
@@ -53,6 +53,14 @@
       "body": "Water quality si absolutely great. Good app UI and adequate information provided in the app. Value for money. Good service."
     },
     {
+      "author": "Ranjan Tiwari",
+      "rating": 5.0,
+      "title": "Excellent product",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "Taste of the water is good. The purifier is working excellent . And the fact that we donot need to worry for filter life for 2years is great ."
+    },
+    {
       "author": "Viraj sharma",
       "rating": 5.0,
       "title": "Excellent Product with Professional Installation",
@@ -61,20 +69,12 @@
       "body": "I’m extremely satisfied with this purchase. The product arrived in excellent condition and feels premium in terms of build quality. It offers plenty of useful features, and the water flow is impressive. The installation experience was equally outstanding. The installation technician was highly professional, completed the work quickly, and explained all the product features in detail. Their product knowledge and willingness to answer questions made the entire experience smooth and hassle-free. Overall, an excellent product backed by top-notch installation service. Highly recommended!"
     },
     {
-      "author": "ali ahmad khan",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-07-19",
-      "date_label": "19 July 2026",
-      "body": "So far all good. Installation was smooth. Filter vibes is also good."
-    },
-    {
-      "author": "NK",
+      "author": "Roni",
       "rating": 5.0,
-      "title": "Good start with water filter",
-      "date": "2026-07-12",
-      "date_label": "12 July 2026",
-      "body": "Filter works very well. Used 3 days now and no issues. Unit looks good. Large in size though, so check dimensions and see whether it fits in your home. Installation was very well coordinated and smooth. No ‘add on’ charges. If exchanging old filter, keep in mind to detach old filter to have ready for handing over to Amazon’s delivery agent. Will post another update after further 1-2 years usage. Will validate filer change period and also cost reduction filter is supposed to provide due to reduced frequency of filter change."
+      "title": "Packaging should be better .",
+      "date": "2026-07-26",
+      "date_label": "26 July 2026",
+      "body": "I received open box like this picture, I don’t know why . Anyway product is very good & installation staff was excellent. For this brand I will mark as 5 star . But packaging should be better . Anyway thank you UC & Amazon ."
     }
   ]
 }

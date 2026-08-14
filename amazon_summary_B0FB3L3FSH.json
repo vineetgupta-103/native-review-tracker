@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find the water purifier delivers quality water that tastes great, with noticeably cleaner results and good flow. The product is easy to maintain and comes with maintenance-free service for the first two years. They appreciate its appearance, with one customer noting its premium matte finish, and find the installation process convenient.",
+  "scraped": "2026-08-14",
+  "customers_say": "Customers find the water purifier to be a good quality device that delivers clean water with minerals, tastes great, and is easy to maintain. They appreciate its appearance, with one customer noting its premium matte finish, and find the installation process convenient. The durability receives mixed feedback, with some customers reporting it broke within three days of use.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "251"
+      "count": "260"
     },
     {
       "name": "Performance",
-      "count": "62"
-    },
-    {
-      "name": "Value for money",
-      "count": "59"
+      "count": "68"
     },
     {
       "name": "Installation",
-      "count": "40"
+      "count": "41"
     },
     {
       "name": "Water taste",
-      "count": "27"
+      "count": "28"
     },
     {
       "name": "Appearance",
-      "count": "23"
-    },
-    {
-      "name": "Water quality",
-      "count": "19"
+      "count": "25"
     },
     {
       "name": "Ease of use",
-      "count": "17"
+      "count": "20"
+    },
+    {
+      "name": "Water quality",
+      "count": "20"
+    },
+    {
+      "name": "Durability",
+      "count": "16"
     }
   ],
   "reviews": [

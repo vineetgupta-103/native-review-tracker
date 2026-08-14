@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its LED light that gives it a modern look and its user-friendly app. The installation process is good, and they like the taste, noting it's free of metallic or chemical aftertaste. Moreover, the features are well-explained, and customers find the purifier easy to use. However, reliability and value for money receive mixed reviews - while some say it functions well, others report it stops working after 9 days, and while some consider it worth the money, others warn not to buy it.",
+  "scraped": "2026-08-14",
+  "customers_say": "Customers find the water purifier easy to use with a user-friendly app and appreciate its impressive smart technology, including its LED light that gives it a modern look. They like the taste, noting it's free of metallic or chemical aftertaste, and find the installation process good. The reliability and value for money receive mixed reviews - while some say it functions well and is worth the money, others report it stops working after 9 days and warn not to buy it.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "752"
-    },
-    {
       "name": "Installation",
-      "count": "192"
+      "count": "196"
     },
     {
       "name": "Water taste",
-      "count": "73"
+      "count": "75"
     },
     {
       "name": "Appearance",
-      "count": "71"
-    },
-    {
-      "name": "Ease of use",
-      "count": "59"
+      "count": "72"
     },
     {
       "name": "Features",
-      "count": "59"
+      "count": "56"
+    },
+    {
+      "name": "Ease of use",
+      "count": "53"
+    },
+    {
+      "name": "Technology",
+      "count": "49"
     },
     {
       "name": "Reliability",
-      "count": "183"
+      "count": "190"
     },
     {
       "name": "Value for money",
-      "count": "178"
+      "count": "181"
     }
   ],
   "reviews": [
@@ -45,12 +45,12 @@
       "body": "The best working and best looking water purifier. App is perfect too.. Water flow is top notch. Easy setup and fast refilling too. Very happy with the unit."
     },
     {
-      "author": "Good",
-      "rating": 1.0,
-      "title": "Please don't buy this water purifier",
-      "date": "2026-07-16",
-      "date_label": "16 July 2026",
-      "body": "I purchased an Atomberg INTELLON Water Purifier on 09.06.2026 through AMAZON, which was delivered on 12.06.2026 and installed thereafter. To my disappointment, the water purifier functioned only for a few days before becoming completely non-functional. The unit is not receiving power and is unusable. I immediately reported the issue, and case was registered. Although a technician visited my residence, he was unable to diagnose or rectify the fault. The case has now been reassigned to another technician, and I continue to wait without any resolution. It is unacceptable that a brand-new applianc"
+      "author": "Sharada Rawal",
+      "rating": 5.0,
+      "title": "Adaptive feature",
+      "date": "2026-07-29",
+      "date_label": "29 July 2026",
+      "body": "Quick installation and Good product and features explanation using atomberg app"
     },
     {
       "author": "Gaurav Atravalkar",

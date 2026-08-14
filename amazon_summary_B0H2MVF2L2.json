@@ -1,13 +1,13 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find the door lock to be of premium quality, with one noting it's one of the best available in the market. They appreciate its functionality, with one customer mentioning it works even in complete darkness, and its appearance, with one noting there's no ugly handle sticking out. The build quality receives positive feedback, with customers describing it as excellent hardware. Opinions on value for money are mixed.",
+  "scraped": "2026-08-14",
+  "customers_say": "Customers find the door lock to be a great product with premium build quality and a clean appearance. The functionality receives positive feedback, with one customer noting it works even in complete darkness. The value for money receives mixed reviews.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "14"
+      "count": "16"
     },
     {
-      "name": "Functionality",
+      "name": "Build quality",
       "count": "7"
     },
     {
@@ -15,7 +15,7 @@
       "count": "6"
     },
     {
-      "name": "Build quality",
+      "name": "Functionality",
       "count": "6"
     },
     {
@@ -24,6 +24,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Lohith N",
+      "rating": 5.0,
+      "title": "Free from keys!",
+      "date": "2026-08-06",
+      "date_label": "6 August 2026",
+      "body": "Delivery was prompt. Installation took time and was dusty but was done neatly. Have been using it from >15 days and I would say it's made my life easy one (key less) at a time! Pros: No need to carry keys, no need to ask someone at home to lock the door when going out as it automatically locks. Camera unlocks even if it's dark. Battery is at 70% even after >15 days. Good job UC. Product price is at a higher end but worth. Cons: Mine was a heavy Honne wood door and sometimes the door gets stuck (mostly due to weather changes) instead of opening but it's the door and not the lock."
+    },
     {
       "author": "pratik raj",
       "rating": 5.0,
@@ -47,14 +55,6 @@
       "date": "2026-07-18",
       "date_label": "18 July 2026",
       "body": "Product quality is good but when u open key slot it feels cheap...could have been better for that value also dont expect anything from uc coustomer support...even after first lock got delayed and then their technician haven't visited to install it after so many appointments and i dident even find their coustomer care no. Just ticket is raised..but that to ai chat bot ans it...after spending so much money lock is jst lying in some corner lets see what happen will update if anything changes.....update finally person arrived after all the call lock was intalled with proper fitt and its working gr"
-    },
-    {
-      "author": "Deepak S.",
-      "rating": 2.0,
-      "title": "Great Lock. Locked Behind Poor Service.",
-      "date": "2026-07-17",
-      "date_label": "17 July 2026",
-      "body": "The lock is smart. The installation process... not so much. The lock itself deserves applause. It looks premium, feels sturdy, and performs exactly as you'd expect from a product in this price range. Face unlock is quick, operation is smooth, and the overall build quality is impressive. No complaints about the hardware. Unfortunately, buying a smart lock also means buying the installation experience—and that's where things went downhill. I live in Bengaluru, the product was delivered on 11 July, but installation happened only on 18 July after days of chats, multiple phone calls, repeated follo"
     },
     {
       "author": "priya",

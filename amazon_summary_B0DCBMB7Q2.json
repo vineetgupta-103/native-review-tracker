@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door. Moreover, the lock works as expected with all notifications functioning properly, and customers appreciate its user-friendly app and multiple unlocking options. Additionally, they value its security features, with one customer noting it sets a new standard for modern home safety. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
+  "scraped": "2026-08-14",
+  "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door. Moreover, the lock works as expected, is user-friendly, and comes with multiple unlocking options. They appreciate its security features, with one customer noting it sets a new standard for modern home safety, and consider it a handy addition to smart home setups. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "199"
+      "count": "189"
     },
     {
       "name": "Installation",
@@ -12,11 +12,11 @@
     },
     {
       "name": "Functionality",
-      "count": "68"
+      "count": "67"
     },
     {
       "name": "Ease of use",
-      "count": "41"
+      "count": "40"
     },
     {
       "name": "Features",
@@ -37,28 +37,28 @@
   ],
   "reviews": [
     {
+      "author": "Leo",
+      "rating": 5.0,
+      "title": "Installation mygate",
+      "date": "2026-08-11",
+      "date_label": "11 August 2026",
+      "body": "Good product, easy installation"
+    },
+    {
+      "author": "Pradeep K",
+      "rating": 5.0,
+      "title": "Smart lock plus",
+      "date": "2026-08-11",
+      "date_label": "11 August 2026",
+      "body": "Brief content visible, double tap to read full content.Full content visible, double tap to read brief content. Read moreRead less"
+    },
+    {
       "author": "Abyisheik",
       "rating": 1.0,
       "title": "Installation was great.",
       "date": "2026-06-25",
       "date_label": "25 June 2026",
       "body": "I bought the MyGate Smart Lock Plus primarily because of its scheduled Passage Mode, expecting the door to automatically remain unlocked during specific hours so my domestic staff could enter without requiring access credentials. Unfortunately, that's not how it works. Although the app allows you to schedule Passage Mode and even shows that the mode has started, the lock does not actually enter Passage Mode automatically. It requires someone to physically unlock the door using a registered fingerprint, PIN, or another authorized access method after the scheduled start time before Passage Mode "
-    },
-    {
-      "author": "Nitish",
-      "rating": 5.0,
-      "title": "Overall function, high price though",
-      "date": "2026-06-08",
-      "date_label": "8 June 2026",
-      "body": "Would say functionality wise no complaints though i really wanted a video one in this price"
-    },
-    {
-      "author": "Ash",
-      "rating": 5.0,
-      "title": "Very handy and useful",
-      "date": "2026-05-26",
-      "date_label": "26 May 2026",
-      "body": "This has given me ease of life.. since making multiple keys for family members is challenging.. especially children"
     },
     {
       "author": "Dileep Viswanathan",

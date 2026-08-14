@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, installation process, and ease of use. The water quality receives positive reviews, with one customer noting a substantial improvement in filtration quality. However, durability is a concern, with multiple customers reporting damage to filters within 6 months of use. Additionally, reliability and value for money receive mixed reviews, with some finding it excellent while others say it's not worth the investment.",
+  "scraped": "2026-08-14",
+  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, installation process, and ease of use. The water quality receives positive reviews, and customers like the ability to adjust the flavor. However, durability is a concern as multiple customers report filters breaking within 6 months of use. Moreover, reliability and value for money receive mixed reviews, with some customers reporting the product stops working and considering it overpriced.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "511"
+      "count": "499"
     },
     {
       "name": "Water taste",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Ease of use",
-      "count": "139"
+      "count": "140"
     },
     {
       "name": "Water quality",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Value for money",
-      "count": "636"
+      "count": "635"
     },
     {
       "name": "Reliability",
-      "count": "550"
+      "count": "549"
     },
     {
       "name": "Durability",
@@ -69,12 +69,12 @@
       "body": "The product and service quality was good. Really appreciate it."
     },
     {
-      "author": "Anu",
-      "rating": 1.0,
-      "title": "Defective Unit! Broke down 5 times in 6 months. Terrible Service.",
-      "date": "2026-07-27",
-      "date_label": "27 July 2026",
-      "body": "Do not buy this product. I purchased the Kent Supreme less than a year ago, and it has already failed 5times in the first 6 months. Major components like the SMPS and Carbon Filter have already been replaced. ​Now, the machine is dispensing foul, bad-smelling water. The service team is completely uncoordinated—one day support tells me to pay ₹500 for a Post-Carbon filter, and the next day a technician visits and says the UV membrane is broken which is cost min 1100. The technician didn't even bring the spare part and it will takes 10 days. ​Since the unit keeps breaking down, it is clearly a d"
+      "author": "vlpm chandra sekhar",
+      "rating": 5.0,
+      "title": "Kent Supreme plus Alkaline + copper RO purifier review",
+      "date": "2026-07-24",
+      "date_label": "24 July 2026",
+      "body": "Everything is as expected and perfect. Also service installation is also good. Thank you VR agencies."
     }
   ]
 }

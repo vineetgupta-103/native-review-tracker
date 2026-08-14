@@ -1,11 +1,7 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find the smart door lock to be a premium product with solid build quality, great looks, and smooth installation process. They appreciate its ease of use, with one customer noting it has four different ways to open it, and its bundle of features, including fingerprint and passcode entry options. The functionality receives mixed feedback - while many say it works well, some report issues with the front lock not working and the fingerprint scanner stopping unexpectedly. The value for money also gets mixed reviews, with some finding it excellent while others think twice about purchasing it.",
+  "scraped": "2026-08-14",
+  "customers_say": "Customers find the door lock convenient and handy, with solid build quality and great looks. The installation process is smoothly done, and they appreciate its bundle of features, with one customer highlighting its fingerprint and passcode entry options. However, the functionality receives mixed feedback, with some reporting issues with the front lock not working. Moreover, connectivity is a concern, with multiple customers reporting no wifi connectivity. Value for money also gets mixed reviews, with some finding it excellent while others think twice before buying.",
   "aspects": [
-    {
-      "name": "Quality",
-      "count": "75"
-    },
     {
       "name": "Appearance",
       "count": "24"
@@ -19,12 +15,12 @@
       "count": "14"
     },
     {
-      "name": "Ease of use",
+      "name": "Features",
       "count": "14"
     },
     {
-      "name": "Features",
-      "count": "14"
+      "name": "Convenience",
+      "count": "8"
     },
     {
       "name": "Functionality",
@@ -33,6 +29,10 @@
     {
       "name": "Value for money",
       "count": "21"
+    },
+    {
+      "name": "Connectivity",
+      "count": "11"
     }
   ],
   "reviews": [

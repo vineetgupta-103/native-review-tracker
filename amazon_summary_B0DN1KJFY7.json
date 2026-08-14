@@ -1,22 +1,14 @@
 {
-  "scraped": "2026-08-12",
-  "customers_say": "Customers find the water purifier excellent in quality and performance, with quick and perfect installation, and appreciate its elegant appearance. The water tastes good, and they consider it a great choice for daily home use. While some customers find it good value for money, others say it's not worth the price. The service receives mixed reviews, with some praising the customer support while others report terrible service.",
+  "scraped": "2026-08-14",
+  "customers_say": "Customers find the water purifier reliable, with quick and perfect installation, and appreciate its elegant appearance and strong purification technology that delivers clean, safe drinking water consistently. Moreover, they consider it a great choice for daily use, particularly for small families. However, opinions about value for money are mixed, with some finding it good for its price while others say it's not worth the cost. Additionally, service experiences are mixed, with some praising the customer support while others report terrible service.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "1.3K"
-    },
-    {
-      "name": "Performance",
-      "count": "285"
+      "name": "Reliability",
+      "count": "314"
     },
     {
       "name": "Installation",
-      "count": "172"
-    },
-    {
-      "name": "Water taste",
-      "count": "104"
+      "count": "162"
     },
     {
       "name": "Appearance",
@@ -24,15 +16,23 @@
     },
     {
       "name": "Functionality",
-      "count": "52"
+      "count": "51"
+    },
+    {
+      "name": "Water quality",
+      "count": "46"
     },
     {
       "name": "Value for money",
-      "count": "265"
+      "count": "266"
     },
     {
       "name": "Service",
       "count": "46"
+    },
+    {
+      "name": "Customer experience",
+      "count": "44"
     }
   ],
   "reviews": [
