@@ -1,11 +1,7 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find the digital lock to be of good quality, easy to use, and appreciate its safety features, with one customer noting it works well on wooden doors. The installation and service receive positive feedback, and customers consider it feature-rich, with one mentioning it offers multiple access options. While some customers find it good value for money, opinions about reliability are mixed.",
+  "scraped": "2026-08-15",
+  "customers_say": "Customers find the digital lock easy to use and appreciate its premium appearance and safety features. Moreover, the installation and service receive positive feedback, with one customer noting it works well on wooden doors. However, the value for money and reliability aspects receive mixed reviews.",
   "aspects": [
-    {
-      "name": "Quality",
-      "count": "99"
-    },
     {
       "name": "Installation",
       "count": "28"
@@ -15,34 +11,46 @@
       "count": "13"
     },
     {
-      "name": "Features",
+      "name": "Ease of use",
       "count": "11"
     },
     {
-      "name": "Ease of use",
-      "count": "10"
+      "name": "Features",
+      "count": "11"
     },
     {
       "name": "Security",
       "count": "10"
     },
     {
+      "name": "Appearance",
+      "count": "7"
+    },
+    {
       "name": "Value for money",
-      "count": "15"
+      "count": "16"
     },
     {
       "name": "Reliability",
-      "count": "13"
+      "count": "15"
     }
   ],
   "reviews": [
     {
-      "author": "Ankur rai",
+      "author": "Aashmit",
       "rating": 5.0,
-      "title": "Good",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "Good product and technical visit is good and great job done Thanks Godrej service"
+      "title": "Lock",
+      "date": "2026-08-11",
+      "date_label": "11 August 2026",
+      "body": "RamAvtar Jangid has done a perfect job & Godrej lock is undoubtedly lock. Go for it"
+    },
+    {
+      "author": "vaibhav pandey",
+      "rating": 5.0,
+      "title": "Service",
+      "date": "2026-08-05",
+      "date_label": "5 August 2026",
+      "body": "Great product with excellent quality. The service was exceptionally quick, and the technician was highly knowledgeable, patient, and explained everything in a clear and easy-to-understand manner. The entire experience was smooth, professional, and hassle-free. Highly recommended for both the product and the outstanding customer service."
     },
     {
       "author": "Venu",
@@ -53,12 +61,12 @@
       "body": "I like it very much and service also very fast . Very happy"
     },
     {
-      "author": "Manotosh",
+      "author": "DEEPAK VEHAL",
       "rating": 5.0,
-      "title": "Quality item with quality service",
-      "date": "2026-07-18",
-      "date_label": "18 July 2026",
-      "body": "Good quality lock. Installed by expert technitian of Godrej."
+      "title": "Great experience",
+      "date": "2026-07-26",
+      "date_label": "26 July 2026",
+      "body": "Great experience with godrej and the installation process was very quick and easy. Technician was very good. Technician Name- Guddu"
     },
     {
       "author": "PSS",
@@ -67,14 +75,6 @@
       "date": "2026-06-28",
       "date_label": "28 June 2026",
       "body": "Technician could not configure WIfi with the digital lock。 He is not experienced。 also does not have time to configure He put the blame on internet provider and went off。 For such a expensive lock, the technicians should be properly trained not only carpentry work but also ensures proper software and complete configuration. Very disappointing. Options are available for Rs 10K onwards, but preferred Godrej for their service, and reputation。"
-    },
-    {
-      "author": "Anusha murari",
-      "rating": 5.0,
-      "title": "Excellent",
-      "date": "2026-06-15",
-      "date_label": "15 June 2026",
-      "body": "Installation was down Mr Ravindra chary shown every thing and easily to acess explained clerely"
     }
   ]
 }

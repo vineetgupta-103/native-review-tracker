@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find the smart lock to be of good quality and worth its price, with straightforward installation and reliable performance. They appreciate its comprehensive features and ease of use, and one customer specifically mentions the anti-pry/tamper alarm as an added security feature. Customers like its appearance, with one noting it looks good on the door.",
+  "scraped": "2026-08-15",
+  "customers_say": "Customers find the smart door lock to be of good quality and worth its price, with straightforward installation and reliable performance. They appreciate its ease of use, with one customer noting the fingerprint unlock is near-instant, and its comprehensive features that include multiple keyless options. Customers value its security features, with one mentioning the anti-pry/tamper alarm, and they like its stylish appearance.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "119"
+      "count": "125"
     },
     {
       "name": "Value for money",
-      "count": "33"
+      "count": "35"
     },
     {
       "name": "Installation",
@@ -16,11 +16,11 @@
     },
     {
       "name": "Reliability",
-      "count": "26"
+      "count": "30"
     },
     {
       "name": "Ease of use",
-      "count": "23"
+      "count": "26"
     },
     {
       "name": "Features",
@@ -28,21 +28,29 @@
     },
     {
       "name": "Security",
-      "count": "17"
+      "count": "18"
     },
     {
       "name": "Appearance",
-      "count": "12"
+      "count": "14"
     }
   ],
   "reviews": [
     {
-      "author": "Vadehra Priyanka",
+      "author": "Mounika",
       "rating": 5.0,
-      "title": "Excellent product and great service",
+      "title": "Very good product and worth every penny.",
       "date": "2026-08-12",
       "date_label": "12 August 2026",
-      "body": "I’m very happy with my experience with the Lavna Smart Door Lock. The lock looks sleek, feels secure, and works smoothly. The installation process was quick and hassle-free. A special mention to Lucky, the technician, who was extremely professional, polite, and knowledgeable. He explained everything clearly, installed the lock perfectly, and made sure all the features were working properly before leaving. Overall, excellent product and excellent service. Highly recommended! ⭐⭐⭐⭐⭐"
+      "body": "The product is very good, it works with multiple keyless options like fingerprint, numeric lock, we can lock and unlock from mobile app also. We charged the battery almost 6-7 months back but still it is working with out any issue. Worth the amount."
+    },
+    {
+      "author": "T",
+      "rating": 5.0,
+      "title": "Safe and convenient",
+      "date": "2026-08-06",
+      "date_label": "6 August 2026",
+      "body": "Good lock, good quality, highly useful and convenient. Had some concern with lock's functionality, Jatin helped me with it. The customer service is splendid. This one is my 3rd lock from Lavna. Just go for it."
     },
     {
       "author": "vijit mahana",
@@ -67,14 +75,6 @@
       "date": "2026-07-18",
       "date_label": "18 July 2026",
       "body": "Been using the LAVNA smart lock on my main wooden door for a while now. Installation was straightforward and the fingerprint sensor is genuinely fast and accurate. Having the built-in camera plus RFID card, PIN, and manual key backup means I’m never locked out even if the battery dies or the app acts up. What I like: • Fingerprint unlock is near-instant • App notifications when someone unlocks the door — good peace of mind • Anti-pry/tamper alarm adds real security • Manual key backup as a fail-safe What could improve: • App settings menu isn’t very intuitive — took some digging to find and ad"
-    },
-    {
-      "author": "Aditya Parulkar",
-      "rating": 5.0,
-      "title": "Great product! Value for money",
-      "date": "2026-05-08",
-      "date_label": "8 May 2026",
-      "body": "Loving the product! It is very stylish, sleek and has great functions. Installation was set up very efficiently and done very smoothly. Tejeshwar Maharana is very knowledgable and skilled. He helped set up the app and explained all the functionality very well."
     }
   ]
 }

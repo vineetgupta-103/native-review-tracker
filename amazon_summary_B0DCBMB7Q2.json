@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-08-14",
+  "scraped": "2026-08-15",
   "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door. Moreover, the lock works as expected, is user-friendly, and comes with multiple unlocking options. They appreciate its security features, with one customer noting it sets a new standard for modern home safety, and consider it a handy addition to smart home setups. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "189"
+      "count": "197"
     },
     {
       "name": "Installation",
-      "count": "88"
+      "count": "89"
     },
     {
       "name": "Functionality",
-      "count": "67"
+      "count": "68"
     },
     {
       "name": "Ease of use",
@@ -61,20 +61,20 @@
       "body": "I bought the MyGate Smart Lock Plus primarily because of its scheduled Passage Mode, expecting the door to automatically remain unlocked during specific hours so my domestic staff could enter without requiring access credentials. Unfortunately, that's not how it works. Although the app allows you to schedule Passage Mode and even shows that the mode has started, the lock does not actually enter Passage Mode automatically. It requires someone to physically unlock the door using a registered fingerprint, PIN, or another authorized access method after the scheduled start time before Passage Mode "
     },
     {
-      "author": "Dileep Viswanathan",
-      "rating": 4.0,
-      "title": "No Installation support in Kerala.",
-      "date": "2026-05-02",
-      "date_label": "2 May 2026",
-      "body": "No installation support in Kerala. But the product is good. I had to struggle a lot and got it installed myself."
+      "author": "Nitish",
+      "rating": 5.0,
+      "title": "Overall function, high price though",
+      "date": "2026-06-08",
+      "date_label": "8 June 2026",
+      "body": "Would say functionality wise no complaints though i really wanted a video one in this price"
     },
     {
-      "author": "Placeholder",
+      "author": "Ash",
       "rating": 5.0,
-      "title": "Good door lock and well installed",
-      "date": "2026-02-17",
-      "date_label": "17 February 2026",
-      "body": "Super work .. Skilled professional... Super fast... Very satisfied.."
+      "title": "Very handy and useful",
+      "date": "2026-05-26",
+      "date_label": "26 May 2026",
+      "body": "This has given me ease of life.. since making multiple keys for family members is challenging.. especially children"
     }
   ]
 }

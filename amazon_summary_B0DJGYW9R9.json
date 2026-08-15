@@ -1,41 +1,73 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find the door lock to be of best-in-class quality, with simple installation and reliable performance. They appreciate its security features, including triple deadlocks and multiple authentication methods, while also noting its modern appearance and multiple unlocking options. However, the usability receives negative feedback, with several customers describing their experience as totally pathetic and the app as a waste.",
+  "scraped": "2026-08-15",
+  "customers_say": "Customers find this door lock to be a premium smart lock with triple deadlocks for high security and multiple unlocking options. They appreciate its appearance, adding a modern touch to the door, and find the installation process simple. The functionality receives positive feedback, with one customer highlighting the password masking feature. However, the app experience receives negative feedback, with customers describing it as terrible.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "185"
+      "count": "187"
     },
     {
       "name": "Installation",
-      "count": "57"
+      "count": "59"
     },
     {
       "name": "Reliability",
-      "count": "48"
-    },
-    {
-      "name": "Value for money",
-      "count": "28"
+      "count": "49"
     },
     {
       "name": "Security",
-      "count": "24"
+      "count": "26"
     },
     {
       "name": "Appearance",
+      "count": "21"
+    },
+    {
+      "name": "Functionality",
       "count": "20"
     },
     {
       "name": "Features",
-      "count": "16"
+      "count": "19"
     },
     {
-      "name": "Usability",
-      "count": "16"
+      "name": "App experience",
+      "count": "15"
     }
   ],
   "reviews": [
+    {
+      "author": "Vansh",
+      "rating": 5.0,
+      "title": "Amazing Lock",
+      "date": "2026-08-12",
+      "date_label": "12 August 2026",
+      "body": "The lock is really amazing, looks, built quality, durability and the its heavy duty. I switched from previous old type of normal hand locks which gets loose after few months of usage then after watching so many locks and their reviews i come up with Native Lock pro, the lock delivered next day and the lock is really good. Installation was also quite fast he took the old lock and fitted the new lock. All features are really useful but bell link technology is next level, its very fast and shows notifications in just few seconds with pictures of the person who rang the bell. Overall im glad to bu"
+    },
+    {
+      "author": "Arya Prakash",
+      "rating": 5.0,
+      "title": "Good solid lock",
+      "date": "2026-08-12",
+      "date_label": "12 August 2026",
+      "body": "Installation process was smooth and the technician explained all features in detail. The lock seems good, 1 week after installation. The fingerprint sensor is sensitive and works fine. The doorbell feature makes urban lockpro stand out as compared to other locks."
+    },
+    {
+      "author": "yash shah",
+      "rating": 5.0,
+      "title": "very good 😊",
+      "date": "2026-08-11",
+      "date_label": "11 August 2026",
+      "body": "It is very satisfying lock"
+    },
+    {
+      "author": "Leeroy",
+      "rating": 5.0,
+      "title": "One of the best Smart door lock",
+      "date": "2026-08-10",
+      "date_label": "10 August 2026",
+      "body": "Very easy to use and all the features are amazing. The technician was also very knowledgeable and professional. If you are looking for a smart lock with good security this is the best."
+    },
     {
       "author": "Roberto",
       "rating": 1.0,
@@ -43,38 +75,6 @@
       "date": "2026-07-22",
       "date_label": "22 July 2026",
       "body": "Does not work as expected , no support"
-    },
-    {
-      "author": "Komal Bakshi",
-      "rating": 5.0,
-      "title": "Good Product",
-      "date": "2026-07-21",
-      "date_label": "21 July 2026",
-      "body": "Very nice product"
-    },
-    {
-      "author": "Placeholder",
-      "rating": 5.0,
-      "title": "Best digital lock with in a reasonable price",
-      "date": "2026-07-20",
-      "date_label": "20 July 2026",
-      "body": "The quality of the digital lock is excellent. The price is also reasonable when compared to other products in the market. Three years of warranty is additional advantage."
-    },
-    {
-      "author": "Sasha",
-      "rating": 5.0,
-      "title": "Very good buy -- value for money and user friendly",
-      "date": "2026-07-13",
-      "date_label": "13 July 2026",
-      "body": "Excellent product with good customer support. The technician did the installation neatly and cleaned up the place afterward. He explained the product and it's features clearly. It saves a lot of hassle of searching for keys and is also extremely good from a safety point of view. One suggestion would be to add face recognition as a feature."
-    },
-    {
-      "author": "Nikhil Bhagat",
-      "rating": 5.0,
-      "title": "Smooth installation, works perfectly.",
-      "date": "2026-07-12",
-      "date_label": "12 July 2026",
-      "body": "Smooth installation, working perfectly just like advertised. Aruj ji was very helpful during the entire process."
     }
   ]
 }

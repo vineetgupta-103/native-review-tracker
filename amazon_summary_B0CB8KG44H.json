@@ -1,80 +1,80 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, installation process, and ease of use. The water quality receives positive reviews, and customers like the ability to adjust the flavor. However, durability is a concern as multiple customers report filters breaking within 6 months of use. Moreover, reliability and value for money receive mixed reviews, with some customers reporting the product stops working and considering it overpriced.",
+  "scraped": "2026-08-15",
+  "customers_say": "Customers find the water purifier easy to use and appreciate its taste, with one mentioning the ability to adjust it. The installation process is quick, and the water quality is good, with one customer noting a substantial improvement in filtration. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "2.7K"
-    },
-    {
       "name": "Installation",
-      "count": "499"
+      "count": "503"
     },
     {
       "name": "Water taste",
-      "count": "203"
+      "count": "204"
     },
     {
       "name": "Ease of use",
-      "count": "140"
+      "count": "141"
     },
     {
       "name": "Water quality",
-      "count": "136"
+      "count": "138"
     },
     {
       "name": "Value for money",
-      "count": "635"
+      "count": "644"
     },
     {
       "name": "Reliability",
-      "count": "549"
+      "count": "556"
     },
     {
       "name": "Durability",
-      "count": "137"
+      "count": "138"
+    },
+    {
+      "name": "Leakage",
+      "count": "105"
     }
   ],
   "reviews": [
     {
-      "author": "Gajanan Chandurkar",
-      "rating": 4.0,
-      "title": "Quality",
-      "date": "2026-08-01",
-      "date_label": "1 August 2026",
-      "body": "Good"
-    },
-    {
-      "author": "D k saraschandrika",
+      "author": "Jaswanth Talla",
       "rating": 5.0,
-      "title": "👍",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "Quality. Good product. Easy and fast installation. Quick repond Technician. Thank you KENT."
+      "title": "Worth for money",
+      "date": "2026-08-12",
+      "date_label": "12 August 2026",
+      "body": "Nice product and good installation"
     },
     {
-      "author": "Anitha",
+      "author": "Rinti Baruah.",
+      "rating": 5.0,
+      "title": "Prompt delivery and installation.",
+      "date": "2026-08-11",
+      "date_label": "11 August 2026",
+      "body": "I received the product in good condition and with excellent packaging. The installation was completed the next day, and I am very satisfied with the service."
+    },
+    {
+      "author": "Sudhakar",
       "rating": 4.0,
       "title": "Good",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
+      "date": "2026-08-09",
+      "date_label": "9 August 2026",
       "body": "Good"
     },
     {
-      "author": "Avirup D.",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-07-29",
-      "date_label": "29 July 2026",
-      "body": "The product and service quality was good. Really appreciate it."
+      "author": "Sheela",
+      "rating": 4.0,
+      "title": "Good",
+      "date": "2026-08-08",
+      "date_label": "8 August 2026",
+      "body": "Good"
     },
     {
-      "author": "vlpm chandra sekhar",
+      "author": "CHANDU",
       "rating": 5.0,
-      "title": "Kent Supreme plus Alkaline + copper RO purifier review",
-      "date": "2026-07-24",
-      "date_label": "24 July 2026",
-      "body": "Everything is as expected and perfect. Also service installation is also good. Thank you VR agencies."
+      "title": "Very Happy with My KENT Purifier",
+      "date": "2026-08-07",
+      "date_label": "7 August 2026",
+      "body": "I am very satisfied with my KENT water purifier. The water quality is excellent, and the purifier works efficiently. The design is also good and easy to use. Overall, it is a reliable product and offers good value for money. Highly recommended!"
     }
   ]
 }

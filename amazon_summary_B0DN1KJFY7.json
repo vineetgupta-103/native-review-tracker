@@ -1,18 +1,22 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find the water purifier reliable, with quick and perfect installation, and appreciate its elegant appearance and strong purification technology that delivers clean, safe drinking water consistently. Moreover, they consider it a great choice for daily use, particularly for small families. However, opinions about value for money are mixed, with some finding it good for its price while others say it's not worth the cost. Additionally, service experiences are mixed, with some praising the customer support while others report terrible service.",
+  "scraped": "2026-08-15",
+  "customers_say": "Customers find the water purifier excellent in quality and functionality, delivering clean, safe drinking water consistently and serving small families well. The installation process is quick and perfect, and they appreciate its elegant appearance. While some customers consider it good value for money, others say it's not worth the price. The service receives mixed reviews, with some praising the customer support while others report terrible service.",
   "aspects": [
     {
+      "name": "Quality",
+      "count": "1.3K"
+    },
+    {
       "name": "Reliability",
-      "count": "314"
+      "count": "317"
     },
     {
       "name": "Installation",
-      "count": "162"
+      "count": "163"
     },
     {
       "name": "Appearance",
-      "count": "70"
+      "count": "72"
     },
     {
       "name": "Functionality",
@@ -20,19 +24,15 @@
     },
     {
       "name": "Water quality",
-      "count": "46"
+      "count": "47"
     },
     {
       "name": "Value for money",
-      "count": "266"
+      "count": "268"
     },
     {
       "name": "Service",
       "count": "46"
-    },
-    {
-      "name": "Customer experience",
-      "count": "44"
     }
   ],
   "reviews": [
@@ -43,14 +43,6 @@
       "date": "2026-08-02",
       "date_label": "2 August 2026",
       "body": "I have got a very nice deal in Aquaguard Ritz Pro Filter. Service was prompt. The machine is functioning very nicely. Water quality is very clean."
-    },
-    {
-      "author": "Uppala venkatesh",
-      "rating": 5.0,
-      "title": "Excellent performance and complete peace of mind",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "​\"I recently purchased the Aquaguard 2X (UV+UF) water purifier, and I am very pleased with my experience so far. The water taste is noticeably clean and fresh, and the advanced filtration system offers great peace of mind regarding safety. The installation process was prompt and handled professionally by the technician. The unit has a sleek design that fits nicely in the kitchen, and the extended filter life adds great value.. 1.Complete Microbial Disinfection UV Light Technology: Exposes water to ultraviolet rays that destroy the DNA of harmful bacteria, viruses, and parasites (like E. coli, "
     },
     {
       "author": "Reshma",
@@ -75,6 +67,14 @@
       "date": "2026-07-27",
       "date_label": "27 July 2026",
       "body": "It has only been a few days, and the product looks very promising. The installation team also did a great job. We had a slightly unconventional setup: the RO unit was placed in our wash area, and we connected the purified water outlet to a spout in the kitchen to dispense the RO water. Initially, the technicians were hesitant because they didn't fully understand how to execute the setup, but they later agreed and finished the installation with a neat and professional finish the next day. I was also able to connect the RO to the internet successfully. The TDS reading displayed in the app differ"
+    },
+    {
+      "author": "Frinto",
+      "rating": 5.0,
+      "title": "MRP of the Bottle Provided",
+      "date": "2026-07-23",
+      "date_label": "23 July 2026",
+      "body": "Just bought the water purifier two weeks before.. till now good.. i would like to comment on the bottle that they give free with an MRP of 2000₹.. I dont think the manufacturing will cost even 1/3rd of the MRP printed.. because the quality of the bottle does not match the MRP printed.."
     }
   ]
 }

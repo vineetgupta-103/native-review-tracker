@@ -1,41 +1,57 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find the water purifier reliable and budget-friendly, appreciating its sleek appearance and good water taste. Moreover, the water quality after purification is amazing, and customers find it easy to use. However, opinions about customer service are mixed, with some praising the brand's support while others report very bad service. Additionally, several customers express regret about their purchase.",
+  "scraped": "2026-08-15",
+  "customers_say": "Customers find the water purifier reliable and appreciate its appearance, with one noting it's suitable for a family of 4 to 5 people. Moreover, the water quality is excellent after purification, and customers like the taste. However, the installation process is quick, and while the brand offers good service support, some report extremely bad customer care. Additionally, durability is a concern, with multiple customers reporting that the RO membrane fails within 6 months of use.",
   "aspects": [
     {
-      "name": "Performance",
-      "count": "806"
+      "name": "Functionality",
+      "count": "824"
     },
     {
-      "name": "Value for money",
-      "count": "772"
+      "name": "Installation",
+      "count": "521"
     },
     {
       "name": "Appearance",
-      "count": "270"
+      "count": "306"
     },
     {
       "name": "Water taste",
-      "count": "238"
+      "count": "243"
     },
     {
       "name": "Water quality",
-      "count": "230"
-    },
-    {
-      "name": "Ease of use",
-      "count": "130"
+      "count": "228"
     },
     {
       "name": "Service",
-      "count": "133"
+      "count": "135"
     },
     {
-      "name": "Purchase",
-      "count": "125"
+      "name": "Customer experience",
+      "count": "116"
+    },
+    {
+      "name": "Durability",
+      "count": "112"
     }
   ],
   "reviews": [
+    {
+      "author": "DINAKARAN",
+      "rating": 4.0,
+      "title": "Smart",
+      "date": "2026-08-06",
+      "date_label": "6 August 2026",
+      "body": "Water purifier looks good and works well at present"
+    },
+    {
+      "author": "Jitesh Hemji",
+      "rating": 4.0,
+      "title": "Review",
+      "date": "2026-08-05",
+      "date_label": "5 August 2026",
+      "body": "Installation is Nice, a little issue with water taste"
+    },
     {
       "author": "smita",
       "rating": 3.0,
@@ -45,36 +61,20 @@
       "body": "The water purifier itself is excellent and has been working perfectly. However, the installation experience was very disappointing. The installation engineer strongly pushed me to purchase a TDS controller and a water pressure control device, even after I clearly informed him that my home receives PMC water. I felt pressured into buying these additional accessories. After testing, my water’s TDS level was found to be just 7, clearly indicating that the TDS controller was unnecessary. It seems these recommendations were driven more by upselling than by the actual water quality and customer need"
     },
     {
+      "author": "Sonu Kumar",
+      "rating": 4.0,
+      "title": "Good RO, But Needs Some Improvements",
+      "date": "2026-07-31",
+      "date_label": "31 July 2026",
+      "body": "Product quality और water purification अच्छा है। Installation भी समय पर हो गया था। Water taste भी अच्छा है। लेकिन कुछ बातें बेहतर हो सकती थीं: Company ने 5 L storage बताया है, जबकि usable water लगभग 4–4.5 L ही मिलता है। Tap (water outlet) का flow थोड़ा slow है क्योंकि outlet hole छोटा है। TDS Adjuster/Controller product के साथ included नहीं मिलता। अगर यह दिया जाता तो users अपनी जरूरत के अनुसार TDS आसानी से adjust कर सकते। Technician/engineer high price में TDS controller sell करते हैं। Overall product अच्छा है, लेकिन इन improvements के साथ और बेहतर हो सकता है !"
+    },
+    {
       "author": "kiran kumar",
       "rating": 4.0,
       "title": "Good product but bad customer service.",
       "date": "2026-07-30",
       "date_label": "30 July 2026",
       "body": "The product is good. The customer service isn’t so great though. He wouldn’t show up when he promised that he would. So, please be prepared. He wouldn’t show try to upsell you stuff saying I would need a valve for water pressure or that the TDS is higher than expected etc. when you buy the add on he offers, he wouldn’t give any receipt. Other than the customer experience, the product is good. I tested the TDS before and after installation and the water purifier is working as desired. Before installation the TDS was 404(bore well water) and after installation it is 53. So I am quite satisfied w"
-    },
-    {
-      "author": "#leela nagisetty",
-      "rating": 4.0,
-      "title": "Staisfied",
-      "date": "2026-07-29",
-      "date_label": "29 July 2026",
-      "body": "I've been using the Aquaguard Delight Aquasaver RO+UV+UF+MC water purifier, and overall I'm very satisfied with its performance. The water tastes clean and fresh, and the stainless steel storage tank is a great feature since it feels more hygienic than a plastic tank. The purifier is compact, works quietly, and the purification process is efficient. Installation was straightforward, and the long advertised filter life is an added advantage that may help reduce maintenance costs. Overall, it's a reliable water purifier with good features, and I'd recommend it to anyone looking for a quality RO+"
-    },
-    {
-      "author": "Mohammad Ahmad",
-      "rating": 4.0,
-      "title": "Aquaguard",
-      "date": "2026-07-28",
-      "date_label": "28 July 2026",
-      "body": "Great water purifier overall! The purification works well and the water tastes clean and fresh. Docking one star only because scheduling the installation took a bit longer than expected, but the technician was helpful once here. Solid purchase."
-    },
-    {
-      "author": "Vishnu Raj",
-      "rating": 4.0,
-      "title": "Excellent Product, Poor Installation Partner Support",
-      "date": "2026-07-23",
-      "date_label": "23 July 2026",
-      "body": "The product itself is excellent and offers great value for money. The build quality is good, it works perfectly, and I'm very satisfied with the purchase. However, my experience with the installation partner was disappointing. It's been 13 days since the product was delivered, and I didn't receive any response or installation appointment from the assigned installation partner despite waiting. Eventually, I contacted my local Eureka Forbes service centre directly, and they arranged the installation free of charge. So, I'd definitely give 5 stars for the product, but a poor rating for the instal"
     }
   ]
 }
