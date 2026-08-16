@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-08-15",
+  "scraped": "2026-08-16",
   "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and user-friendly app interface. They appreciate its adjustable TDS levels, good taste without metallic or chemical aftertaste, and excellent installation process. The value for money receives mixed reviews, with some finding the filter prices reasonable while others express regret about their purchase.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "822"
+      "count": "827"
     },
     {
       "name": "Installation",
-      "count": "211"
+      "count": "212"
     },
     {
       "name": "Design",
@@ -23,16 +23,16 @@
       "count": "64"
     },
     {
+      "name": "Ease of use",
+      "count": "62"
+    },
+    {
       "name": "Adjustability",
       "count": "61"
     },
     {
-      "name": "Ease of use",
-      "count": "61"
-    },
-    {
       "name": "Value for money",
-      "count": "193"
+      "count": "198"
     }
   ],
   "reviews": [

@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-08-15",
+  "scraped": "2026-08-16",
   "customers_say": "Customers find the water purifier easy to use and appreciate its taste, with one mentioning the ability to adjust it. The installation process is quick, and the water quality is good, with one customer noting a substantial improvement in filtration. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "503"
+      "count": "504"
     },
     {
       "name": "Water taste",
-      "count": "204"
+      "count": "206"
     },
     {
       "name": "Ease of use",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Reliability",
-      "count": "556"
+      "count": "557"
     },
     {
       "name": "Durability",
@@ -37,20 +37,20 @@
   ],
   "reviews": [
     {
+      "author": "Nilabja",
+      "rating": 5.0,
+      "title": "Overall good experience so far no issues",
+      "date": "2026-08-13",
+      "date_label": "13 August 2026",
+      "body": "Got delivered within 2 days and installed very next day. Till now no problem. Water taste is good"
+    },
+    {
       "author": "Jaswanth Talla",
       "rating": 5.0,
       "title": "Worth for money",
       "date": "2026-08-12",
       "date_label": "12 August 2026",
       "body": "Nice product and good installation"
-    },
-    {
-      "author": "Rinti Baruah.",
-      "rating": 5.0,
-      "title": "Prompt delivery and installation.",
-      "date": "2026-08-11",
-      "date_label": "11 August 2026",
-      "body": "I received the product in good condition and with excellent packaging. The installation was completed the next day, and I am very satisfied with the service."
     },
     {
       "author": "Sudhakar",

@@ -1,7 +1,11 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find the lock easy to install and use, with good functionality and appearance. They appreciate its value for money and customer service, and one customer mentions it makes home security management easier.",
+  "scraped": "2026-08-16",
+  "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation, functionality, and appearance. They appreciate its ease of use and consider it worth the price, while also praising the customer service.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "70"
+    },
     {
       "name": "Installation",
       "count": "28"
@@ -24,10 +28,6 @@
     },
     {
       "name": "Ease of use",
-      "count": "6"
-    },
-    {
-      "name": "Features",
       "count": "6"
     }
   ],

@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-15",
-  "customers_say": "Customers find the smart door lock to be of good quality and worth its price, with straightforward installation and reliable performance. They appreciate its ease of use, with one customer noting the fingerprint unlock is near-instant, and its comprehensive features that include multiple keyless options. Customers value its security features, with one mentioning the anti-pry/tamper alarm, and they like its stylish appearance.",
+  "scraped": "2026-08-16",
+  "customers_say": "Customers find the smart door lock to be of good quality and worth its price, with straightforward installation and ease of use. They appreciate its comprehensive features, with one customer noting its near-instant fingerprint unlock capability, and consider it perfect for security needs, with one review highlighting its anti-pry/tamper alarm. They like its appearance and find it convenient, with one mentioning the camera's usefulness.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "125"
+      "count": "124"
     },
     {
       "name": "Value for money",
@@ -13,10 +13,6 @@
     {
       "name": "Installation",
       "count": "32"
-    },
-    {
-      "name": "Reliability",
-      "count": "30"
     },
     {
       "name": "Ease of use",
@@ -33,6 +29,10 @@
     {
       "name": "Appearance",
       "count": "14"
+    },
+    {
+      "name": "Convenience",
+      "count": "11"
     }
   ],
   "reviews": [

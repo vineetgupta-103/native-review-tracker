@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find this water purifier to be among the best in the market, offering good value with transparent pricing. The installation process is excellent, and the purifier works superbly, with one customer noting it performs well with any type of water. They appreciate its premium appearance, excellent taste, and noticeable improvement in water quality, with one mentioning it makes water completely clear. The service receives positive feedback, with one customer highlighting the technical expertise of the service team.",
+  "scraped": "2026-08-16",
+  "customers_say": "Customers find this water purifier to be among the best in the market, offering excellent value for money with transparent pricing. The installation process receives positive feedback, with one customer noting it's very simple to set up. Moreover, the purifier performs reliably, with one customer mentioning it works well with any type of water, and customers appreciate its premium appearance and sweet-tasting output. Additionally, the water quality is consistently good, with one customer specifically noting improved TDS levels, and the service receives praise for its professional and consumer-friendly approach.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,34 +8,66 @@
     },
     {
       "name": "Value for money",
-      "count": "458"
+      "count": "469"
     },
     {
       "name": "Installation",
-      "count": "323"
+      "count": "327"
     },
     {
       "name": "Reliability",
-      "count": "297"
+      "count": "283"
     },
     {
       "name": "Appearance",
-      "count": "229"
+      "count": "235"
     },
     {
       "name": "Water taste",
-      "count": "204"
+      "count": "205"
     },
     {
       "name": "Water quality",
-      "count": "153"
+      "count": "170"
     },
     {
       "name": "Service",
-      "count": "140"
+      "count": "142"
     }
   ],
   "reviews": [
+    {
+      "author": "SJ",
+      "rating": 5.0,
+      "title": "Peace of mind guaranteed!",
+      "date": "2026-08-12",
+      "date_label": "12 August 2026",
+      "body": "Wonderful product with no other hidden charges, everything is covered! just sit back and relax for 2 years! really surprised by the service promptness in specified time & prompt follow up post delivery & installation felt really good..."
+    },
+    {
+      "author": "Saurabh Singh Aashiya",
+      "rating": 5.0,
+      "title": "Must buy",
+      "date": "2026-08-12",
+      "date_label": "12 August 2026",
+      "body": "Product is awesome"
+    },
+    {
+      "author": "Dada Khalandar",
+      "rating": 5.0,
+      "title": "Impressive TDS reduction and hassle-free ownership!",
+      "date": "2026-08-11",
+      "date_label": "11 August 2026",
+      "body": "Outstanding performance and total value for money! Highly impressed with the Native M1 by Urban Company. Our input water TDS was extremely high at 1190, and this purifier brought it right down to a clean 134. The promised 2-year zero filter change feature makes it an absolute game-changer—no maintenance hassle for two full years. Delicious, clean drinking water. Highly recommended!"
+    },
+    {
+      "author": "Nikhil chore",
+      "rating": 4.0,
+      "title": "Wrost Amazon service",
+      "date": "2026-08-03",
+      "date_label": "3 August 2026",
+      "body": "It's Nice, easy to use, amazon service is wrost"
+    },
     {
       "author": "anand choubey",
       "rating": 5.0,
@@ -43,38 +75,6 @@
       "date": "2026-07-31",
       "date_label": "31 July 2026",
       "body": "It been 2 months using this RO, and it’s working flawlessly. Water taste is clean and tds below 50. Not much to complain except you can’t attach a pipe to the outlet because of its weird shape."
-    },
-    {
-      "author": "Prashant N.",
-      "rating": 5.0,
-      "title": "Recommended. Great water purifier",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "Water quality si absolutely great. Good app UI and adequate information provided in the app. Value for money. Good service."
-    },
-    {
-      "author": "Ranjan Tiwari",
-      "rating": 5.0,
-      "title": "Excellent product",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "Taste of the water is good. The purifier is working excellent . And the fact that we donot need to worry for filter life for 2years is great ."
-    },
-    {
-      "author": "Viraj sharma",
-      "rating": 5.0,
-      "title": "Excellent Product with Professional Installation",
-      "date": "2026-07-26",
-      "date_label": "26 July 2026",
-      "body": "I’m extremely satisfied with this purchase. The product arrived in excellent condition and feels premium in terms of build quality. It offers plenty of useful features, and the water flow is impressive. The installation experience was equally outstanding. The installation technician was highly professional, completed the work quickly, and explained all the product features in detail. Their product knowledge and willingness to answer questions made the entire experience smooth and hassle-free. Overall, an excellent product backed by top-notch installation service. Highly recommended!"
-    },
-    {
-      "author": "Roni",
-      "rating": 5.0,
-      "title": "Packaging should be better .",
-      "date": "2026-07-26",
-      "date_label": "26 July 2026",
-      "body": "I received open box like this picture, I don’t know why . Anyway product is very good & installation staff was excellent. For this brand I will mark as 5 star . But packaging should be better . Anyway thank you UC & Amazon ."
     }
   ]
 }
