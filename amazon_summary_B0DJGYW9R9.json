@@ -1,11 +1,7 @@
 {
-  "scraped": "2026-08-16",
-  "customers_say": "Customers find this door lock to be a premium smart lock with triple deadlocks for high security and multiple unlocking options. They appreciate its appearance, adding a modern touch to the door, and find the installation process simple. The functionality receives positive feedback, with one customer highlighting the password masking feature. However, the app experience receives negative feedback, with customers describing it as terrible.",
+  "scraped": "2026-08-17",
+  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on a wooden door frame, and appreciate its reliable performance and triple deadlocks for high security. They like its appearance, adding a modern touch to the door, and value its multiple unlocking options and professional installation. The app experience receives negative feedback, while opinions about connectivity are mixed.",
   "aspects": [
-    {
-      "name": "Quality",
-      "count": "188"
-    },
     {
       "name": "Installation",
       "count": "59"
@@ -31,11 +27,23 @@
       "count": "19"
     },
     {
+      "name": "Connectivity",
+      "count": "14"
+    },
+    {
       "name": "App experience",
       "count": "15"
     }
   ],
   "reviews": [
+    {
+      "author": "Devarsh Patel",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-08-15",
+      "date_label": "15 August 2026",
+      "body": "Good product"
+    },
     {
       "author": "Vansh",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-08-12",
       "date_label": "12 August 2026",
       "body": "Installation process was smooth and the technician explained all features in detail. The lock seems good, 1 week after installation. The fingerprint sensor is sensitive and works fine. The doorbell feature makes urban lockpro stand out as compared to other locks."
-    },
-    {
-      "author": "yash shah",
-      "rating": 5.0,
-      "title": "very good 😊",
-      "date": "2026-08-11",
-      "date_label": "11 August 2026",
-      "body": "It is very satisfying lock"
     },
     {
       "author": "Leeroy",
