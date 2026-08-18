@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-08-16",
-  "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and user-friendly app interface. They appreciate its adjustable TDS levels, good taste without metallic or chemical aftertaste, and excellent installation process. The value for money receives mixed reviews, with some finding the filter prices reasonable while others express regret about their purchase.",
+  "scraped": "2026-08-18",
+  "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and user-friendly app. They appreciate its adjustable TDS levels, good taste without metallic or chemical aftertaste, and excellent installation process. The product receives positive feedback for its features and ease of use, though opinions about value for money are mixed.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "827"
+      "count": "840"
     },
     {
       "name": "Installation",
-      "count": "212"
+      "count": "216"
     },
     {
       "name": "Design",
@@ -20,22 +20,30 @@
     },
     {
       "name": "Features",
-      "count": "64"
-    },
-    {
-      "name": "Ease of use",
-      "count": "62"
+      "count": "65"
     },
     {
       "name": "Adjustability",
       "count": "61"
     },
     {
+      "name": "Ease of use",
+      "count": "61"
+    },
+    {
       "name": "Value for money",
-      "count": "198"
+      "count": "199"
     }
   ],
   "reviews": [
+    {
+      "author": "sk",
+      "rating": 5.0,
+      "title": "-",
+      "date": "2026-08-14",
+      "date_label": "14 August 2026",
+      "body": "Prompt installation and excellent service with zero delays or extra charges! This purifier outperforms everything else on the market. The customizable features are fantastic and adapt perfectly to our needs. Highly recommended."
+    },
     {
       "author": "Pradeep Kandaswamy",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-08",
       "date_label": "8 August 2026",
       "body": "I have been using this Atomberg water purifier for the past 6 months and I’m very happy with its performance. The water quality and taste are good, and the purifier has been working reliably without any issues. The after-sales service is also excellent. The service team is responsive, professional, and helpful whenever assistance is needed. Overall, I’m very satisfied with the product and the service. Definitely worth considering if you’re looking for a reliable water purifier. Highly recommended! 👍"
-    },
-    {
-      "author": "Pramit",
-      "rating": 4.0,
-      "title": "Fantastic technology, build, and aesthetics—with one design flaw in the dispenser",
-      "date": "2026-08-07",
-      "date_label": "7 August 2026",
-      "body": "​I am really impressed with the Atomberg Intellon overall. Being India’s first adaptive water purifier, the technology behind it feels genuinely a step ahead. You can tell a lot of thought went into making it smart and efficient. ​What I loved: ​Build Quality & Aesthetics: The unit feels premium and solid. It has a very sleek, modern design that elevates the look of the kitchen area. ​Adaptive Technology: The purification tech and smart monitoring work seamlessly, giving great confidence in the water quality. ​Installation & Service: The technician who installed the purifier was polite, knowle"
     }
   ]
 }

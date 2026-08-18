@@ -1,7 +1,40 @@
 {
-  "scraped": "2026-08-16",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-08-18",
+  "customers_say": "Customers find the smart lock to be of high quality, with all features working smoothly and multiple unlocking options available. They appreciate its ease of use, particularly through fingerprint recognition, and its installation process, with one customer noting it can be used on both single and double panel doors. Customers value its security, providing peace of mind, and its appearance adds to their home's appeal. While some customers consider it good value for money, others feel it's not worth the cost.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "241"
+    },
+    {
+      "name": "Functionality",
+      "count": "105"
+    },
+    {
+      "name": "Ease of use",
+      "count": "57"
+    },
+    {
+      "name": "Installation",
+      "count": "55"
+    },
+    {
+      "name": "Security",
+      "count": "43"
+    },
+    {
+      "name": "Appearance",
+      "count": "38"
+    },
+    {
+      "name": "Features",
+      "count": "35"
+    },
+    {
+      "name": "Value for money",
+      "count": "75"
+    }
+  ],
   "reviews": [
     {
       "author": "Rahul",
@@ -20,14 +53,6 @@
       "body": "Product looks premium. Will recommend for the cheap and best option in this category having the best features."
     },
     {
-      "author": "Rachit Verma",
-      "rating": 5.0,
-      "title": "It works up to tha mark",
-      "date": "2026-08-03",
-      "date_label": "3 August 2026",
-      "body": "Feels premium and sturdy. Good security features"
-    },
-    {
       "author": "SALEEM KAKKATIKARA",
       "rating": 5.0,
       "title": "Exelent smart lock",
@@ -42,6 +67,14 @@
       "date": "2026-08-01",
       "date_label": "1 August 2026",
       "body": "Very good lock and quality. Installation was good"
+    },
+    {
+      "author": "Vensys IT Ventures Pvt Ltd",
+      "rating": 5.0,
+      "title": "Superb product!",
+      "date": "2026-07-28",
+      "date_label": "28 July 2026",
+      "body": "We replaced our existing godrej lock to this golens lock and our lifes have never been simpler, the product is flawless design as well as support wise. Kudos to golens team to give such good quality at such good price."
     }
   ]
 }

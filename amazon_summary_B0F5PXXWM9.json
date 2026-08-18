@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-16",
-  "customers_say": "Customers find the water purification unit to be of good quality and reliable, with positive feedback about its appearance, installation, and water taste. Moreover, the water quality after purification is amazing, and they appreciate the free installation service. However, opinions about customer service are mixed, with some praising the brand's support while others report extremely bad service.",
+  "scraped": "2026-08-18",
+  "customers_say": "Customers find the water purification unit to be of good quality, working well, and appreciate its appearance, with one noting it's suitable for a family of 4 to 5 people. The water quality receives positive feedback, with tests showing it's clean and pure, and customers like the taste. Installation is straightforward, with one mentioning it's a free service. The customer experience and service receive mixed reviews, with some praising the brand's support while others report extremely bad after-sales service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "3.5K"
+      "count": "3.6K"
     },
     {
       "name": "Functionality",
-      "count": "834"
+      "count": "853"
     },
     {
       "name": "Installation",
-      "count": "525"
+      "count": "532"
     },
     {
       "name": "Appearance",
-      "count": "311"
+      "count": "313"
     },
     {
       "name": "Water taste",
-      "count": "245"
+      "count": "251"
     },
     {
       "name": "Water quality",
-      "count": "229"
+      "count": "160"
     },
     {
       "name": "Service",
-      "count": "137"
+      "count": "142"
     },
     {
       "name": "Customer experience",
-      "count": "116"
+      "count": "118"
     }
   ],
   "reviews": [
@@ -43,6 +43,14 @@
       "date": "2026-08-14",
       "date_label": "14 August 2026",
       "body": "I wanted SS tank, I did not want MTDS. (Only 100% RO). I wanted only Ca and Mg cartridge (no Cu, no alkaline). Pros: I was told that Aquaguard have stopped using MTDS for almost all their models. That’s when I got interested in Aquaguard. This model is the time tested model but with latest nanopore 2 year membrane. Works smoothly, taste is good. Input source TDS 700. Output 70. Quite silent operation. Looks good. Cons: During installation, technician will bring a wall stand for ₹650, a tap attachment for ₹350 and may add a pressure reducer for ₹650. Prices were ‘surprising.’ Anyway be prepared"
+    },
+    {
+      "author": "Edwin Thivyaraj",
+      "rating": 4.0,
+      "title": "Condition and water taste",
+      "date": "2026-08-07",
+      "date_label": "7 August 2026",
+      "body": "The device delivered was in good condition, and the packaging was good. Device installation happened on time. The water taste was slightly changed after purification. Overall good."
     },
     {
       "author": "smita",
@@ -67,14 +75,6 @@
       "date": "2026-07-29",
       "date_label": "29 July 2026",
       "body": "I've been using the Aquaguard Delight Aquasaver RO+UV+UF+MC water purifier, and overall I'm very satisfied with its performance. The water tastes clean and fresh, and the stainless steel storage tank is a great feature since it feels more hygienic than a plastic tank. The purifier is compact, works quietly, and the purification process is efficient. Installation was straightforward, and the long advertised filter life is an added advantage that may help reduce maintenance costs. Overall, it's a reliable water purifier with good features, and I'd recommend it to anyone looking for a quality RO+"
-    },
-    {
-      "author": "Mohammad Ahmad",
-      "rating": 4.0,
-      "title": "Aquaguard",
-      "date": "2026-07-28",
-      "date_label": "28 July 2026",
-      "body": "Great water purifier overall! The purification works well and the water tastes clean and fresh. Docking one star only because scheduling the installation took a bit longer than expected, but the technician was helpful once here. Solid purchase."
     }
   ]
 }

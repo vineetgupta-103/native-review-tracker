@@ -1,30 +1,30 @@
 {
-  "scraped": "2026-08-17",
-  "customers_say": "Customers find the water purifier to be worth the money, with excellent performance and smooth installation process. They appreciate the water quality, with one customer noting TDS levels below 100, and find it tastes good and has a premium appearance. The device incorporates all essential features of a modern water purifier. However, reliability is a concern, with multiple customers reporting that their units stopped working within one month of use.",
+  "scraped": "2026-08-18",
+  "customers_say": "Customers find the water purifier to be worth the money, with excellent performance and smooth installation process. They appreciate the water quality, with one customer noting TDS levels below 100, and find it tastes good and has a premium appearance. The smart features add convenience, and one customer specifically mentions the modern touch panel with LED indicators. However, several customers report reliability issues, with units stopping working within one month of use.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "210"
+      "count": "214"
     },
     {
       "name": "Performance",
-      "count": "147"
+      "count": "146"
     },
     {
       "name": "Installation",
-      "count": "128"
+      "count": "130"
     },
     {
       "name": "Water quality",
-      "count": "84"
+      "count": "86"
     },
     {
       "name": "Water taste",
-      "count": "81"
+      "count": "82"
     },
     {
       "name": "Appearance",
-      "count": "62"
+      "count": "64"
     },
     {
       "name": "Features",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "mohammed ghiya",
+      "rating": 5.0,
+      "title": "Excellent water purifier with premium features",
+      "date": "2026-08-09",
+      "date_label": "9 August 2026",
+      "body": "I recently purchased the Native M2 Pro from Amazon and overall I’m very satisfied with the product. The design looks premium and modern, and the touch controls make dispensing water very convenient. The water purification performance has been excellent so far, and the water tastes clean and fresh. I particularly like the smart features and the Urban Company app, where you can monitor the purifier, filter status and water usage. The installation experience was also smooth."
+    },
     {
       "author": "Dinesh",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-22",
       "date_label": "22 July 2026",
       "body": "⭐⭐⭐⭐☆ **4/5** I've been using the **Native M2 Pro RO** for the last **3 months**, and so far I haven't faced any issues. The touch buttons work perfectly, and everything is functioning smoothly. My input water TDS is around **307**, and after purification it comes down to about **25–50 TDS**. The water tastes smooth and fresh, and the purification quality is excellent. The **8-liter storage capacity** is perfect for a family of **4–5 people**. The installation was quick and professional—it took **hardly 30 minutes**. Another thing I really like is how **quiet** this RO is. The noise level is e"
-    },
-    {
-      "author": "Lokesh",
-      "rating": 5.0,
-      "title": "Water is tasty",
-      "date": "2026-07-21",
-      "date_label": "21 July 2026",
-      "body": "Bought this 15 days back. The water just tastes so good. It's really worth the money. The technician came on the scheduled date and time and installed it. It was installed in 30 minutes. It stores 7 litres of water. It looks really good and water tds is below 100 and the water taste is just so awesome."
     }
   ]
 }

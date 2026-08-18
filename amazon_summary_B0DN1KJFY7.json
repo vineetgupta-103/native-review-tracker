@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-16",
-  "customers_say": "Customers find the water purifier excellent in quality and functionality, delivering clean, safe drinking water consistently and serving small families well. The installation process is quick and perfect, and they appreciate its elegant appearance. While some customers consider it good value for money, others say it's not worth the price. The service receives mixed reviews, with some praising the customer support while others report terrible service.",
+  "scraped": "2026-08-18",
+  "customers_say": "Customers find the water purification unit delivers clean, safe drinking water consistently, with strong purification technology and good taste control based on water source. They appreciate its elegant appearance, quick and perfect installation, and consider it a great choice for daily use, particularly for small families. While some customers consider it good value for money, others feel it's not worth the cost.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,15 +8,19 @@
     },
     {
       "name": "Reliability",
-      "count": "319"
+      "count": "315"
     },
     {
       "name": "Installation",
       "count": "163"
     },
     {
+      "name": "Water taste",
+      "count": "102"
+    },
+    {
       "name": "Appearance",
-      "count": "72"
+      "count": "70"
     },
     {
       "name": "Functionality",
@@ -24,25 +28,29 @@
     },
     {
       "name": "Water quality",
-      "count": "49"
+      "count": "48"
     },
     {
       "name": "Value for money",
-      "count": "269"
-    },
-    {
-      "name": "Service",
-      "count": "46"
+      "count": "270"
     }
   ],
   "reviews": [
     {
-      "author": "Sujata Das",
+      "author": "Vigneshwar",
       "rating": 5.0,
-      "title": "A perfect Filter",
-      "date": "2026-08-02",
-      "date_label": "2 August 2026",
-      "body": "I have got a very nice deal in Aquaguard Ritz Pro Filter. Service was prompt. The machine is functioning very nicely. Water quality is very clean."
+      "title": "Great Support and Product",
+      "date": "2026-08-15",
+      "date_label": "15 August 2026",
+      "body": "The Purifier is good with much convenience and just that it would have been great if it had supported 5GHz connectivity instead of 2.4GHz..apart from that its totally recommendable.. The installation was provide by the Technician Mr. Dhanaraj (2004965) who was very professional and knowledgeable and was of great help.."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 4.0,
+      "title": "Good purification and features overall but slow dispensing",
+      "date": "2026-08-13",
+      "date_label": "13 August 2026",
+      "body": "Good Thing: 1. Water quality is good as well taste 2. Stainless steel tank feels much more hygienic than standard plastic 3.Tracking TDS and filter life is very convenient 4. Long 2 years filter life means hassles service But the slow dispensing and minor design omissions male everyday usages a bit tedious."
     },
     {
       "author": "Reshma",
@@ -67,14 +75,6 @@
       "date": "2026-07-27",
       "date_label": "27 July 2026",
       "body": "It has only been a few days, and the product looks very promising. The installation team also did a great job. We had a slightly unconventional setup: the RO unit was placed in our wash area, and we connected the purified water outlet to a spout in the kitchen to dispense the RO water. Initially, the technicians were hesitant because they didn't fully understand how to execute the setup, but they later agreed and finished the installation with a neat and professional finish the next day. I was also able to connect the RO to the internet successfully. The TDS reading displayed in the app differ"
-    },
-    {
-      "author": "Frinto",
-      "rating": 5.0,
-      "title": "MRP of the Bottle Provided",
-      "date": "2026-07-23",
-      "date_label": "23 July 2026",
-      "body": "Just bought the water purifier two weeks before.. till now good.. i would like to comment on the bottle that they give free with an MRP of 2000₹.. I dont think the manufacturing will cost even 1/3rd of the MRP printed.. because the quality of the bottle does not match the MRP printed.."
     }
   ]
 }

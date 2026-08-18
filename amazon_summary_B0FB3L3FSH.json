@@ -1,22 +1,26 @@
 {
-  "scraped": "2026-08-14",
-  "customers_say": "Customers find the water purifier to be a good quality device that delivers clean water with minerals, tastes great, and is easy to maintain. They appreciate its appearance, with one customer noting its premium matte finish, and find the installation process convenient. The durability receives mixed feedback, with some customers reporting it broke within three days of use.",
+  "scraped": "2026-08-18",
+  "customers_say": "Customers find the water purifier to be a very good quality product that functions well and delivers great-tasting water. They appreciate its premium appearance, hassle-free installation, and maintenance-free operation for the first two years. The filter life receives mixed reviews, with some customers reporting malfunction within a month.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "260"
+      "count": "272"
     },
     {
       "name": "Performance",
-      "count": "68"
+      "count": "65"
+    },
+    {
+      "name": "Value for money",
+      "count": "64"
     },
     {
       "name": "Installation",
-      "count": "41"
+      "count": "44"
     },
     {
       "name": "Water taste",
-      "count": "28"
+      "count": "30"
     },
     {
       "name": "Appearance",
@@ -27,15 +31,35 @@
       "count": "20"
     },
     {
-      "name": "Water quality",
-      "count": "20"
-    },
-    {
-      "name": "Durability",
-      "count": "16"
+      "name": "Filter life",
+      "count": "19"
     }
   ],
   "reviews": [
+    {
+      "author": "Rajdeep Paul",
+      "rating": 5.0,
+      "title": "Good water purifier",
+      "date": "2026-08-10",
+      "date_label": "10 August 2026",
+      "body": "very good product within this price range, smooth and clean installation process. Thanks Amazon ans UC ❤️"
+    },
+    {
+      "author": "Jit Ghosh",
+      "rating": 4.0,
+      "title": "Nice product",
+      "date": "2026-08-06",
+      "date_label": "6 August 2026",
+      "body": "Working excellent"
+    },
+    {
+      "author": "Pannu",
+      "rating": 5.0,
+      "title": "Brilliant product",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "It is a useful purchase. It's been working well so far. I would recommend this product."
+    },
     {
       "author": "Nikhil Shiv",
       "rating": 5.0,
@@ -45,36 +69,12 @@
       "body": "Great product with excellent service. The water tastes much better, and the installation process was easy. Happy with my purchase and would recommend it."
     },
     {
-      "author": "Priya Natekar",
-      "rating": 4.0,
-      "title": "Quality of water",
-      "date": "2026-07-22",
-      "date_label": "22 July 2026",
-      "body": "Excellent product from native"
-    },
-    {
       "author": "Aishwarya Singh",
       "rating": 5.0,
       "title": "A Good Product and A greater Service Experience",
       "date": "2026-07-20",
       "date_label": "20 July 2026",
       "body": "Using it for 3weeks no issue so far. installation process was seamless. I would recommend this water purifier for if nothing else then a great customer service experience like thats a novelty in india. also paying for a filter after 2 year is a huge plus and all consultation and maintenance service free for 2 years."
-    },
-    {
-      "author": "حافظ خان (Hafiz Khan)",
-      "rating": 5.0,
-      "title": "Hassle-free, sleek, and great-tasting water!",
-      "date": "2026-07-19",
-      "date_label": "19 July 2026",
-      "body": "I am absolutely loving the Native M0! The biggest selling point is the 2-year zero-maintenance promise—no more annoying calls for filter changes or expensive AMC contracts every few months. The multi-stage purification makes the water taste crisp and clean, and the sleek design looks fantastic in my kitchen. Installation was quick and seamless. Highly recommend this to anyone looking for a reliable, \"install-and-forget\" purifier!"
-    },
-    {
-      "author": "Chauhan Vishal",
-      "rating": 5.0,
-      "title": "One of the best RO.",
-      "date": "2026-07-07",
-      "date_label": "7 July 2026",
-      "body": "One of the best RO i have purchased before this i was using another RO for my home. But all other RO required the service on every year and cost it around 4-9K depends. But Native say you have to service on every 2 year and warranty for the same.you can renew the contract again if you want biggest win. Water test is good. From bore we getting water around 800TDS and using this RO we get around 90-110 TDS 🤝 installation process is smooth"
     }
   ]
 }
