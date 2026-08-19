@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-18",
-  "customers_say": "Customers find the water purification unit to be of good quality, working well, and appreciate its appearance, with one noting it's suitable for a family of 4 to 5 people. The water quality receives positive feedback, with tests showing it's clean and pure, and customers like the taste. Installation is straightforward, with one mentioning it's a free service. The customer experience and service receive mixed reviews, with some praising the brand's support while others report extremely bad after-sales service.",
+  "scraped": "2026-08-19",
+  "customers_say": "Customers find the water purification unit to be of good quality, working well, and appreciate its appearance, with one noting it's suitable for a family of 4 to 5 people. The product receives positive feedback for its taste, water quality, and ease of use, with one customer highlighting its 60% higher water recovery rate. The installation process is straightforward, and while the brand's service support is generally good, some customers report poor after-sales service.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,49 +8,49 @@
     },
     {
       "name": "Functionality",
-      "count": "853"
+      "count": "860"
     },
     {
       "name": "Installation",
-      "count": "532"
+      "count": "536"
     },
     {
       "name": "Appearance",
-      "count": "313"
+      "count": "316"
     },
     {
       "name": "Water taste",
-      "count": "251"
+      "count": "254"
     },
     {
       "name": "Water quality",
-      "count": "160"
+      "count": "162"
+    },
+    {
+      "name": "Ease of use",
+      "count": "133"
     },
     {
       "name": "Service",
       "count": "142"
-    },
-    {
-      "name": "Customer experience",
-      "count": "118"
     }
   ],
   "reviews": [
     {
-      "author": "SS",
-      "rating": 5.0,
-      "title": "Time tested company, SS, good taste.",
-      "date": "2026-08-14",
-      "date_label": "14 August 2026",
-      "body": "I wanted SS tank, I did not want MTDS. (Only 100% RO). I wanted only Ca and Mg cartridge (no Cu, no alkaline). Pros: I was told that Aquaguard have stopped using MTDS for almost all their models. That’s when I got interested in Aquaguard. This model is the time tested model but with latest nanopore 2 year membrane. Works smoothly, taste is good. Input source TDS 700. Output 70. Quite silent operation. Looks good. Cons: During installation, technician will bring a wall stand for ₹650, a tap attachment for ₹350 and may add a pressure reducer for ₹650. Prices were ‘surprising.’ Anyway be prepared"
+      "author": "amit mann",
+      "rating": 4.0,
+      "title": "Overall good",
+      "date": "2026-08-16",
+      "date_label": "16 August 2026",
+      "body": "I have just started using, will share detailed feedback after using it for sometime, but basic features look good theoretically, will share feedback after using it for sometime"
     },
     {
-      "author": "Edwin Thivyaraj",
+      "author": "dineshkumar P.S",
       "rating": 4.0,
-      "title": "Condition and water taste",
-      "date": "2026-08-07",
-      "date_label": "7 August 2026",
-      "body": "The device delivered was in good condition, and the packaging was good. Device installation happened on time. The water taste was slightly changed after purification. Overall good."
+      "title": "Product is good",
+      "date": "2026-08-16",
+      "date_label": "16 August 2026",
+      "body": "Product is working fine"
     },
     {
       "author": "smita",

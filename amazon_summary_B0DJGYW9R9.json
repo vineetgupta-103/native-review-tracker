@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-18",
-  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on a wooden door frame, and appreciate its reliable performance and triple deadlocks for high security. They like its appearance, adding a modern touch to the door, and value its multiple unlocking options and professional installation. The app experience receives negative feedback, while opinions about connectivity are mixed.",
+  "scraped": "2026-08-19",
+  "customers_say": "Customers find the door lock easy to install and appreciate its reliable performance with triple deadlocks for high security. They like its appearance, adding a modern touch to the door, and its features, including multiple unlocking options. The build quality is solid, and customers consider it a great value. The user experience receives mixed feedback, with some customers reporting a terrible app experience.",
   "aspects": [
     {
       "name": "Installation",
@@ -8,7 +8,11 @@
     },
     {
       "name": "Reliability",
-      "count": "49"
+      "count": "50"
+    },
+    {
+      "name": "Value for money",
+      "count": "29"
     },
     {
       "name": "Security",
@@ -19,23 +23,27 @@
       "count": "21"
     },
     {
-      "name": "Functionality",
+      "name": "Features",
       "count": "20"
     },
     {
-      "name": "Features",
-      "count": "19"
+      "name": "Build quality",
+      "count": "12"
     },
     {
-      "name": "Connectivity",
-      "count": "14"
-    },
-    {
-      "name": "App experience",
-      "count": "15"
+      "name": "User experience",
+      "count": "16"
     }
   ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Professional technician",
+      "date": "2026-08-16",
+      "date_label": "16 August 2026",
+      "body": "Great experience with the Urban Company Native lock installation. The technician was extremely professional, skilled, and handled the door fitting with neat precision. He also took the time to explain how the smart lock functions, set up the app, and cleared all the drilling mess after finishing the job. 5/5 stars!"
+    },
     {
       "author": "akash kahalkar",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-10",
       "date_label": "10 August 2026",
       "body": "Very easy to use and all the features are amazing. The technician was also very knowledgeable and professional. If you are looking for a smart lock with good security this is the best."
-    },
-    {
-      "author": "Roberto",
-      "rating": 1.0,
-      "title": "No support",
-      "date": "2026-07-22",
-      "date_label": "22 July 2026",
-      "body": "Does not work as expected , no support"
     }
   ]
 }

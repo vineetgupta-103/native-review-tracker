@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-08-18",
-  "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door. Moreover, the lock works as expected, is user-friendly, and comes with multiple unlocking options. They appreciate its security features, with one customer noting it sets a new standard for modern home safety, and consider it a handy addition to smart home setups. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
+  "scraped": "2026-08-19",
+  "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door, and appreciate its functionality, user-friendly app, and multiple unlock options. They consider it a handy product that transforms home security management, and one customer notes it combines convenience with advanced security features. Opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "196"
+      "count": "193"
     },
     {
       "name": "Installation",
-      "count": "89"
+      "count": "86"
     },
     {
       "name": "Functionality",
-      "count": "67"
+      "count": "65"
     },
     {
       "name": "Ease of use",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Features",
-      "count": "29"
+      "count": "28"
     },
     {
       "name": "Security",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Ajaz Ahmed",
+      "rating": 5.0,
+      "title": "Ajaz",
+      "date": "2026-08-16",
+      "date_label": "16 August 2026",
+      "body": "Very good lock and more over the installation process was very smooth. The technician was very cooperative."
+    },
     {
       "author": "Leo",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-08",
       "date_label": "8 June 2026",
       "body": "Would say functionality wise no complaints though i really wanted a video one in this price"
-    },
-    {
-      "author": "Ash",
-      "rating": 5.0,
-      "title": "Very handy and useful",
-      "date": "2026-05-26",
-      "date_label": "26 May 2026",
-      "body": "This has given me ease of life.. since making multiple keys for family members is challenging.. especially children"
     }
   ]
 }

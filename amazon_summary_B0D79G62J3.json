@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-18",
+  "scraped": "2026-08-19",
   "customers_say": "Customers find this water purifier to be among the best in the market, offering excellent value for money with transparent pricing. The installation process receives positive feedback, with one customer noting it's very simple to set up. Moreover, the purifier performs reliably, with one customer mentioning it works well with any type of water, and customers appreciate its premium appearance and sweet-tasting output. Additionally, the water quality is consistently good, with one customer specifically noting improved TDS levels, and the service receives praise for its professional and consumer-friendly approach.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Value for money",
-      "count": "473"
+      "count": "476"
     },
     {
       "name": "Installation",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Reliability",
-      "count": "281"
+      "count": "283"
     },
     {
       "name": "Appearance",
@@ -37,20 +37,28 @@
   ],
   "reviews": [
     {
+      "author": "Vaibhav Patil",
+      "rating": 5.0,
+      "title": "Excellent product",
+      "date": "2026-08-16",
+      "date_label": "16 August 2026",
+      "body": "Excellent product. It's been more than 1.5 years and still going strong. No issues with water till date. Beware of installation agent they suggest you to install pressure reducer valve or booster pump even when it is not required. It you water tank is on height of 3 house floor. You may need a reducer. But always check the pressure on his device whenever they measure the pressure."
+    },
+    {
+      "author": "Philosopher Stoned",
+      "rating": 5.0,
+      "title": "Go for it without a 2nd thought. Worth every penny",
+      "date": "2026-08-16",
+      "date_label": "16 August 2026",
+      "body": "The best filter in the market. Worth the price. UC made it easy for me Only minor drawback is storage capacity"
+    },
+    {
       "author": "shanmukha rao",
       "rating": 4.0,
       "title": "worth for budget",
       "date": "2026-08-14",
       "date_label": "14 August 2026",
       "body": "Good quality"
-    },
-    {
-      "author": "siddu",
-      "rating": 5.0,
-      "title": "Service was good and in time",
-      "date": "2026-08-13",
-      "date_label": "13 August 2026",
-      "body": "Service was too good...calm and clean.. explained patiently everything what I asked.. explained precautions measures and guided how to use and check the water tds . overall good"
     },
     {
       "author": "SJ",
@@ -67,14 +75,6 @@
       "date": "2026-08-11",
       "date_label": "11 August 2026",
       "body": "Outstanding performance and total value for money! Highly impressed with the Native M1 by Urban Company. Our input water TDS was extremely high at 1190, and this purifier brought it right down to a clean 134. The promised 2-year zero filter change feature makes it an absolute game-changer—no maintenance hassle for two full years. Delicious, clean drinking water. Highly recommended!"
-    },
-    {
-      "author": "Rituraj Datta",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-08-11",
-      "date_label": "11 August 2026",
-      "body": "Very tech loaded and good product, the aesthetics of the product is beautiful"
     }
   ]
 }

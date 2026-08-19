@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-08-18",
-  "customers_say": "Customers find the water purification unit delivers clean, safe drinking water consistently, with strong purification technology and good taste control based on water source. They appreciate its elegant appearance, quick and perfect installation, and consider it a great choice for daily use, particularly for small families. While some customers consider it good value for money, others feel it's not worth the cost.",
+  "scraped": "2026-08-19",
+  "customers_say": "Customers find the water purifier excellent in quality and performance, with quick and perfect installation, and appreciate its premium design and elegant appearance. The water tastes good, and customers consider it a great choice for daily use, particularly for small families. Regarding value for money and service, opinions are mixed - while some say it's a good product for its price and appreciate the customer support, others find it overpriced and report poor service experiences.",
   "aspects": [
     {
       "name": "Quality",
       "count": "1.3K"
     },
     {
-      "name": "Reliability",
-      "count": "315"
+      "name": "Performance",
+      "count": "288"
     },
     {
       "name": "Installation",
@@ -16,34 +16,26 @@
     },
     {
       "name": "Water taste",
-      "count": "102"
+      "count": "103"
     },
     {
       "name": "Appearance",
-      "count": "70"
+      "count": "71"
     },
     {
       "name": "Functionality",
-      "count": "51"
-    },
-    {
-      "name": "Water quality",
-      "count": "48"
+      "count": "50"
     },
     {
       "name": "Value for money",
       "count": "270"
+    },
+    {
+      "name": "Service",
+      "count": "48"
     }
   ],
   "reviews": [
-    {
-      "author": "Vigneshwar",
-      "rating": 5.0,
-      "title": "Great Support and Product",
-      "date": "2026-08-15",
-      "date_label": "15 August 2026",
-      "body": "The Purifier is good with much convenience and just that it would have been great if it had supported 5GHz connectivity instead of 2.4GHz..apart from that its totally recommendable.. The installation was provide by the Technician Mr. Dhanaraj (2004965) who was very professional and knowledgeable and was of great help.."
-    },
     {
       "author": "Amazon Customer",
       "rating": 4.0,
@@ -51,6 +43,14 @@
       "date": "2026-08-13",
       "date_label": "13 August 2026",
       "body": "Good Thing: 1. Water quality is good as well taste 2. Stainless steel tank feels much more hygienic than standard plastic 3.Tracking TDS and filter life is very convenient 4. Long 2 years filter life means hassles service But the slow dispensing and minor design omissions male everyday usages a bit tedious."
+    },
+    {
+      "author": "Sujata Das",
+      "rating": 5.0,
+      "title": "A perfect Filter",
+      "date": "2026-08-02",
+      "date_label": "2 August 2026",
+      "body": "I have got a very nice deal in Aquaguard Ritz Pro Filter. Service was prompt. The machine is functioning very nicely. Water quality is very clean."
     },
     {
       "author": "Reshma",

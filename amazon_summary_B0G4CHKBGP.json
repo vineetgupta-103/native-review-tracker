@@ -1,30 +1,30 @@
 {
-  "scraped": "2026-08-18",
-  "customers_say": "Customers find the water purifier to be worth the money, with excellent performance and smooth installation process. They appreciate the water quality, with one customer noting TDS levels below 100, and find it tastes good and has a premium appearance. The smart features add convenience, and one customer specifically mentions the modern touch panel with LED indicators. However, several customers report reliability issues, with units stopping working within one month of use.",
+  "scraped": "2026-08-19",
+  "customers_say": "Customers find the water purifier exceeds expectations in performance and design, with easy installation and no service needed for 2 years. The water quality receives positive feedback, with one customer noting TDS levels below 100, and they appreciate its smart features and modern touch panel with LED indicators. They like the taste and appearance, with one mentioning the UV light gives it a good look. However, reliability is a concern as multiple customers report units stopping within one month of use.",
   "aspects": [
     {
-      "name": "Value for money",
-      "count": "214"
-    },
-    {
       "name": "Performance",
-      "count": "146"
+      "count": "147"
     },
     {
       "name": "Installation",
-      "count": "130"
+      "count": "132"
     },
     {
       "name": "Water quality",
-      "count": "86"
+      "count": "87"
     },
     {
       "name": "Water taste",
-      "count": "82"
+      "count": "83"
     },
     {
       "name": "Appearance",
-      "count": "64"
+      "count": "66"
+    },
+    {
+      "name": "Service",
+      "count": "52"
     },
     {
       "name": "Features",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Reliability",
-      "count": "61"
+      "count": "62"
     }
   ],
   "reviews": [
@@ -43,6 +43,14 @@
       "date": "2026-08-09",
       "date_label": "9 August 2026",
       "body": "I recently purchased the Native M2 Pro from Amazon and overall I’m very satisfied with the product. The design looks premium and modern, and the touch controls make dispensing water very convenient. The water purification performance has been excellent so far, and the water tastes clean and fresh. I particularly like the smart features and the Urban Company app, where you can monitor the purifier, filter status and water usage. The installation experience was also smooth."
+    },
+    {
+      "author": "Rohith",
+      "rating": 4.0,
+      "title": "Compact, Transparent and Pretty",
+      "date": "2026-08-06",
+      "date_label": "6 August 2026",
+      "body": "love the compact design, very pretty and usable. additionally - the app is super transparent about everything that’s needed. cherry on cake is that you don’t need a service till 2 years and warranty covers till 2 years."
     },
     {
       "author": "Dinesh",
@@ -67,14 +75,6 @@
       "date": "2026-07-26",
       "date_label": "26 July 2026",
       "body": "Bought the M2 Pro from Amazon – Excellent Delivery & Installation Experience Delivery & Installation – Hassle-Free This was the first time I’ve experienced such a smooth purchase from Amazon. Even before the product was delivered, the UC team called to schedule the installation appointment for the same day. The purifier was delivered on Sunday at around 12:00 PM, and by 2:00 PM, the installation technician had arrived with all the required tools. The entire installation process was carried out professionally. After installation, the technician flushed each filter individually before starting t"
-    },
-    {
-      "author": "JIGAR PATEL",
-      "rating": 4.0,
-      "title": "Excellent Water Quality & Great Value for Money.",
-      "date": "2026-07-22",
-      "date_label": "22 July 2026",
-      "body": "⭐⭐⭐⭐☆ **4/5** I've been using the **Native M2 Pro RO** for the last **3 months**, and so far I haven't faced any issues. The touch buttons work perfectly, and everything is functioning smoothly. My input water TDS is around **307**, and after purification it comes down to about **25–50 TDS**. The water tastes smooth and fresh, and the purification quality is excellent. The **8-liter storage capacity** is perfect for a family of **4–5 people**. The installation was quick and professional—it took **hardly 30 minutes**. Another thing I really like is how **quiet** this RO is. The noise level is e"
     }
   ]
 }

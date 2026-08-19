@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-18",
+  "scraped": "2026-08-19",
   "customers_say": "Customers find the water purifier easy to use and appreciate its taste, with one mentioning the ability to adjust it. The installation process is quick, and the water quality is good, with one customer noting a substantial improvement in filtration. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "503"
+      "count": "502"
     },
     {
       "name": "Water taste",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Reliability",
-      "count": "558"
+      "count": "559"
     },
     {
       "name": "Durability",

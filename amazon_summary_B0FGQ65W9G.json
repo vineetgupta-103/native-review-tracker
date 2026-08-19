@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-18",
+  "scraped": "2026-08-19",
   "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation, functionality, and appearance. They appreciate its ease of use and consider it worth the price, while also praising the customer service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "70"
+      "count": "68"
     },
     {
       "name": "Installation",
@@ -33,22 +33,6 @@
   ],
   "reviews": [
     {
-      "author": "Swati",
-      "rating": 5.0,
-      "title": "Secure lock",
-      "date": "2026-08-10",
-      "date_label": "10 August 2026",
-      "body": "Secure lock, fit seamlessly as a replacement to my older lock. This is the second Godrejlock I have purchased, very happy with the prompt service. Abhimanyu ji installed the lock professionally and perfectly. Highly recommended!!"
-    },
-    {
-      "author": "GA",
-      "rating": 5.0,
-      "title": "Great lock. Great service",
-      "date": "2026-08-08",
-      "date_label": "8 August 2026",
-      "body": "Sikander was the technician who came to our house. V polite. V efficient I’m glad I bought the Godrej lock."
-    },
-    {
       "author": "Ram",
       "rating": 5.0,
       "title": "Good",
@@ -65,12 +49,28 @@
       "body": "It’s working good , and the customer service also available at any time, with in 3 working days they will come and solve the problems, It’s safe and secure for home main door, recommend to buy this digital lock.."
     },
     {
+      "author": "Vaibhav",
+      "rating": 5.0,
+      "title": "Godrej Cactus",
+      "date": "2025-10-01",
+      "date_label": "1 October 2025",
+      "body": "Good product and prompt installation"
+    },
+    {
       "author": "Bharat",
       "rating": 5.0,
       "title": "Good product",
       "date": "2025-09-27",
       "date_label": "27 September 2025",
       "body": "Ravindra is best in job , fast and accurate installation , fast service , demo good"
+    },
+    {
+      "author": "Sarla s.",
+      "rating": 4.0,
+      "title": "Godrej Catus touch plus digital lock",
+      "date": "2025-07-29",
+      "date_label": "29 July 2025",
+      "body": "Godrej Catus touch digital lock, I perched from Amazon , good quality , its value for money ,Finger print recognize very well ,thanks Amazon seller retailed"
     }
   ]
 }

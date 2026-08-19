@@ -1,47 +1,80 @@
 {
-  "scraped": "2026-08-18",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-08-19",
+  "customers_say": "Customers find the water purification unit to be of good quality and appreciate its clean output, with one customer noting it completely changes water hardness and taste. The installation is straightforward, and they like the water quality, with one mentioning it's a source of pure water. While some customers consider it worth the money, others say it's not worth the cost. The reliability receives mixed feedback - while some say it works well, others report filters stop working after a year. Durability is a concern, with customers noting it won't last more than a year, and opinions on water wastage are divided between those who say there's no waste and those who consider the zero-waste claim a gimmick.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "253"
+    },
+    {
+      "name": "Installation",
+      "count": "32"
+    },
+    {
+      "name": "Water taste",
+      "count": "23"
+    },
+    {
+      "name": "Water quality",
+      "count": "12"
+    },
+    {
+      "name": "Value for money",
+      "count": "83"
+    },
+    {
+      "name": "Reliability",
+      "count": "49"
+    },
+    {
+      "name": "Water wastage",
+      "count": "20"
+    },
+    {
+      "name": "Durability",
+      "count": "20"
+    }
+  ],
   "reviews": [
     {
-      "author": "ashushaheen",
+      "author": "Sandeep Thangella",
       "rating": 5.0,
       "title": "Good",
-      "date": "2026-08-14",
-      "date_label": "14 August 2026",
-      "body": "Good machine"
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "Good"
     },
     {
-      "author": "Amazon Customer",
+      "author": "Saheli",
       "rating": 5.0,
+      "title": "Quality of water and product services",
+      "date": "2026-07-11",
+      "date_label": "11 July 2026",
+      "body": "Excellent product as of now. I have previously used the KENT RO , EXCELELNT TASTE"
+    },
+    {
+      "author": "Meenakshi M",
+      "rating": 5.0,
+      "title": "Nothing",
+      "date": "2026-07-08",
+      "date_label": "8 July 2026",
+      "body": "Its excellent"
+    },
+    {
+      "author": "Priya Tandon",
+      "rating": 4.0,
       "title": "Good product",
-      "date": "2026-07-26",
-      "date_label": "26 July 2026",
-      "body": "Good product"
+      "date": "2026-07-04",
+      "date_label": "4 July 2026",
+      "body": "Good product , no malfunctioning observed till now"
     },
     {
-      "author": "bheemanaidu",
-      "rating": 5.0,
-      "title": "Amazing product",
-      "date": "2026-04-29",
-      "date_label": "29 April 2026",
-      "body": "Very good product and installation was done very smoothly"
-    },
-    {
-      "author": "Saba",
-      "rating": 5.0,
-      "title": "Product and Service from Kent",
-      "date": "2026-03-16",
-      "date_label": "16 March 2026",
-      "body": "Very nice product and service experience."
-    },
-    {
-      "author": "Balraj",
-      "rating": 5.0,
-      "title": "Good product and great installation service.",
-      "date": "2026-03-11",
-      "date_label": "11 March 2026",
-      "body": "Good product and great installation service.highly recommended."
+      "author": "priyanka",
+      "rating": 1.0,
+      "title": "Don’t buy , waste of money, in 3 months the product is not working",
+      "date": "2026-06-22",
+      "date_label": "22 June 2026",
+      "body": "I have purchased this in feb 2026 , in 3 months membrane gone , outlet water is not controlled , taking 50 litres for 9 litres filtration. Service is very pathetic, even after they told 4 year warranty they don’t give you any service on product parts. I have been following up on service for 2 weeks now the regional SMO is just giving dates but no work done. Service and product is utter waste on Kent , I do not recommend to buy this product."
     }
   ]
 }
