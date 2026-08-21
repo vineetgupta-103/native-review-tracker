@@ -1,14 +1,18 @@
 {
-  "scraped": "2026-08-19",
-  "customers_say": "Customers find the water purifier exceeds expectations in performance and design, with easy installation and no service needed for 2 years. The water quality receives positive feedback, with one customer noting TDS levels below 100, and they appreciate its smart features and modern touch panel with LED indicators. They like the taste and appearance, with one mentioning the UV light gives it a good look. However, reliability is a concern as multiple customers report units stopping within one month of use.",
+  "scraped": "2026-08-21",
+  "customers_say": "Customers find the water purifier to be worth the money and appreciate its performance, noting it exceeds expectations in both functionality and design. The installation process goes smoothly without hassle, and they like the water quality, with one customer specifically mentioning TDS levels below 100. They praise the appearance, with one highlighting the modern touch panel with LED indicators, and find the water tastes good. However, reliability is a concern, with multiple customers reporting that their units stopped working within one month of use.",
   "aspects": [
     {
+      "name": "Value for money",
+      "count": "219"
+    },
+    {
       "name": "Performance",
-      "count": "147"
+      "count": "148"
     },
     {
       "name": "Installation",
-      "count": "132"
+      "count": "134"
     },
     {
       "name": "Water quality",
@@ -16,7 +20,7 @@
     },
     {
       "name": "Water taste",
-      "count": "83"
+      "count": "84"
     },
     {
       "name": "Appearance",
@@ -24,18 +28,22 @@
     },
     {
       "name": "Service",
-      "count": "52"
-    },
-    {
-      "name": "Features",
-      "count": "51"
+      "count": "54"
     },
     {
       "name": "Reliability",
-      "count": "62"
+      "count": "61"
     }
   ],
   "reviews": [
+    {
+      "author": "Jessica",
+      "rating": 5.0,
+      "title": "Must buy",
+      "date": "2026-08-16",
+      "date_label": "16 August 2026",
+      "body": "Must buy !! Amazingly working"
+    },
     {
       "author": "mohammed ghiya",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-08-09",
       "date_label": "9 August 2026",
       "body": "I recently purchased the Native M2 Pro from Amazon and overall I’m very satisfied with the product. The design looks premium and modern, and the touch controls make dispensing water very convenient. The water purification performance has been excellent so far, and the water tastes clean and fresh. I particularly like the smart features and the Urban Company app, where you can monitor the purifier, filter status and water usage. The installation experience was also smooth."
-    },
-    {
-      "author": "Rohith",
-      "rating": 4.0,
-      "title": "Compact, Transparent and Pretty",
-      "date": "2026-08-06",
-      "date_label": "6 August 2026",
-      "body": "love the compact design, very pretty and usable. additionally - the app is super transparent about everything that’s needed. cherry on cake is that you don’t need a service till 2 years and warranty covers till 2 years."
     },
     {
       "author": "Dinesh",

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-19",
+  "scraped": "2026-08-21",
   "customers_say": "Customers find the door lock's appearance appealing and appreciate its solid build quality, convenient keyless entry, and multiple access options. The installation process is smooth, and they consider it good value for money. However, the functionality receives mixed feedback, with some reporting issues with the front lock not working. Moreover, connectivity is a concern, with several customers noting no WiFi connectivity.",
   "aspects": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "Value for money",
-      "count": "21"
+      "count": "22"
     },
     {
       "name": "Connectivity",
@@ -37,12 +37,12 @@
   ],
   "reviews": [
     {
-      "author": "Biju Thomas",
-      "rating": 1.0,
-      "title": "SubQuality product",
-      "date": "2026-04-15",
-      "date_label": "15 April 2026",
-      "body": "The coating on the handle chipped off in 10 months. When customer service was contacted, they insisted that this does not come under wanrrety and payment is required for rectifying the problem. The warranty is supposed to be 2 years but did not get any help for my problem. The door looks very shabby because of the the chipped door handle."
+      "author": "Vishal patil",
+      "rating": 5.0,
+      "title": "Value for money",
+      "date": "2026-08-17",
+      "date_label": "17 August 2026",
+      "body": "Quality is really good and support was very fast. Liked this product. Value for money"
     },
     {
       "author": "Hemlata Thakre",
@@ -51,6 +51,14 @@
       "date": "2026-01-06",
       "date_label": "6 January 2026",
       "body": "Good quality , great installation"
+    },
+    {
+      "author": "Ali Hasni",
+      "rating": 1.0,
+      "title": "Touchpad constantly lit, fingerprint scanner completely dead.",
+      "date": "2025-07-08",
+      "date_label": "8 July 2025",
+      "body": "The product is beautiful when it comes to aesthetic/design. But the service that Qubo provides is really very poor. The finger print scanner stopped working completely, it is dead and the keypad is constantly lit draining the battery constantly, the guy who came through support after 5 days said the lock will be replaced only to disappoint later saying it is not in warranty any more. Please note that there was no damage to the product, this just happened out of the blue, I suspect it has something to do with their app update, but then their team won't check/troubleshoot, not even repairing, al"
     },
     {
       "author": "Kanraj Jain",
@@ -67,14 +75,6 @@
       "date": "2024-10-10",
       "date_label": "10 October 2024",
       "body": "QUBO – LOCKS QUBO Smart Door Lock Ultra from Hero Group | 6-Way Unlocking | Fingerprint | PIN | RFID Access Card | Bluetooth Mobile App | Mechanical Key | OTP Access | 2 Years Brand Warranty | (Copper) I had purchased this lock from amazon and it was received on 25/9/24 As Navaratri was fast coming wanted to install the same at the earliest. The service technician never arrives till 2/10 and then informs that due to space issue cannot install The lock. Was very worried. The product is good and commendable., hence wrote to Qubo whose customer service was very accommodative and said in case it d"
-    },
-    {
-      "author": "Durga Srinivas",
-      "rating": 5.0,
-      "title": "Amazing Lock",
-      "date": "2024-09-08",
-      "date_label": "8 September 2024",
-      "body": "The Qubo Smart Lock Ultra is an impressive device, offering excellent security features combined with modern technology. Its seamless integration with smartphones makes remote access and monitoring incredibly convenient. The fingerprint and passcode entry options provide versatility, and the auto-locking feature enhances safety. Installation is straightforward, and the lock's sleek design adds a stylish touch to any door. Overall, it's a reliable, smart choice for anyone looking to upgrade home security with ease."
     }
   ]
 }

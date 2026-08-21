@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-08-19",
-  "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door, and appreciate its functionality, user-friendly app, and multiple unlock options. They consider it a handy product that transforms home security management, and one customer notes it combines convenience with advanced security features. Opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
+  "scraped": "2026-08-21",
+  "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door. Moreover, the lock works as expected, is user-friendly, and comes with multiple unlocking options. They appreciate its security features, with one customer noting it sets a new standard for modern home safety, and consider it a handy addition to smart home setups. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "193"
+      "count": "194"
     },
     {
       "name": "Installation",
-      "count": "86"
+      "count": "87"
     },
     {
       "name": "Functionality",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Sandeep",
+      "rating": 5.0,
+      "title": "Installation was easy and good",
+      "date": "2026-08-17",
+      "date_label": "17 August 2026",
+      "body": "Good lock, great installation."
+    },
+    {
       "author": "Ajaz Ahmed",
       "rating": 5.0,
       "title": "Ajaz",
@@ -51,14 +59,6 @@
       "date": "2026-08-11",
       "date_label": "11 August 2026",
       "body": "Good product, easy installation"
-    },
-    {
-      "author": "Pradeep K",
-      "rating": 5.0,
-      "title": "Smart lock plus",
-      "date": "2026-08-11",
-      "date_label": "11 August 2026",
-      "body": "Brief content visible, double tap to read full content.Full content visible, double tap to read brief content. Read moreRead less"
     },
     {
       "author": "Abyisheik",

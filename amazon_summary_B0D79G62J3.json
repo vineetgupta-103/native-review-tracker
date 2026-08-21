@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-19",
-  "customers_say": "Customers find this water purifier to be among the best in the market, offering excellent value for money with transparent pricing. The installation process receives positive feedback, with one customer noting it's very simple to set up. Moreover, the purifier performs reliably, with one customer mentioning it works well with any type of water, and customers appreciate its premium appearance and sweet-tasting output. Additionally, the water quality is consistently good, with one customer specifically noting improved TDS levels, and the service receives praise for its professional and consumer-friendly approach.",
+  "scraped": "2026-08-21",
+  "customers_say": "Customers find this water purifier to be among the best in the market, offering good value for money with transparent pricing. The installation process is excellent, and the purifier works properly, with one customer noting the mineraliser and alkaline filters perform well. They appreciate its premium appearance and consider it a fantastic investment for safe, clean drinking water. The water quality receives positive feedback, with customers reporting noticeable improvements, though opinions on taste are mixed.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,11 +8,11 @@
     },
     {
       "name": "Value for money",
-      "count": "476"
+      "count": "477"
     },
     {
       "name": "Installation",
-      "count": "327"
+      "count": "328"
     },
     {
       "name": "Reliability",
@@ -23,16 +23,16 @@
       "count": "235"
     },
     {
-      "name": "Water taste",
-      "count": "205"
-    },
-    {
       "name": "Water quality",
       "count": "173"
     },
     {
       "name": "Service",
       "count": "142"
+    },
+    {
+      "name": "Water taste",
+      "count": "206"
     }
   ],
   "reviews": [

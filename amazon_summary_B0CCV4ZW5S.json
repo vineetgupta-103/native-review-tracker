@@ -1,8 +1,57 @@
 {
-  "scraped": "2026-08-19",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-08-21",
+  "customers_say": "Customers find the smart lock to be of high quality, with all features working smoothly and providing peace of mind through its secure multi-bolt system. They appreciate its versatility with multiple access methods, including fingerprint, face ID, and password options, and find it easy to use, particularly through fingerprint recognition. Customers consider it good value for money, adding to their home's appeal, and one customer mentions it's especially convenient for elderly and children.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "251"
+    },
+    {
+      "name": "Functionality",
+      "count": "105"
+    },
+    {
+      "name": "Value for money",
+      "count": "77"
+    },
+    {
+      "name": "Ease of use",
+      "count": "57"
+    },
+    {
+      "name": "Security",
+      "count": "44"
+    },
+    {
+      "name": "Appearance",
+      "count": "38"
+    },
+    {
+      "name": "Features",
+      "count": "37"
+    },
+    {
+      "name": "Convenience",
+      "count": "28"
+    }
+  ],
   "reviews": [
+    {
+      "author": "Prasad Katre",
+      "rating": 5.0,
+      "title": "Unboxing Experience",
+      "date": "2026-08-17",
+      "date_label": "17 August 2026",
+      "body": "Packaging & Unboxing Experience ​From the moment the package arrived, the presentation gave a strong impression of a premium product. ​Secure Protection: The outer box was sturdy with zero signs of shipping damage. Inside, high-density custom foam inserts cushioned every component—preventing any scratches or scuffs on the lock's finish. ​Neatly Organized: Everything came neatly compartmentalized. The front and rear lock bodies, mortise assembly, RFID key cards, mechanical backup keys, and installation screws were clearly labeled. ​Documentation: Includes an easy-to-read user manual and a drill"
+    },
+    {
+      "author": "Sajin Babu",
+      "rating": 5.0,
+      "title": "x95 Golens product and service experience.",
+      "date": "2026-08-15",
+      "date_label": "15 August 2026",
+      "body": "I bought an x95 model Golens smart door lock after a lot of research online and physically at outlets. I could find only this model that actually suited my door specs and the carpentry required for replacing the existing conventional lock. Product delivery: Well packed, neatly categorised and highly safe boxing. No surprises of missing components or parts. No complaints in product finishes and build quality. Installation: Although this was arranged 3-4 days after the delivery, the installation was a superb and happy experience. On contrary to my anxieties about the neatness and suitability to "
+    },
     {
       "author": "Rahul",
       "rating": 1.0,
@@ -12,28 +61,12 @@
       "body": "Absolutely terrible experience with golens x95. I bought this lock on 7/6/25 and got it installed on 31 july 26 from Golens for an additional charge of 1500 rupees; as there was construction going on in my house. It worked fine for a few days but when the battery drained and I tried to charge it, i noticed that the battery is faulty and not getting charged. Even after charging it for a whole day it worked only for a few mins. When I contacted customer care then I was told I need to pay additional 2850 for replacement battery. Absolutely ridiculous and shady brand. Won't recommend to anyone."
     },
     {
-      "author": "WIP",
-      "rating": 5.0,
-      "title": "Good quality",
-      "date": "2026-08-06",
-      "date_label": "6 August 2026",
-      "body": "Product looks premium. Will recommend for the cheap and best option in this category having the best features."
-    },
-    {
       "author": "SALEEM KAKKATIKARA",
       "rating": 5.0,
       "title": "Exelent smart lock",
       "date": "2026-08-01",
       "date_label": "1 August 2026",
       "body": "use for the Golens Smart Lock X95: Title: Excellent product — 5 stars! I’m very impressed with the Golens Smart Lock X95. Installation was quick and simple, and the sleek design looks great on my door. It offers multiple access methods ( face camera fingerprint, keypad, app, and backup key), and all of them work reliably. The fingerprint reader is fast and accurate, the keypad is responsive, and the mobile app is easy to use with helpful real-time notifications and access logs. Security features are solid — encrypted communication and an alarm for unauthorized attempts give me peace of mind. A"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Worth of investment",
-      "date": "2026-08-01",
-      "date_label": "1 August 2026",
-      "body": "Very good lock and quality. Installation was good"
     },
     {
       "author": "Vensys IT Ventures Pvt Ltd",

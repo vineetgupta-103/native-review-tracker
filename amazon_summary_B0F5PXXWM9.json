@@ -1,30 +1,30 @@
 {
-  "scraped": "2026-08-19",
-  "customers_say": "Customers find the water purification unit to be of good quality, working well, and appreciate its appearance, with one noting it's suitable for a family of 4 to 5 people. The product receives positive feedback for its taste, water quality, and ease of use, with one customer highlighting its 60% higher water recovery rate. The installation process is straightforward, and while the brand's service support is generally good, some customers report poor after-sales service.",
+  "scraped": "2026-08-21",
+  "customers_say": "Customers find the water purification unit to be of good quality, working well, and appreciate its appearance, with one noting it's suitable for a family of 4 to 5 people. The product receives positive feedback for its taste, water quality, and ease of use, with one customer mentioning it's simple to test its performance. Installation is straightforward, with one customer highlighting the free installation service. While some customers praise the brand's service support, others report extremely poor customer care and after-sales service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "3.6K"
+      "count": "3.7K"
     },
     {
       "name": "Functionality",
-      "count": "860"
+      "count": "863"
     },
     {
       "name": "Installation",
-      "count": "536"
+      "count": "540"
     },
     {
       "name": "Appearance",
-      "count": "316"
+      "count": "317"
     },
     {
       "name": "Water taste",
-      "count": "254"
+      "count": "256"
     },
     {
       "name": "Water quality",
-      "count": "162"
+      "count": "237"
     },
     {
       "name": "Ease of use",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Service",
-      "count": "142"
+      "count": "144"
     }
   ],
   "reviews": [
+    {
+      "author": "Naveen reddy d",
+      "rating": 4.0,
+      "title": "Good one",
+      "date": "2026-08-17",
+      "date_label": "17 August 2026",
+      "body": "After few requests the installation was done, product was good its hist that since I am sitting in remote location I had to make few customer care requests to get the job done. Their response was good. Over all I would say its good"
+    },
     {
       "author": "amit mann",
       "rating": 4.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-30",
       "date_label": "30 July 2026",
       "body": "The product is good. The customer service isn’t so great though. He wouldn’t show up when he promised that he would. So, please be prepared. He wouldn’t show try to upsell you stuff saying I would need a valve for water pressure or that the TDS is higher than expected etc. when you buy the add on he offers, he wouldn’t give any receipt. Other than the customer experience, the product is good. I tested the TDS before and after installation and the water purifier is working as desired. Before installation the TDS was 404(bore well water) and after installation it is 53. So I am quite satisfied w"
-    },
-    {
-      "author": "#leela nagisetty",
-      "rating": 4.0,
-      "title": "Staisfied",
-      "date": "2026-07-29",
-      "date_label": "29 July 2026",
-      "body": "I've been using the Aquaguard Delight Aquasaver RO+UV+UF+MC water purifier, and overall I'm very satisfied with its performance. The water tastes clean and fresh, and the stainless steel storage tank is a great feature since it feels more hygienic than a plastic tank. The purifier is compact, works quietly, and the purification process is efficient. Installation was straightforward, and the long advertised filter life is an added advantage that may help reduce maintenance costs. Overall, it's a reliable water purifier with good features, and I'd recommend it to anyone looking for a quality RO+"
     }
   ]
 }
