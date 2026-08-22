@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-21",
+  "scraped": "2026-08-22",
   "customers_say": "Customers find the water purifier excellent in quality and performance, with quick and perfect installation, and appreciate its premium design and taste control features. They consider it a great choice for daily use, particularly for small families. While some customers consider it good value for money, others feel it's not worth the price. The service receives mixed feedback, with some praising the customer support while others report terrible service.",
   "aspects": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Installation",
-      "count": "163"
+      "count": "174"
     },
     {
       "name": "Water taste",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Value for money",
-      "count": "270"
+      "count": "286"
     },
     {
       "name": "Service",
@@ -37,20 +37,20 @@
   ],
   "reviews": [
     {
+      "author": "Vigneshwar",
+      "rating": 5.0,
+      "title": "Great Support and Product",
+      "date": "2026-08-15",
+      "date_label": "15 August 2026",
+      "body": "The Purifier is good with much convenience and just that it would have been great if it had supported 5GHz connectivity instead of 2.4GHz..apart from that its totally recommendable.. The installation was provide by the Technician Mr. Dhanaraj (2004965) who was very professional and knowledgeable and was of great help.."
+    },
+    {
       "author": "Amazon Customer",
       "rating": 4.0,
       "title": "Good purification and features overall but slow dispensing",
       "date": "2026-08-13",
       "date_label": "13 August 2026",
       "body": "Good Thing: 1. Water quality is good as well taste 2. Stainless steel tank feels much more hygienic than standard plastic 3.Tracking TDS and filter life is very convenient 4. Long 2 years filter life means hassles service But the slow dispensing and minor design omissions male everyday usages a bit tedious."
-    },
-    {
-      "author": "Sujata Das",
-      "rating": 5.0,
-      "title": "A perfect Filter",
-      "date": "2026-08-02",
-      "date_label": "2 August 2026",
-      "body": "I have got a very nice deal in Aquaguard Ritz Pro Filter. Service was prompt. The machine is functioning very nicely. Water quality is very clean."
     },
     {
       "author": "Reshma",

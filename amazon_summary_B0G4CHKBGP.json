@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-21",
+  "scraped": "2026-08-22",
   "customers_say": "Customers find the water purifier to be worth the money and appreciate its performance, noting it exceeds expectations in both functionality and design. The installation process goes smoothly without hassle, and they like the water quality, with one customer specifically mentioning TDS levels below 100. They praise the appearance, with one highlighting the modern touch panel with LED indicators, and find the water tastes good. However, reliability is a concern, with multiple customers reporting that their units stopped working within one month of use.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Performance",
-      "count": "148"
+      "count": "149"
     },
     {
       "name": "Installation",
@@ -20,19 +20,19 @@
     },
     {
       "name": "Water taste",
-      "count": "84"
+      "count": "86"
     },
     {
       "name": "Appearance",
-      "count": "66"
+      "count": "67"
     },
     {
       "name": "Service",
-      "count": "54"
+      "count": "55"
     },
     {
       "name": "Reliability",
-      "count": "61"
+      "count": "62"
     }
   ],
   "reviews": [
