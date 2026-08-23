@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-22",
+  "scraped": "2026-08-23",
   "customers_say": "Customers find this water purifier to be among the best in the market, offering good value with transparent pricing and budget-friendly features. The product receives positive feedback for its appearance, installation process, reliability, and service, with customers noting it makes a noticeable difference in water quality. Customers disagree on the taste of the water.",
   "aspects": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Installation",
-      "count": "328"
+      "count": "327"
     },
     {
       "name": "Reliability",
@@ -20,11 +20,11 @@
     },
     {
       "name": "Appearance",
-      "count": "235"
+      "count": "233"
     },
     {
       "name": "Water quality",
-      "count": "173"
+      "count": "172"
     },
     {
       "name": "Service",
