@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-23",
+  "scraped": "2026-08-24",
   "customers_say": "Customers find this water purifier to be among the best in the market, offering good value with transparent pricing and budget-friendly features. The product receives positive feedback for its appearance, installation process, reliability, and service, with customers noting it makes a noticeable difference in water quality. Customers disagree on the taste of the water.",
   "aspects": [
     {
@@ -8,27 +8,27 @@
     },
     {
       "name": "Value for money",
-      "count": "477"
+      "count": "476"
     },
     {
       "name": "Installation",
-      "count": "327"
+      "count": "325"
     },
     {
       "name": "Reliability",
-      "count": "283"
+      "count": "282"
     },
     {
       "name": "Appearance",
-      "count": "233"
+      "count": "232"
     },
     {
       "name": "Water quality",
-      "count": "172"
+      "count": "167"
     },
     {
       "name": "Service",
-      "count": "142"
+      "count": "141"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Connection Point",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "Recieved Product and installation was very smooth. Person who came to install Native M1 was highly qualified. Will put final review after using it for atleast three months."
+    },
+    {
+      "author": "Ramesh K.",
+      "rating": 5.0,
+      "title": "URBAN COMPANY",
+      "date": "2026-08-18",
+      "date_label": "18 August 2026",
+      "body": "RECENTLY I BOUGHT URBAN COMPANY NATIVE M1 PRO WATER PURIFIER.... THIS PRODUCT IS VERY NICE, SLEEK&COMPACT DESIGN.... I LOVE THIS BLACK COLOUR.... INSTALLATION ONLY 4 DAYS DELAY FOR THE REASON NO TECNINICIAN IN MY AREA... OTHERWISE PRODUCT IS GOOD, WATER PURIFIER WORK IS VERY GOOD"
+    },
     {
       "author": "Vaibhav Patil",
       "rating": 5.0,
@@ -45,36 +61,20 @@
       "body": "Excellent product. It's been more than 1.5 years and still going strong. No issues with water till date. Beware of installation agent they suggest you to install pressure reducer valve or booster pump even when it is not required. It you water tank is on height of 3 house floor. You may need a reducer. But always check the pressure on his device whenever they measure the pressure."
     },
     {
-      "author": "Philosopher Stoned",
-      "rating": 5.0,
-      "title": "Go for it without a 2nd thought. Worth every penny",
-      "date": "2026-08-16",
-      "date_label": "16 August 2026",
-      "body": "The best filter in the market. Worth the price. UC made it easy for me Only minor drawback is storage capacity"
-    },
-    {
-      "author": "shanmukha rao",
-      "rating": 4.0,
-      "title": "worth for budget",
-      "date": "2026-08-14",
-      "date_label": "14 August 2026",
-      "body": "Good quality"
-    },
-    {
-      "author": "SJ",
-      "rating": 5.0,
-      "title": "Peace of mind guaranteed!",
-      "date": "2026-08-12",
-      "date_label": "12 August 2026",
-      "body": "Wonderful product with no other hidden charges, everything is covered! just sit back and relax for 2 years! really surprised by the service promptness in specified time & prompt follow up post delivery & installation felt really good..."
-    },
-    {
       "author": "Dada Khalandar",
       "rating": 5.0,
       "title": "Impressive TDS reduction and hassle-free ownership!",
       "date": "2026-08-11",
       "date_label": "11 August 2026",
       "body": "Outstanding performance and total value for money! Highly impressed with the Native M1 by Urban Company. Our input water TDS was extremely high at 1190, and this purifier brought it right down to a clean 134. The promised 2-year zero filter change feature makes it an absolute game-changer—no maintenance hassle for two full years. Delicious, clean drinking water. Highly recommended!"
+    },
+    {
+      "author": "KARTIK",
+      "rating": 5.0,
+      "title": "Just for starting phase you have to refill it 2 times.",
+      "date": "2026-08-04",
+      "date_label": "4 August 2026",
+      "body": "The quality of material so good and luxurious, it will give pretty look to your kitchen. The working model is nice as it gives minerals and alkaline water which will improve the test of water. Noise level is somewhere around 2 out of 5. Overall value for money product."
     }
   ]
 }

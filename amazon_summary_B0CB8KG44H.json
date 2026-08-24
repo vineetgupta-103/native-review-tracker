@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-22",
+  "scraped": "2026-08-24",
   "customers_say": "Customers find the water purifier easy to use and appreciate its taste, with one mentioning the ability to adjust it. The installation process is quick, and the water quality is good, with one customer noting a substantial improvement in filtration. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine.",
   "aspects": [
     {
@@ -16,11 +16,11 @@
     },
     {
       "name": "Water quality",
-      "count": "138"
+      "count": "137"
     },
     {
       "name": "Value for money",
-      "count": "645"
+      "count": "646"
     },
     {
       "name": "Reliability",
@@ -37,44 +37,44 @@
   ],
   "reviews": [
     {
+      "author": "Amit kumar",
+      "rating": 4.0,
+      "title": "Ok",
+      "date": "2026-08-20",
+      "date_label": "20 August 2026",
+      "body": "Ok"
+    },
+    {
+      "author": "Mahesh Kumar Bochela",
+      "rating": 4.0,
+      "title": "Good for portable drinking water",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "Good product"
+    },
+    {
+      "author": "MD Affan Khader Ali",
+      "rating": 5.0,
+      "title": "Awesome",
+      "date": "2026-08-18",
+      "date_label": "18 August 2026",
+      "body": "The service guy Mr konduri raju has done an excellent job,the perfection he has displayed in the installation process is awesome,thank you kent."
+    },
+    {
+      "author": "Lakshmi sri Edara",
+      "rating": 4.0,
+      "title": "Good",
+      "date": "2026-08-18",
+      "date_label": "18 August 2026",
+      "body": "ఇన్స్టలేషన్ మ్యానర్ ఇస్ good approch"
+    },
+    {
       "author": "Nilabja",
       "rating": 5.0,
       "title": "Overall good experience so far no issues",
       "date": "2026-08-13",
       "date_label": "13 August 2026",
       "body": "Got delivered within 2 days and installed very next day. Till now no problem. Water taste is good"
-    },
-    {
-      "author": "Jaswanth Talla",
-      "rating": 5.0,
-      "title": "Worth for money",
-      "date": "2026-08-12",
-      "date_label": "12 August 2026",
-      "body": "Nice product and good installation"
-    },
-    {
-      "author": "Sudhakar",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-08-09",
-      "date_label": "9 August 2026",
-      "body": "Good"
-    },
-    {
-      "author": "Sheela",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-08-08",
-      "date_label": "8 August 2026",
-      "body": "Good"
-    },
-    {
-      "author": "CHANDU",
-      "rating": 5.0,
-      "title": "Very Happy with My KENT Purifier",
-      "date": "2026-08-07",
-      "date_label": "7 August 2026",
-      "body": "I am very satisfied with my KENT water purifier. The water quality is excellent, and the purifier works efficiently. The design is also good and easy to use. Overall, it is a reliable product and offers good value for money. Highly recommended!"
     }
   ]
 }

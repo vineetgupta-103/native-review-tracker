@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-08-23",
+  "scraped": "2026-08-24",
   "customers_say": "Customers find the water purifier to be worth the money and appreciate its performance, noting it exceeds expectations in both functionality and design. The installation process goes smoothly without hassle, and they like the water quality, with one customer specifically mentioning TDS levels below 100. They praise the appearance, with one highlighting the modern touch panel with LED indicators, and find the water tastes good. However, reliability is a concern, with multiple customers reporting that their units stopped working within one month of use.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "219"
+      "count": "220"
     },
     {
       "name": "Performance",
-      "count": "149"
+      "count": "148"
     },
     {
       "name": "Installation",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Water taste",
-      "count": "86"
+      "count": "85"
     },
     {
       "name": "Appearance",
@@ -37,12 +37,12 @@
   ],
   "reviews": [
     {
-      "author": "Jessica",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "Must buy",
-      "date": "2026-08-16",
-      "date_label": "16 August 2026",
-      "body": "Must buy !! Amazingly working"
+      "title": "Excellent RO with Great Service and Professional Installation",
+      "date": "2026-08-20",
+      "date_label": "20 August 2026",
+      "body": "I’m very happy with my Native M2 Pro RO. The installation service was excellent, and the technician was polite, professional, and explained everything clearly. The RO looks premium, works smoothly, and the water quality is very good. Overall, a great experience and good value for money. Highly recommended!"
     },
     {
       "author": "mohammed ghiya",
@@ -61,20 +61,20 @@
       "body": "Product delivery took some time, but installation took place on the second day, installation process was smooth, technician done a wonderful job. Found continuous leakage from the tank after installation, same was fixed the next day by technician. Purifier is very silent, easy to setup with wifi and to connect with phone. Quality of water is good and very tasty, tds level came down to around 40-50 ppm. Got inbuilt battery just to dispense water incase of power cut, purifier doesn't run with that battery. Purifier health and water quality, tank level can be checked through App. Overall satisfie"
     },
     {
+      "author": "Wajid khan",
+      "rating": 5.0,
+      "title": "Native M2 pro",
+      "date": "2026-07-28",
+      "date_label": "28 July 2026",
+      "body": "This water purifier is an absolute game-changer for our home! We've been using it daily, and the water quality is consistently excellent. It's so reassuring knowing our family is drinking clean and healthy water. The ease of use is also a huge plus; it fits seamlessly into our daily routine. I highly recommend this for anyone looking for a reliable solution for their household water needs. It's around 1300 TDS in my area, and it purifies to 85 to 100, which is a good level for drinking."
+    },
+    {
       "author": "gowtham chama",
       "rating": 5.0,
       "title": "My Review of the Native M2 Neo Pro Water Purifier by Urban Company",
       "date": "2026-07-27",
       "date_label": "27 July 2026",
       "body": "’ve been using the Native M2 Neo Pro Water Purifier by Urban Company for the past month, and I’m genuinely satisfied with the product. One of the biggest reasons I chose this purifier is its excellent RO filtration. The water in my area has a TDS of around 1,000, and this purifier consistently brings it down to around 50 TDS, providing clean, safe, and great-tasting drinking water. The difference in water quality is noticeable, and the taste is excellent. The purifier has a modern, premium design, and the touch controls are responsive and easy to use. I also love the smart IoT features, which "
-    },
-    {
-      "author": "Sathishkumar",
-      "rating": 5.0,
-      "title": "M2 Pro Review: Impressive Installation & Better Water Quality",
-      "date": "2026-07-26",
-      "date_label": "26 July 2026",
-      "body": "Bought the M2 Pro from Amazon – Excellent Delivery & Installation Experience Delivery & Installation – Hassle-Free This was the first time I’ve experienced such a smooth purchase from Amazon. Even before the product was delivered, the UC team called to schedule the installation appointment for the same day. The purifier was delivered on Sunday at around 12:00 PM, and by 2:00 PM, the installation technician had arrived with all the required tools. The entire installation process was carried out professionally. After installation, the technician flushed each filter individually before starting t"
     }
   ]
 }

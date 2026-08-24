@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-22",
+  "scraped": "2026-08-24",
   "customers_say": "Customers find the door lock easy to install and appreciate its reliable performance with triple deadlocks for high security. They like its appearance, adding a modern touch to the door, and its features, including multiple unlocking options. The build quality is solid, and customers consider it a great value. The user experience receives mixed feedback, with some customers reporting a terrible app experience.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Asit kumar Subudhi",
+      "rating": 5.0,
+      "title": "Thank you UC and Amazon for this amazing Door lock.",
+      "date": "2026-08-21",
+      "date_label": "21 August 2026",
+      "body": "A must buy product. Fully satisfied. Easy to install and use. Provides full security to your entry and also easyvto control the access through app. A value for money product. A little bit desatisfied with the delay in installation bur rest okay."
+    },
+    {
       "author": "Amazon Customer",
       "rating": 5.0,
       "title": "Professional technician",
@@ -67,14 +75,6 @@
       "date": "2026-08-12",
       "date_label": "12 August 2026",
       "body": "Installation process was smooth and the technician explained all features in detail. The lock seems good, 1 week after installation. The fingerprint sensor is sensitive and works fine. The doorbell feature makes urban lockpro stand out as compared to other locks."
-    },
-    {
-      "author": "Leeroy",
-      "rating": 5.0,
-      "title": "One of the best Smart door lock",
-      "date": "2026-08-10",
-      "date_label": "10 August 2026",
-      "body": "Very easy to use and all the features are amazing. The technician was also very knowledgeable and professional. If you are looking for a smart lock with good security this is the best."
     }
   ]
 }

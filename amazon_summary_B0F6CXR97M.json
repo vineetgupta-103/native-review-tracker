@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-23",
+  "scraped": "2026-08-24",
   "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and user-friendly app. They appreciate its adjustable TDS levels, good taste without metallic or chemical aftertaste, and excellent installation process. The product receives positive feedback for its features and ease of use, though opinions about value for money are mixed.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "855"
+      "count": "856"
     },
     {
       "name": "Installation",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Water taste",
-      "count": "81"
+      "count": "82"
     },
     {
       "name": "Features",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Value for money",
-      "count": "199"
+      "count": "200"
     }
   ],
   "reviews": [
@@ -43,6 +43,14 @@
       "date": "2026-08-14",
       "date_label": "14 August 2026",
       "body": "Prompt installation and excellent service with zero delays or extra charges! This purifier outperforms everything else on the market. The customizable features are fantastic and adapt perfectly to our needs. Highly recommended."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-08-11",
+      "date_label": "11 August 2026",
+      "body": "Installation was done by Mr. Lokesh. The installation was very good, and he clearly explained the complete working process in an easy-to-understand manner. Overall, I am satisfied with the installation and his service."
     },
     {
       "author": "Pradeep Kandaswamy",
@@ -67,14 +75,6 @@
       "date": "2026-08-09",
       "date_label": "9 August 2026",
       "body": "Atomberg Water purifier was very nice display design and Purification method then value for money. Water quality was good. But Price and size little bit high."
-    },
-    {
-      "author": "Noor",
-      "rating": 5.0,
-      "title": "Excellent Product & Great Service",
-      "date": "2026-08-08",
-      "date_label": "8 August 2026",
-      "body": "I have been using this Atomberg water purifier for the past 6 months and I’m very happy with its performance. The water quality and taste are good, and the purifier has been working reliably without any issues. The after-sales service is also excellent. The service team is responsive, professional, and helpful whenever assistance is needed. Overall, I’m very satisfied with the product and the service. Definitely worth considering if you’re looking for a reliable water purifier. Highly recommended! 👍"
     }
   ]
 }

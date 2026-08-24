@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-23",
+  "scraped": "2026-08-24",
   "customers_say": "Customers find the door lock easy to operate with a user-friendly app and appreciate its premium build quality and top-tier security features. They like its appearance, with one customer noting there's no ugly handle sticking out, and another mentioning the high-tech face unlock feature. While customers consider it a good value, opinions about installation time are mixed.",
   "aspects": [
     {
@@ -37,12 +37,20 @@
   ],
   "reviews": [
     {
-      "author": "scarecrow",
+      "author": "Ankit Singh",
       "rating": 5.0,
-      "title": "Great lock",
-      "date": "2026-08-16",
-      "date_label": "16 August 2026",
-      "body": "Ive been using this lock for about a moth now, the features are good, the operation has been seamless, battery life is only about a month which is fine as you have a spaare battery, The app needs some feature additions (such as suspension of access for maid without removing the biometric data in case of vacation), otherwise excellent till now"
+      "title": "First line is review title and rest is review",
+      "date": "2026-08-20",
+      "date_label": "20 August 2026",
+      "body": "*Good experience till now* Been using since few days. Product quality is very nice and installation also smooth. Thanks to amazon the lock came after 1 day and the uc people installed it after that. very professsionally done and door was not damaged. Notifications come quickly and can manage everythign from app. Very easy to use. Camera works good even in night. Small daily convenience but makes difference."
+    },
+    {
+      "author": "Harpreet singh",
+      "rating": 5.0,
+      "title": "Design and build quality is great",
+      "date": "2026-08-18",
+      "date_label": "18 August 2026",
+      "body": "Great lock with excellent features and safery"
     },
     {
       "author": "abhishek ghadigaonkar",
@@ -67,14 +75,6 @@
       "date": "2026-08-06",
       "date_label": "6 August 2026",
       "body": "Delivery was prompt. Installation took time and was dusty but was done neatly. Have been using it from >15 days and I would say it's made my life easy one (key less) at a time! Pros: No need to carry keys, no need to ask someone at home to lock the door when going out as it automatically locks. Camera unlocks even if it's dark. Battery is at 70% even after >15 days. Good job UC. Product price is at a higher end but worth. Cons: Mine was a heavy Honne wood door and sometimes the door gets stuck (mostly due to weather changes) instead of opening but it's the door and not the lock."
-    },
-    {
-      "author": "Sandeep Raj",
-      "rating": 5.0,
-      "title": "Great product. Good buying decision.",
-      "date": "2026-08-06",
-      "date_label": "6 August 2026",
-      "body": "This is an excellent product and very sturdy. Very easy to operate and has all the features including Wi-Fi connectivity, biometric, numerical, RF cards and even a key for emergency and when battery goes down. Communication with the lock works very well. The App is very user friendly and has all the desirable features. The battery is good. Really value for money. Very happy with the purchase."
     }
   ]
 }

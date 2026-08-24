@@ -1,7 +1,11 @@
 {
-  "scraped": "2026-08-23",
-  "customers_say": "Customers find the digital lock easy to use and appreciate its safety features, with one noting it works well on wooden doors. Moreover, the installation and service receive positive feedback, with one customer highlighting the clear explanation of features. Additionally, the product is sturdy and offers good value for money, though opinions on this aspect are mixed.",
+  "scraped": "2026-08-24",
+  "customers_say": "Customers find the digital lock to be a good security device with many features, easy to use, and well-installed. They appreciate its reliability, with one customer noting it works well on wooden doors, and consider it good value for the price.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "103"
+    },
     {
       "name": "Installation",
       "count": "30"
@@ -27,22 +31,26 @@
       "count": "10"
     },
     {
-      "name": "Durability",
-      "count": "9"
-    },
-    {
       "name": "Value for money",
       "count": "16"
     }
   ],
   "reviews": [
     {
-      "author": "Jyoti Pottu",
+      "author": "G RAVI CHANDRA",
       "rating": 5.0,
-      "title": "Product has many features",
-      "date": "2026-08-15",
-      "date_label": "15 August 2026",
-      "body": "Product is good.. installation person is technically is good and many options to use device.no issues so far"
+      "title": "Ravi",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "Product is good. Installation was good and explained about the product clearly I recommend to opt this product"
+    },
+    {
+      "author": "Nikhil",
+      "rating": 5.0,
+      "title": "Good product and service",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "Product is good service is perfect faced no issue."
     },
     {
       "author": "Naseer",
@@ -67,14 +75,6 @@
       "date": "2026-07-28",
       "date_label": "28 July 2026",
       "body": "I like it very much and service also very fast . Very happy"
-    },
-    {
-      "author": "DEEPAK VEHAL",
-      "rating": 5.0,
-      "title": "Great experience",
-      "date": "2026-07-26",
-      "date_label": "26 July 2026",
-      "body": "Great experience with godrej and the installation process was very quick and easy. Technician was very good. Technician Name- Guddu"
     }
   ]
 }

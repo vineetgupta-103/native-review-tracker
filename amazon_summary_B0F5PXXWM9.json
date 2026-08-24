@@ -1,48 +1,56 @@
 {
-  "scraped": "2026-08-23",
-  "customers_say": "Customers find the water purification unit to be of good quality, working well, and appreciate its appearance, with one noting it's suitable for a family of 4 to 5 people. The product receives positive feedback for its taste, water quality, and ease of use, with one customer mentioning it's simple to test its performance. Installation is straightforward, with one customer highlighting the free installation service. While some customers praise the brand's service support, others report extremely poor customer care and after-sales service.",
+  "scraped": "2026-08-24",
+  "customers_say": "Customers find the water purifier to be of excellent quality, working well and delivering clean, pure water that tastes good. They appreciate its budget-friendly nature, attractive appearance, and ease of use, with one customer noting it's suitable for a family of 4 to 5 people. The service receives mixed reviews, with some praising the prompt service while others report very bad service.",
   "aspects": [
     {
       "name": "Quality",
       "count": "3.4K"
     },
     {
-      "name": "Functionality",
-      "count": "805"
+      "name": "Reliability",
+      "count": "811"
     },
     {
-      "name": "Installation",
-      "count": "510"
+      "name": "Value for money",
+      "count": "766"
     },
     {
       "name": "Appearance",
-      "count": "300"
+      "count": "298"
     },
     {
       "name": "Water taste",
-      "count": "242"
+      "count": "243"
     },
     {
       "name": "Water quality",
-      "count": "219"
+      "count": "153"
     },
     {
       "name": "Ease of use",
-      "count": "132"
+      "count": "129"
     },
     {
       "name": "Service",
-      "count": "137"
+      "count": "132"
     }
   ],
   "reviews": [
     {
-      "author": "Domnic Pereira",
+      "author": "John Çherian",
       "rating": 5.0,
-      "title": "A worthy RO+UV+UF water purifier from Eureka Forbes!",
+      "title": "Aquaguard delight s/steel water purifier",
       "date": "2026-08-20",
       "date_label": "20 August 2026",
-      "body": "This is a very good water purifier from Eureka Forbes. I've purchased two units. It has a very nice all black look. It also comes with a TDS meter and a mega pre filter. It comes with a 9 stage purification process too. The water taste is pleasant & the water quality is good. The installation technicians Manoj Ingale & Prasad have been very cooperative, knowledgeable and helpful. The overall service is very good."
+      "body": "This is another awesome water purifier from Eureka Forbes. Used another model for the past 13 years and now replaced with this new model with a stainless steel collection tank fitted inside. Got a good offer from Amazon during their recent Freedom sale. Eureka Forbes installation team did an excellent job as expected and they dismantled the old purifier with the new purifier. Only regret is that there was a buy back offer from Eureka Forbes for the old one which we were using and we couldn't avail this offer due to very bad misguiding aptitude from Amazon customer care. Filtration is Excell an"
+    },
+    {
+      "author": "shajil parakkadavath",
+      "rating": 4.0,
+      "title": "Good product",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "This purifier machine is good in budget and is running well now and the technician is charging extra ₹500 for TDS control.👍The first machine that arrived was faulty. I think it was repaired. After complaining to Call center , they gave me a new replacement machine."
     },
     {
       "author": "A",
@@ -61,20 +69,12 @@
       "body": "I have just started using, will share detailed feedback after using it for sometime, but basic features look good theoretically, will share feedback after using it for sometime"
     },
     {
-      "author": "smita",
-      "rating": 3.0,
-      "title": "Product is good but installation was disappointing",
-      "date": "2026-08-02",
-      "date_label": "2 August 2026",
-      "body": "The water purifier itself is excellent and has been working perfectly. However, the installation experience was very disappointing. The installation engineer strongly pushed me to purchase a TDS controller and a water pressure control device, even after I clearly informed him that my home receives PMC water. I felt pressured into buying these additional accessories. After testing, my water’s TDS level was found to be just 7, clearly indicating that the TDS controller was unnecessary. It seems these recommendations were driven more by upselling than by the actual water quality and customer need"
-    },
-    {
-      "author": "kiran kumar",
+      "author": "lienlal thangjom",
       "rating": 4.0,
-      "title": "Good product but bad customer service.",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "The product is good. The customer service isn’t so great though. He wouldn’t show up when he promised that he would. So, please be prepared. He wouldn’t show try to upsell you stuff saying I would need a valve for water pressure or that the TDS is higher than expected etc. when you buy the add on he offers, he wouldn’t give any receipt. Other than the customer experience, the product is good. I tested the TDS before and after installation and the water purifier is working as desired. Before installation the TDS was 404(bore well water) and after installation it is 53. So I am quite satisfied w"
+      "title": "Go for it",
+      "date": "2026-08-14",
+      "date_label": "14 August 2026",
+      "body": "Good product and reasonable price. Performance and system is also doing good. The quality of the water is also very good"
     }
   ]
 }
