@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-24",
+  "scraped": "2026-08-25",
   "customers_say": "Customers find the water purification unit to be of good quality, with quick and perfect installation, and appreciate its premium design and functionality for small families. The water tastes good, and they consider it a good value for its price. However, reliability and customer experience receive mixed feedback - while some say it works perfectly, others report it stops working properly, and while some have an awesome experience with Aquaguard, others find it deeply frustrating.",
   "aspects": [
     {
@@ -37,6 +37,22 @@
   ],
   "reviews": [
     {
+      "author": "Karthik Guptha",
+      "rating": 4.0,
+      "title": "Good product",
+      "date": "2026-08-21",
+      "date_label": "21 August 2026",
+      "body": "Good working fine"
+    },
+    {
+      "author": "Jyotiranjan  Chatterjee",
+      "rating": 5.0,
+      "title": "Very good",
+      "date": "2026-08-20",
+      "date_label": "20 August 2026",
+      "body": "After 5 days experience I can say it is doing good."
+    },
+    {
       "author": "Mythily",
       "rating": 5.0,
       "title": "Good purifier with excellent performance",
@@ -59,22 +75,6 @@
       "date": "2026-08-13",
       "date_label": "13 August 2026",
       "body": "Good Thing: 1. Water quality is good as well taste 2. Stainless steel tank feels much more hygienic than standard plastic 3.Tracking TDS and filter life is very convenient 4. Long 2 years filter life means hassles service But the slow dispensing and minor design omissions male everyday usages a bit tedious."
-    },
-    {
-      "author": "Ram Agarwal",
-      "rating": 5.0,
-      "title": "Good but",
-      "date": "2026-08-08",
-      "date_label": "8 August 2026",
-      "body": "Nice and also installation. Overall good for sure. Can go for it if you are looking for good purifier for yourself."
-    },
-    {
-      "author": "Reshma",
-      "rating": 4.0,
-      "title": "Good Value for Money",
-      "date": "2026-07-28",
-      "date_label": "28 July 2026",
-      "body": "Good water purifier with good water quality. It is easy to use and works well. Overall, I'm satisfied with the product and would recommend it."
     }
   ]
 }

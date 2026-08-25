@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-08-24",
+  "scraped": "2026-08-25",
   "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and user-friendly app. They appreciate its adjustable TDS levels, good taste without metallic or chemical aftertaste, and excellent installation process. The product receives positive feedback for its features and ease of use, though opinions about value for money are mixed.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "vikkkkiiiiii",
+      "rating": 5.0,
+      "title": "Service",
+      "date": "2026-08-21",
+      "date_label": "21 August 2026",
+      "body": "Really impressed with the Atomberg Intellon Water Purifier. The water tastes great, and the smart adaptive filtration is very useful. I especially like being able to monitor TDS and filter health through the app. The design looks premium and modern too. Installation was smooth, and overall the purifier feels well designed and easy to use. The 2-year warranty and no AMC are also a big advantage. Very satisfied with my purchase. Definitely 5 out of 5 and highly recommended! ⭐⭐⭐⭐⭐"
+    },
+    {
       "author": "sk",
       "rating": 5.0,
       "title": "-",
@@ -67,14 +75,6 @@
       "date": "2026-08-09",
       "date_label": "9 August 2026",
       "body": "The Atomberg Intellion RO performs well in terms of water purification. The design is modern, water quality is good, and the smart app features are useful when they work. Installation was smooth, and the purifier provides useful information such as filter status and water quality through the app. However, the biggest drawback is Wi-Fi management. If you change your home Wi-Fi name or router, reconnecting the purifier can be frustrating. The app may fail to update the Wi-Fi credentials, and there is no obvious physical reset or dedicated Wi-Fi button on the unit. Users are forced to troubleshoo"
-    },
-    {
-      "author": "RAMAMOORTHY M",
-      "rating": 5.0,
-      "title": "Atomberg water purifier design and Purification technology was good",
-      "date": "2026-08-09",
-      "date_label": "9 August 2026",
-      "body": "Atomberg Water purifier was very nice display design and Purification method then value for money. Water quality was good. But Price and size little bit high."
     }
   ]
 }
