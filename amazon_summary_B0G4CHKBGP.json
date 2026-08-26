@@ -1,41 +1,49 @@
 {
-  "scraped": "2026-08-25",
-  "customers_say": "Customers find the water purifier to be worth the money and appreciate its performance, noting it exceeds expectations in both functionality and design. The installation process goes smoothly without hassle, and they like the water quality, with one customer specifically mentioning TDS levels below 100. They praise the appearance, with one highlighting the modern touch panel with LED indicators, and find the water tastes good. However, reliability is a concern, with multiple customers reporting that their units stopped working within one month of use.",
+  "scraped": "2026-08-26",
+  "customers_say": "Customers find the water purifier to be worth the money and appreciate its performance, noting it exceeds expectations in both functionality and design. The installation process goes smoothly without hassle, and they like its appearance, with one customer highlighting the modern touch panel with LED indicators. Moreover, the water quality receives positive feedback, with one customer noting TDS levels below 100, and customers report good water taste. However, reliability is a concern as multiple customers report units stopping working within one month of use.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "220"
+      "count": "224"
     },
     {
       "name": "Performance",
-      "count": "148"
+      "count": "155"
     },
     {
       "name": "Installation",
-      "count": "134"
+      "count": "140"
     },
     {
       "name": "Water quality",
-      "count": "87"
+      "count": "89"
     },
     {
       "name": "Water taste",
-      "count": "85"
+      "count": "89"
     },
     {
       "name": "Appearance",
-      "count": "66"
+      "count": "67"
     },
     {
       "name": "Service",
-      "count": "55"
+      "count": "59"
     },
     {
       "name": "Reliability",
-      "count": "62"
+      "count": "68"
     }
   ],
   "reviews": [
+    {
+      "author": "Dr Deviprasad Shivade",
+      "rating": 5.0,
+      "title": "Excellent product",
+      "date": "2026-08-23",
+      "date_label": "23 August 2026",
+      "body": "“Excellent product. The build quality is very good, and it looks premium. Installation was done properly, and everything is working perfectly. I am very satisfied with the product so far. Definitely worth buying."
+    },
     {
       "author": "Amazon Customer",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-27",
       "date_label": "27 July 2026",
       "body": "’ve been using the Native M2 Neo Pro Water Purifier by Urban Company for the past month, and I’m genuinely satisfied with the product. One of the biggest reasons I chose this purifier is its excellent RO filtration. The water in my area has a TDS of around 1,000, and this purifier consistently brings it down to around 50 TDS, providing clean, safe, and great-tasting drinking water. The difference in water quality is noticeable, and the taste is excellent. The purifier has a modern, premium design, and the touch controls are responsive and easy to use. I also love the smart IoT features, which "
-    },
-    {
-      "author": "JIGAR PATEL",
-      "rating": 4.0,
-      "title": "Excellent Water Quality & Great Value for Money.",
-      "date": "2026-07-22",
-      "date_label": "22 July 2026",
-      "body": "⭐⭐⭐⭐☆ **4/5** I've been using the **Native M2 Pro RO** for the last **3 months**, and so far I haven't faced any issues. The touch buttons work perfectly, and everything is functioning smoothly. My input water TDS is around **307**, and after purification it comes down to about **25–50 TDS**. The water tastes smooth and fresh, and the purification quality is excellent. The **8-liter storage capacity** is perfect for a family of **4–5 people**. The installation was quick and professional—it took **hardly 30 minutes**. Another thing I really like is how **quiet** this RO is. The noise level is e"
     }
   ]
 }

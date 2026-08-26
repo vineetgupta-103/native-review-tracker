@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-25",
-  "customers_say": "Customers find the water purifier to be a very good quality product that functions well and delivers great-tasting water. They appreciate its premium appearance, hassle-free installation, and maintenance-free operation for the first two years. The filter life receives mixed reviews, with some customers reporting malfunction within a month.",
+  "scraped": "2026-08-26",
+  "customers_say": "Customers find the water purifier to be of good quality and appreciate its performance, with one noting the new technology helps improve RO life. The installation process is hassle-free, and the water tastes great. They like its appearance, with one highlighting its premium matte finish, and find it easy to maintain. While the filter life receives mixed reviews, with some units breaking within days of purchase, customers express satisfaction with their overall experience.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,11 +8,7 @@
     },
     {
       "name": "Performance",
-      "count": "67"
-    },
-    {
-      "name": "Value for money",
-      "count": "64"
+      "count": "68"
     },
     {
       "name": "Installation",
@@ -20,7 +16,7 @@
     },
     {
       "name": "Water taste",
-      "count": "30"
+      "count": "29"
     },
     {
       "name": "Appearance",
@@ -31,18 +27,30 @@
       "count": "20"
     },
     {
+      "name": "Cleaning experience",
+      "count": "17"
+    },
+    {
       "name": "Filter life",
       "count": "19"
     }
   ],
   "reviews": [
     {
-      "author": "Rajdeep Paul",
+      "author": "Ravi Singh",
       "rating": 5.0,
-      "title": "Good water purifier",
-      "date": "2026-08-10",
-      "date_label": "10 August 2026",
-      "body": "very good product within this price range, smooth and clean installation process. Thanks Amazon ans UC ❤️"
+      "title": "Good Product at a reasonable price.",
+      "date": "2026-08-23",
+      "date_label": "23 August 2026",
+      "body": "It’s a no-nonsense water purifier. You get RO + UV + a mineraliser, which is more than enough for most people. The installation was on time, and the technician was very good. If you’re looking for a fancy water purifier with all those gimmicky features, you might be disappointed with this one. But if you want a practical, reliable product, go for it."
+    },
+    {
+      "author": "SUMAN P.",
+      "rating": 5.0,
+      "title": "I satisfied with this product",
+      "date": "2026-08-23",
+      "date_label": "23 August 2026",
+      "body": "Buying to installation is very good experience. All parts is provided by company. No need to pay anything after purchasing."
     },
     {
       "author": "Jit Ghosh",
@@ -51,14 +59,6 @@
       "date": "2026-08-06",
       "date_label": "6 August 2026",
       "body": "Working excellent"
-    },
-    {
-      "author": "Avadhoot Jadhav",
-      "rating": 5.0,
-      "title": "So far very good experience",
-      "date": "2026-08-02",
-      "date_label": "2 August 2026",
-      "body": "So far so good. Previously tds was in hundreds, now it's com down to tens. 👍 Will update on warranty/repair process ( if any required) as we live in area with high tds water supply area."
     },
     {
       "author": "Nikhil Shiv",
