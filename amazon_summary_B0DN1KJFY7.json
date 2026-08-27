@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-25",
-  "customers_say": "Customers find the water purification unit to be of good quality, with quick and perfect installation, and appreciate its premium design and functionality for small families. The water tastes good, and they consider it a good value for its price. However, reliability and customer experience receive mixed feedback - while some say it works perfectly, others report it stops working properly, and while some have an awesome experience with Aquaguard, others find it deeply frustrating.",
+  "scraped": "2026-08-27",
+  "customers_say": "Customers praise the water purifier's 10-stage filtration system that consistently delivers clean, safe drinking water, and appreciate its quick and perfect installation process. The product offers good taste control based on water source, and customers find it a great choice for daily use, particularly for small families. The reliability and customer experience receive mixed feedback - while some report it works perfectly, others say it stops working properly, and while some have an awesome experience, others find it deeply frustrating. The service receives mixed reviews, with some finding it timely while others report terrible service.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,49 +8,49 @@
     },
     {
       "name": "Installation",
-      "count": "173"
+      "count": "174"
     },
     {
       "name": "Water taste",
-      "count": "106"
-    },
-    {
-      "name": "Appearance",
-      "count": "75"
+      "count": "105"
     },
     {
       "name": "Functionality",
       "count": "53"
     },
     {
-      "name": "Reliability",
-      "count": "336"
+      "name": "Filtration",
+      "count": "40"
     },
     {
-      "name": "Value for money",
-      "count": "284"
+      "name": "Reliability",
+      "count": "343"
     },
     {
       "name": "Customer experience",
+      "count": "48"
+    },
+    {
+      "name": "Service",
       "count": "48"
     }
   ],
   "reviews": [
     {
-      "author": "Karthik Guptha",
-      "rating": 4.0,
-      "title": "Good product",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "Good working fine"
+      "author": "Aakash Sharma",
+      "rating": 5.0,
+      "title": "Palatable water, Shows TDS In and Out levels",
+      "date": "2026-08-23",
+      "date_label": "23 August 2026",
+      "body": "Good Purifier, working as expected."
     },
     {
-      "author": "Jyotiranjan  Chatterjee",
-      "rating": 5.0,
-      "title": "Very good",
-      "date": "2026-08-20",
-      "date_label": "20 August 2026",
-      "body": "After 5 days experience I can say it is doing good."
+      "author": "abhigyan",
+      "rating": 1.0,
+      "title": "### Extremely Disappointing After-Sales Service from Aquaguard###",
+      "date": "2026-08-22",
+      "date_label": "22 August 2026",
+      "body": "### Extremely Disappointing After-Sales Service from Aquaguard The product worked well for the first four months. However, during the fifth month, the TDS level started increasing, and by the end of the fifth month, it had crossed 120. This is when I raised my first service complaint. A technician visited a few days later, carried out some checks, and assured me that the issue would resolve and the purifier would work fine. For the next few days, the TDS level did come down, but it never dropped below 100. Since the technician had assured us that it would improve in a few days, we trusted his "
     },
     {
       "author": "Mythily",

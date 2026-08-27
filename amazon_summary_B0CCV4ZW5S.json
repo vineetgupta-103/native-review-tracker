@@ -1,49 +1,8 @@
 {
-  "scraped": "2026-08-25",
-  "customers_say": "Customers find the smart lock to be of high quality, with all features working smoothly and offering multiple unlocking options. They appreciate its versatility, easy fingerprint operation, and installation process, while also noting its secure multi-bolt system that provides peace of mind. They like its appearance, with one customer describing it as premium-looking, and consider it good value for money, making it a must-buy for homes.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "249"
-    },
-    {
-      "name": "Functionality",
-      "count": "104"
-    },
-    {
-      "name": "Value for money",
-      "count": "77"
-    },
-    {
-      "name": "Ease of use",
-      "count": "57"
-    },
-    {
-      "name": "Installation",
-      "count": "57"
-    },
-    {
-      "name": "Security",
-      "count": "44"
-    },
-    {
-      "name": "Appearance",
-      "count": "37"
-    },
-    {
-      "name": "Features",
-      "count": "37"
-    }
-  ],
+  "scraped": "2026-08-27",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
-    {
-      "author": "Amazon Customer",
-      "rating": 1.0,
-      "title": "Hidden charges",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "Lock is good. Installation extra cost which is too high 1200/-. Fabricator extra charge. They should provide free installation."
-    },
     {
       "author": "Dr.Mumtaj khan",
       "rating": 5.0,
@@ -51,6 +10,14 @@
       "date": "2026-08-21",
       "date_label": "21 August 2026",
       "body": "Write a review I am very glad with this door lock. Golens X95 excellent product worth of money.The build quality feels strong and durable, and installation was quick and straightforward. It fits my main door perfectly and adds an extra layer of security and peace of mind. The locking mechanism works smoothly, and the overall finish looks premium. It is definitely a useful product for Home /Office Nice installation Installation man Mr Sonu good man. Thank u again."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 1.0,
+      "title": "Hidden charges",
+      "date": "2026-08-21",
+      "date_label": "21 August 2026",
+      "body": "Lock is good. Installation extra cost which is too high 1200/-. Fabricator extra charge. They should provide free installation."
     },
     {
       "author": "Prasad Katre",

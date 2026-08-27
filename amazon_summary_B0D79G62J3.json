@@ -1,41 +1,49 @@
 {
-  "scraped": "2026-08-25",
-  "customers_say": "Customers find this water purifier to be among the best in the market, offering good value with transparent pricing and budget-friendly features. The product receives positive feedback for its appearance, installation process, reliability, and service, with customers noting it makes a noticeable difference in water quality. Customers disagree on the taste of the water.",
+  "scraped": "2026-08-27",
+  "customers_say": "Customers find this water purifier offers good value for money, with transparent pricing and the ability to save on service costs. They appreciate its appearance, with one noting it's suitable for home design, and praise its 10-stage purification process that makes water completely clean. The product receives positive feedback for installation, service, and water quality, with customers reporting noticeable improvements. The taste receives mixed reviews, with some finding it excellent while others disagree.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "2.7K"
-    },
-    {
       "name": "Value for money",
-      "count": "476"
+      "count": "484"
     },
     {
       "name": "Installation",
-      "count": "325"
-    },
-    {
-      "name": "Reliability",
-      "count": "282"
+      "count": "324"
     },
     {
       "name": "Appearance",
-      "count": "232"
+      "count": "233"
     },
     {
       "name": "Water quality",
-      "count": "167"
+      "count": "170"
     },
     {
       "name": "Service",
       "count": "141"
     },
     {
+      "name": "Purification performance",
+      "count": "83"
+    },
+    {
+      "name": "Cleaning experience",
+      "count": "73"
+    },
+    {
       "name": "Water taste",
-      "count": "205"
+      "count": "209"
     }
   ],
   "reviews": [
+    {
+      "author": "Anand stephen",
+      "rating": 5.0,
+      "title": "Good purifier with peace of mind",
+      "date": "2026-08-24",
+      "date_label": "24 August 2026",
+      "body": "Writing this review after few weeks of usage . Looks classy Does the job and 2 year warranty is peace of mind . And the mobile realtime connectivity is superb . Tested my water tds levels . Before its around 550 .after filteration its around 58 . So better job on filtering . Installation is smooth as well the person knows what he is doing . So peace of mind on that 😊 Recommended one for new buyers ."
+    },
     {
       "author": "Akash",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-19",
       "date_label": "19 August 2026",
       "body": "Ordered M1 purifier on 8th August and expected delivery on 10th August. I received this on 13 August after multiple complaints and contact to customer care. Installation was to be done on 14 august but executive said there is some water pressure problem you have to pay Rs1250 for pressure kit. He said he need to order it first on my address then the installation will resume. Then again it got delayed by 3 days. After much delay it got installed on 17 August.It was really frustrating experience. Not going to order anything from UC again. Product review: size is quite big for my kitchen otherwis"
-    },
-    {
-      "author": "Ramesh K.",
-      "rating": 5.0,
-      "title": "URBAN COMPANY",
-      "date": "2026-08-18",
-      "date_label": "18 August 2026",
-      "body": "RECENTLY I BOUGHT URBAN COMPANY NATIVE M1 PRO WATER PURIFIER.... THIS PRODUCT IS VERY NICE, SLEEK&COMPACT DESIGN.... I LOVE THIS BLACK COLOUR.... INSTALLATION ONLY 4 DAYS DELAY FOR THE REASON NO TECNINICIAN IN MY AREA... OTHERWISE PRODUCT IS GOOD, WATER PURIFIER WORK IS VERY GOOD"
     }
   ]
 }

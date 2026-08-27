@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-25",
-  "customers_say": "Customers find the water purifier easy to use and appreciate its taste, with one mentioning the ability to adjust it. The installation process is quick, and the water quality is good, with one customer noting a substantial improvement in filtration. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine.",
+  "scraped": "2026-08-27",
+  "customers_say": "Customers find the water purifier easy to use and appreciate its taste, with one mentioning the ability to adjust it. The installation process is quick, and the water quality is good, with one customer noting a substantial improvement in filtration. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine. Value for money is also mixed, with some finding it good for the price while others consider it not worth the investment.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "502"
+      "count": "503"
     },
     {
       "name": "Water taste",
@@ -12,19 +12,19 @@
     },
     {
       "name": "Ease of use",
-      "count": "141"
+      "count": "142"
     },
     {
       "name": "Water quality",
-      "count": "137"
+      "count": "136"
     },
     {
       "name": "Value for money",
-      "count": "646"
+      "count": "647"
     },
     {
       "name": "Reliability",
-      "count": "559"
+      "count": "558"
     },
     {
       "name": "Durability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Rajesh",
+      "rating": 4.0,
+      "title": "ok",
+      "date": "2026-08-25",
+      "date_label": "25 August 2026",
+      "body": "ok, just bought this and installed"
+    },
     {
       "author": "Amit kumar",
       "rating": 4.0,
@@ -59,14 +67,6 @@
       "date": "2026-08-18",
       "date_label": "18 August 2026",
       "body": "The service guy Mr konduri raju has done an excellent job,the perfection he has displayed in the installation process is awesome,thank you kent."
-    },
-    {
-      "author": "Lakshmi sri Edara",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-08-18",
-      "date_label": "18 August 2026",
-      "body": "ఇన్స్టలేషన్ మ్యానర్ ఇస్ good approch"
     },
     {
       "author": "Nilabja",

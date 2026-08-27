@@ -1,72 +1,56 @@
 {
-  "scraped": "2026-08-25",
-  "customers_say": "Customers find the digital lock to be a good security device with many features, easy to use, and well-installed. They appreciate its reliability, with one customer noting it works well on wooden doors, and consider it good value for the price.",
+  "scraped": "2026-08-27",
+  "customers_say": "Customers find the digital lock easy to use, sturdy, and appreciate its security features, with one mentioning it offers multiple access options. The installation process is good, and the service receives positive feedback, with one customer noting the service person was polite. While the lock functions well and customers consider it good value for money, opinions about reliability and value are mixed.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "103"
-    },
-    {
       "name": "Installation",
-      "count": "30"
-    },
-    {
-      "name": "Reliability",
-      "count": "17"
-    },
-    {
-      "name": "Features",
-      "count": "13"
+      "count": "29"
     },
     {
       "name": "Service",
       "count": "13"
     },
     {
+      "name": "Features",
+      "count": "12"
+    },
+    {
       "name": "Ease of use",
-      "count": "11"
+      "count": "10"
     },
     {
       "name": "Security",
       "count": "10"
     },
     {
+      "name": "Durability",
+      "count": "9"
+    },
+    {
+      "name": "Reliability",
+      "count": "15"
+    },
+    {
       "name": "Value for money",
-      "count": "16"
+      "count": "15"
     }
   ],
   "reviews": [
     {
-      "author": "G RAVI CHANDRA",
+      "author": "Ankur rai",
       "rating": 5.0,
-      "title": "Ravi",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "Product is good. Installation was good and explained about the product clearly I recommend to opt this product"
+      "title": "Good",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "Good product and technical visit is good and great job done Thanks Godrej service"
     },
     {
-      "author": "Nikhil",
+      "author": "Deepak Gupta",
       "rating": 5.0,
-      "title": "Good product and service",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "Product is good service is perfect faced no issue."
-    },
-    {
-      "author": "Naseer",
-      "rating": 5.0,
-      "title": "Very Good Smart Lock",
-      "date": "2026-08-13",
-      "date_label": "13 August 2026",
-      "body": "Quick Installation and Good Demo Given by Technician. Extremely Satisfied with Product and very Sturdy and happy with all security features.Decent Appearance. Need to Monitor Battery Life."
-    },
-    {
-      "author": "vaibhav pandey",
-      "rating": 5.0,
-      "title": "Service",
-      "date": "2026-08-05",
-      "date_label": "5 August 2026",
-      "body": "Great product with excellent quality. The service was exceptionally quick, and the technician was highly knowledgeable, patient, and explained everything in a clear and easy-to-understand manner. The entire experience was smooth, professional, and hassle-free. Highly recommended for both the product and the outstanding customer service."
+      "title": "Very good lock",
+      "date": "2026-07-28",
+      "date_label": "28 July 2026",
+      "body": "Very good installation by Shamji sales service Hariom technician"
     },
     {
       "author": "DEEPAK VEHAL",
@@ -75,6 +59,22 @@
       "date": "2026-07-26",
       "date_label": "26 July 2026",
       "body": "Great experience with godrej and the installation process was very quick and easy. Technician was very good. Technician Name- Guddu"
+    },
+    {
+      "author": "Akshay Rathi",
+      "rating": 5.0,
+      "title": "Godrej Lock - Made in India",
+      "date": "2026-07-24",
+      "date_label": "24 July 2026",
+      "body": "Good lock"
+    },
+    {
+      "author": "Garima",
+      "rating": 1.0,
+      "title": "Please Dont Buy Godrej Lock",
+      "date": "2026-06-09",
+      "date_label": "9 June 2026",
+      "body": "3rd class service hei, Godrej ki, pls dont buy, product features bhaut ache hei, but build quality bilkul 0 hei, aaj 8 june 2026 ko almost 2 month ho gaye lock liye, but lock ka camera lock lagne k 2 din baad hi zor sei gate band hone par hi gir padda, and wo aaj tak camera ka part na to chnage kiya na hi fix kiya usko, aap agr NCR mei rehte hei to pls bilkul bhi buy mat karna, Service bhaut kharab hei, 15 eamils godrej ko kiye, every time ticket genrate k alwa kuch nahi. no response. Amazon ke kehne par kai baar jo godrej ko jo mail kya, uske sare proof amazon k sath bhi share kiye, but aaj t"
     }
   ]
 }

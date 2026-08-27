@@ -1,41 +1,49 @@
 {
-  "scraped": "2026-08-25",
-  "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and user-friendly app. They appreciate its adjustable TDS levels, good taste without metallic or chemical aftertaste, and excellent installation process. The product receives positive feedback for its features and ease of use, though opinions about value for money are mixed.",
+  "scraped": "2026-08-27",
+  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its smart technology and advanced features, with one customer noting its intelligent TDS-based operation. The purifier has a premium appearance, is easy to use with a user-friendly app, and produces good-tasting water without metallic or chemical aftertaste. Installation is free, though reliability receives mixed feedback - while some say it functions well, others report it stops working after a few days.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "856"
+      "count": "878"
     },
     {
       "name": "Installation",
-      "count": "222"
+      "count": "224"
     },
     {
       "name": "Design",
-      "count": "104"
+      "count": "105"
     },
     {
       "name": "Water taste",
-      "count": "82"
+      "count": "84"
+    },
+    {
+      "name": "Ease of use",
+      "count": "66"
     },
     {
       "name": "Features",
       "count": "64"
     },
     {
-      "name": "Ease of use",
-      "count": "62"
+      "name": "Technology",
+      "count": "56"
     },
     {
-      "name": "Adjustability",
-      "count": "61"
-    },
-    {
-      "name": "Value for money",
-      "count": "200"
+      "name": "Reliability",
+      "count": "210"
     }
   ],
   "reviews": [
+    {
+      "author": "Pranab",
+      "rating": 5.0,
+      "title": "Superb product my Atomberg. The first adaptible RO/UV filter. And No AMC",
+      "date": "2026-08-23",
+      "date_label": "23 August 2026",
+      "body": "It's been an year since I bought this filter. Pros: 1. The adaptible system of RO /UV: The filter decides on the basis of input water TDS if it requires RO or not. We don't need RO water regularly which discards a lot of water while purifying. Saves a lot of water. Our society gets tanker water only in extreme summers. RO got activated only then. Best part, the filter has taste enhancer, which changes the taste of hard water too. Compared it with a friend's RO. You can manually override and switch RO On continuously too. Keeps the TDS level below the level we select through its app in UV mode."
+    },
     {
       "author": "vikkkkiiiiii",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-10",
       "date_label": "10 August 2026",
       "body": "Installed the Atomberg Intellon RO today (August 10, 2026), and overall, Very happy with the Atomberg Intellon so far. The TDS-based switching is a smart feature that reduces RO usage when it isn’t needed. This should help reduce wastewater while retaining more minerals, especially with the alkaliser. The water tastes clean and slightly alkaline, and the 8L tank is sufficient for our family of four. The technician installed a Pressure Reducing Value (PRV) free-of-cost as the input pressure was slightly high. The app monitoring and alerts work well, although the initial setup took a few minutes"
-    },
-    {
-      "author": "Srinath S",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-08-09",
-      "date_label": "9 August 2026",
-      "body": "The Atomberg Intellion RO performs well in terms of water purification. The design is modern, water quality is good, and the smart app features are useful when they work. Installation was smooth, and the purifier provides useful information such as filter status and water quality through the app. However, the biggest drawback is Wi-Fi management. If you change your home Wi-Fi name or router, reconnecting the purifier can be frustrating. The app may fail to update the Wi-Fi credentials, and there is no obvious physical reset or dedicated Wi-Fi button on the unit. Users are forced to troubleshoo"
     }
   ]
 }
