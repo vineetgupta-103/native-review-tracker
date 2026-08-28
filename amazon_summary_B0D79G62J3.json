@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-08-27",
-  "customers_say": "Customers find this water purifier offers good value for money, with transparent pricing and the ability to save on service costs. They appreciate its appearance, with one noting it's suitable for home design, and praise its 10-stage purification process that makes water completely clean. The product receives positive feedback for installation, service, and water quality, with customers reporting noticeable improvements. The taste receives mixed reviews, with some finding it excellent while others disagree.",
+  "scraped": "2026-08-28",
+  "customers_say": "Customers find this water purifier offers good value for money, with transparent pricing and the ability to save on service costs. Moreover, the installation process is excellent, and customers appreciate its premium appearance. The purifier performs well, providing pure water and filtering quickly, with one customer noting effective TDS reduction. Additionally, customers are satisfied with the service, and one mentions it stands out among similar products. However, opinions about water taste are mixed, with some finding it excellent while others disagree.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "484"
+      "count": "486"
     },
     {
       "name": "Installation",
-      "count": "324"
+      "count": "327"
     },
     {
       "name": "Appearance",
-      "count": "233"
+      "count": "232"
     },
     {
       "name": "Water quality",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Service",
-      "count": "141"
+      "count": "142"
     },
     {
       "name": "Purification performance",
@@ -28,14 +28,22 @@
     },
     {
       "name": "Cleaning experience",
-      "count": "73"
+      "count": "72"
     },
     {
       "name": "Water taste",
-      "count": "209"
+      "count": "208"
     }
   ],
   "reviews": [
+    {
+      "author": "Chandranath Goswami",
+      "rating": 4.0,
+      "title": "Very nice to look at first glance",
+      "date": "2026-08-25",
+      "date_label": "25 August 2026",
+      "body": "The product is very smart looking and systematic. It's utility will be known after using for long."
+    },
     {
       "author": "Anand stephen",
       "rating": 5.0,
@@ -53,12 +61,12 @@
       "body": "So far things are good and quality of water is fine. Value for money 💰 Best for indian bore water and municipal water"
     },
     {
-      "author": "shubham rawat",
-      "rating": 4.0,
-      "title": "Good to buy",
-      "date": "2026-08-20",
-      "date_label": "20 August 2026",
-      "body": "Must buy Water purifier, Good water taste and Good service"
+      "author": "Suraj p.",
+      "rating": 5.0,
+      "title": "The water tastes good",
+      "date": "2026-08-21",
+      "date_label": "21 August 2026",
+      "body": "Best"
     },
     {
       "author": "Amazon Customer",
@@ -67,14 +75,6 @@
       "date": "2026-08-19",
       "date_label": "19 August 2026",
       "body": "Recieved Product and installation was very smooth. Person who came to install Native M1 was highly qualified. Will put final review after using it for atleast three months."
-    },
-    {
-      "author": "A.Hussain",
-      "rating": 4.0,
-      "title": "Delivery and installation",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "Ordered M1 purifier on 8th August and expected delivery on 10th August. I received this on 13 August after multiple complaints and contact to customer care. Installation was to be done on 14 august but executive said there is some water pressure problem you have to pay Rs1250 for pressure kit. He said he need to order it first on my address then the installation will resume. Then again it got delayed by 3 days. After much delay it got installed on 17 August.It was really frustrating experience. Not going to order anything from UC again. Product review: size is quite big for my kitchen otherwis"
     }
   ]
 }

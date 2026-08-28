@@ -1,18 +1,14 @@
 {
-  "scraped": "2026-08-27",
-  "customers_say": "Customers find the water purifier to be of good quality and appreciate its performance, with one noting the new technology helps improve RO life. The installation process is hassle-free, and the water tastes great. They like its appearance, with one highlighting its premium matte finish, and find it easy to maintain. While the filter life receives mixed reviews, with some units breaking within days of purchase, customers express satisfaction with their overall experience.",
+  "scraped": "2026-08-28",
+  "customers_say": "Customers find the water purifier performs well and appreciate its appearance, with one noting its premium matte finish. Moreover, the installation process is hassle-free, and the water tastes great. However, the filter life receives mixed feedback, with some customers reporting malfunction within a month. Additionally, several customers mention issues with water leakage, particularly persistent overflow from the storage tank.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "272"
-    },
-    {
       "name": "Performance",
-      "count": "68"
+      "count": "69"
     },
     {
       "name": "Installation",
-      "count": "44"
+      "count": "45"
     },
     {
       "name": "Water taste",
@@ -33,6 +29,10 @@
     {
       "name": "Filter life",
       "count": "19"
+    },
+    {
+      "name": "Leakage",
+      "count": "17"
     }
   ],
   "reviews": [

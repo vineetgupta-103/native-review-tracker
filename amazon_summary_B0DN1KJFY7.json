@@ -1,34 +1,34 @@
 {
-  "scraped": "2026-08-27",
-  "customers_say": "Customers praise the water purifier's 10-stage filtration system that consistently delivers clean, safe drinking water, and appreciate its quick and perfect installation process. The product offers good taste control based on water source, and customers find it a great choice for daily use, particularly for small families. The reliability and customer experience receive mixed feedback - while some report it works perfectly, others say it stops working properly, and while some have an awesome experience, others find it deeply frustrating. The service receives mixed reviews, with some finding it timely while others report terrible service.",
+  "scraped": "2026-08-28",
+  "customers_say": "Customers find the water purifier has a premium design and excellent taste, with quick and perfect installation. Moreover, they consider it a great choice for daily use, particularly for small families. However, the product's reliability and value for money receive mixed feedback, with some saying it works perfectly while others report it stops working properly, and some find it good value while others consider it a waste of money. Additionally, the customer experience and service quality also get mixed reviews, with some praising the service while others report terrible experiences.",
   "aspects": [
-    {
-      "name": "Quality",
-      "count": "1.3K"
-    },
     {
       "name": "Installation",
       "count": "174"
     },
     {
       "name": "Water taste",
-      "count": "105"
+      "count": "106"
+    },
+    {
+      "name": "Design",
+      "count": "86"
     },
     {
       "name": "Functionality",
       "count": "53"
     },
     {
-      "name": "Filtration",
-      "count": "40"
+      "name": "Reliability",
+      "count": "349"
     },
     {
-      "name": "Reliability",
-      "count": "343"
+      "name": "Value for money",
+      "count": "292"
     },
     {
       "name": "Customer experience",
-      "count": "48"
+      "count": "49"
     },
     {
       "name": "Service",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Mukul Sharma",
+      "rating": 4.0,
+      "title": "TDS controller need to fix in the machine",
+      "date": "2026-08-25",
+      "date_label": "25 August 2026",
+      "body": "Good product but TDS controler installed extra on extra cost 490"
+    },
     {
       "author": "Aakash Sharma",
       "rating": 5.0,
@@ -61,20 +69,12 @@
       "body": "Good water purifier with effective filtration. The water tastes clean and fresh, and the purifier looks stylish. It is easy to use and the overall performance has been good so far. Installation was also smooth. Happy with the purchase."
     },
     {
-      "author": "Vigneshwar",
+      "author": "Uppala venkatesh",
       "rating": 5.0,
-      "title": "Great Support and Product",
-      "date": "2026-08-15",
-      "date_label": "15 August 2026",
-      "body": "The Purifier is good with much convenience and just that it would have been great if it had supported 5GHz connectivity instead of 2.4GHz..apart from that its totally recommendable.. The installation was provide by the Technician Mr. Dhanaraj (2004965) who was very professional and knowledgeable and was of great help.."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 4.0,
-      "title": "Good purification and features overall but slow dispensing",
-      "date": "2026-08-13",
-      "date_label": "13 August 2026",
-      "body": "Good Thing: 1. Water quality is good as well taste 2. Stainless steel tank feels much more hygienic than standard plastic 3.Tracking TDS and filter life is very convenient 4. Long 2 years filter life means hassles service But the slow dispensing and minor design omissions male everyday usages a bit tedious."
+      "title": "Excellent performance and complete peace of mind",
+      "date": "2026-07-30",
+      "date_label": "30 July 2026",
+      "body": "​\"I recently purchased the Aquaguard 2X (UV+UF) water purifier, and I am very pleased with my experience so far. The water taste is noticeably clean and fresh, and the advanced filtration system offers great peace of mind regarding safety. The installation process was prompt and handled professionally by the technician. The unit has a sleek design that fits nicely in the kitchen, and the extended filter life adds great value.. 1.Complete Microbial Disinfection UV Light Technology: Exposes water to ultraviolet rays that destroy the DNA of harmful bacteria, viruses, and parasites (like E. coli, "
     }
   ]
 }

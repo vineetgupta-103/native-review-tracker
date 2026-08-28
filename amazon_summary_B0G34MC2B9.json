@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-27",
-  "customers_say": "Customers find the digital lock easy to use, sturdy, and appreciate its security features, with one mentioning it offers multiple access options. The installation process is good, and the service receives positive feedback, with one customer noting the service person was polite. While the lock functions well and customers consider it good value for money, opinions about reliability and value are mixed.",
+  "scraped": "2026-08-28",
+  "customers_say": "Customers find the digital lock easy to use and appreciate its premium appearance, with one mentioning it works well on wooden doors. Moreover, the installation and service receive positive feedback, and customers value its features, with one highlighting its multiple access options. However, opinions about value for money and reliability are mixed, with some finding it good for the price while others disagree.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "29"
-    },
-    {
-      "name": "Service",
-      "count": "13"
+      "count": "27"
     },
     {
       "name": "Features",
-      "count": "12"
+      "count": "11"
     },
     {
-      "name": "Ease of use",
-      "count": "10"
+      "name": "Service",
+      "count": "11"
     },
     {
       "name": "Security",
       "count": "10"
     },
     {
-      "name": "Durability",
+      "name": "Ease of use",
       "count": "9"
     },
     {
-      "name": "Reliability",
-      "count": "15"
+      "name": "Appearance",
+      "count": "7"
     },
     {
       "name": "Value for money",
       "count": "15"
+    },
+    {
+      "name": "Reliability",
+      "count": "13"
     }
   ],
   "reviews": [

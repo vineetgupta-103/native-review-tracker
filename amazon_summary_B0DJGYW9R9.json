@@ -1,18 +1,14 @@
 {
-  "scraped": "2026-08-27",
-  "customers_say": "Customers find the door lock easy to install and appreciate its reliable performance with triple deadlocks for high security. They like its appearance, adding a modern touch to the door, and its features, including multiple unlocking options. The build quality is solid, and customers consider it a great value. The user experience receives mixed feedback, with some customers reporting a terrible app experience.",
+  "scraped": "2026-08-28",
+  "customers_say": "Customers find the door lock easy to install and appreciate its reliable performance with triple deadlocks for high security. They like its appearance, adding a modern touch to the door, and value its multiple unlocking options. The build quality is excellent, and customers find it convenient for the whole family. While customers generally like the features, some report a terrible app experience.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "60"
+      "count": "62"
     },
     {
       "name": "Reliability",
       "count": "50"
-    },
-    {
-      "name": "Value for money",
-      "count": "28"
     },
     {
       "name": "Security",
@@ -28,6 +24,10 @@
     },
     {
       "name": "Build quality",
+      "count": "12"
+    },
+    {
+      "name": "Convenience",
       "count": "12"
     },
     {

@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-27",
-  "customers_say": "Customers find the water purification unit to be of good quality, reliable, and budget-friendly, with clean and pure water that tastes good. They appreciate its premium appearance and find it easy to use, with one customer noting it's suitable for a family of 4 to 5 people. The service receives mixed reviews, with some praising the prompt service while others report very bad service.",
+  "scraped": "2026-08-28",
+  "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its budget-friendly nature and premium appearance. The water quality receives positive feedback, with tests showing it is clean and pure, and customers like the taste. The service and customer experience receive mixed reviews, with some reporting prompt service while others describe very bad service and frustrating experiences.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "3.5K"
+      "count": "3.6K"
     },
     {
       "name": "Reliability",
-      "count": "837"
+      "count": "849"
     },
     {
       "name": "Value for money",
-      "count": "797"
+      "count": "805"
     },
     {
       "name": "Appearance",
-      "count": "307"
+      "count": "310"
     },
     {
       "name": "Water taste",
-      "count": "253"
+      "count": "254"
     },
     {
       "name": "Water quality",
-      "count": "151"
-    },
-    {
-      "name": "Ease of use",
-      "count": "130"
+      "count": "152"
     },
     {
       "name": "Service",
       "count": "133"
+    },
+    {
+      "name": "Customer experience",
+      "count": "117"
     }
   ],
   "reviews": [
@@ -61,12 +61,12 @@
       "body": "This purifier machine is good in budget and is running well now and the technician is charging extra ₹500 for TDS control.👍The first machine that arrived was faulty. I think it was repaired. After complaining to Call center , they gave me a new replacement machine."
     },
     {
-      "author": "A",
-      "rating": 5.0,
-      "title": "Good Product, Great Installation",
-      "date": "2026-08-18",
-      "date_label": "18 August 2026",
-      "body": "Very happy with the Eureka Forbes Aquaguard water purifier. The product itself is good and works as expected(long term review will be updated). The installation was exceptionally well done and very quick. The technician was clearly very experienced, professional, and did a neat job. The only negative experience was the Amazon delivery. I had to wait 5 days, with the order showing “out for delivery” every day, but there was no call from the delivery person. I had to repeatedly chase Amazon customer service to finally get the product delivered. Overall, great product and excellent installation, "
+      "author": "Surendra",
+      "rating": 4.0,
+      "title": "Water",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "The product was really good overall. However, I noticed that the water taste is slightly different compared to the water from a regular water filter. Because of this, I felt the taste was not quite up to the mark. Apart from that, the product is working really well and is in good condition."
     },
     {
       "author": "lienlal thangjom",

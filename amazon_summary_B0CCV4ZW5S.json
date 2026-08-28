@@ -1,7 +1,40 @@
 {
-  "scraped": "2026-08-27",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-08-28",
+  "customers_say": "Customers find this smart lock to be of high quality, with all features working smoothly and easy to use, particularly through fingerprint recognition. The installation process is straightforward, and they appreciate its security features, with one customer noting its secure multi-bolt system. They like its appearance, adding a wow factor to their homes, and value its versatility with multiple unlocking options. Customers find it convenient for daily use, with one mentioning it's especially helpful for elderly and children.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "257"
+    },
+    {
+      "name": "Functionality",
+      "count": "105"
+    },
+    {
+      "name": "Installation",
+      "count": "58"
+    },
+    {
+      "name": "Ease of use",
+      "count": "57"
+    },
+    {
+      "name": "Security",
+      "count": "43"
+    },
+    {
+      "name": "Appearance",
+      "count": "39"
+    },
+    {
+      "name": "Features",
+      "count": "37"
+    },
+    {
+      "name": "Convenience",
+      "count": "29"
+    }
+  ],
   "reviews": [
     {
       "author": "Dr.Mumtaj khan",
