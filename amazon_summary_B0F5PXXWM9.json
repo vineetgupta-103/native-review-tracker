@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-08-28",
+  "scraped": "2026-08-29",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its budget-friendly nature and premium appearance. The water quality receives positive feedback, with tests showing it is clean and pure, and customers like the taste. The service and customer experience receive mixed reviews, with some reporting prompt service while others describe very bad service and frustrating experiences.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "3.6K"
+      "count": "3.5K"
     },
     {
       "name": "Reliability",
-      "count": "849"
+      "count": "848"
     },
     {
       "name": "Value for money",
-      "count": "805"
+      "count": "802"
     },
     {
       "name": "Appearance",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Water quality",
-      "count": "152"
+      "count": "151"
     },
     {
       "name": "Service",
-      "count": "133"
+      "count": "131"
     },
     {
       "name": "Customer experience",
@@ -43,14 +43,6 @@
       "date": "2026-08-21",
       "date_label": "21 August 2026",
       "body": "Good water purifier that gets the job done. The filtration works great—it brought down the TDS effectively, and the water tastes fresh and clean with no chemical odor. The build quality is compact and fits nicely in the kitchen without taking up too much space. Water wastage is also relatively lower compared to standard RO models. Deducting one star only because the dispensing flow could be slightly faster and installation took a couple of days to schedule. Overall, reliable value for money."
-    },
-    {
-      "author": "John Çherian",
-      "rating": 5.0,
-      "title": "Aquaguard delight s/steel water purifier",
-      "date": "2026-08-20",
-      "date_label": "20 August 2026",
-      "body": "This is another awesome water purifier from Eureka Forbes. Used another model for the past 13 years and now replaced with this new model with a stainless steel collection tank fitted inside. Got a good offer from Amazon during their recent Freedom sale. Eureka Forbes installation team did an excellent job as expected and they dismantled the old purifier with the new purifier. Only regret is that there was a buy back offer from Eureka Forbes for the old one which we were using and we couldn't avail this offer due to very bad misguiding aptitude from Amazon customer care. Filtration is Excell an"
     },
     {
       "author": "shajil parakkadavath",
@@ -75,6 +67,14 @@
       "date": "2026-08-14",
       "date_label": "14 August 2026",
       "body": "Good product and reasonable price. Performance and system is also doing good. The quality of the water is also very good"
+    },
+    {
+      "author": "ManojPatel",
+      "rating": 4.0,
+      "title": "Great product but beware of installers recommending unnecessary paid additions.",
+      "date": "2026-08-13",
+      "date_label": "13 August 2026",
+      "body": "The product is great but be aware of the installer trying to have extra things installed. In my case he wanted to have pressure regulator installed despite the fact that ours is a 3 floor tank storage to 1st floor with absolutely no extra pressure. He also wanted to install PL 6 valves worth 200 rs, later on arguing he adjusted the pre installed PL 4 by attaching a small PL 4 tube to the PL 6. He could have silently done this but wanted to earn few extra bucks. He also did not wait till the tank was full. I gave the OTP as I had an aquaguard earlier and knew that they would attend fast in case"
     }
   ]
 }

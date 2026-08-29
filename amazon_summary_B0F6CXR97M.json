@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-08-28",
-  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its smart technology, awesome design, and good installation process. They like the taste, noting it's free of metallic or chemical aftertaste, and praise its features, with one customer highlighting the information parameters of different parts. The reliability receives mixed feedback - while some say it functions well, others report it stops working after a few days.",
+  "scraped": "2026-08-29",
+  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its smart technology, elegant design, and free installation service. They like the taste, noting it's free of metallic or chemical aftertaste, and praise its features, with one customer highlighting the information parameters of different parts. The reliability receives mixed feedback - while many say it functions well, some report it stops working after a few days.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "879"
+      "count": "870"
     },
     {
       "name": "Installation",
-      "count": "222"
+      "count": "221"
     },
     {
       "name": "Design",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Water taste",
-      "count": "84"
+      "count": "82"
     },
     {
       "name": "Features",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Reliability",
-      "count": "206"
+      "count": "203"
     }
   ],
   "reviews": [
+    {
+      "author": "uday",
+      "rating": 5.0,
+      "title": "Installation",
+      "date": "2026-08-24",
+      "date_label": "24 August 2026",
+      "body": "Excellent product and Smooth installation by Atomberg team.Mr.Lokesh arrived for installation within 24hrs of product delivery and he has done smooth installation and explained in detail about the product and about the App usage in very detailed way. Thanks to Team Atomberg and Lokesh."
+    },
     {
       "author": "Pranab",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-10",
       "date_label": "10 August 2026",
       "body": "Installed the Atomberg Intellon RO today (August 10, 2026), and overall, Very happy with the Atomberg Intellon so far. The TDS-based switching is a smart feature that reduces RO usage when it isn’t needed. This should help reduce wastewater while retaining more minerals, especially with the alkaliser. The water tastes clean and slightly alkaline, and the 8L tank is sufficient for our family of four. The technician installed a Pressure Reducing Value (PRV) free-of-cost as the input pressure was slightly high. The app monitoring and alerts work well, although the initial setup took a few minutes"
-    },
-    {
-      "author": "Srinath S",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-08-09",
-      "date_label": "9 August 2026",
-      "body": "The Atomberg Intellion RO performs well in terms of water purification. The design is modern, water quality is good, and the smart app features are useful when they work. Installation was smooth, and the purifier provides useful information such as filter status and water quality through the app. However, the biggest drawback is Wi-Fi management. If you change your home Wi-Fi name or router, reconnecting the purifier can be frustrating. The app may fail to update the Wi-Fi credentials, and there is no obvious physical reset or dedicated Wi-Fi button on the unit. Users are forced to troubleshoo"
     }
   ]
 }

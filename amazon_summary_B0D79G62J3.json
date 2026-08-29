@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-08-28",
+  "scraped": "2026-08-29",
   "customers_say": "Customers find this water purifier offers good value for money, with transparent pricing and the ability to save on service costs. Moreover, the installation process is excellent, and customers appreciate its premium appearance. The purifier performs well, providing pure water and filtering quickly, with one customer noting effective TDS reduction. Additionally, customers are satisfied with the service, and one mentions it stands out among similar products. However, opinions about water taste are mixed, with some finding it excellent while others disagree.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "486"
+      "count": "483"
     },
     {
       "name": "Installation",
-      "count": "327"
+      "count": "323"
     },
     {
       "name": "Appearance",
-      "count": "232"
+      "count": "226"
     },
     {
       "name": "Water quality",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Service",
-      "count": "142"
+      "count": "140"
     },
     {
       "name": "Purification performance",
@@ -53,14 +53,6 @@
       "body": "Writing this review after few weeks of usage . Looks classy Does the job and 2 year warranty is peace of mind . And the mobile realtime connectivity is superb . Tested my water tds levels . Before its around 550 .after filteration its around 58 . So better job on filtering . Installation is smooth as well the person knows what he is doing . So peace of mind on that 😊 Recommended one for new buyers ."
     },
     {
-      "author": "Akash",
-      "rating": 5.0,
-      "title": "Value for money 💰",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "So far things are good and quality of water is fine. Value for money 💰 Best for indian bore water and municipal water"
-    },
-    {
       "author": "Suraj p.",
       "rating": 5.0,
       "title": "The water tastes good",
@@ -75,6 +67,14 @@
       "date": "2026-08-19",
       "date_label": "19 August 2026",
       "body": "Recieved Product and installation was very smooth. Person who came to install Native M1 was highly qualified. Will put final review after using it for atleast three months."
+    },
+    {
+      "author": "A.Hussain",
+      "rating": 4.0,
+      "title": "Delivery and installation",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "Ordered M1 purifier on 8th August and expected delivery on 10th August. I received this on 13 August after multiple complaints and contact to customer care. Installation was to be done on 14 august but executive said there is some water pressure problem you have to pay Rs1250 for pressure kit. He said he need to order it first on my address then the installation will resume. Then again it got delayed by 3 days. After much delay it got installed on 17 August.It was really frustrating experience. Not going to order anything from UC again. Product review: size is quite big for my kitchen otherwis"
     }
   ]
 }
