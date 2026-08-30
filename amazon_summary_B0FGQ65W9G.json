@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-29",
-  "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation, functionality, and appearance. They appreciate its ease of use and consider it worth the price, while also praising the customer service.",
+  "scraped": "2026-08-30",
+  "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation and functionality. They appreciate its appearance and consider it worth the price, while also praising the customer service.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "28"
+      "count": "29"
     },
     {
       "name": "Functionality",
@@ -24,10 +24,6 @@
     },
     {
       "name": "Customer service",
-      "count": "6"
-    },
-    {
-      "name": "Ease of use",
       "count": "6"
     }
   ],

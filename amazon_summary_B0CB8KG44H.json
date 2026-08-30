@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-29",
-  "customers_say": "Customers find the water purifier easy to use and appreciate its taste, with one mentioning the ability to adjust it. The installation process is quick, and the water quality is good, with one customer noting a substantial improvement in filtration. However, the product's reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine. Value for money is also mixed, with some finding it good for the price while others consider it not worth the investment.",
+  "scraped": "2026-08-30",
+  "customers_say": "Customers find the water purifier easy to use and appreciate its quick installation process, with good water quality and taste that can be adjusted. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine. The value for money also receives mixed reviews, with some considering it the best option within its price range while others find it not worth the investment.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "500"
+      "count": "502"
     },
     {
       "name": "Water taste",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Reliability",
-      "count": "562"
+      "count": "563"
     },
     {
       "name": "Durability",
@@ -53,28 +53,28 @@
       "body": "Good quality"
     },
     {
+      "author": "Rohini",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-08-27",
+      "date_label": "27 August 2026",
+      "body": "Installation service good"
+    },
+    {
+      "author": "Zaheer Ahmed",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-08-26",
+      "date_label": "26 August 2026",
+      "body": "Installation went on smoothly. Professional work done."
+    },
+    {
       "author": "Rajesh",
       "rating": 4.0,
       "title": "ok",
       "date": "2026-08-25",
       "date_label": "25 August 2026",
       "body": "ok, just bought this and installed"
-    },
-    {
-      "author": "MD Affan Khader Ali",
-      "rating": 5.0,
-      "title": "Awesome",
-      "date": "2026-08-18",
-      "date_label": "18 August 2026",
-      "body": "The service guy Mr konduri raju has done an excellent job,the perfection he has displayed in the installation process is awesome,thank you kent."
-    },
-    {
-      "author": "Nilabja",
-      "rating": 5.0,
-      "title": "Overall good experience so far no issues",
-      "date": "2026-08-13",
-      "date_label": "13 August 2026",
-      "body": "Got delivered within 2 days and installed very next day. Till now no problem. Water taste is good"
     }
   ]
 }

@@ -1,22 +1,14 @@
 {
-  "scraped": "2026-08-29",
-  "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its budget-friendly nature and premium appearance. The water quality receives positive feedback, with tests showing it is clean and pure, and customers like the taste. The service and customer experience receive mixed reviews, with some reporting prompt service while others describe very bad service and frustrating experiences.",
+  "scraped": "2026-08-30",
+  "customers_say": "Customers find the water purifier reliable and appreciate its premium appearance, with one noting it's suitable for a family of 4 to 5 people. The filtration system effectively removes dissolved impurities through its 9-stage purification process, and customers find the water tastes good and is clean. The product is easy to use, and while some customers report prompt service, others complain about poor customer service.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "3.5K"
-    },
-    {
       "name": "Reliability",
-      "count": "848"
-    },
-    {
-      "name": "Value for money",
-      "count": "802"
+      "count": "850"
     },
     {
       "name": "Appearance",
-      "count": "310"
+      "count": "311"
     },
     {
       "name": "Water taste",
@@ -24,11 +16,19 @@
     },
     {
       "name": "Water quality",
-      "count": "151"
+      "count": "152"
+    },
+    {
+      "name": "Ease of use",
+      "count": "131"
+    },
+    {
+      "name": "Filtration",
+      "count": "127"
     },
     {
       "name": "Service",
-      "count": "131"
+      "count": "132"
     },
     {
       "name": "Customer experience",
@@ -37,20 +37,20 @@
   ],
   "reviews": [
     {
+      "author": "Helloworld",
+      "rating": 3.0,
+      "title": "Worst experience",
+      "date": "2026-08-28",
+      "date_label": "28 August 2026",
+      "body": "The water purifier itself seems good, but I had a disappointing experience with the installation technician. The technician showed me a TDS meter reading of 900+ ppm and recommended that I purchase an additional pre-filter. I declined because a pre-filter is primarily meant to remove suspended particles/impurities and does not reduce TDS. What concerned me more was that the technician did not check the TDS of the purified water after installation. He also told me that the filter warranty was only 1 year. I specifically chose this model because it was advertised with a 2-year filter warranty, s"
+    },
+    {
       "author": "Balajee Bhardwaj",
       "rating": 4.0,
       "title": "Good performance and great water taste",
       "date": "2026-08-21",
       "date_label": "21 August 2026",
       "body": "Good water purifier that gets the job done. The filtration works great—it brought down the TDS effectively, and the water tastes fresh and clean with no chemical odor. The build quality is compact and fits nicely in the kitchen without taking up too much space. Water wastage is also relatively lower compared to standard RO models. Deducting one star only because the dispensing flow could be slightly faster and installation took a couple of days to schedule. Overall, reliable value for money."
-    },
-    {
-      "author": "shajil parakkadavath",
-      "rating": 4.0,
-      "title": "Good product",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "This purifier machine is good in budget and is running well now and the technician is charging extra ₹500 for TDS control.👍The first machine that arrived was faulty. I think it was repaired. After complaining to Call center , they gave me a new replacement machine."
     },
     {
       "author": "Surendra",
@@ -61,20 +61,20 @@
       "body": "The product was really good overall. However, I noticed that the water taste is slightly different compared to the water from a regular water filter. Because of this, I felt the taste was not quite up to the mark. Apart from that, the product is working really well and is in good condition."
     },
     {
-      "author": "lienlal thangjom",
+      "author": "amit mann",
       "rating": 4.0,
-      "title": "Go for it",
-      "date": "2026-08-14",
-      "date_label": "14 August 2026",
-      "body": "Good product and reasonable price. Performance and system is also doing good. The quality of the water is also very good"
+      "title": "Overall good",
+      "date": "2026-08-16",
+      "date_label": "16 August 2026",
+      "body": "I have just started using, will share detailed feedback after using it for sometime, but basic features look good theoretically, will share feedback after using it for sometime"
     },
     {
-      "author": "ManojPatel",
+      "author": "Balpreet Kaur",
       "rating": 4.0,
-      "title": "Great product but beware of installers recommending unnecessary paid additions.",
-      "date": "2026-08-13",
-      "date_label": "13 August 2026",
-      "body": "The product is great but be aware of the installer trying to have extra things installed. In my case he wanted to have pressure regulator installed despite the fact that ours is a 3 floor tank storage to 1st floor with absolutely no extra pressure. He also wanted to install PL 6 valves worth 200 rs, later on arguing he adjusted the pre installed PL 4 by attaching a small PL 4 tube to the PL 6. He could have silently done this but wanted to earn few extra bucks. He also did not wait till the tank was full. I gave the OTP as I had an aquaguard earlier and knew that they would attend fast in case"
+      "title": "Aquaguard Delight Aquasaver: works well, but doesn’t feel premium",
+      "date": "2026-08-12",
+      "date_label": "12 August 2026",
+      "body": "I bought the Aquaguard Delight Aquasaver RO mainly because our MCD water has a TDS of around 125, but sometimes the water comes with dust particles and a bad smell. It has been only 4–5 days since installation, so this is my initial review. ✅ Pros * The RO is working fine so far in terms of basic filtration. * Installation service was excellent: * Completed the same day within 4–5 hours * Even done on a Sunday, which was impressive * Package included: Free sediment filter, TDS measuring device, Installation screws and pipes * Engineer installed a TDS adjuster and explained usage clearly: - Des"
     }
   ]
 }
