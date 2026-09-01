@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-08-30",
-  "customers_say": "Customers find the water purifier reliable and appreciate its premium appearance, with one noting it's suitable for a family of 4 to 5 people. The filtration system effectively removes dissolved impurities through its 9-stage purification process, and customers find the water tastes good and is clean. The product is easy to use, and while some customers report prompt service, others complain about poor customer service.",
+  "scraped": "2026-09-01",
+  "customers_say": "Customers find the water purifier reliable and easy to use, with good water quality that tests clean and pure. The filtration system effectively removes dissolved impurities through its 9-stage process, and the water tastes good. While some customers report prompt service, others complain about poor customer service. The durability receives mixed reviews, with multiple customers reporting that the RO membrane fails within 6 months of use.",
   "aspects": [
     {
       "name": "Reliability",
-      "count": "850"
-    },
-    {
-      "name": "Appearance",
-      "count": "311"
+      "count": "854"
     },
     {
       "name": "Water taste",
-      "count": "254"
+      "count": "257"
     },
     {
       "name": "Water quality",
-      "count": "152"
+      "count": "153"
     },
     {
       "name": "Ease of use",
-      "count": "131"
-    },
-    {
-      "name": "Filtration",
-      "count": "127"
-    },
-    {
-      "name": "Service",
       "count": "132"
     },
     {
+      "name": "Filtration",
+      "count": "130"
+    },
+    {
+      "name": "Service",
+      "count": "134"
+    },
+    {
       "name": "Customer experience",
-      "count": "117"
+      "count": "121"
+    },
+    {
+      "name": "Durability",
+      "count": "114"
     }
   ],
   "reviews": [
@@ -61,12 +61,12 @@
       "body": "The product was really good overall. However, I noticed that the water taste is slightly different compared to the water from a regular water filter. Because of this, I felt the taste was not quite up to the mark. Apart from that, the product is working really well and is in good condition."
     },
     {
-      "author": "amit mann",
+      "author": "ManojPatel",
       "rating": 4.0,
-      "title": "Overall good",
-      "date": "2026-08-16",
-      "date_label": "16 August 2026",
-      "body": "I have just started using, will share detailed feedback after using it for sometime, but basic features look good theoretically, will share feedback after using it for sometime"
+      "title": "Great product but beware of installers recommending unnecessary paid additions.",
+      "date": "2026-08-13",
+      "date_label": "13 August 2026",
+      "body": "The product is great but be aware of the installer trying to have extra things installed. In my case he wanted to have pressure regulator installed despite the fact that ours is a 3 floor tank storage to 1st floor with absolutely no extra pressure. He also wanted to install PL 6 valves worth 200 rs, later on arguing he adjusted the pre installed PL 4 by attaching a small PL 4 tube to the PL 6. He could have silently done this but wanted to earn few extra bucks. He also did not wait till the tank was full. I gave the OTP as I had an aquaguard earlier and knew that they would attend fast in case"
     },
     {
       "author": "Balpreet Kaur",

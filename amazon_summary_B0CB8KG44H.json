@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-30",
+  "scraped": "2026-09-01",
   "customers_say": "Customers find the water purifier easy to use and appreciate its quick installation process, with good water quality and taste that can be adjusted. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine. The value for money also receives mixed reviews, with some considering it the best option within its price range while others find it not worth the investment.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "502"
+      "count": "503"
     },
     {
       "name": "Water taste",
@@ -16,15 +16,15 @@
     },
     {
       "name": "Water quality",
-      "count": "140"
+      "count": "139"
     },
     {
       "name": "Value for money",
-      "count": "658"
+      "count": "657"
     },
     {
       "name": "Reliability",
-      "count": "563"
+      "count": "556"
     },
     {
       "name": "Durability",
@@ -37,12 +37,20 @@
   ],
   "reviews": [
     {
-      "author": "Naveen Kumar",
-      "rating": 4.0,
-      "title": "So better to use",
-      "date": "2026-08-27",
-      "date_label": "27 August 2026",
-      "body": "Kent product is better than other one"
+      "author": "Rakesh",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-08-28",
+      "date_label": "28 August 2026",
+      "body": "Everything works good and installation completed."
+    },
+    {
+      "author": "Mehar sai Telagamsetti",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-08-28",
+      "date_label": "28 August 2026",
+      "body": "Good Installation"
     },
     {
       "author": "jagadeesh",
@@ -53,12 +61,12 @@
       "body": "Good quality"
     },
     {
-      "author": "Rohini",
-      "rating": 5.0,
-      "title": "Good",
+      "author": "Naveen Kumar",
+      "rating": 4.0,
+      "title": "So better to use",
       "date": "2026-08-27",
       "date_label": "27 August 2026",
-      "body": "Installation service good"
+      "body": "Kent product is better than other one"
     },
     {
       "author": "Zaheer Ahmed",
@@ -67,14 +75,6 @@
       "date": "2026-08-26",
       "date_label": "26 August 2026",
       "body": "Installation went on smoothly. Professional work done."
-    },
-    {
-      "author": "Rajesh",
-      "rating": 4.0,
-      "title": "ok",
-      "date": "2026-08-25",
-      "date_label": "25 August 2026",
-      "body": "ok, just bought this and installed"
     }
   ]
 }

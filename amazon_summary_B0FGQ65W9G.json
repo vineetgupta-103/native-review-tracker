@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-08-30",
+  "scraped": "2026-09-01",
   "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation and functionality. They appreciate its appearance and consider it worth the price, while also praising the customer service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "69"
+      "count": "70"
     },
     {
       "name": "Installation",
@@ -28,6 +28,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Manju Chaturvedi",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-08-27",
+      "date_label": "27 August 2026",
+      "body": "Good"
+    },
     {
       "author": "Krishnan",
       "rating": 4.0,
@@ -59,14 +67,6 @@
       "date": "2025-11-13",
       "date_label": "13 November 2025",
       "body": "It’s working good , and the customer service also available at any time, with in 3 working days they will come and solve the problems, It’s safe and secure for home main door, recommend to buy this digital lock.."
-    },
-    {
-      "author": "Bharat",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2025-09-27",
-      "date_label": "27 September 2025",
-      "body": "Ravindra is best in job , fast and accurate installation , fast service , demo good"
     }
   ]
 }

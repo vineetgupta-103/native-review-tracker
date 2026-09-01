@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-08-30",
-  "customers_say": "Customers find the digital lock easy to use and appreciate its premium appearance, with one mentioning it works well on wooden doors. Moreover, the installation and service receive positive feedback, and customers value its features, with one highlighting its multiple access options. However, opinions about value for money and reliability are mixed, with some finding it good for the price while others disagree.",
+  "scraped": "2026-09-01",
+  "customers_say": "Customers find the digital lock easy to install and appreciate its features, with one noting it offers multiple access options. Moreover, the lock provides a better sense of security, and customers find it convenient, with one mentioning the camera and view screen are very useful. Additionally, the service receives positive feedback, with one customer noting the service person is polite. However, opinions about value for money and reliability are mixed, with some finding it good for the price while others disagree.",
   "aspects": [
     {
       "name": "Installation",
@@ -19,12 +19,12 @@
       "count": "10"
     },
     {
-      "name": "Ease of use",
-      "count": "9"
+      "name": "Usability",
+      "count": "10"
     },
     {
-      "name": "Appearance",
-      "count": "7"
+      "name": "Convenience",
+      "count": "8"
     },
     {
       "name": "Value for money",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Genuine Buyer - Honest Reviews Always",
+      "rating": 5.0,
+      "title": "Godrej Neo Pro View Digital Lock - Superb",
+      "date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "body": "Aditya Kumar serviced very well and professional. Prompt response and very helpful. Recommended against ticket SA 52373408"
+    },
+    {
+      "author": "Ravi Kumar Gubbala",
+      "rating": 5.0,
+      "title": "Nice lock",
+      "date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "body": "Satisfied"
+    },
     {
       "author": "Ankur rai",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-07-26",
       "date_label": "26 July 2026",
       "body": "Great experience with godrej and the installation process was very quick and easy. Technician was very good. Technician Name- Guddu"
-    },
-    {
-      "author": "Akshay Rathi",
-      "rating": 5.0,
-      "title": "Godrej Lock - Made in India",
-      "date": "2026-07-24",
-      "date_label": "24 July 2026",
-      "body": "Good lock"
-    },
-    {
-      "author": "Garima",
-      "rating": 1.0,
-      "title": "Please Dont Buy Godrej Lock",
-      "date": "2026-06-09",
-      "date_label": "9 June 2026",
-      "body": "3rd class service hei, Godrej ki, pls dont buy, product features bhaut ache hei, but build quality bilkul 0 hei, aaj 8 june 2026 ko almost 2 month ho gaye lock liye, but lock ka camera lock lagne k 2 din baad hi zor sei gate band hone par hi gir padda, and wo aaj tak camera ka part na to chnage kiya na hi fix kiya usko, aap agr NCR mei rehte hei to pls bilkul bhi buy mat karna, Service bhaut kharab hei, 15 eamils godrej ko kiye, every time ticket genrate k alwa kuch nahi. no response. Amazon ke kehne par kai baar jo godrej ko jo mail kya, uske sare proof amazon k sath bhi share kiye, but aaj t"
     }
   ]
 }

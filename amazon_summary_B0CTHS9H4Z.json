@@ -1,18 +1,14 @@
 {
-  "scraped": "2026-08-30",
-  "customers_say": "Customers find the smart door lock to be of good quality and appreciate its straightforward installation process. The lock works reliably, with one customer noting that fingerprint and face recognition functions work perfectly, and they find it easy to use, with one mentioning near-instant fingerprint unlock. They praise its comprehensive features and security capabilities, with one highlighting the anti-pry/tamper alarm, while also appreciating its stylish appearance and functionality.",
+  "scraped": "2026-09-01",
+  "customers_say": "Customers find the smart door lock to be of good quality, with straightforward installation and ease of use, particularly noting the near-instant fingerprint unlock feature. They appreciate its comprehensive features and security capabilities, with one customer highlighting the anti-pry/tamper alarm, while also noting its stylish appearance. The functionality receives positive feedback, with one customer describing it as a must-have for every home. However, the battery life receives criticism, with customers reporting very short battery duration of 30-45 days.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "123"
+      "count": "125"
     },
     {
       "name": "Installation",
-      "count": "32"
-    },
-    {
-      "name": "Reliability",
-      "count": "30"
+      "count": "33"
     },
     {
       "name": "Ease of use",
@@ -24,18 +20,46 @@
     },
     {
       "name": "Security",
-      "count": "15"
+      "count": "16"
     },
     {
       "name": "Appearance",
-      "count": "13"
+      "count": "14"
     },
     {
       "name": "Functionality",
       "count": "13"
+    },
+    {
+      "name": "Battery life",
+      "count": "7"
     }
   ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "100% Satisfied",
+      "date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "body": "Value for money Lavna Lock! Secure, Smart & Stylish - The best smart lock for my home. 100% Satisfied! Good Installation experiance."
+    },
+    {
+      "author": "Mukesh Kumar Gupta",
+      "rating": 5.0,
+      "title": "Great product !",
+      "date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "body": "The product is very good and Mr Jatin was very helpful in solving small issues over phone....overall very satisfied with my purchase and after sales service..."
+    },
+    {
+      "author": "Shishta Bhatia",
+      "rating": 5.0,
+      "title": "Customer Support",
+      "date": "2026-08-28",
+      "date_label": "28 August 2026",
+      "body": "Support team specially Mr. Jatin who was very prompt and helped me in redressal of my issues within minutes. For any good brand to establish, the Support team plays a major role, post sales. Thanks to Lavna Support team & Mr. Jatin. Keep the same spirit and continue delivering best services."
+    },
     {
       "author": "Mounika",
       "rating": 5.0,
@@ -51,30 +75,6 @@
       "date": "2026-08-06",
       "date_label": "6 August 2026",
       "body": "Good lock, good quality, highly useful and convenient. Had some concern with lock's functionality, Jatin helped me with it. The customer service is splendid. This one is my 3rd lock from Lavna. Just go for it."
-    },
-    {
-      "author": "vijit mahana",
-      "rating": 5.0,
-      "title": "After sale support is effective",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "The after sale support team is really halpful, I had issues after installation related to the setup. Jatin (support executive) trouble shooted all the problems and helped me resolve the same within few minutes. The lock looks steady and good."
-    },
-    {
-      "author": "mohit Paryani",
-      "rating": 5.0,
-      "title": "Great service",
-      "date": "2026-07-27",
-      "date_label": "27 July 2026",
-      "body": "Great item and service...Mr. Jatin was very helpful and gave clear solutions to our queries"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Solid smart lock, a few rough edges",
-      "date": "2026-07-18",
-      "date_label": "18 July 2026",
-      "body": "Been using the LAVNA smart lock on my main wooden door for a while now. Installation was straightforward and the fingerprint sensor is genuinely fast and accurate. Having the built-in camera plus RFID card, PIN, and manual key backup means I’m never locked out even if the battery dies or the app acts up. What I like: • Fingerprint unlock is near-instant • App notifications when someone unlocks the door — good peace of mind • Anti-pry/tamper alarm adds real security • Manual key backup as a fail-safe What could improve: • App settings menu isn’t very intuitive — took some digging to find and ad"
     }
   ]
 }
