@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-09-01",
-  "customers_say": "Customers find the smart door lock to be of good quality and easy to install, with all features working properly. They appreciate its strong security and multiple unlocking options, and find it surprisingly easy to use. While some customers consider it worth the money, others don't buy it, and opinions about accessibility are mixed, with one customer noting the need to be near the lock for mobile administration.",
+  "scraped": "2026-09-02",
+  "customers_say": "Customers find the smart door lock to be of good quality and easy to install, with all advertised features working properly. They appreciate its strong security and multiple unlocking options, and find it surprisingly easy to use. While some customers consider it worth the money, others express concerns about its value. The keyless access feature receives mixed feedback, with one customer noting it's especially convenient for families, while another finds it inconvenient.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "73"
+      "count": "74"
     },
     {
       "name": "Installation",
-      "count": "33"
+      "count": "34"
     },
     {
       "name": "Functionality",
@@ -31,11 +31,19 @@
       "count": "22"
     },
     {
-      "name": "Accessibility",
+      "name": "Keyless access",
       "count": "12"
     }
   ],
   "reviews": [
+    {
+      "author": "Saheb Singh Lall",
+      "rating": 5.0,
+      "title": "Good Lock and Timely installation",
+      "date": "2026-08-30",
+      "date_label": "30 August 2026",
+      "body": "Aditya has done a good job of installing the door lock"
+    },
     {
       "author": "Suraj Rao",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-06-14",
       "date_label": "14 June 2026",
       "body": "The lock was fitted perfectly and installation was done in super smooth manner The service guy Uday was very corporative"
-    },
-    {
-      "author": "Audumbar",
-      "rating": 5.0,
-      "title": "Beat",
-      "date": "2026-05-29",
-      "date_label": "29 May 2026",
-      "body": "Best"
     }
   ]
 }

@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-09-01",
-  "customers_say": "Customers find the smart lock to be of high quality and appreciate its functionality, with all features working smoothly. Moreover, they value its security features, with one customer noting its secure multi-bolt system, and consider it a wow factor addition to their homes. Additionally, the lock offers multiple unlocking options and is convenient for daily use. However, battery life and fingerprint recognition receive mixed reviews - while some find the battery life good, others report it lasting only one year, and while the fingerprint recognition is fast, some customers report issues with Face ID not working.",
+  "scraped": "2026-09-02",
+  "customers_say": "Customers find the smart lock to be of high quality with smooth functionality, and appreciate its versatile features including face ID, fingerprint, and multiple access methods. The installation process is straightforward, and they value its security, with one customer noting its secure multi-bolt system, while another mentions it can be installed on both single and double panel doors. The appearance receives positive feedback for its premium finish, and customers find it convenient, with one noting it's particularly helpful for elderly and children. Battery life experiences are mixed, with some reporting good performance while others mention the battery depleting within a year.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "256"
+      "count": "258"
     },
     {
       "name": "Functionality",
-      "count": "104"
+      "count": "103"
+    },
+    {
+      "name": "Installation",
+      "count": "57"
     },
     {
       "name": "Security",
-      "count": "44"
+      "count": "45"
     },
     {
       "name": "Appearance",
       "count": "38"
     },
     {
-      "name": "Features",
-      "count": "36"
+      "name": "Convenience",
+      "count": "29"
     },
     {
-      "name": "Convenience",
+      "name": "Features",
       "count": "29"
     },
     {
       "name": "Battery life",
       "count": "27"
-    },
-    {
-      "name": "Fingerprint recognition",
-      "count": "24"
     }
   ],
   "reviews": [

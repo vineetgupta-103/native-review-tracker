@@ -1,10 +1,14 @@
 {
-  "scraped": "2026-09-01",
-  "customers_say": "Customers find the water purifier reliable and easy to use, with good water quality that tests clean and pure. The filtration system effectively removes dissolved impurities through its 9-stage process, and the water tastes good. While some customers report prompt service, others complain about poor customer service. The durability receives mixed reviews, with multiple customers reporting that the RO membrane fails within 6 months of use.",
+  "scraped": "2026-09-02",
+  "customers_say": "Customers find the water purification unit to be of good quality, with effective multi-stage purification that removes dissolved impurities and produces clean, pure water. The product is easy to use and works well, with one customer noting it can clear muddy water to less than 20 PPM. The service experience receives mixed feedback, with some praising the prompt service while others report very bad service.",
   "aspects": [
     {
+      "name": "Quality",
+      "count": "3.6K"
+    },
+    {
       "name": "Reliability",
-      "count": "854"
+      "count": "857"
     },
     {
       "name": "Water taste",
@@ -16,7 +20,7 @@
     },
     {
       "name": "Ease of use",
-      "count": "132"
+      "count": "133"
     },
     {
       "name": "Filtration",
@@ -29,13 +33,17 @@
     {
       "name": "Customer experience",
       "count": "121"
-    },
-    {
-      "name": "Durability",
-      "count": "114"
     }
   ],
   "reviews": [
+    {
+      "author": "Minaxi",
+      "rating": 5.0,
+      "title": "Great product with some drawbacks",
+      "date": "2026-08-31",
+      "date_label": "31 August 2026",
+      "body": "Feedback: The RO is a good product, but the water flow is quite slow. The tap design also needs improvement—the handle should be on the top instead of underneath, as it causes water to splash when releasing it after filling a glass. Also, the technician charged an additional ₹1,070 for installing some extra items, which was unexpected. These extra charges should be clearly informed beforehand."
+    },
     {
       "author": "Helloworld",
       "rating": 3.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-13",
       "date_label": "13 August 2026",
       "body": "The product is great but be aware of the installer trying to have extra things installed. In my case he wanted to have pressure regulator installed despite the fact that ours is a 3 floor tank storage to 1st floor with absolutely no extra pressure. He also wanted to install PL 6 valves worth 200 rs, later on arguing he adjusted the pre installed PL 4 by attaching a small PL 4 tube to the PL 6. He could have silently done this but wanted to earn few extra bucks. He also did not wait till the tank was full. I gave the OTP as I had an aquaguard earlier and knew that they would attend fast in case"
-    },
-    {
-      "author": "Balpreet Kaur",
-      "rating": 4.0,
-      "title": "Aquaguard Delight Aquasaver: works well, but doesn’t feel premium",
-      "date": "2026-08-12",
-      "date_label": "12 August 2026",
-      "body": "I bought the Aquaguard Delight Aquasaver RO mainly because our MCD water has a TDS of around 125, but sometimes the water comes with dust particles and a bad smell. It has been only 4–5 days since installation, so this is my initial review. ✅ Pros * The RO is working fine so far in terms of basic filtration. * Installation service was excellent: * Completed the same day within 4–5 hours * Even done on a Sunday, which was impressive * Package included: Free sediment filter, TDS measuring device, Installation screws and pipes * Engineer installed a TDS adjuster and explained usage clearly: - Des"
     }
   ]
 }

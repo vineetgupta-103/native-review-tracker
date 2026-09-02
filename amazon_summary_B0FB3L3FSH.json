@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-01",
+  "scraped": "2026-09-02",
   "customers_say": "Customers find the water purifier performs well and appreciate its appearance, with one noting its premium matte finish. Moreover, the installation process is hassle-free, and the water tastes great. However, the filter life receives mixed feedback, with some customers reporting malfunction within a month. Additionally, several customers mention issues with water leakage, particularly persistent overflow from the storage tank.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Amazing product.",
+      "date": "2026-08-24",
+      "date_label": "24 August 2026",
+      "body": "Amazing product the service provider is also very professional. Flawless process. Definately recommende."
+    },
+    {
       "author": "Ravi Singh",
       "rating": 5.0,
       "title": "Good Product at a reasonable price.",
@@ -59,14 +67,6 @@
       "date": "2026-08-06",
       "date_label": "6 August 2026",
       "body": "Working excellent"
-    },
-    {
-      "author": "Nikhil Shiv",
-      "rating": 5.0,
-      "title": "Excellent Product and Service",
-      "date": "2026-07-24",
-      "date_label": "24 July 2026",
-      "body": "Great product with excellent service. The water tastes much better, and the installation process was easy. Happy with my purchase and would recommend it."
     },
     {
       "author": "Aishwarya Singh",

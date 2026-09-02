@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-09-01",
+  "scraped": "2026-09-02",
   "customers_say": "Customers find the water purifier's installation quick and perfect, and appreciate its elegant design and functionality, particularly for small families. The water taste is good, with customers noting they can control it according to their water source. The product's reliability and value for money receive mixed feedback - while some say it works perfectly and is good for its price, others report it stops working properly and consider it a waste of money. The customer experience and service also get mixed reviews, with some praising the service while others find it terrible.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "172"
+      "count": "173"
     },
     {
       "name": "Water taste",
-      "count": "104"
+      "count": "105"
     },
     {
       "name": "Design",
@@ -20,15 +20,15 @@
     },
     {
       "name": "Reliability",
-      "count": "349"
+      "count": "351"
     },
     {
       "name": "Value for money",
-      "count": "291"
+      "count": "292"
     },
     {
       "name": "Customer experience",
-      "count": "50"
+      "count": "49"
     },
     {
       "name": "Service",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Jitendra",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-08-30",
+      "date_label": "30 August 2026",
+      "body": "Nice product. Installation was quick and explained its use very well"
+    },
+    {
+      "author": "Mukul Sharma",
+      "rating": 4.0,
+      "title": "TDS controller need to fix in the machine",
+      "date": "2026-08-25",
+      "date_label": "25 August 2026",
+      "body": "Good product but TDS controler installed extra on extra cost 490"
+    },
     {
       "author": "Aakash Sharma",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-08-19",
       "date_label": "19 August 2026",
       "body": "Good water purifier with effective filtration. The water tastes clean and fresh, and the purifier looks stylish. It is easy to use and the overall performance has been good so far. Installation was also smooth. Happy with the purchase."
-    },
-    {
-      "author": "Vigneshwar",
-      "rating": 5.0,
-      "title": "Great Support and Product",
-      "date": "2026-08-15",
-      "date_label": "15 August 2026",
-      "body": "The Purifier is good with much convenience and just that it would have been great if it had supported 5GHz connectivity instead of 2.4GHz..apart from that its totally recommendable.. The installation was provide by the Technician Mr. Dhanaraj (2004965) who was very professional and knowledgeable and was of great help.."
-    },
-    {
-      "author": "Uppala venkatesh",
-      "rating": 5.0,
-      "title": "Excellent performance and complete peace of mind",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "​\"I recently purchased the Aquaguard 2X (UV+UF) water purifier, and I am very pleased with my experience so far. The water taste is noticeably clean and fresh, and the advanced filtration system offers great peace of mind regarding safety. The installation process was prompt and handled professionally by the technician. The unit has a sleek design that fits nicely in the kitchen, and the extended filter life adds great value.. 1.Complete Microbial Disinfection UV Light Technology: Exposes water to ultraviolet rays that destroy the DNA of harmful bacteria, viruses, and parasites (like E. coli, "
     }
   ]
 }
