@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-02",
+  "scraped": "2026-09-03",
   "customers_say": "Customers find the water purifier performs well and is easy to use, making daily use convenient. The installation process goes smoothly without hassle, and they appreciate the no-service-needed guarantee for two years. The water quality receives positive feedback, with one customer noting TDS levels below 100, and they like the taste. However, reliability is a concern as multiple customers report units failing within a month of installation.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Installation",
-      "count": "145"
+      "count": "146"
     },
     {
       "name": "Water quality",
-      "count": "92"
+      "count": "93"
     },
     {
       "name": "Water taste",

@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-02",
+  "scraped": "2026-09-03",
   "customers_say": "Customers find the water purifier's installation quick and perfect, and appreciate its elegant design and functionality, particularly for small families. The water taste is good, with customers noting they can control it according to their water source. The product's reliability and value for money receive mixed feedback - while some say it works perfectly and is good for its price, others report it stops working properly and consider it a waste of money. The customer experience and service also get mixed reviews, with some praising the service while others find it terrible.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "173"
+      "count": "174"
     },
     {
       "name": "Water taste",
@@ -20,11 +20,11 @@
     },
     {
       "name": "Reliability",
-      "count": "351"
+      "count": "352"
     },
     {
       "name": "Value for money",
-      "count": "292"
+      "count": "294"
     },
     {
       "name": "Customer experience",
@@ -37,12 +37,12 @@
   ],
   "reviews": [
     {
-      "author": "Jitendra",
+      "author": "Sushant Jadhav",
       "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-08-30",
-      "date_label": "30 August 2026",
-      "body": "Nice product. Installation was quick and explained its use very well"
+      "title": "Satisfied product",
+      "date": "2026-08-31",
+      "date_label": "31 August 2026",
+      "body": "Good prodect and value fore money Installation services are too good"
     },
     {
       "author": "Mukul Sharma",

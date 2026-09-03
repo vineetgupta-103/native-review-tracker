@@ -1,7 +1,11 @@
 {
-  "scraped": "2026-09-02",
-  "customers_say": "Customers find the water purifier easy to use and appreciate its quick installation process, with good water quality and taste that can be adjusted. However, the reliability and durability receive mixed feedback - while some report no issues, others mention the purifier stopping working and filters breaking within 6 months. Moreover, several customers report continuous leakage from the machine. The value for money also receives mixed reviews, with some considering it the best option within its price range while others find it not worth the investment.",
+  "scraped": "2026-09-03",
+  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, installation process, and ease of use. The water quality receives positive reviews, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as multiple customers report filters breaking within 6 months of use, and reliability is mixed with some units completely stopping working. While some customers consider it good value for money, others feel it's not worth the investment.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "2.7K"
+    },
     {
       "name": "Installation",
       "count": "503"
@@ -20,7 +24,7 @@
     },
     {
       "name": "Value for money",
-      "count": "657"
+      "count": "658"
     },
     {
       "name": "Reliability",
@@ -29,10 +33,6 @@
     {
       "name": "Durability",
       "count": "140"
-    },
-    {
-      "name": "Leakage",
-      "count": "105"
     }
   ],
   "reviews": [
@@ -45,14 +45,6 @@
       "body": "Everything works good and installation completed."
     },
     {
-      "author": "Mehar sai Telagamsetti",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-08-28",
-      "date_label": "28 August 2026",
-      "body": "Good Installation"
-    },
-    {
       "author": "jagadeesh",
       "rating": 4.0,
       "title": ".",
@@ -61,20 +53,28 @@
       "body": "Good quality"
     },
     {
-      "author": "Naveen Kumar",
-      "rating": 4.0,
-      "title": "So better to use",
-      "date": "2026-08-27",
-      "date_label": "27 August 2026",
-      "body": "Kent product is better than other one"
-    },
-    {
       "author": "Zaheer Ahmed",
       "rating": 5.0,
       "title": "Good product",
       "date": "2026-08-26",
       "date_label": "26 August 2026",
       "body": "Installation went on smoothly. Professional work done."
+    },
+    {
+      "author": "Naman Mittal",
+      "rating": 5.0,
+      "title": "Product quality",
+      "date": "2026-08-23",
+      "date_label": "23 August 2026",
+      "body": "Good product"
+    },
+    {
+      "author": "Mahesh Kumar Bochela",
+      "rating": 4.0,
+      "title": "Good for portable drinking water",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "Good product"
     }
   ]
 }
