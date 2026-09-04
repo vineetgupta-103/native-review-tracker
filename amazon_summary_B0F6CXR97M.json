@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-03",
+  "scraped": "2026-09-04",
   "customers_say": "Customers find this water purifier to be the best in the market, appreciating its smart technology and advanced features, with one customer highlighting its intelligent TDS-based operation. Moreover, the product looks premium, functions well, and offers good value with reasonable filter prices. They like the taste, noting it's free of metallic or chemical aftertaste, and appreciate the installation process. However, reliability receives mixed feedback, with some customers reporting it stops working after a few days, and opinions on value are divided between those who find it worth the money and those who deeply regret their purchase.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "883"
+      "count": "886"
     },
     {
       "name": "Installation",
@@ -28,14 +28,22 @@
     },
     {
       "name": "Reliability",
-      "count": "209"
+      "count": "207"
     },
     {
       "name": "Value for money",
-      "count": "197"
+      "count": "198"
     }
   ],
   "reviews": [
+    {
+      "author": "Ritha",
+      "rating": 5.0,
+      "title": "Very good, recommended.",
+      "date": "2026-08-31",
+      "date_label": "31 August 2026",
+      "body": "Working as expected for a few months now, delivery and installation experience is top notch."
+    },
     {
       "author": "Pranab",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-08-23",
       "date_label": "23 August 2026",
       "body": "It's been an year since I bought this filter. Pros: 1. The adaptible system of RO /UV: The filter decides on the basis of input water TDS if it requires RO or not. We don't need RO water regularly which discards a lot of water while purifying. Saves a lot of water. Our society gets tanker water only in extreme summers. RO got activated only then. Best part, the filter has taste enhancer, which changes the taste of hard water too. Compared it with a friend's RO. You can manually override and switch RO On continuously too. Keeps the TDS level below the level we select through its app in UV mode."
-    },
-    {
-      "author": "vikkkkiiiiii",
-      "rating": 5.0,
-      "title": "Service",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "Really impressed with the Atomberg Intellon Water Purifier. The water tastes great, and the smart adaptive filtration is very useful. I especially like being able to monitor TDS and filter health through the app. The design looks premium and modern too. Installation was smooth, and overall the purifier feels well designed and easy to use. The 2-year warranty and no AMC are also a big advantage. Very satisfied with my purchase. Definitely 5 out of 5 and highly recommended! ⭐⭐⭐⭐⭐"
     },
     {
       "author": "sk",
