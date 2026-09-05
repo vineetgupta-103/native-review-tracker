@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-09-04",
-  "customers_say": "Customers find the door lock to be an excellent product with impressive build quality and top-tier security features. They appreciate its appearance, with one customer noting how the mocha finish matches perfectly with their main door, and find it very easy to operate with a user-friendly app. While customers consider it worth the price, opinions about value for money are mixed.",
+  "scraped": "2026-09-05",
+  "customers_say": "Customers find the door lock impressive in terms of build quality, security, and appearance, with one noting how the mocha finish matches perfectly with their main door. They appreciate its features, with one highlighting the on-call door opening functionality, and find it easy to operate with a user-friendly app. The lock performs well, with one mentioning it works even in dark conditions, and customers like its appearance, with one noting there's no ugly handle sticking out. While many consider it a good purchase, opinions about installation time are mixed.",
   "aspects": [
-    {
-      "name": "Functionality",
-      "count": "41"
-    },
     {
       "name": "Features",
       "count": "13"
+    },
+    {
+      "name": "Functionality",
+      "count": "12"
     },
     {
       "name": "Ease of use",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Value for money",
-      "count": "14"
+      "count": "15"
     },
     {
       "name": "Installation",
@@ -45,6 +45,22 @@
       "body": "Very happy with my purchase! The mocha finish matches perfectly with our main door, and the lock has some great features that make it convenient and easy to use. Overall, very satisfied with the product."
     },
     {
+      "author": "Ankit Singh",
+      "rating": 5.0,
+      "title": "Good experience till now",
+      "date": "2026-08-20",
+      "date_label": "20 August 2026",
+      "body": "Been using since few days. Product quality is very nice and installation also smooth. Thanks to amazon the lock came after 1 day and the uc people installed it after that. very professsionally done and door was not damaged. Notifications come quickly and can manage everythign from app. Very easy to use. Camera works good even in night. Small daily convenience but makes difference."
+    },
+    {
+      "author": "nandish k",
+      "rating": 1.0,
+      "title": "No customer care",
+      "date": "2026-08-17",
+      "date_label": "17 August 2026",
+      "body": "I bought the lock but have now been informed by native that they don't support installation outside of Bangalore in Karnataka and to make matters worst is native does not have a customer care number to call and discuss. They only have an ai bot to chat and even after emailing them, they have not responded."
+    },
+    {
       "author": "abhishek ghadigaonkar",
       "rating": 5.0,
       "title": "Everyone should buy",
@@ -59,22 +75,6 @@
       "date": "2026-08-07",
       "date_label": "7 August 2026",
       "body": "Solid smart lock — exactly what I needed Bought the Native Lock Ultra about three weeks ago and I'm genuinely impressed. The build quality feels premium; heavy-duty and solid, nothing like the flimsy locks I've tried before. The auto-lock feature is my favourite — I no longer have to second-guess whether I locked the door before leaving. The app connectivity is smooth and the fingerprint sensor responds quickly. Battery life seems excellent so far, with no signs of draining fast. The keypad backlight is a nice touch for night use. Overall, great value for the price."
-    },
-    {
-      "author": "Sandeep Raj",
-      "rating": 5.0,
-      "title": "Great product. Good buying decision.",
-      "date": "2026-08-06",
-      "date_label": "6 August 2026",
-      "body": "This is an excellent product and very sturdy. Very easy to operate and has all the features including Wi-Fi connectivity, biometric, numerical, RF cards and even a key for emergency and when battery goes down. Communication with the lock works very well. The App is very user friendly and has all the desirable features. The battery is good. Really value for money. Very happy with the purchase."
-    },
-    {
-      "author": "Lohith N",
-      "rating": 5.0,
-      "title": "Free from keys!",
-      "date": "2026-08-06",
-      "date_label": "6 August 2026",
-      "body": "Delivery was prompt. Installation took time and was dusty but was done neatly. Have been using it from >15 days and I would say it's made my life easy one (key less) at a time! Pros: No need to carry keys, no need to ask someone at home to lock the door when going out as it automatically locks. Camera unlocks even if it's dark. Battery is at 70% even after >15 days. Good job UC. Product price is at a higher end but worth. Cons: Mine was a heavy Honne wood door and sometimes the door gets stuck (mostly due to weather changes) instead of opening but it's the door and not the lock."
     }
   ]
 }

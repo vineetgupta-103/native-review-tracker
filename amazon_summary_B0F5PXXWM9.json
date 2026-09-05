@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-04",
+  "scraped": "2026-09-05",
   "customers_say": "Customers find this water purification unit effective, with multi-stage purification that removes dissolved impurities and produces clean, pure water that tastes good. They appreciate its reliability, ease of use, and consider it a budget-friendly option. The service receives mixed reviews, with some praising the prompt service while others report very bad service.",
   "aspects": [
     {
@@ -8,19 +8,19 @@
     },
     {
       "name": "Reliability",
-      "count": "859"
+      "count": "862"
     },
     {
       "name": "Value for money",
-      "count": "811"
+      "count": "812"
     },
     {
       "name": "Water taste",
-      "count": "258"
+      "count": "261"
     },
     {
       "name": "Water quality",
-      "count": "155"
+      "count": "156"
     },
     {
       "name": "Ease of use",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Ankit",
+      "rating": 5.0,
+      "title": "Excellent RO Purifier with Water-Saving Feature",
+      "date": "2026-09-03",
+      "date_label": "3 September 2026",
+      "body": "I’m very happy with my Aquaguard Delight Aqua Saver. The water purification quality is excellent, and the water tastes clean and fresh. The purifier has a sleek, compact design that fits well in the kitchen without taking up much space. I particularly like its water-saving feature, as it minimizes water wastage compared with many conventional RO purifiers. The operation is simple and user-friendly, and the overall performance has been reliable so far. Installation was smooth, and the purifier provides good peace of mind for everyday drinking water needs. Overall, the Aquaguard Delight Aqua Sav"
+    },
     {
       "author": "Helloworld",
       "rating": 3.0,
@@ -59,14 +67,6 @@
       "date": "2026-08-19",
       "date_label": "19 August 2026",
       "body": "This purifier machine is good in budget and is running well now and the technician is charging extra ₹500 for TDS control.👍The first machine that arrived was faulty. I think it was repaired. After complaining to Call center , they gave me a new replacement machine."
-    },
-    {
-      "author": "Surendra",
-      "rating": 4.0,
-      "title": "Water",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "The product was really good overall. However, I noticed that the water taste is slightly different compared to the water from a regular water filter. Because of this, I felt the taste was not quite up to the mark. Apart from that, the product is working really well and is in good condition."
     },
     {
       "author": "lienlal thangjom",

@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-04",
-  "customers_say": "Customers find the door lock worth its price and appreciate its straightforward installation process. They praise its features, with one customer noting its near-instant fingerprint unlock capability, and consider it perfect for security needs. The lock receives positive feedback for its appearance and functionality, with one customer highlighting its useful camera feature. However, battery life is a concern, with customers reporting very short battery duration of 30-45 days.",
+  "scraped": "2026-09-05",
+  "customers_say": "Customers find the door lock worth its price and appreciate its straightforward installation process, with one customer noting the clear setup instructions. Moreover, the device provides all necessary features, is easy to use, and offers good security with an anti-pry/tamper alarm. Additionally, they like its appearance and functionality, with one customer highlighting the useful camera feature. However, the battery life receives negative feedback, with customers reporting very short battery duration of 30-45 days.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "38"
+      "count": "39"
     },
     {
       "name": "Installation",
@@ -12,11 +12,11 @@
     },
     {
       "name": "Ease of use",
-      "count": "26"
+      "count": "23"
     },
     {
       "name": "Features",
-      "count": "22"
+      "count": "21"
     },
     {
       "name": "Security",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Functionality",
-      "count": "13"
+      "count": "14"
     },
     {
       "name": "Battery life",
@@ -37,44 +37,44 @@
   ],
   "reviews": [
     {
+      "author": "Mushtaq sayed",
+      "rating": 5.0,
+      "title": "Very Happy with My Purchase!",
+      "date": "2026-09-03",
+      "date_label": "3 September 2026",
+      "body": "⭐⭐⭐⭐⭐ Very Happy with My Purchase! Purchased the LAVNA 8 Way Smart Door Lock from Amazon and I’m very satisfied with it. Excellent quality, stylish design, and the multiple unlocking options are very convenient. Face recognition and fingerprint work smoothly. Overall, a great product and excellent value for money. Highly recommended!"
+    },
+    {
+      "author": "Bhawna Sharma",
+      "rating": 5.0,
+      "title": "Door lock",
+      "date": "2026-09-02",
+      "date_label": "2 September 2026",
+      "body": "Very nice product.,it’s perfect. Must buy"
+    },
+    {
+      "author": "Old Delhi Bazaar",
+      "rating": 5.0,
+      "title": "Perfect lock at a very reasonable price",
+      "date": "2026-09-01",
+      "date_label": "1 September 2026",
+      "body": "Perfect lock. Safe and sturdy. Zero complaints for over one year of use. Highly recommended."
+    },
+    {
+      "author": "Babu",
+      "rating": 5.0,
+      "title": "Lavna smart lock",
+      "date": "2026-09-01",
+      "date_label": "1 September 2026",
+      "body": "I purchased this Lavna smart lock for my new house main door, it's an excellent lock with various modes of keyless unlock and highly safe"
+    },
+    {
       "author": "vignesh",
       "rating": 5.0,
       "title": "Good customer support by LAVNA",
       "date": "2026-08-31",
       "date_label": "31 August 2026",
       "body": "Well supported by LAVNA team for setting up the lock . Very clear instructions given and done setup easily"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "100% Satisfied",
-      "date": "2026-08-29",
-      "date_label": "29 August 2026",
-      "body": "Value for money Lavna Lock! Secure, Smart & Stylish - The best smart lock for my home. 100% Satisfied! Good Installation experiance."
-    },
-    {
-      "author": "Mukesh Kumar Gupta",
-      "rating": 5.0,
-      "title": "Great product !",
-      "date": "2026-08-29",
-      "date_label": "29 August 2026",
-      "body": "The product is very good and Mr Jatin was very helpful in solving small issues over phone....overall very satisfied with my purchase and after sales service..."
-    },
-    {
-      "author": "Mounika",
-      "rating": 5.0,
-      "title": "Very good product and worth every penny.",
-      "date": "2026-08-12",
-      "date_label": "12 August 2026",
-      "body": "The product is very good, it works with multiple keyless options like fingerprint, numeric lock, we can lock and unlock from mobile app also. We charged the battery almost 6-7 months back but still it is working with out any issue. Worth the amount."
-    },
-    {
-      "author": "T",
-      "rating": 5.0,
-      "title": "Safe and convenient",
-      "date": "2026-08-06",
-      "date_label": "6 August 2026",
-      "body": "Good lock, good quality, highly useful and convenient. Had some concern with lock's functionality, Jatin helped me with it. The customer service is splendid. This one is my 3rd lock from Lavna. Just go for it."
     }
   ]
 }
