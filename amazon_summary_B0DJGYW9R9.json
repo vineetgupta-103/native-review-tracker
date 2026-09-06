@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-05",
-  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance and triple deadlocks for high security. The lock features multiple unlocking options and adds a modern touch to the door, while offering unparalleled convenience for the whole family. The build quality is excellent, and customers like the app experience, though opinions are mixed.",
+  "scraped": "2026-09-06",
+  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. They like its appearance, adding a modern touch to the door, and its features, including multiple unlocking options. The build quality is solid, and customers find the app interface good and easy to use. However, the app experience receives mixed reviews, with some finding it great while others describe it as terrible.",
   "aspects": [
     {
       "name": "Installation",
@@ -15,6 +15,10 @@
       "count": "27"
     },
     {
+      "name": "Ease of use",
+      "count": "24"
+    },
+    {
       "name": "Appearance",
       "count": "20"
     },
@@ -27,15 +31,19 @@
       "count": "12"
     },
     {
-      "name": "Convenience",
-      "count": "12"
-    },
-    {
       "name": "App experience",
       "count": "16"
     }
   ],
   "reviews": [
+    {
+      "author": "SOURAV SHARMA",
+      "rating": 5.0,
+      "title": "NATIVE LOCK PRO",
+      "date": "2026-09-04",
+      "date_label": "4 September 2026",
+      "body": "Good product sturdy and having simple interface, Mr. Arjun installation person has full knowledge and experience.. Great experience for us."
+    },
     {
       "author": "Asit kumar Subudhi",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-08-16",
       "date_label": "16 August 2026",
       "body": "Great experience with the Urban Company Native lock installation. The technician was extremely professional, skilled, and handled the door fitting with neat precision. He also took the time to explain how the smart lock functions, set up the app, and cleared all the drilling mess after finishing the job. 5/5 stars!"
-    },
-    {
-      "author": "akash kahalkar",
-      "rating": 5.0,
-      "title": "great lock with enhancment to make.",
-      "date": "2026-08-14",
-      "date_label": "14 August 2026",
-      "body": "good lock with great features, only drawback is less integration with pre installed door bells, it come with bellLink device but that only support old analog door bells not digital ones. in terms of battery it uses Duracell Aa. would have been better if they have provided rechargable battery."
     },
     {
       "author": "Vansh",

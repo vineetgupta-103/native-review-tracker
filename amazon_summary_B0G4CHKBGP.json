@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-04",
+  "scraped": "2026-09-06",
   "customers_say": "Customers find the water purifier exceeds expectations in performance and design, with smooth installation and no issues reported. The water quality receives positive feedback, with one customer noting TDS levels below 100, and they appreciate its appearance, with one highlighting the modern touch panel with LED indicators. They like the taste and service, with one mentioning no service needed for 2 years. However, reliability is a concern as multiple customers report units stopping within one month of use.",
   "aspects": [
     {
       "name": "Performance",
-      "count": "159"
+      "count": "162"
     },
     {
       "name": "Installation",
@@ -12,11 +12,11 @@
     },
     {
       "name": "Water quality",
-      "count": "92"
+      "count": "94"
     },
     {
       "name": "Water taste",
-      "count": "91"
+      "count": "93"
     },
     {
       "name": "Appearance",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Service",
-      "count": "63"
+      "count": "64"
     },
     {
       "name": "Experience",
@@ -32,17 +32,17 @@
     },
     {
       "name": "Reliability",
-      "count": "73"
+      "count": "74"
     }
   ],
   "reviews": [
     {
-      "author": "Pro Customer",
-      "rating": 4.0,
-      "title": "its good in every aspect other that wifi issue",
-      "date": "2026-08-25",
-      "date_label": "25 August 2026",
-      "body": "been using it since a week great service by urban as and quick installation as well its a nice fun purifier which lets you allow to monitor your ro with app and nice modern touch buttons one thing only which i didnt like was i have to connect my wifi multiple times its beena. week and it got unsyncef with wifi twice maybe due to power cut or some other reason anyways its storing 7litre of water instead of 8 idk why, then filteration is fine water tastes fine if u are coming from tap water i personally got used it fast so that was okay and yea 4 star just bcoz wifi issue hopefully it doesnt bec"
+      "author": "om rakshak",
+      "rating": 3.0,
+      "title": "Good Product, but High Output TDS and Disappointing After-Sales Service",
+      "date": "2026-09-01",
+      "date_label": "1 September 2026",
+      "body": "The product is good overall, but the main issue with my particular purifier is the TDS. My input water TDS is around 550, but the purifier’s output TDS is still going up to 190–200. I believe this may be an issue with my particular unit, as I’ve seen many other reviews where users are getting around 60 TDS with similar input water. Unfortunately, the bigger disappointment has been the after-sales service. I tried contacting Urban Company multiple times, but the service team did not respond properly. Even the installation/service person didn’t answer my calls, and my emails to the company also "
     },
     {
       "author": "Anish Kumar",

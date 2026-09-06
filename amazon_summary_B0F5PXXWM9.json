@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-05",
-  "customers_say": "Customers find this water purification unit effective, with multi-stage purification that removes dissolved impurities and produces clean, pure water that tastes good. They appreciate its reliability, ease of use, and consider it a budget-friendly option. The service receives mixed reviews, with some praising the prompt service while others report very bad service.",
+  "scraped": "2026-09-06",
+  "customers_say": "Customers find the water purifier to be of good quality, working well, and budget-friendly. They appreciate its taste, amazing purification results, and ease of use. The customer experience and service receive mixed feedback - while some report prompt service, others complain about poor customer care and after-sales service.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,31 +8,31 @@
     },
     {
       "name": "Reliability",
-      "count": "862"
+      "count": "866"
     },
     {
       "name": "Value for money",
-      "count": "812"
+      "count": "817"
     },
     {
       "name": "Water taste",
-      "count": "261"
+      "count": "264"
     },
     {
       "name": "Water quality",
-      "count": "156"
+      "count": "251"
     },
     {
       "name": "Ease of use",
-      "count": "132"
-    },
-    {
-      "name": "Filtration",
-      "count": "130"
+      "count": "134"
     },
     {
       "name": "Service",
-      "count": "140"
+      "count": "141"
+    },
+    {
+      "name": "Customer experience",
+      "count": "123"
     }
   ],
   "reviews": [

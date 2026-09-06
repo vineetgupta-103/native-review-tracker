@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-04",
-  "customers_say": "Customers find this water purifier to be among the best in the market, offering great value with transparent pricing and no service required. The installation process receives positive feedback, and customers appreciate its premium appearance and excellent water quality, noting it makes a noticeable difference. While some customers report superb working performance, others mention the purifier stops working, and opinions on water taste are divided between those who find it excellent and those who disagree.",
+  "scraped": "2026-09-06",
+  "customers_say": "Customers find this water purifier to be among the best in the market, offering great value with transparent pricing and no service required. The installation process is excellent, and the purifier works perfectly, with one customer noting it performs well with any type of water. They appreciate its premium appearance and report noticeable improvements in water quality. The taste receives mixed feedback, with some customers saying it tastes excellent while others disagree.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,15 +8,19 @@
     },
     {
       "name": "Value for money",
-      "count": "487"
+      "count": "490"
     },
     {
       "name": "Installation",
       "count": "321"
     },
     {
+      "name": "Reliability",
+      "count": "285"
+    },
+    {
       "name": "Appearance",
-      "count": "220"
+      "count": "201"
     },
     {
       "name": "Water quality",
@@ -24,11 +28,7 @@
     },
     {
       "name": "Service",
-      "count": "138"
-    },
-    {
-      "name": "Reliability",
-      "count": "283"
+      "count": "139"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "INDRAJEET",
+      "rating": 5.0,
+      "title": "Excellent RO",
+      "date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "body": "Value for money and overall good experience"
+    },
     {
       "author": "Vishnu S.",
       "rating": 4.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-24",
       "date_label": "24 August 2026",
       "body": "Product best . installation process to let . Installation time repitetaly change but customer care support two fast and installation . Installation time pe karana hai to customer care se bat karani padati tab tecnician jaldi ata hai nahi to nahi . Bad me after service ke liye yesa na kare to thik hai . baki filter best hai sath me tds miter dete hai jo apako khud chek Karane ke liye best kam ata hai ."
-    },
-    {
-      "author": "Akash",
-      "rating": 5.0,
-      "title": "Value for money 💰",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "So far things are good and quality of water is fine. Value for money 💰 Best for indian bore water and municipal water"
     }
   ]
 }

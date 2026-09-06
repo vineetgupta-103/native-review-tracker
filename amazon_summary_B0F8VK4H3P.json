@@ -1,7 +1,11 @@
 {
-  "scraped": "2026-09-05",
-  "customers_say": "Customers find the door lock's appearance appealing and appreciate its solid build quality, convenient keyless entry, and multiple access options. The installation process is smooth, and they consider it good value for money. However, the functionality receives mixed feedback, with some reporting issues with the front lock not working. Moreover, connectivity is a concern, with several customers noting no WiFi connectivity.",
+  "scraped": "2026-09-06",
+  "customers_say": "Customers find the door lock to be a premium product with solid build quality and great looks. The installation process is smoothly done, and they appreciate its features, with one customer highlighting its multiple access options including fingerprint and passcode entry. However, the reliability receives mixed feedback - while some say it functions well, others report issues with the fingerprint scanner stopping unexpectedly. Moreover, connectivity is a concern, with several customers reporting no wifi connectivity. Value for money also gets mixed reviews, with some considering it excellent while others advise against purchasing it.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "75"
+    },
     {
       "name": "Appearance",
       "count": "24"
@@ -19,11 +23,7 @@
       "count": "14"
     },
     {
-      "name": "Convenience",
-      "count": "8"
-    },
-    {
-      "name": "Functionality",
+      "name": "Reliability",
       "count": "43"
     },
     {
@@ -37,12 +37,12 @@
   ],
   "reviews": [
     {
-      "author": "Prabhash",
+      "author": "Biju Thomas",
       "rating": 1.0,
-      "title": "Useless. It locks you out at random times.",
-      "date": "2026-09-03",
-      "date_label": "3 September 2026",
-      "body": "Its a piece of complete junk. Its so unreliable that we have been locked outside multiple times. We have stopped using it in the fear of it getting locked at any random time. Dont buy. Stick to your metal lock as it is still somewhat reliable and will not lock you out of your house."
+      "title": "SubQuality product",
+      "date": "2026-04-15",
+      "date_label": "15 April 2026",
+      "body": "The coating on the handle chipped off in 10 months. When customer service was contacted, they insisted that this does not come under wanrrety and payment is required for rectifying the problem. The warranty is supposed to be 2 years but did not get any help for my problem. The door looks very shabby because of the the chipped door handle."
     },
     {
       "author": "Kanraj Jain",
