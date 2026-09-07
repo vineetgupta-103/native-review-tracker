@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-06",
+  "scraped": "2026-09-07",
   "customers_say": "Customers find the smart door lock to be of good quality and easy to install, with straightforward setup and clear instructions. Moreover, they appreciate its features, noting it provides all necessary functions, and consider it perfect for security needs, with one customer highlighting the anti-pry/tamper alarm feature. Additionally, the lock receives positive feedback for its appearance and functionality, with one customer noting its usefulness as a biometric security device. However, the battery life receives criticism, with customers reporting very short battery duration of 30-45 days.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "kailas",
+      "rating": 1.0,
+      "title": "Worst product",
+      "date": "2026-09-04",
+      "date_label": "4 September 2026",
+      "body": "So many issues facing after one month camera is not working"
+    },
+    {
       "author": "Mushtaq sayed",
       "rating": 5.0,
       "title": "Very Happy with My Purchase!",
@@ -59,14 +67,6 @@
       "date": "2026-09-01",
       "date_label": "1 September 2026",
       "body": "Perfect lock. Safe and sturdy. Zero complaints for over one year of use. Highly recommended."
-    },
-    {
-      "author": "Babu",
-      "rating": 5.0,
-      "title": "Lavna smart lock",
-      "date": "2026-09-01",
-      "date_label": "1 September 2026",
-      "body": "I purchased this Lavna smart lock for my new house main door, it's an excellent lock with various modes of keyless unlock and highly safe"
     },
     {
       "author": "vignesh",
