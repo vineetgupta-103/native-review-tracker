@@ -1,18 +1,22 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find the door lock impressive in terms of build quality, security, and appearance, with one noting how the mocha finish matches perfectly with their main door. They appreciate its features, with one highlighting the on-call door opening functionality, and find it easy to operate with a user-friendly app. The lock performs well, with one mentioning it works even in dark conditions, and customers like its appearance, with one noting there's no ugly handle sticking out. While many consider it a good purchase, opinions about installation time are mixed.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find the door lock easy to operate with a user-friendly app, and appreciate its impressive build quality and top-tier security features. They like its appearance, noting it looks like a simple door handle, and one customer mentions the mocha finish matches perfectly with their main door. The lock functions well, with one customer noting it works even in dark conditions, and they find it convenient to use. The value for money receives mixed feedback.",
   "aspects": [
     {
       "name": "Features",
-      "count": "13"
+      "count": "14"
     },
     {
       "name": "Functionality",
-      "count": "12"
+      "count": "13"
     },
     {
       "name": "Ease of use",
       "count": "11"
+    },
+    {
+      "name": "Installation",
+      "count": "10"
     },
     {
       "name": "Build quality",
@@ -29,13 +33,17 @@
     {
       "name": "Value for money",
       "count": "15"
-    },
-    {
-      "name": "Installation",
-      "count": "9"
     }
   ],
   "reviews": [
+    {
+      "author": "KAUSHIK CHATTERJEE",
+      "rating": 5.0,
+      "title": "Excellent Premium Digital Lock",
+      "date": "2026-09-04",
+      "date_label": "4 September 2026",
+      "body": "Excellent product experience, very good installation and service, product seems to be good. Has so many features.. Installation person was very professional did an excellent job and explained every feature in detail.. App is working seamlessly. Like the product"
+    },
     {
       "author": "Raj",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-08-22",
       "date_label": "22 August 2026",
       "body": "Very happy with my purchase! The mocha finish matches perfectly with our main door, and the lock has some great features that make it convenient and easy to use. Overall, very satisfied with the product."
-    },
-    {
-      "author": "Ankit Singh",
-      "rating": 5.0,
-      "title": "Good experience till now",
-      "date": "2026-08-20",
-      "date_label": "20 August 2026",
-      "body": "Been using since few days. Product quality is very nice and installation also smooth. Thanks to amazon the lock came after 1 day and the uc people installed it after that. very professsionally done and door was not damaged. Notifications come quickly and can manage everythign from app. Very easy to use. Camera works good even in night. Small daily convenience but makes difference."
     },
     {
       "author": "nandish k",

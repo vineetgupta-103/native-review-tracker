@@ -1,14 +1,10 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door. Moreover, the lock works as expected with no issues, and customers appreciate its user-friendly app and multiple unlock options. Additionally, they value its top-notch security features, with one customer noting how it transforms home security management. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find the smart door lock easy to install without damaging the door, and appreciate its smooth functionality and user-friendly app interface. Moreover, the lock offers multiple unlocking options and provides comprehensive safety features that transform home security management. Additionally, the detailed demonstrations and clear instructions receive positive feedback, and customers consider it a handy addition to smart home setups. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "182"
-    },
-    {
       "name": "Installation",
-      "count": "85"
+      "count": "86"
     },
     {
       "name": "Functionality",
@@ -28,6 +24,10 @@
     },
     {
       "name": "Demonstration",
+      "count": "18"
+    },
+    {
+      "name": "Usefulness",
       "count": "18"
     },
     {
@@ -69,12 +69,12 @@
       "body": "Good product, easy installation"
     },
     {
-      "author": "Pradeep K",
-      "rating": 5.0,
-      "title": "Smart lock plus",
-      "date": "2026-08-11",
-      "date_label": "11 August 2026",
-      "body": "Brief content visible, double tap to read full content.Full content visible, double tap to read brief content. Read moreRead less"
+      "author": "Abyisheik",
+      "rating": 1.0,
+      "title": "Installation was great.",
+      "date": "2026-06-25",
+      "date_label": "25 June 2026",
+      "body": "I bought the MyGate Smart Lock Plus primarily because of its scheduled Passage Mode, expecting the door to automatically remain unlocked during specific hours so my domestic staff could enter without requiring access credentials. Unfortunately, that's not how it works. Although the app allows you to schedule Passage Mode and even shows that the mode has started, the lock does not actually enter Passage Mode automatically. It requires someone to physically unlock the door using a registered fingerprint, PIN, or another authorized access method after the scheduled start time before Passage Mode "
     }
   ]
 }

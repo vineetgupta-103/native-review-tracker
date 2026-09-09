@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-07",
+  "scraped": "2026-09-09",
   "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, installation process, and ease of use. The water quality receives positive reviews, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as multiple customers report filters breaking within 6 months of use, and reliability is mixed with some units completely stopping working. While some customers consider it good value for money, others feel it's not worth the investment.",
   "aspects": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Water taste",
-      "count": "206"
+      "count": "207"
     },
     {
       "name": "Ease of use",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Value for money",
-      "count": "658"
+      "count": "660"
     },
     {
       "name": "Reliability",
-      "count": "556"
+      "count": "557"
     },
     {
       "name": "Durability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Mononendu Das",
+      "rating": 5.0,
+      "title": "Product worth Money",
+      "date": "2026-09-04",
+      "date_label": "4 September 2026",
+      "body": "The product is great! Worth buying"
+    },
     {
       "author": "Rakesh",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-08-27",
       "date_label": "27 August 2026",
       "body": "Good quality"
-    },
-    {
-      "author": "Zaheer Ahmed",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-08-26",
-      "date_label": "26 August 2026",
-      "body": "Installation went on smoothly. Professional work done."
     },
     {
       "author": "Naman Mittal",

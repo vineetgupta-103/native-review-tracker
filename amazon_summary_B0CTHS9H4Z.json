@@ -1,14 +1,22 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find the smart door lock to be of good quality and easy to install, with straightforward setup and clear instructions. Moreover, they appreciate its features, noting it provides all necessary functions, and consider it perfect for security needs, with one customer highlighting the anti-pry/tamper alarm feature. Additionally, the lock receives positive feedback for its appearance and functionality, with one customer noting its usefulness as a biometric security device. However, the battery life receives criticism, with customers reporting very short battery duration of 30-45 days.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find the smart door lock to be of good quality and worth its price, with reliable performance and straightforward installation. They appreciate its ease of use, comprehensive features, and security capabilities, with one customer noting the anti-pry/tamper alarm adds real security. Customers like its appearance, with one mentioning it looks good on the door.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "129"
+      "count": "132"
+    },
+    {
+      "name": "Value for money",
+      "count": "41"
+    },
+    {
+      "name": "Reliability",
+      "count": "37"
     },
     {
       "name": "Installation",
-      "count": "34"
+      "count": "35"
     },
     {
       "name": "Ease of use",
@@ -25,24 +33,24 @@
     {
       "name": "Appearance",
       "count": "15"
-    },
-    {
-      "name": "Functionality",
-      "count": "14"
-    },
-    {
-      "name": "Battery life",
-      "count": "7"
     }
   ],
   "reviews": [
     {
-      "author": "kailas",
-      "rating": 1.0,
-      "title": "Worst product",
-      "date": "2026-09-04",
-      "date_label": "4 September 2026",
-      "body": "So many issues facing after one month camera is not working"
+      "author": "Soujanya",
+      "rating": 5.0,
+      "title": "Good and value of money",
+      "date": "2026-09-05",
+      "date_label": "5 September 2026",
+      "body": "I have bought a LAVNA digital lock for my main door... it's good and nice service by Hussain. Value of money. I would suggest to buy... If needed... go for it confidentially."
+    },
+    {
+      "author": "Vignesh",
+      "rating": 5.0,
+      "title": "Good porduct",
+      "date": "2026-09-05",
+      "date_label": "5 September 2026",
+      "body": "Easy installation , good customer suppprt , and easy connection with app"
     },
     {
       "author": "Mushtaq sayed",
@@ -53,14 +61,6 @@
       "body": "⭐⭐⭐⭐⭐ Very Happy with My Purchase! Purchased the LAVNA 8 Way Smart Door Lock from Amazon and I’m very satisfied with it. Excellent quality, stylish design, and the multiple unlocking options are very convenient. Face recognition and fingerprint work smoothly. Overall, a great product and excellent value for money. Highly recommended!"
     },
     {
-      "author": "Bhawna Sharma",
-      "rating": 5.0,
-      "title": "Door lock",
-      "date": "2026-09-02",
-      "date_label": "2 September 2026",
-      "body": "Very nice product.,it’s perfect. Must buy"
-    },
-    {
       "author": "Old Delhi Bazaar",
       "rating": 5.0,
       "title": "Perfect lock at a very reasonable price",
@@ -69,12 +69,12 @@
       "body": "Perfect lock. Safe and sturdy. Zero complaints for over one year of use. Highly recommended."
     },
     {
-      "author": "vignesh",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "Good customer support by LAVNA",
-      "date": "2026-08-31",
-      "date_label": "31 August 2026",
-      "body": "Well supported by LAVNA team for setting up the lock . Very clear instructions given and done setup easily"
+      "title": "100% Satisfied",
+      "date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "body": "Value for money Lavna Lock! Secure, Smart & Stylish - The best smart lock for my home. 100% Satisfied! Good Installation experiance."
     }
   ]
 }

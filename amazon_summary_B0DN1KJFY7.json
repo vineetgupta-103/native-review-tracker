@@ -1,10 +1,14 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find the water purifier's installation quick and perfect, and appreciate its elegant design and functionality, particularly for small families. The water taste is good, with customers noting they can control it according to their water source. The product's reliability and value for money receive mixed feedback - while some say it works perfectly and is good for its price, others report it stops working properly and consider it a waste of money. The customer experience and service also get mixed reviews, with some praising the service while others find it terrible.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find the water purification unit to be of good quality, with quick and perfect installation, and appreciate its elegant design and functionality, particularly for small families. The water tastes good, and they consider it a good choice for daily use. The reliability and value for money receive mixed feedback - while some say it works perfectly and is good for its price, others report it stops working properly and consider it a waste of money. The service experience is also mixed, with some praising the service while others find it terrible.",
   "aspects": [
     {
+      "name": "Quality",
+      "count": "1.4K"
+    },
+    {
       "name": "Installation",
-      "count": "175"
+      "count": "171"
     },
     {
       "name": "Water taste",
@@ -16,41 +20,53 @@
     },
     {
       "name": "Functionality",
-      "count": "54"
+      "count": "51"
     },
     {
       "name": "Reliability",
-      "count": "355"
+      "count": "358"
     },
     {
       "name": "Value for money",
-      "count": "298"
-    },
-    {
-      "name": "Customer experience",
-      "count": "49"
+      "count": "301"
     },
     {
       "name": "Service",
-      "count": "49"
+      "count": "50"
     }
   ],
   "reviews": [
     {
-      "author": "Ashritha",
+      "author": "Rushikesh",
       "rating": 5.0,
-      "title": "Good",
-      "date": "2026-09-01",
-      "date_label": "1 September 2026",
-      "body": "Working good and happy with the product"
+      "title": "Great value for money",
+      "date": "2026-09-06",
+      "date_label": "6 September 2026",
+      "body": "Very nice purifier. Wworks great and the service is also good"
     },
     {
-      "author": "Sushant Jadhav",
+      "author": "Frank Thaliath",
       "rating": 5.0,
-      "title": "Satisfied product",
-      "date": "2026-08-31",
-      "date_label": "31 August 2026",
-      "body": "Good prodect and value fore money Installation services are too good"
+      "title": "Great product",
+      "date": "2026-09-05",
+      "date_label": "5 September 2026",
+      "body": "Great product. Working as expected."
+    },
+    {
+      "author": "rakesh",
+      "rating": 4.0,
+      "title": "Nice product.",
+      "date": "2026-09-03",
+      "date_label": "3 September 2026",
+      "body": "It is good product and got a good service. Only the caveat was it was delivered after 5 days. But the price was too good to be true."
+    },
+    {
+      "author": "Jitendra",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-08-30",
+      "date_label": "30 August 2026",
+      "body": "Nice product. Installation was quick and explained its use very well"
     },
     {
       "author": "Mukul Sharma",
@@ -59,22 +75,6 @@
       "date": "2026-08-25",
       "date_label": "25 August 2026",
       "body": "Good product but TDS controler installed extra on extra cost 490"
-    },
-    {
-      "author": "abhigyan",
-      "rating": 1.0,
-      "title": "### Extremely Disappointing After-Sales Service from Aquaguard###",
-      "date": "2026-08-22",
-      "date_label": "22 August 2026",
-      "body": "### Extremely Disappointing After-Sales Service from Aquaguard The product worked well for the first four months. However, during the fifth month, the TDS level started increasing, and by the end of the fifth month, it had crossed 120. This is when I raised my first service complaint. A technician visited a few days later, carried out some checks, and assured me that the issue would resolve and the purifier would work fine. For the next few days, the TDS level did come down, but it never dropped below 100. Since the technician had assured us that it would improve in a few days, we trusted his "
-    },
-    {
-      "author": "Mythily",
-      "rating": 5.0,
-      "title": "Good purifier with excellent performance",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "Good water purifier with effective filtration. The water tastes clean and fresh, and the purifier looks stylish. It is easy to use and the overall performance has been good so far. Installation was also smooth. Happy with the purchase."
     }
   ]
 }

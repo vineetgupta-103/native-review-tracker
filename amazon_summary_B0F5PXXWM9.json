@@ -1,41 +1,49 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find the water purifier to be of good quality, working well, and budget-friendly. They appreciate its taste, amazing purification results, and ease of use. The customer experience and service receive mixed feedback - while some report prompt service, others complain about poor customer care and after-sales service.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its budget-friendly price point. The product is easy to use, with one customer noting it doesn't allow mixing of untreated water, and comes with free installation. They praise the water quality, with tests showing it's clean and pure, and like the taste. While some customers report prompt service, others complain about poor customer care and after-sales service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "3.6K"
+      "count": "3.7K"
     },
     {
       "name": "Reliability",
-      "count": "866"
+      "count": "881"
     },
     {
       "name": "Value for money",
-      "count": "817"
+      "count": "822"
+    },
+    {
+      "name": "Installation",
+      "count": "559"
     },
     {
       "name": "Water taste",
-      "count": "264"
+      "count": "267"
     },
     {
       "name": "Water quality",
-      "count": "251"
+      "count": "158"
     },
     {
       "name": "Ease of use",
-      "count": "134"
+      "count": "137"
     },
     {
       "name": "Service",
-      "count": "141"
-    },
-    {
-      "name": "Customer experience",
-      "count": "123"
+      "count": "143"
     }
   ],
   "reviews": [
+    {
+      "author": "Argha P.",
+      "rating": 4.0,
+      "title": "Good product",
+      "date": "2026-09-06",
+      "date_label": "6 September 2026",
+      "body": "The purifier is working fine. Water tastes good, the water wastage in the process of purifying seems to be of justified amount. I hv not tested the tds though, so can not comment on that."
+    },
     {
       "author": "Ankit",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-08-21",
       "date_label": "21 August 2026",
       "body": "Good water purifier that gets the job done. The filtration works great—it brought down the TDS effectively, and the water tastes fresh and clean with no chemical odor. The build quality is compact and fits nicely in the kitchen without taking up too much space. Water wastage is also relatively lower compared to standard RO models. Deducting one star only because the dispensing flow could be slightly faster and installation took a couple of days to schedule. Overall, reliable value for money."
-    },
-    {
-      "author": "Surendra",
-      "rating": 4.0,
-      "title": "Water",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "The product was really good overall. However, I noticed that the water taste is slightly different compared to the water from a regular water filter. Because of this, I felt the taste was not quite up to the mark. Apart from that, the product is working really well and is in good condition."
     },
     {
       "author": "lienlal thangjom",

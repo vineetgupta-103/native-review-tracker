@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find the smart lock to be of high quality, with all features working smoothly and providing peace of mind through its secure multi-bolt system. Moreover, the lock is versatile with multiple access methods, and customers appreciate its premium finish that adds a wow factor to their homes. They find it easy to use, particularly through fingerprint recognition, and consider it useful for both home and office settings. However, opinions on value for money are mixed, with some finding it worth the price while others consider it not worth buying.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find this smart lock to be of premium quality with smooth functionality and excellent value for money. They appreciate its security features, with one customer highlighting its secure multi-bolt system, and its appearance adds a wow factor to their homes. Customers praise its convenience, with one noting it's particularly helpful for elderly and children, and its versatility with multiple access methods. The battery life receives mixed reviews, with some customers reporting good performance while others mention the battery going dead within a year.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "259"
+      "count": "260"
     },
     {
       "name": "Functionality",
       "count": "103"
     },
     {
-      "name": "Ease of use",
-      "count": "56"
+      "name": "Value for money",
+      "count": "80"
     },
     {
       "name": "Security",
-      "count": "45"
+      "count": "46"
     },
     {
       "name": "Appearance",
-      "count": "38"
+      "count": "39"
     },
     {
       "name": "Convenience",
@@ -31,8 +31,8 @@
       "count": "29"
     },
     {
-      "name": "Value for money",
-      "count": "81"
+      "name": "Battery life",
+      "count": "27"
     }
   ],
   "reviews": [
@@ -53,6 +53,14 @@
       "body": "Lock is good. Installation extra cost which is too high 1200/-. Fabricator extra charge. They should provide free installation."
     },
     {
+      "author": "Prasad Katre",
+      "rating": 5.0,
+      "title": "Unboxing Experience",
+      "date": "2026-08-17",
+      "date_label": "17 August 2026",
+      "body": "Packaging & Unboxing Experience ​From the moment the package arrived, the presentation gave a strong impression of a premium product. ​Secure Protection: The outer box was sturdy with zero signs of shipping damage. Inside, high-density custom foam inserts cushioned every component—preventing any scratches or scuffs on the lock's finish. ​Neatly Organized: Everything came neatly compartmentalized. The front and rear lock bodies, mortise assembly, RFID key cards, mechanical backup keys, and installation screws were clearly labeled. ​Documentation: Includes an easy-to-read user manual and a drill"
+    },
+    {
       "author": "Sajin Babu",
       "rating": 5.0,
       "title": "x95 Golens product and service experience.",
@@ -67,14 +75,6 @@
       "date": "2026-08-01",
       "date_label": "1 August 2026",
       "body": "use for the Golens Smart Lock X95: Title: Excellent product — 5 stars! I’m very impressed with the Golens Smart Lock X95. Installation was quick and simple, and the sleek design looks great on my door. It offers multiple access methods ( face camera fingerprint, keypad, app, and backup key), and all of them work reliably. The fingerprint reader is fast and accurate, the keypad is responsive, and the mobile app is easy to use with helpful real-time notifications and access logs. Security features are solid — encrypted communication and an alarm for unauthorized attempts give me peace of mind. A"
-    },
-    {
-      "author": "Vensys IT Ventures Pvt Ltd",
-      "rating": 5.0,
-      "title": "Superb product!",
-      "date": "2026-07-28",
-      "date_label": "28 July 2026",
-      "body": "We replaced our existing godrej lock to this golens lock and our lifes have never been simpler, the product is flawless design as well as support wise. Kudos to golens team to give such good quality at such good price."
     }
   ]
 }

@@ -1,13 +1,25 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find the digital lock easy to install and appreciate its features, with one noting it offers multiple access options. Moreover, the lock provides a better sense of security, and customers find it convenient, with one mentioning the camera and view screen are very useful. Additionally, the service receives positive feedback, with one customer noting the service person is polite. However, opinions about value for money and reliability are mixed, with some finding it good for the price while others disagree.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find the digital lock to be of excellent quality, with good installation and reliable functionality, particularly on wooden doors. Moreover, they appreciate its security features as a home security solution, and one customer mentions it offers multiple access options. Additionally, customers find the lock easy to use and convenient, with good customer service. However, opinions on value for money are mixed, with some finding it good for the price while others disagree.",
   "aspects": [
     {
+      "name": "Quality",
+      "count": "101"
+    },
+    {
       "name": "Installation",
-      "count": "27"
+      "count": "28"
+    },
+    {
+      "name": "Functionality",
+      "count": "14"
     },
     {
       "name": "Features",
+      "count": "12"
+    },
+    {
+      "name": "Security",
       "count": "11"
     },
     {
@@ -15,27 +27,39 @@
       "count": "11"
     },
     {
-      "name": "Security",
-      "count": "10"
-    },
-    {
       "name": "Usability",
       "count": "10"
     },
     {
-      "name": "Convenience",
-      "count": "8"
-    },
-    {
       "name": "Value for money",
       "count": "15"
-    },
-    {
-      "name": "Reliability",
-      "count": "13"
     }
   ],
   "reviews": [
+    {
+      "author": "Kunal gulati",
+      "rating": 5.0,
+      "title": "Perfect service",
+      "date": "2026-09-06",
+      "date_label": "6 September 2026",
+      "body": "Kishan was great help during the installation everything was amazing"
+    },
+    {
+      "author": "Pallishree Sourav",
+      "rating": 5.0,
+      "title": "Lock safety",
+      "date": "2026-09-05",
+      "date_label": "5 September 2026",
+      "body": "Very good product. As i thought it is more advanced in technology aspect.. And i am very much glad for the service i am getting from Godrej."
+    },
+    {
+      "author": "To be very honest, this doesn't help the heel as said. Mentally you will feel that you are wearing it but physically it doesn't make any difference. My suggestion would be, better buy a good walking shoe from any good brand.",
+      "rating": 4.0,
+      "title": "Good lock with nice features",
+      "date": "2026-08-31",
+      "date_label": "31 August 2026",
+      "body": "I am a medium user, for me it serves the purpose well. The camera option serves well for doors without an eye piece. It need 2.4ghz wifi for functioning, and doesn't work with 5g connection. Hence, make sure u ask ur internet provider for the specified frequency. Installation went pretty smooth without any hassle, service people were well equipped and made a good job without any damage to the door. The outside handle wasn't coming back to it's original position - service person said that once u peel off the plastic wrapping on top of the camera lens it should be working fine. Since my builder "
+    },
     {
       "author": "Genuine Buyer - Honest Reviews Always",
       "rating": 5.0,
@@ -51,30 +75,6 @@
       "date": "2026-08-29",
       "date_label": "29 August 2026",
       "body": "Satisfied"
-    },
-    {
-      "author": "Ankur rai",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "Good product and technical visit is good and great job done Thanks Godrej service"
-    },
-    {
-      "author": "DEEPAK VEHAL",
-      "rating": 5.0,
-      "title": "Great experience",
-      "date": "2026-07-26",
-      "date_label": "26 July 2026",
-      "body": "Great experience with godrej and the installation process was very quick and easy. Technician was very good. Technician Name- Guddu"
-    },
-    {
-      "author": "Garima",
-      "rating": 1.0,
-      "title": "Please Dont Buy Godrej Lock",
-      "date": "2026-06-09",
-      "date_label": "9 June 2026",
-      "body": "3rd class service hei, Godrej ki, pls dont buy, product features bhaut ache hei, but build quality bilkul 0 hei, aaj 8 june 2026 ko almost 2 month ho gaye lock liye, but lock ka camera lock lagne k 2 din baad hi zor sei gate band hone par hi gir padda, and wo aaj tak camera ka part na to chnage kiya na hi fix kiya usko, aap agr NCR mei rehte hei to pls bilkul bhi buy mat karna, Service bhaut kharab hei, 15 eamils godrej ko kiye, every time ticket genrate k alwa kuch nahi. no response. Amazon ke kehne par kai baar jo godrej ko jo mail kya, uske sare proof amazon k sath bhi share kiye, but aaj t"
     }
   ]
 }

@@ -1,18 +1,14 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find this water purifier to be among the best in the market, offering great value with transparent pricing and no service required. The installation process is excellent, and the purifier works perfectly, with one customer noting it performs well with any type of water. They appreciate its premium appearance and report noticeable improvements in water quality. The taste receives mixed feedback, with some customers saying it tastes excellent while others disagree.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and reliable performance. They appreciate its premium appearance and water quality, noting it makes a noticeable difference in water purity. While some customers consider it worth the price, others feel it's not value for money, and opinions about water taste are mixed.",
   "aspects": [
     {
       "name": "Quality",
       "count": "2.6K"
     },
     {
-      "name": "Value for money",
-      "count": "490"
-    },
-    {
       "name": "Installation",
-      "count": "321"
+      "count": "323"
     },
     {
       "name": "Reliability",
@@ -20,7 +16,7 @@
     },
     {
       "name": "Appearance",
-      "count": "201"
+      "count": "202"
     },
     {
       "name": "Water quality",
@@ -28,14 +24,26 @@
     },
     {
       "name": "Service",
-      "count": "139"
+      "count": "140"
+    },
+    {
+      "name": "Value for money",
+      "count": "492"
     },
     {
       "name": "Water taste",
-      "count": "208"
+      "count": "209"
     }
   ],
   "reviews": [
+    {
+      "author": "Ramesh",
+      "rating": 5.0,
+      "title": "Great product",
+      "date": "2026-09-05",
+      "date_label": "5 September 2026",
+      "body": "Prompt delivery from Amazon and quick installation from UC."
+    },
     {
       "author": "INDRAJEET",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-24",
       "date_label": "24 August 2026",
       "body": "Writing this review after few weeks of usage . Looks classy Does the job and 2 year warranty is peace of mind . And the mobile realtime connectivity is superb . Tested my water tds levels . Before its around 550 .after filteration its around 58 . So better job on filtering . Installation is smooth as well the person knows what he is doing . So peace of mind on that 😊 Recommended one for new buyers ."
-    },
-    {
-      "author": "SHANTARAM GAIKWAD",
-      "rating": 4.0,
-      "title": "Installation time repitetaly change",
-      "date": "2026-08-24",
-      "date_label": "24 August 2026",
-      "body": "Product best . installation process to let . Installation time repitetaly change but customer care support two fast and installation . Installation time pe karana hai to customer care se bat karani padati tab tecnician jaldi ata hai nahi to nahi . Bad me after service ke liye yesa na kare to thik hai . baki filter best hai sath me tds miter dete hai jo apako khud chek Karane ke liye best kam ata hai ."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-07",
-  "customers_say": "Customers find the door lock to be a premium product with solid build quality and great looks. The installation process is smoothly done, and they appreciate its features, with one customer highlighting its multiple access options including fingerprint and passcode entry. However, the reliability receives mixed feedback - while some say it functions well, others report issues with the fingerprint scanner stopping unexpectedly. Moreover, connectivity is a concern, with several customers reporting no wifi connectivity. Value for money also gets mixed reviews, with some considering it excellent while others advise against purchasing it.",
+  "scraped": "2026-09-09",
+  "customers_say": "Customers find the door lock to be a premium product with solid build quality, great looks, and convenient keyless entry. The installation process is smoothly done, and they appreciate its multiple access options, with one customer highlighting the fingerprint and passcode entry features. While the lock functions well initially, some customers report issues with the front lock not working and the fingerprint scanner stopping unexpectedly. Additionally, connectivity receives mixed feedback, with several customers reporting no wifi connectivity issues.",
   "aspects": [
     {
       "name": "Quality",
@@ -23,12 +23,12 @@
       "count": "14"
     },
     {
-      "name": "Reliability",
-      "count": "43"
+      "name": "Convenience",
+      "count": "8"
     },
     {
-      "name": "Value for money",
-      "count": "21"
+      "name": "Functionality",
+      "count": "43"
     },
     {
       "name": "Connectivity",
@@ -43,6 +43,14 @@
       "date": "2026-04-15",
       "date_label": "15 April 2026",
       "body": "The coating on the handle chipped off in 10 months. When customer service was contacted, they insisted that this does not come under wanrrety and payment is required for rectifying the problem. The warranty is supposed to be 2 years but did not get any help for my problem. The door looks very shabby because of the the chipped door handle."
+    },
+    {
+      "author": "Hemlata Thakre",
+      "rating": 5.0,
+      "title": "Good quality",
+      "date": "2026-01-06",
+      "date_label": "6 January 2026",
+      "body": "Good quality , great installation"
     },
     {
       "author": "Kanraj Jain",
@@ -67,14 +75,6 @@
       "date": "2024-09-08",
       "date_label": "8 September 2024",
       "body": "The Qubo Smart Lock Ultra is an impressive device, offering excellent security features combined with modern technology. Its seamless integration with smartphones makes remote access and monitoring incredibly convenient. The fingerprint and passcode entry options provide versatility, and the auto-locking feature enhances safety. Installation is straightforward, and the lock's sleek design adds a stylish touch to any door. Overall, it's a reliable, smart choice for anyone looking to upgrade home security with ease."
-    },
-    {
-      "author": "Pratik",
-      "rating": 5.0,
-      "title": "Good Product and Good customer service support",
-      "date": "2024-01-13",
-      "date_label": "13 January 2024",
-      "body": "Let me give my honest feedback. When I received first delivery of this lock ,touch panel was not working ,may be while installation something wrong happened. It happens sometimes with any electric product. But the thing i liked the most about Qubo ,they expedited replacement and with in 3 days lock was replaced . Customer support was very good. They were courteous, polite and helpful. product look good. And all features are working perfectly as they described. I would say go for this product if you are reading this review. I am impressed with their Customer support and how speedy they solved m"
     }
   ]
 }
