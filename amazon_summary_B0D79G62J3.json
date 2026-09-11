@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-09",
+  "scraped": "2026-09-11",
   "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and reliable performance. They appreciate its premium appearance and water quality, noting it makes a noticeable difference in water purity. While some customers consider it worth the price, others feel it's not value for money, and opinions about water taste are mixed.",
   "aspects": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Reliability",
-      "count": "285"
+      "count": "287"
     },
     {
       "name": "Appearance",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "ganesh",
+      "rating": 5.0,
+      "title": "Very good working still now",
+      "date": "2026-09-08",
+      "date_label": "8 September 2026",
+      "body": "Nice"
+    },
     {
       "author": "Ramesh",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-27",
       "date_label": "27 August 2026",
       "body": "Nice product delivery was good installation agent was really nice helped me move stuffs and guided through the product value for money installed the filter told how the filtration works water water pressure was low fixed that and battery life was great"
-    },
-    {
-      "author": "Anand stephen",
-      "rating": 5.0,
-      "title": "Good purifier with peace of mind",
-      "date": "2026-08-24",
-      "date_label": "24 August 2026",
-      "body": "Writing this review after few weeks of usage . Looks classy Does the job and 2 year warranty is peace of mind . And the mobile realtime connectivity is superb . Tested my water tds levels . Before its around 550 .after filteration its around 58 . So better job on filtering . Installation is smooth as well the person knows what he is doing . So peace of mind on that 😊 Recommended one for new buyers ."
     }
   ]
 }

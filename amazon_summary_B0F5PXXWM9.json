@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-09",
+  "scraped": "2026-09-11",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its budget-friendly price point. The product is easy to use, with one customer noting it doesn't allow mixing of untreated water, and comes with free installation. They praise the water quality, with tests showing it's clean and pure, and like the taste. While some customers report prompt service, others complain about poor customer care and after-sales service.",
   "aspects": [
     {
@@ -8,15 +8,15 @@
     },
     {
       "name": "Reliability",
-      "count": "881"
+      "count": "885"
     },
     {
       "name": "Value for money",
-      "count": "822"
+      "count": "824"
     },
     {
       "name": "Installation",
-      "count": "559"
+      "count": "562"
     },
     {
       "name": "Water taste",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Water quality",
-      "count": "158"
+      "count": "159"
     },
     {
       "name": "Ease of use",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Service",
-      "count": "143"
+      "count": "141"
     }
   ],
   "reviews": [

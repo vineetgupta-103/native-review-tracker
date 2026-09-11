@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-09",
-  "customers_say": "Customers find the door lock easy to operate with a user-friendly app, and appreciate its impressive build quality and top-tier security features. They like its appearance, noting it looks like a simple door handle, and one customer mentions the mocha finish matches perfectly with their main door. The lock functions well, with one customer noting it works even in dark conditions, and they find it convenient to use. The value for money receives mixed feedback.",
+  "scraped": "2026-09-11",
+  "customers_say": "Customers find the door lock easy to operate with a user-friendly app, and appreciate its top-tier safety features and impressive build quality. They like its appearance, noting it looks like a simple door handle, and one customer mentions the mocha finish matches perfectly with their main door. The lock functions well, with one customer noting it works even in dark conditions, and they find the installation process good. The value for money receives mixed reviews.",
   "aspects": [
     {
       "name": "Features",
@@ -8,11 +8,11 @@
     },
     {
       "name": "Functionality",
-      "count": "13"
+      "count": "14"
     },
     {
       "name": "Ease of use",
-      "count": "11"
+      "count": "12"
     },
     {
       "name": "Installation",
@@ -32,10 +32,18 @@
     },
     {
       "name": "Value for money",
-      "count": "15"
+      "count": "16"
     }
   ],
   "reviews": [
+    {
+      "author": "Prashant Sharma",
+      "rating": 3.0,
+      "title": "Really 3rd class app and user experience.",
+      "date": "2026-09-07",
+      "date_label": "7 September 2026",
+      "body": "The lock itself is ok. However, beware, the app they use is really 3rd class. Its slow, laggy, takes forever to connect to the lock. The app has a very poor interface also. You will need to press 3 buttons to reach the lock! And if you try and turn off sound notification, the pop ups also get auto blocked. I am on samsung fold 6. Still havent managed to figure out how to get this app to show me pop ups without sound! And there is a considerable lag in the app notification on mobile from the time someone rings the bell! Last but not least, the wifi capabilities of the lock are really sub par! I"
+    },
     {
       "author": "KAUSHIK CHATTERJEE",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-11",
       "date_label": "11 August 2026",
       "body": "Very modern product with modern features. Complete safety, and very easy to use. Loved the product very much. Thank you"
-    },
-    {
-      "author": "shivaditya",
-      "rating": 5.0,
-      "title": "Solid smart lock — exactly what I needed",
-      "date": "2026-08-07",
-      "date_label": "7 August 2026",
-      "body": "Solid smart lock — exactly what I needed Bought the Native Lock Ultra about three weeks ago and I'm genuinely impressed. The build quality feels premium; heavy-duty and solid, nothing like the flimsy locks I've tried before. The auto-lock feature is my favourite — I no longer have to second-guess whether I locked the door before leaving. The app connectivity is smooth and the fingerprint sensor responds quickly. Battery life seems excellent so far, with no signs of draining fast. The keypad backlight is a nice touch for night use. Overall, great value for the price."
     }
   ]
 }

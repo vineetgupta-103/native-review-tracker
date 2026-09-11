@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-09",
+  "scraped": "2026-09-11",
   "customers_say": "Customers find the digital lock to be of excellent quality, with good installation and reliable functionality, particularly on wooden doors. Moreover, they appreciate its security features as a home security solution, and one customer mentions it offers multiple access options. Additionally, customers find the lock easy to use and convenient, with good customer service. However, opinions on value for money are mixed, with some finding it good for the price while others disagree.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Saroma Hill Resorts",
+      "rating": 1.0,
+      "title": "poor service and poor product",
+      "date": "2026-09-08",
+      "date_label": "8 September 2026",
+      "body": "very poor product and poor service. The installation itself was not at all professional. they made two extra hole on my door. the software was not working properly. complained and done follow up. but no one attended the complaint and they closed it their own.... now again we cannot lock the door directly. need to use the card. bio metric works when it is locked. lodged complaint last saturday and no one attended the issue... If any one wish to buy, please be care full. Funny thing, they have no provision to escalate the issue and they close the chat saying \" wer'e glad you were able to find a "
+    },
+    {
       "author": "Kunal gulati",
       "rating": 5.0,
       "title": "Perfect service",
@@ -67,14 +75,6 @@
       "date": "2026-08-29",
       "date_label": "29 August 2026",
       "body": "Aditya Kumar serviced very well and professional. Prompt response and very helpful. Recommended against ticket SA 52373408"
-    },
-    {
-      "author": "Ravi Kumar Gubbala",
-      "rating": 5.0,
-      "title": "Nice lock",
-      "date": "2026-08-29",
-      "date_label": "29 August 2026",
-      "body": "Satisfied"
     }
   ]
 }

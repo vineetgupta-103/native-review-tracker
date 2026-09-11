@@ -1,18 +1,22 @@
 {
-  "scraped": "2026-09-09",
-  "customers_say": "Customers find this smart lock to be of premium quality with smooth functionality and excellent value for money. They appreciate its security features, with one customer highlighting its secure multi-bolt system, and its appearance adds a wow factor to their homes. Customers praise its convenience, with one noting it's particularly helpful for elderly and children, and its versatility with multiple access methods. The battery life receives mixed reviews, with some customers reporting good performance while others mention the battery going dead within a year.",
+  "scraped": "2026-09-11",
+  "customers_say": "Customers find the smart lock to be of high quality, with all features working smoothly and providing excellent value for money. They appreciate its ease of use, security features, and premium appearance, with one customer noting its secure multi-bolt system. The lock offers versatile access methods, and while battery life is generally good, some customers report it lasting only one year.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "260"
+      "count": "265"
     },
     {
       "name": "Functionality",
-      "count": "103"
+      "count": "104"
     },
     {
       "name": "Value for money",
-      "count": "80"
+      "count": "82"
+    },
+    {
+      "name": "Ease of use",
+      "count": "64"
     },
     {
       "name": "Security",
@@ -20,22 +24,34 @@
     },
     {
       "name": "Appearance",
-      "count": "39"
-    },
-    {
-      "name": "Convenience",
-      "count": "30"
+      "count": "41"
     },
     {
       "name": "Features",
-      "count": "29"
+      "count": "31"
     },
     {
       "name": "Battery life",
-      "count": "27"
+      "count": "28"
     }
   ],
   "reviews": [
+    {
+      "author": "ALPHA INFRASTRUCTURE AND HOLDINGS",
+      "rating": 5.0,
+      "title": "Value for money",
+      "date": "2026-09-08",
+      "date_label": "8 September 2026",
+      "body": "The GolenX95 is a really good product, and I’m very happy with the overall experience. I placed my order on Friday, and the product was delivered the very next day. The product quality is excellent, and the installation was also done very professionally by a technically skilled support team. I had an earlier experience where the product was delivered, but unfortunately, I didn’t receive quick installation support. After contacting the support team, I returned the product and placed a new order. This time, everything went smoothly. The product arrived the next day, and the installation was comp"
+    },
+    {
+      "author": "DB",
+      "rating": 5.0,
+      "title": "A good product, reasonable price",
+      "date": "2026-09-08",
+      "date_label": "8 September 2026",
+      "body": "The lock is working fine. All the opening features are working to our satisfaction. Installation was done quickly and without any problem."
+    },
     {
       "author": "Dr.Mumtaj khan",
       "rating": 5.0,
@@ -51,22 +67,6 @@
       "date": "2026-08-21",
       "date_label": "21 August 2026",
       "body": "Lock is good. Installation extra cost which is too high 1200/-. Fabricator extra charge. They should provide free installation."
-    },
-    {
-      "author": "Prasad Katre",
-      "rating": 5.0,
-      "title": "Unboxing Experience",
-      "date": "2026-08-17",
-      "date_label": "17 August 2026",
-      "body": "Packaging & Unboxing Experience ​From the moment the package arrived, the presentation gave a strong impression of a premium product. ​Secure Protection: The outer box was sturdy with zero signs of shipping damage. Inside, high-density custom foam inserts cushioned every component—preventing any scratches or scuffs on the lock's finish. ​Neatly Organized: Everything came neatly compartmentalized. The front and rear lock bodies, mortise assembly, RFID key cards, mechanical backup keys, and installation screws were clearly labeled. ​Documentation: Includes an easy-to-read user manual and a drill"
-    },
-    {
-      "author": "Sajin Babu",
-      "rating": 5.0,
-      "title": "x95 Golens product and service experience.",
-      "date": "2026-08-15",
-      "date_label": "15 August 2026",
-      "body": "I bought an x95 model Golens smart door lock after a lot of research online and physically at outlets. I could find only this model that actually suited my door specs and the carpentry required for replacing the existing conventional lock. Product delivery: Well packed, neatly categorised and highly safe boxing. No surprises of missing components or parts. No complaints in product finishes and build quality. Installation: Although this was arranged 3-4 days after the delivery, the installation was a superb and happy experience. On contrary to my anxieties about the neatness and suitability to "
     },
     {
       "author": "SALEEM KAKKATIKARA",

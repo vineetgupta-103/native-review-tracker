@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-09",
+  "scraped": "2026-09-11",
   "customers_say": "Customers find the water purification unit to be of good quality, with quick and perfect installation, and appreciate its elegant design and functionality, particularly for small families. The water tastes good, and they consider it a good choice for daily use. The reliability and value for money receive mixed feedback - while some say it works perfectly and is good for its price, others report it stops working properly and consider it a waste of money. The service experience is also mixed, with some praising the service while others find it terrible.",
   "aspects": [
     {
@@ -24,11 +24,11 @@
     },
     {
       "name": "Reliability",
-      "count": "358"
+      "count": "362"
     },
     {
       "name": "Value for money",
-      "count": "301"
+      "count": "302"
     },
     {
       "name": "Service",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Nice product",
+      "date": "2026-09-08",
+      "date_label": "8 September 2026",
+      "body": "As of now product is working good Installation was also done at timely"
+    },
+    {
+      "author": "Venu Gopal",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-09-08",
+      "date_label": "8 September 2026",
+      "body": "Working fine, good product"
+    },
     {
       "author": "Rushikesh",
       "rating": 5.0,
@@ -45,28 +61,12 @@
       "body": "Very nice purifier. Wworks great and the service is also good"
     },
     {
-      "author": "Frank Thaliath",
-      "rating": 5.0,
-      "title": "Great product",
-      "date": "2026-09-05",
-      "date_label": "5 September 2026",
-      "body": "Great product. Working as expected."
-    },
-    {
       "author": "rakesh",
       "rating": 4.0,
       "title": "Nice product.",
       "date": "2026-09-03",
       "date_label": "3 September 2026",
       "body": "It is good product and got a good service. Only the caveat was it was delivered after 5 days. But the price was too good to be true."
-    },
-    {
-      "author": "Jitendra",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-08-30",
-      "date_label": "30 August 2026",
-      "body": "Nice product. Installation was quick and explained its use very well"
     },
     {
       "author": "Mukul Sharma",
