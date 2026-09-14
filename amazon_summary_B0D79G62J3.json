@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-11",
-  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and reliable performance. They appreciate its premium appearance and water quality, noting it makes a noticeable difference in water purity. While some customers consider it worth the price, others feel it's not value for money, and opinions about water taste are mixed.",
+  "scraped": "2026-09-14",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and reliable performance. The product receives positive feedback for its appearance, with one customer noting it stands out among its peers, and they appreciate its ability to make noticeable improvements in water quality. While some customers report excellent taste, others find it unsatisfactory, and opinions about the customer experience are divided between those who are completely satisfied and those who had a terrible experience.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "323"
+      "count": "325"
     },
     {
       "name": "Reliability",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Appearance",
-      "count": "202"
+      "count": "203"
     },
     {
       "name": "Water quality",
@@ -27,15 +27,39 @@
       "count": "140"
     },
     {
-      "name": "Value for money",
-      "count": "492"
+      "name": "Water taste",
+      "count": "211"
     },
     {
-      "name": "Water taste",
-      "count": "209"
+      "name": "Customer experience",
+      "count": "89"
     }
   ],
   "reviews": [
+    {
+      "author": "Amritansh Anand",
+      "rating": 4.0,
+      "title": "Nice output water taste",
+      "date": "2026-09-11",
+      "date_label": "11 September 2026",
+      "body": "Nice"
+    },
+    {
+      "author": "dipti raina",
+      "rating": 5.0,
+      "title": "Excellent Product with Quick & Hassle-Free Installation",
+      "date": "2026-09-10",
+      "date_label": "10 September 2026",
+      "body": "I’m very happy with my purchase of the UC Native M1 Pro RO. The product has a sleek, modern design and feels well-built and premium. The installation process was also extremely quick and hassle-free, with the technician arriving on time and completing the setup efficiently. Overall, it has been a smooth experience from purchase to installation, and I’m satisfied with both the product and the service."
+    },
+    {
+      "author": "Arvind",
+      "rating": 5.0,
+      "title": "Nice product.",
+      "date": "2026-09-09",
+      "date_label": "9 September 2026",
+      "body": "Nice product with good price."
+    },
     {
       "author": "ganesh",
       "rating": 5.0,
@@ -51,30 +75,6 @@
       "date": "2026-09-05",
       "date_label": "5 September 2026",
       "body": "Prompt delivery from Amazon and quick installation from UC."
-    },
-    {
-      "author": "INDRAJEET",
-      "rating": 5.0,
-      "title": "Excellent RO",
-      "date": "2026-08-29",
-      "date_label": "29 August 2026",
-      "body": "Value for money and overall good experience"
-    },
-    {
-      "author": "Vishnu S.",
-      "rating": 4.0,
-      "title": "Better at its price",
-      "date": "2026-08-28",
-      "date_label": "28 August 2026",
-      "body": "Quality is good as expected. Can't see the water level in the concealed tank. The water dispensing knob is not smooth if it gets stuck we can't take water from tank. Otherwise water quality and taste good."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Important to know that the purifier is a little big and check your area measurements before",
-      "date": "2026-08-27",
-      "date_label": "27 August 2026",
-      "body": "Nice product delivery was good installation agent was really nice helped me move stuffs and guided through the product value for money installed the filter told how the filtration works water water pressure was low fixed that and battery life was great"
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
-  "scraped": "2026-09-11",
-  "customers_say": "Customers find the digital lock to be of excellent quality, with good installation and reliable functionality, particularly on wooden doors. Moreover, they appreciate its security features as a home security solution, and one customer mentions it offers multiple access options. Additionally, customers find the lock easy to use and convenient, with good customer service. However, opinions on value for money are mixed, with some finding it good for the price while others disagree.",
+  "scraped": "2026-09-14",
+  "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation, features, and security as a home security solution. Moreover, they appreciate its convenience and good service, with one customer highlighting its multiple unlocking options. However, the functionality receives mixed reviews, with some customers reporting it works well while others experience issues. Additionally, opinions on value for money are divided, with some finding it good for the price while others disagree.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "101"
+      "count": "102"
     },
     {
       "name": "Installation",
-      "count": "28"
-    },
-    {
-      "name": "Functionality",
-      "count": "14"
+      "count": "29"
     },
     {
       "name": "Features",
+      "count": "12"
+    },
+    {
+      "name": "Service",
       "count": "12"
     },
     {
@@ -23,12 +23,12 @@
       "count": "11"
     },
     {
-      "name": "Service",
-      "count": "11"
+      "name": "Convenience",
+      "count": "8"
     },
     {
-      "name": "Usability",
-      "count": "10"
+      "name": "Functionality",
+      "count": "15"
     },
     {
       "name": "Value for money",

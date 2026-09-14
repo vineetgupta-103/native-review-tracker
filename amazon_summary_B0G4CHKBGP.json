@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-09-11",
-  "customers_say": "Customers find the water purifier to be worth the money, with excellent performance and installation that goes smoothly without hassle. They appreciate its appearance, with one customer noting the modern touch panel with LED indicators, and they like the taste and quality, with one mentioning the TDS levels are below 100. The service receives positive feedback, with one customer highlighting the 2-year hassle-free warranty. However, reliability is a concern, with multiple customers reporting that the purifier stopped working within one month of use.",
+  "scraped": "2026-09-14",
+  "customers_say": "Customers find the water purifier to be worth the money, with excellent performance and installation that goes smoothly without hassle. They appreciate its appearance, with one customer noting the blue LED during water dispensing looks amazing at night, and they like its taste and water quality, with the app clearly showing water purity and filter status. The service receives positive feedback, with one customer highlighting the 2-year hassle-free warranty. However, reliability is a concern as multiple customers report the purifier stopped working within one month.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "235"
+      "count": "238"
     },
     {
       "name": "Performance",
-      "count": "167"
+      "count": "170"
     },
     {
       "name": "Installation",
@@ -16,23 +16,23 @@
     },
     {
       "name": "Water taste",
-      "count": "93"
+      "count": "95"
     },
     {
       "name": "Water quality",
-      "count": "90"
+      "count": "92"
     },
     {
       "name": "Appearance",
-      "count": "74"
+      "count": "75"
     },
     {
       "name": "Service",
-      "count": "65"
+      "count": "66"
     },
     {
       "name": "Reliability",
-      "count": "74"
+      "count": "76"
     }
   ],
   "reviews": [
@@ -69,12 +69,12 @@
       "body": "I recently purchased the Native M2 Pro from Amazon and overall I’m very satisfied with the product. The design looks premium and modern, and the touch controls make dispensing water very convenient. The water purification performance has been excellent so far, and the water tastes clean and fresh. I particularly like the smart features and the Urban Company app, where you can monitor the purifier, filter status and water usage. The installation experience was also smooth."
     },
     {
-      "author": "Dinesh",
+      "author": "gowtham chama",
       "rating": 5.0,
-      "title": "Value for money and quality of water is good.",
-      "date": "2026-07-29",
-      "date_label": "29 July 2026",
-      "body": "Product delivery took some time, but installation took place on the second day, installation process was smooth, technician done a wonderful job. Found continuous leakage from the tank after installation, same was fixed the next day by technician. Purifier is very silent, easy to setup with wifi and to connect with phone. Quality of water is good and very tasty, tds level came down to around 40-50 ppm. Got inbuilt battery just to dispense water incase of power cut, purifier doesn't run with that battery. Purifier health and water quality, tank level can be checked through App. Overall satisfie"
+      "title": "My Review of the Native M2 Neo Pro Water Purifier by Urban Company",
+      "date": "2026-07-27",
+      "date_label": "27 July 2026",
+      "body": "’ve been using the Native M2 Neo Pro Water Purifier by Urban Company for the past month, and I’m genuinely satisfied with the product. One of the biggest reasons I chose this purifier is its excellent RO filtration. The water in my area has a TDS of around 1,000, and this purifier consistently brings it down to around 50 TDS, providing clean, safe, and great-tasting drinking water. The difference in water quality is noticeable, and the taste is excellent. The purifier has a modern, premium design, and the touch controls are responsive and easy to use. I also love the smart IoT features, which "
     }
   ]
 }

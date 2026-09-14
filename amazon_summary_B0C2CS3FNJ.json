@@ -1,11 +1,7 @@
 {
-  "scraped": "2026-09-11",
-  "customers_say": "Customers find the smart door lock to be of good quality and easy to install, with all advertised features working properly. They appreciate its strong security and multiple unlocking options, and find it surprisingly easy to use. While some customers consider it worth the money, others express concerns about its value. The keyless access feature receives mixed feedback, with one customer noting it's especially convenient for families, while another finds it inconvenient.",
+  "scraped": "2026-09-14",
+  "customers_say": "Customers find the smart lock easy to use and appreciate its appearance, with one noting its premium look. Moreover, the functionality receives positive feedback, with one customer highlighting its flawless real-time alerts, and they like its security features, with one mentioning the manual deadbolt provides extra peace of mind. However, the connectivity aspect is mixed, with some customers noting it connects via Bluetooth while others point out the lack of Wi-Fi gateway support. Additionally, opinions on value for money are divided, with some finding it worth the cost while others express dissatisfaction.",
   "aspects": [
-    {
-      "name": "Quality",
-      "count": "74"
-    },
     {
       "name": "Installation",
       "count": "34"
@@ -16,11 +12,15 @@
     },
     {
       "name": "Ease of use",
-      "count": "18"
+      "count": "19"
     },
     {
       "name": "Features",
       "count": "17"
+    },
+    {
+      "name": "Appearance",
+      "count": "15"
     },
     {
       "name": "Security",
@@ -28,14 +28,30 @@
     },
     {
       "name": "Value for money",
-      "count": "22"
+      "count": "23"
     },
     {
-      "name": "Keyless access",
-      "count": "12"
+      "name": "Connectivity",
+      "count": "13"
     }
   ],
   "reviews": [
+    {
+      "author": "Darshanesh Naringrekar",
+      "rating": 5.0,
+      "title": "Good Lock",
+      "date": "2026-09-11",
+      "date_label": "11 September 2026",
+      "body": "Service - I’ve ordered this product on Wednesday after a day I’ve received. Same day I received call from installation team. Ramesh Installed the lock next day which was very quick. 10/10 on service. Product - Product is 8/10 lacks function like Wi-fi. Batteries aren’t provided so you’ve to get it from outside. Fingerprint recognition is good feature along with nfc card. Appearance wise also it looks good. Ease of use any can set it up it’s that easy."
+    },
+    {
+      "author": "Siddharth",
+      "rating": 5.0,
+      "title": "Very good",
+      "date": "2026-09-09",
+      "date_label": "9 September 2026",
+      "body": "Good product, very trendy and useful. Value for money"
+    },
     {
       "author": "saurabh",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-07-11",
       "date_label": "11 July 2026",
       "body": "Features are good, an Indian brand which stores ur data locally . Please go for it , worth having it."
-    },
-    {
-      "author": "Mastankhan",
-      "rating": 5.0,
-      "title": "Nice",
-      "date": "2026-07-06",
-      "date_label": "6 July 2026",
-      "body": "Nice product"
-    },
-    {
-      "author": "Ajith Kumar Varma",
-      "rating": 5.0,
-      "title": "Worth the price and high quality",
-      "date": "2026-06-23",
-      "date_label": "23 June 2026",
-      "body": "Works beautifully."
     }
   ]
 }

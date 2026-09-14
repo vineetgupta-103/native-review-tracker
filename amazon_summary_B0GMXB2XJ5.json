@@ -1,8 +1,16 @@
 {
-  "scraped": "2026-09-11",
+  "scraped": "2026-09-14",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "SHAJIE  JOSEPH",
+      "rating": 5.0,
+      "title": "Professional Service",
+      "date": "2026-09-11",
+      "date_label": "11 September 2026",
+      "body": "Extremely professional work done by Mr. Hameed. Liked the prompt service and help. Atomberg .... Plz keep up the good work."
+    },
     {
       "author": "Ajay Chandreja",
       "rating": 5.0,
@@ -34,14 +42,6 @@
       "date": "2026-06-12",
       "date_label": "12 June 2026",
       "body": "Very good service same day installation at the time of delivery build quality and features are good really like the productive"
-    },
-    {
-      "author": "Daljeet Singh",
-      "rating": 5.0,
-      "title": "Nice product",
-      "date": "2026-06-12",
-      "date_label": "12 June 2026",
-      "body": "Awesome product Qality is up to mark value for the money And same day installation done by technician Good service"
     }
   ]
 }

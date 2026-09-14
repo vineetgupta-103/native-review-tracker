@@ -1,40 +1,7 @@
 {
-  "scraped": "2026-09-11",
-  "customers_say": "Customers find the water purification unit to be of good quality and appreciate its clean output, with one customer noting it completely changes water hardness and taste. The installation is straightforward, and they like the water quality, with one mentioning it's a source of pure water. While some customers consider it worth the money, others say it's not worth the cost. The reliability receives mixed feedback - while some say it works well, others report filters stop working after a year. Durability is a concern, with customers noting it won't last more than a year, and opinions on water wastage are divided between those who say there's no waste and those who consider the zero-waste claim a gimmick.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "254"
-    },
-    {
-      "name": "Installation",
-      "count": "32"
-    },
-    {
-      "name": "Water taste",
-      "count": "23"
-    },
-    {
-      "name": "Water quality",
-      "count": "12"
-    },
-    {
-      "name": "Value for money",
-      "count": "83"
-    },
-    {
-      "name": "Reliability",
-      "count": "50"
-    },
-    {
-      "name": "Water wastage",
-      "count": "20"
-    },
-    {
-      "name": "Durability",
-      "count": "20"
-    }
-  ],
+  "scraped": "2026-09-14",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
     {
       "author": "Nikitha T.",
@@ -43,6 +10,14 @@
       "date": "2026-09-09",
       "date_label": "9 September 2026",
       "body": "Good product and service as well"
+    },
+    {
+      "author": "Indranil Mukherjee",
+      "rating": 5.0,
+      "title": "Best RO",
+      "date": "2026-09-09",
+      "date_label": "9 September 2026",
+      "body": "Great product."
     },
     {
       "author": "N vamshi",
@@ -67,14 +42,6 @@
       "date": "2026-07-11",
       "date_label": "11 July 2026",
       "body": "Excellent product as of now. I have previously used the KENT RO , EXCELELNT TASTE"
-    },
-    {
-      "author": "Meenakshi M",
-      "rating": 5.0,
-      "title": "Nothing",
-      "date": "2026-07-08",
-      "date_label": "8 July 2026",
-      "body": "Its excellent"
     }
   ]
 }

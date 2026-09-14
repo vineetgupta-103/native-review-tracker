@@ -1,22 +1,18 @@
 {
-  "scraped": "2026-09-11",
-  "customers_say": "Customers find the smart lock to be of high quality, with all features working smoothly and providing excellent value for money. They appreciate its ease of use, security features, and premium appearance, with one customer noting its secure multi-bolt system. The lock offers versatile access methods, and while battery life is generally good, some customers report it lasting only one year.",
+  "scraped": "2026-09-14",
+  "customers_say": "Customers find this smart lock to be of high quality, with all features working smoothly and providing peace of mind through enhanced home security. They appreciate its premium finish, versatile access options, and consider it a must-buy for homes, with one customer noting its compatibility with digital assistants. The battery life receives mixed reviews - while some find it good, others report it lasting only one year.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "265"
+      "count": "270"
     },
     {
-      "name": "Functionality",
-      "count": "104"
+      "name": "Reliability",
+      "count": "103"
     },
     {
       "name": "Value for money",
       "count": "82"
-    },
-    {
-      "name": "Ease of use",
-      "count": "64"
     },
     {
       "name": "Security",
@@ -24,15 +20,19 @@
     },
     {
       "name": "Appearance",
-      "count": "41"
+      "count": "42"
     },
     {
       "name": "Features",
       "count": "31"
     },
     {
-      "name": "Battery life",
+      "name": "Convenience",
       "count": "28"
+    },
+    {
+      "name": "Battery life",
+      "count": "29"
     }
   ],
   "reviews": [
@@ -53,6 +53,14 @@
       "body": "The lock is working fine. All the opening features are working to our satisfaction. Installation was done quickly and without any problem."
     },
     {
+      "author": "Ajit Bhandarkar",
+      "rating": 5.0,
+      "title": "The most advanced in its category!",
+      "date": "2026-09-08",
+      "date_label": "8 September 2026",
+      "body": "Purchased the new Golens Total Guard for my apartment and have found it to be really state of the art. Even without wifi , have been able to use most functions using bluetooth connectivity.Face ID reg requires wifi. It has got a comprehensive list of features and no need for seperate video door phone. Loving it as of now"
+    },
+    {
       "author": "Dr.Mumtaj khan",
       "rating": 5.0,
       "title": "Excellent security product we believe.its great security Divice",
@@ -61,20 +69,12 @@
       "body": "Write a review I am very glad with this door lock. Golens X95 excellent product worth of money.The build quality feels strong and durable, and installation was quick and straightforward. It fits my main door perfectly and adds an extra layer of security and peace of mind. The locking mechanism works smoothly, and the overall finish looks premium. It is definitely a useful product for Home /Office Nice installation Installation man Mr Sonu good man. Thank u again."
     },
     {
-      "author": "Amazon Customer",
+      "author": "Rahul",
       "rating": 1.0,
-      "title": "Hidden charges",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "Lock is good. Installation extra cost which is too high 1200/-. Fabricator extra charge. They should provide free installation."
-    },
-    {
-      "author": "SALEEM KAKKATIKARA",
-      "rating": 5.0,
-      "title": "Exelent smart lock",
-      "date": "2026-08-01",
-      "date_label": "1 August 2026",
-      "body": "use for the Golens Smart Lock X95: Title: Excellent product — 5 stars! I’m very impressed with the Golens Smart Lock X95. Installation was quick and simple, and the sleek design looks great on my door. It offers multiple access methods ( face camera fingerprint, keypad, app, and backup key), and all of them work reliably. The fingerprint reader is fast and accurate, the keypad is responsive, and the mobile app is easy to use with helpful real-time notifications and access logs. Security features are solid — encrypted communication and an alarm for unauthorized attempts give me peace of mind. A"
+      "title": "Worst experience with Golens",
+      "date": "2026-08-06",
+      "date_label": "6 August 2026",
+      "body": "Absolutely terrible experience with golens x95. I bought this lock on 7/6/25 and got it installed on 31 july 26 from Golens for an additional charge of 1500 rupees; as there was construction going on in my house. It worked fine for a few days but when the battery drained and I tried to charge it, i noticed that the battery is faulty and not getting charged. Even after charging it for a whole day it worked only for a few mins. When I contacted customer care then I was told I need to pay additional 2850 for replacement battery. Absolutely ridiculous and shady brand. Won't recommend to anyone."
     }
   ]
 }
