@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-14",
-  "customers_say": "Customers find the water purifier to be worth the money, with excellent performance and installation that goes smoothly without hassle. They appreciate its appearance, with one customer noting the blue LED during water dispensing looks amazing at night, and they like its taste and water quality, with the app clearly showing water purity and filter status. The service receives positive feedback, with one customer highlighting the 2-year hassle-free warranty. However, reliability is a concern as multiple customers report the purifier stopped working within one month.",
+  "scraped": "2026-09-16",
+  "customers_say": "Customers find the water purifier to be worth the money, with excellent performance and installation that goes smoothly without hassle. They appreciate its appearance, with one customer noting the modern touch panel with LED indicators, and they like its taste and water quality, with the app clearly showing water quality and filter status. The service receives positive feedback, with one customer highlighting the 2-year hassle-free warranty. However, reliability is a concern as multiple customers report the purifier stopped working within one month.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "238"
+      "count": "239"
     },
     {
       "name": "Performance",
@@ -12,15 +12,15 @@
     },
     {
       "name": "Installation",
-      "count": "148"
+      "count": "151"
     },
     {
       "name": "Water taste",
-      "count": "95"
+      "count": "98"
     },
     {
       "name": "Water quality",
-      "count": "92"
+      "count": "93"
     },
     {
       "name": "Appearance",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Service",
-      "count": "66"
+      "count": "67"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Nikhil hessa",
+      "rating": 5.0,
+      "title": "Value for money",
+      "date": "2026-09-12",
+      "date_label": "12 September 2026",
+      "body": "Good product"
+    },
     {
       "author": "Dilip",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-08-23",
       "date_label": "23 August 2026",
       "body": "“Excellent product. The build quality is very good, and it looks premium. Installation was done properly, and everything is working perfectly. I am very satisfied with the product so far. Definitely worth buying."
-    },
-    {
-      "author": "Bhushan",
-      "rating": 5.0,
-      "title": "Premium Quality Purifier with Top-notch Installation Service",
-      "date": "2026-08-17",
-      "date_label": "17 August 2026",
-      "body": "The Native M2 Pro exceeds expectations in every aspect! Excellent filtration quality, solid durability, and fantastic water flow with minimal noise level. Huge thanks to Brijesh Sir for his expert installation work. He was punctual, highly skilled, and made the whole setup completely hassle-free. Absolutely worth the buy!"
     },
     {
       "author": "mohammed ghiya",
