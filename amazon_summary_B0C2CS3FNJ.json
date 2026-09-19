@@ -1,14 +1,10 @@
 {
-  "scraped": "2026-09-14",
-  "customers_say": "Customers find the smart lock easy to use and appreciate its appearance, with one noting its premium look. Moreover, the functionality receives positive feedback, with one customer highlighting its flawless real-time alerts, and they like its security features, with one mentioning the manual deadbolt provides extra peace of mind. However, the connectivity aspect is mixed, with some customers noting it connects via Bluetooth while others point out the lack of Wi-Fi gateway support. Additionally, opinions on value for money are divided, with some finding it worth the cost while others express dissatisfaction.",
+  "scraped": "2026-09-19",
+  "customers_say": "Customers find the smart lock easy to install and use, with a premium appearance and strong security features. Moreover, they appreciate the variety of unlocking methods, including fingerprint, PIN, remote OTP, NFC card, and manual deadbolt. However, the connectivity receives mixed feedback - while it connects via Bluetooth, some customers note it doesn't support Wi-Fi gateway. Additionally, opinions on value for money are divided, with some finding it worth the cost while others advise against purchasing it.",
   "aspects": [
     {
       "name": "Installation",
       "count": "34"
-    },
-    {
-      "name": "Functionality",
-      "count": "29"
     },
     {
       "name": "Ease of use",
@@ -25,6 +21,10 @@
     {
       "name": "Security",
       "count": "14"
+    },
+    {
+      "name": "Accessibility",
+      "count": "8"
     },
     {
       "name": "Value for money",

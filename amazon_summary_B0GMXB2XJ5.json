@@ -1,8 +1,16 @@
 {
-  "scraped": "2026-09-14",
+  "scraped": "2026-09-19",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "Pawan Seth",
+      "rating": 5.0,
+      "title": "Looks good",
+      "date": "2026-09-14",
+      "date_label": "14 September 2026",
+      "body": "Good product"
+    },
     {
       "author": "SHAJIE  JOSEPH",
       "rating": 5.0,
@@ -34,14 +42,6 @@
       "date": "2026-06-25",
       "date_label": "25 June 2026",
       "body": "Superb service very nice product installed very smothly by hameed bhai lock name cyphoe elite happy costomer battery life also good"
-    },
-    {
-      "author": "Madaria",
-      "rating": 5.0,
-      "title": "Must buy",
-      "date": "2026-06-12",
-      "date_label": "12 June 2026",
-      "body": "Very good service same day installation at the time of delivery build quality and features are good really like the productive"
     }
   ]
 }

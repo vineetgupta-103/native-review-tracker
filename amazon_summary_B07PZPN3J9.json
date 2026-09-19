@@ -1,8 +1,49 @@
 {
-  "scraped": "2026-09-14",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-09-19",
+  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its installation, taste, and water quality. The reliability receives mixed reviews - while some say it works as new, others report that filters stop working after a year. The durability is concerning, with customers noting it won't last more than a year. The water wastage aspect is also mixed, with some praising its zero-wastage feature while others consider it a gimmick.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "274"
+    },
+    {
+      "name": "Installation",
+      "count": "35"
+    },
+    {
+      "name": "Water taste",
+      "count": "23"
+    },
+    {
+      "name": "Water quality",
+      "count": "14"
+    },
+    {
+      "name": "Value for money",
+      "count": "84"
+    },
+    {
+      "name": "Reliability",
+      "count": "52"
+    },
+    {
+      "name": "Water wastage",
+      "count": "20"
+    },
+    {
+      "name": "Durability",
+      "count": "21"
+    }
+  ],
   "reviews": [
+    {
+      "author": "A.R.",
+      "rating": 5.0,
+      "title": "Reliable Purifier, Pure Water",
+      "date": "2026-09-13",
+      "date_label": "13 September 2026",
+      "body": "Excellent purifier with pure, fresh water—only the indicator lights could be clearer."
+    },
     {
       "author": "Nikitha T.",
       "rating": 5.0,
@@ -20,28 +61,20 @@
       "body": "Great product."
     },
     {
+      "author": "Soumit chandra",
+      "rating": 5.0,
+      "title": "Good Product",
+      "date": "2026-09-03",
+      "date_label": "3 September 2026",
+      "body": "Good product"
+    },
+    {
       "author": "N vamshi",
       "rating": 1.0,
       "title": "Don’t use KENT",
       "date": "2026-08-19",
       "date_label": "19 August 2026",
       "body": "Strong Review Very bad product and extremely disappointing service from KENT. I purchased this product just 3 months ago, and unfortunately, I received a defective product. There was no proper replacement option from either Amazon or KENT. Since then, I have had to call for service more than 5 times within just 3 months. The product was supposed to be reliable, but it has become a constant headache. If this is the experience during the warranty period, I can only imagine how difficult it will be after the warranty expires. Customers should not have to spend their time repeatedly calling for re"
-    },
-    {
-      "author": "Sandeep Thangella",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-07-30",
-      "date_label": "30 July 2026",
-      "body": "Good"
-    },
-    {
-      "author": "Saheli",
-      "rating": 5.0,
-      "title": "Quality of water and product services",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "Excellent product as of now. I have previously used the KENT RO , EXCELELNT TASTE"
     }
   ]
 }

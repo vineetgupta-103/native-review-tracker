@@ -1,10 +1,14 @@
 {
-  "scraped": "2026-09-16",
-  "customers_say": "Customers find the water purifier performs well and appreciate its appearance, with one noting its premium matte finish. Moreover, the installation process is hassle-free, and the water tastes great. However, the filter life receives mixed feedback, with some customers reporting malfunction within a month. Additionally, several customers mention issues with water leakage, particularly persistent overflow from the storage tank.",
+  "scraped": "2026-09-19",
+  "customers_say": "Customers find the water purifier performs well and appreciate that maintenance and service costs are zero for the first two years. The installation process is hassle-free, and they like its appearance, with one customer noting its premium matte finish. Moreover, the water tastes great and is easy to maintain. However, the filter life receives mixed feedback, with some customers reporting malfunction within a month. Additionally, several customers mention issues with water leakage, particularly persistent overflow from the storage tank.",
   "aspects": [
     {
       "name": "Performance",
       "count": "70"
+    },
+    {
+      "name": "Value for money",
+      "count": "67"
     },
     {
       "name": "Installation",
@@ -21,10 +25,6 @@
     {
       "name": "Ease of use",
       "count": "20"
-    },
-    {
-      "name": "Cleaning experience",
-      "count": "17"
     },
     {
       "name": "Filter life",
@@ -61,12 +61,12 @@
       "body": "Buying to installation is very good experience. All parts is provided by company. No need to pay anything after purchasing."
     },
     {
-      "author": "Jit Ghosh",
+      "author": "Rijuwan shaikh",
       "rating": 4.0,
-      "title": "Nice product",
-      "date": "2026-08-06",
-      "date_label": "6 August 2026",
-      "body": "Working excellent"
+      "title": "Great looks",
+      "date": "2026-07-22",
+      "date_label": "22 July 2026",
+      "body": "Value for money..water tds level properly maintained. Low maintenance."
     },
     {
       "author": "Aishwarya Singh",

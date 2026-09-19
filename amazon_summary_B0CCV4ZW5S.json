@@ -1,22 +1,26 @@
 {
-  "scraped": "2026-09-14",
-  "customers_say": "Customers find this smart lock to be of high quality, with all features working smoothly and providing peace of mind through enhanced home security. They appreciate its premium finish, versatile access options, and consider it a must-buy for homes, with one customer noting its compatibility with digital assistants. The battery life receives mixed reviews - while some find it good, others report it lasting only one year.",
+  "scraped": "2026-09-19",
+  "customers_say": "Customers find the smart lock to be of excellent quality, with all features working smoothly and offering multiple access methods. The installation process is nice, and customers appreciate its strong build quality and premium finish that adds wow factor to their homes. They value its security features, with one customer noting its secure multi-bolt system, and consider it a must-buy for every home.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "270"
+      "count": "273"
     },
     {
-      "name": "Reliability",
-      "count": "103"
+      "name": "Functionality",
+      "count": "106"
     },
     {
       "name": "Value for money",
-      "count": "82"
+      "count": "84"
+    },
+    {
+      "name": "Installation",
+      "count": "61"
     },
     {
       "name": "Security",
-      "count": "46"
+      "count": "48"
     },
     {
       "name": "Appearance",
@@ -27,15 +31,19 @@
       "count": "31"
     },
     {
-      "name": "Convenience",
-      "count": "28"
-    },
-    {
-      "name": "Battery life",
-      "count": "29"
+      "name": "Build quality",
+      "count": "30"
     }
   ],
   "reviews": [
+    {
+      "author": "Kumkum sharma",
+      "rating": 5.0,
+      "title": "Best door lock",
+      "date": "2026-09-10",
+      "date_label": "10 September 2026",
+      "body": "Good quality door lock with a sturdy build. The locking mechanism works smoothly, installation was easy, and it feels secure. Overall, good value for money."
+    },
     {
       "author": "ALPHA INFRASTRUCTURE AND HOLDINGS",
       "rating": 5.0,
@@ -45,28 +53,20 @@
       "body": "The GolenX95 is a really good product, and I’m very happy with the overall experience. I placed my order on Friday, and the product was delivered the very next day. The product quality is excellent, and the installation was also done very professionally by a technically skilled support team. I had an earlier experience where the product was delivered, but unfortunately, I didn’t receive quick installation support. After contacting the support team, I returned the product and placed a new order. This time, everything went smoothly. The product arrived the next day, and the installation was comp"
     },
     {
-      "author": "DB",
-      "rating": 5.0,
-      "title": "A good product, reasonable price",
-      "date": "2026-09-08",
-      "date_label": "8 September 2026",
-      "body": "The lock is working fine. All the opening features are working to our satisfaction. Installation was done quickly and without any problem."
-    },
-    {
-      "author": "Ajit Bhandarkar",
-      "rating": 5.0,
-      "title": "The most advanced in its category!",
-      "date": "2026-09-08",
-      "date_label": "8 September 2026",
-      "body": "Purchased the new Golens Total Guard for my apartment and have found it to be really state of the art. Even without wifi , have been able to use most functions using bluetooth connectivity.Face ID reg requires wifi. It has got a comprehensive list of features and no need for seperate video door phone. Loving it as of now"
-    },
-    {
       "author": "Dr.Mumtaj khan",
       "rating": 5.0,
       "title": "Excellent security product we believe.its great security Divice",
       "date": "2026-08-21",
       "date_label": "21 August 2026",
       "body": "Write a review I am very glad with this door lock. Golens X95 excellent product worth of money.The build quality feels strong and durable, and installation was quick and straightforward. It fits my main door perfectly and adds an extra layer of security and peace of mind. The locking mechanism works smoothly, and the overall finish looks premium. It is definitely a useful product for Home /Office Nice installation Installation man Mr Sonu good man. Thank u again."
+    },
+    {
+      "author": "Sajin Babu",
+      "rating": 5.0,
+      "title": "x95 Golens product and service experience.",
+      "date": "2026-08-15",
+      "date_label": "15 August 2026",
+      "body": "I bought an x95 model Golens smart door lock after a lot of research online and physically at outlets. I could find only this model that actually suited my door specs and the carpentry required for replacing the existing conventional lock. Product delivery: Well packed, neatly categorised and highly safe boxing. No surprises of missing components or parts. No complaints in product finishes and build quality. Installation: Although this was arranged 3-4 days after the delivery, the installation was a superb and happy experience. On contrary to my anxieties about the neatness and suitability to "
     },
     {
       "author": "Rahul",

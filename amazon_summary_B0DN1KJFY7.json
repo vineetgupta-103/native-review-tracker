@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-14",
-  "customers_say": "Customers find the water purification unit to be of good quality, with quick and perfect installation, and appreciate its elegant design and functionality for daily home use. The water taste receives positive feedback, with customers noting they can control it according to their water source. The reliability and value for money receive mixed reviews - while some say it works perfectly and is good for its price, others report it stops working properly and consider it a waste of money. The service experience is also mixed, with some praising the customer support while others find it terrible.",
+  "scraped": "2026-09-19",
+  "customers_say": "Customers find the water purification unit to be of good quality, with quick and perfect installation, and appreciate its elegant design. The water tastes good, and the product serves its purpose well for small families. The reliability and customer experience receive mixed feedback - while some report it works perfectly, others say it stops working properly, and while some have an awesome experience, others find it deeply frustrating.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "172"
+      "count": "173"
     },
     {
       "name": "Water taste",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Design",
-      "count": "87"
+      "count": "89"
     },
     {
       "name": "Functionality",
@@ -24,18 +24,34 @@
     },
     {
       "name": "Reliability",
-      "count": "360"
-    },
-    {
-      "name": "Value for money",
-      "count": "304"
+      "count": "364"
     },
     {
       "name": "Service",
-      "count": "50"
+      "count": "51"
+    },
+    {
+      "name": "Customer experience",
+      "count": "49"
     }
   ],
   "reviews": [
+    {
+      "author": "Very good product 👌🏻",
+      "rating": 5.0,
+      "title": "Feedback",
+      "date": "2026-09-15",
+      "date_label": "15 September 2026",
+      "body": "I have been using this product from last 2 months. I am very much satisfied from the product. I recommend it"
+    },
+    {
+      "author": "Nagamani.B",
+      "rating": 4.0,
+      "title": "Very good and reliable",
+      "date": "2026-09-12",
+      "date_label": "12 September 2026",
+      "body": "Very satisfied"
+    },
     {
       "author": "Amrendra",
       "rating": 5.0,
@@ -51,22 +67,6 @@
       "date": "2026-09-08",
       "date_label": "8 September 2026",
       "body": "As of now product is working good Installation was also done at timely"
-    },
-    {
-      "author": "Rushikesh",
-      "rating": 5.0,
-      "title": "Great value for money",
-      "date": "2026-09-06",
-      "date_label": "6 September 2026",
-      "body": "Very nice purifier. Wworks great and the service is also good"
-    },
-    {
-      "author": "rakesh",
-      "rating": 4.0,
-      "title": "Nice product.",
-      "date": "2026-09-03",
-      "date_label": "3 September 2026",
-      "body": "It is good product and got a good service. Only the caveat was it was delivered after 5 days. But the price was too good to be true."
     },
     {
       "author": "abhigyan",

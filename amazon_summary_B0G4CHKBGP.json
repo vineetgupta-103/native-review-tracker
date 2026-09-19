@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-09-16",
-  "customers_say": "Customers find the water purifier to be worth the money, with excellent performance and installation that goes smoothly without hassle. They appreciate its appearance, with one customer noting the modern touch panel with LED indicators, and they like its taste and water quality, with the app clearly showing water quality and filter status. The service receives positive feedback, with one customer highlighting the 2-year hassle-free warranty. However, reliability is a concern as multiple customers report the purifier stopped working within one month.",
+  "scraped": "2026-09-19",
+  "customers_say": "Customers find the water purifier to be a worthwhile investment that works better than expected, with good installation and appealing appearance, particularly noting the modern touch panel with LED indicators. The water quality receives positive feedback, with the app clearly showing water quality and filter status, and customers like the taste. However, reliability is a concern, with multiple customers reporting that their units stopped working within one month of use.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "239"
+      "count": "242"
     },
     {
       "name": "Performance",
-      "count": "170"
+      "count": "173"
     },
     {
       "name": "Installation",
-      "count": "151"
+      "count": "156"
     },
     {
       "name": "Water taste",
-      "count": "98"
+      "count": "99"
     },
     {
       "name": "Water quality",
-      "count": "93"
+      "count": "94"
     },
     {
       "name": "Appearance",
@@ -32,17 +32,25 @@
     },
     {
       "name": "Reliability",
-      "count": "76"
+      "count": "74"
     }
   ],
   "reviews": [
     {
-      "author": "Nikhil hessa",
+      "author": "Ramakrishnan",
       "rating": 5.0,
-      "title": "Value for money",
+      "title": "Worth",
+      "date": "2026-09-14",
+      "date_label": "14 September 2026",
+      "body": "GOOD ONE"
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Excellent Water Purifier",
       "date": "2026-09-12",
       "date_label": "12 September 2026",
-      "body": "Good product"
+      "body": "⭐⭐⭐⭐⭐ Excellent Water Purifier – Native M2 Pro I am using the Native M2 Pro with municipal water having around 320 TDS, and I am very satisfied with its purification performance. The water quality and taste after purification are very good. What I particularly like is the real-time monitoring of the purification process and the ability to check the health status of the purifier. The app also provides convenient filter-status monitoring, warranty-period details, and other important information—all in one place. The smart monitoring features make it easy to keep track of the purifier’s performan"
     },
     {
       "author": "Dilip",
@@ -53,20 +61,12 @@
       "body": "I’m really happy with the water purifier. The water tastes clean and fresh, and the machine is working really well so far. It’s easy to use and the overall quality is good. Very satisfied with the purchase and would definitely recommend it."
     },
     {
-      "author": "Dr Deviprasad Shivade",
+      "author": "Jatinder Singh",
       "rating": 5.0,
-      "title": "Excellent product",
-      "date": "2026-08-23",
-      "date_label": "23 August 2026",
-      "body": "“Excellent product. The build quality is very good, and it looks premium. Installation was done properly, and everything is working perfectly. I am very satisfied with the product so far. Definitely worth buying."
-    },
-    {
-      "author": "mohammed ghiya",
-      "rating": 5.0,
-      "title": "Excellent water purifier with premium features",
-      "date": "2026-08-09",
-      "date_label": "9 August 2026",
-      "body": "I recently purchased the Native M2 Pro from Amazon and overall I’m very satisfied with the product. The design looks premium and modern, and the touch controls make dispensing water very convenient. The water purification performance has been excellent so far, and the water tastes clean and fresh. I particularly like the smart features and the Urban Company app, where you can monitor the purifier, filter status and water usage. The installation experience was also smooth."
+      "title": "Look is great, finishing touch in installation and water quality is perfect.",
+      "date": "2026-08-30",
+      "date_label": "30 August 2026",
+      "body": "It's really so good look of the product and water quality is perfect and installation was so quick as i accept, overall everything is great about the product ☺️ thank you Native...."
     },
     {
       "author": "gowtham chama",

@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-09-14",
+  "scraped": "2026-09-19",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and appreciate its budget-friendly price point. The product is easy to use, with one customer noting it doesn't allow mixing of untreated water, and comes with free installation. They praise the water quality, with tests showing it's clean and pure, and like the taste. While some customers report prompt service, others complain about poor customer care and after-sales service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "3.7K"
+      "count": "3.8K"
     },
     {
       "name": "Reliability",
-      "count": "895"
+      "count": "905"
     },
     {
       "name": "Value for money",
-      "count": "831"
+      "count": "838"
     },
     {
       "name": "Installation",
-      "count": "565"
+      "count": "567"
     },
     {
       "name": "Water taste",
-      "count": "270"
+      "count": "272"
     },
     {
       "name": "Water quality",
@@ -37,20 +37,28 @@
   ],
   "reviews": [
     {
+      "author": "Sandeep Nongkynrih",
+      "rating": 5.0,
+      "title": "Review",
+      "date": "2026-09-17",
+      "date_label": "17 September 2026",
+      "body": "It's a water purifier. It purifies water. I don't know what else to say, it's not like I have an in home lab to test how well it purifies the water. But I keep getting calls to leave a review, so I guess I'm leaving a review to stop getting calls. I like the way it looks, nice and sleek. But I wish it had some sort of quantifiable water level indicator. But these are just subjective opinions about aspects of the purifier that don't really matter. The only thing that matters is how well it purifies water. And like I said, I can't know for sure, but it's aquaguard, so I assume it does the job we"
+    },
+    {
+      "author": "suman J",
+      "rating": 4.0,
+      "title": "Good product",
+      "date": "2026-09-16",
+      "date_label": "16 September 2026",
+      "body": "We get it installed yesterday,as of now it is working good."
+    },
+    {
       "author": "Argha P.",
       "rating": 4.0,
       "title": "Good product",
       "date": "2026-09-06",
       "date_label": "6 September 2026",
       "body": "The purifier is working fine. Water tastes good, the water wastage in the process of purifying seems to be of justified amount. I hv not tested the tds though, so can not comment on that."
-    },
-    {
-      "author": "Ankit",
-      "rating": 5.0,
-      "title": "Excellent RO Purifier with Water-Saving Feature",
-      "date": "2026-09-03",
-      "date_label": "3 September 2026",
-      "body": "I’m very happy with my Aquaguard Delight Aqua Saver. The water purification quality is excellent, and the water tastes clean and fresh. The purifier has a sleek, compact design that fits well in the kitchen without taking up much space. I particularly like its water-saving feature, as it minimizes water wastage compared with many conventional RO purifiers. The operation is simple and user-friendly, and the overall performance has been reliable so far. Installation was smooth, and the purifier provides good peace of mind for everyday drinking water needs. Overall, the Aquaguard Delight Aqua Sav"
     },
     {
       "author": "Helloworld",
@@ -67,14 +75,6 @@
       "date": "2026-08-21",
       "date_label": "21 August 2026",
       "body": "Good water purifier that gets the job done. The filtration works great—it brought down the TDS effectively, and the water tastes fresh and clean with no chemical odor. The build quality is compact and fits nicely in the kitchen without taking up too much space. Water wastage is also relatively lower compared to standard RO models. Deducting one star only because the dispensing flow could be slightly faster and installation took a couple of days to schedule. Overall, reliable value for money."
-    },
-    {
-      "author": "lienlal thangjom",
-      "rating": 4.0,
-      "title": "Go for it",
-      "date": "2026-08-14",
-      "date_label": "14 August 2026",
-      "body": "Good product and reasonable price. Performance and system is also doing good. The quality of the water is also very good"
     }
   ]
 }

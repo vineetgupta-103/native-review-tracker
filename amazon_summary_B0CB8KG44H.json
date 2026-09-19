@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-09-14",
-  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, installation process, and ease of use. The water quality receives positive reviews, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as multiple customers report filters breaking within 6 months of use, and reliability is mixed with some units completely stopping working. While some customers consider it good value for money, others feel it's not worth the investment.",
+  "scraped": "2026-09-19",
+  "customers_say": "Customers find the water purifier excellent in quality and appreciate its quick installation process, good taste, and ease of use. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with continuous leakage from the machine.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "2.7K"
+      "count": "2.8K"
     },
     {
       "name": "Installation",
-      "count": "503"
+      "count": "507"
     },
     {
       "name": "Water taste",
@@ -23,19 +23,35 @@
       "count": "140"
     },
     {
-      "name": "Value for money",
-      "count": "654"
-    },
-    {
       "name": "Reliability",
-      "count": "559"
+      "count": "560"
     },
     {
       "name": "Durability",
-      "count": "140"
+      "count": "150"
+    },
+    {
+      "name": "Leakage",
+      "count": "106"
     }
   ],
   "reviews": [
+    {
+      "author": "SHIVA",
+      "rating": 4.0,
+      "title": "Good Product and installation also done within 2 days",
+      "date": "2026-09-15",
+      "date_label": "15 September 2026",
+      "body": "Order delivery was fast and installation is also completed with in 2 days"
+    },
+    {
+      "author": "Neeraj Kumar",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-09-13",
+      "date_label": "13 September 2026",
+      "body": "Looking nice and water test is also good."
+    },
     {
       "author": "Sonu",
       "rating": 5.0,
@@ -45,36 +61,20 @@
       "body": "Very good product.I liked the colour and shiny texture.Waterflow is very good.Behaviour of the agent was very good..I am satisfied with the overall process."
     },
     {
-      "author": "Rakesh",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-08-28",
-      "date_label": "28 August 2026",
-      "body": "Everything works good and installation completed."
-    },
-    {
-      "author": "jagadeesh",
+      "author": "Galaxy",
       "rating": 4.0,
-      "title": ".",
-      "date": "2026-08-27",
-      "date_label": "27 August 2026",
-      "body": "Good quality"
+      "title": "TDS meter is not working",
+      "date": "2026-09-11",
+      "date_label": "11 September 2026",
+      "body": "⭐️⭐️⭐️⭐️ The RO is working perfectly and the quality is good. However, the TDS meter is not turning on at all. The RO is good, but the TDS meter needs improvement."
     },
     {
-      "author": "Naman Mittal",
+      "author": "Debarshi",
       "rating": 5.0,
-      "title": "Product quality",
-      "date": "2026-08-23",
-      "date_label": "23 August 2026",
-      "body": "Good product"
-    },
-    {
-      "author": "Mahesh Kumar Bochela",
-      "rating": 4.0,
-      "title": "Good for portable drinking water",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "Good product"
+      "title": "Excellent Water Purifier – Great Performance",
+      "date": "2026-09-11",
+      "date_label": "11 September 2026",
+      "body": "Good Item"
     }
   ]
 }
