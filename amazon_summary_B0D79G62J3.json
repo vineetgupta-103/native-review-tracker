@@ -1,14 +1,10 @@
 {
-  "scraped": "2026-09-19",
-  "customers_say": "Customers find this water purifier to be among the best in the market, offering good value with transparent pricing and budget-friendly features. The installation process is excellent, and customers appreciate its premium appearance and top-notch water purification capabilities. The reliability and water taste receive mixed feedback - while some say it works perfectly, others report it stops working, and while some find the water tastes excellent, others disagree.",
+  "scraped": "2026-09-20",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting it makes a noticeable difference and is very pure. While some customers consider it worth the price, others express concerns about value for money. The reliability and water taste receive mixed reviews, with some reporting it works perfectly while others say it stops working, and some find the taste excellent while others disagree.",
   "aspects": [
     {
       "name": "Quality",
       "count": "2.6K"
-    },
-    {
-      "name": "Value for money",
-      "count": "500"
     },
     {
       "name": "Installation",
@@ -27,6 +23,10 @@
       "count": "140"
     },
     {
+      "name": "Value for money",
+      "count": "502"
+    },
+    {
       "name": "Reliability",
       "count": "291"
     },
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Santosh Gupta",
+      "rating": 4.0,
+      "title": "Best value for money and recommend",
+      "date": "2026-09-17",
+      "date_label": "17 September 2026",
+      "body": "Good to go, if we need RO for sure, if using tap water, you can choose without RO for less water wastage."
+    },
     {
       "author": "Apeksha rathore",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-09-12",
       "date_label": "12 September 2026",
       "body": "Water is very pure. After installation technician did Alchaline test & shown water purity."
-    },
-    {
-      "author": "Mujtaba Siddiqui",
-      "rating": 4.0,
-      "title": "Satisfied with the product",
-      "date": "2026-09-12",
-      "date_label": "12 September 2026",
-      "body": "Good. Hot water option could have added the value. Present product is good."
     }
   ]
 }

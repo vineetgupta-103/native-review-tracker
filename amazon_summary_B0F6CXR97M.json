@@ -1,11 +1,7 @@
 {
-  "scraped": "2026-09-19",
-  "customers_say": "Customers find this water purifier to be the best in the market with impressive smart technology and features, noting its premium appearance and excellent taste without metallic or chemical aftertaste. They appreciate the installation process, with one customer highlighting the knowledgeable installation engineer. While some customers consider it worth the money, others deeply regret their purchase. The reliability receives mixed feedback, with some reporting it functions well while others mention it stops working after a few days.",
+  "scraped": "2026-09-20",
+  "customers_say": "Customers find the water purifier's installation process very good, with knowledgeable installation engineers, and appreciate its premium appearance, smart technology, and thorough explanation of functions. The water tastes good without metallic or chemical aftertaste, and customers like its features, with one noting the information parameters of different parts. While some customers say it functions well, others report it stops working after a few days, and opinions on value are mixed, with some finding it worth the money while others regret their purchase.",
   "aspects": [
-    {
-      "name": "Quality",
-      "count": "913"
-    },
     {
       "name": "Installation",
       "count": "234"
@@ -27,12 +23,16 @@
       "count": "57"
     },
     {
+      "name": "Explained",
+      "count": "55"
+    },
+    {
       "name": "Reliability",
-      "count": "216"
+      "count": "218"
     },
     {
       "name": "Value for money",
-      "count": "203"
+      "count": "204"
     }
   ],
   "reviews": [
@@ -53,12 +53,20 @@
       "body": "Item is good and working fine. Very good water purifier. Installation also done very quick"
     },
     {
-      "author": "Renjitha R.S",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "Easy, Works well, Best overall",
-      "date": "2026-09-03",
-      "date_label": "3 September 2026",
-      "body": "My home water TDS is below 100, so I needed a purifier which controls TDS. This is RO enabled but uses it wisely. Once I started using this, the water tastes good since the filtration is very good. Every detail including the filter status is available on phone app. We can even change the modes easily. Still the filter is not replaced even after several months. Durable build, looks great. 5 Stars!"
+      "title": "Good product",
+      "date": "2026-09-04",
+      "date_label": "4 September 2026",
+      "body": "Lokesh did an excellent job with the water purifier installation. He explained everything in detail and very clearly, including how to use and maintain the purifier. He was professional, patient, and helpful throughout the process. Very satisfied with the installation and service. Highly recommended!"
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 4.0,
+      "title": "Good product, but packaging could be better",
+      "date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "body": "This was an exchange order for a 15-year-old Aquaguard. The delivery process could have been smoother but the main concern was the condition of the packaging; it was in very poor shape and initially made me worried about the product. Thankfully, the unit itself was intact and works as expected. The installation engineer was knowledgeable, professional, and explained everything clearly. Overall, a good experience with the product and installation, but the packaging could definitely be improved."
     },
     {
       "author": "Pranab",
@@ -67,14 +75,6 @@
       "date": "2026-08-23",
       "date_label": "23 August 2026",
       "body": "It's been an year since I bought this filter. Pros: 1. The adaptible system of RO /UV: The filter decides on the basis of input water TDS if it requires RO or not. We don't need RO water regularly which discards a lot of water while purifying. Saves a lot of water. Our society gets tanker water only in extreme summers. RO got activated only then. Best part, the filter has taste enhancer, which changes the taste of hard water too. Compared it with a friend's RO. You can manually override and switch RO On continuously too. Keeps the TDS level below the level we select through its app in UV mode."
-    },
-    {
-      "author": "Pradeep Kandaswamy",
-      "rating": 5.0,
-      "title": "Atomberg Intellon - Great versatile purifier with smart TDS-based RO — recommended",
-      "date": "2026-08-10",
-      "date_label": "10 August 2026",
-      "body": "Installed the Atomberg Intellon RO today (August 10, 2026), and overall, Very happy with the Atomberg Intellon so far. The TDS-based switching is a smart feature that reduces RO usage when it isn’t needed. This should help reduce wastewater while retaining more minerals, especially with the alkaliser. The water tastes clean and slightly alkaline, and the 8L tank is sufficient for our family of four. The technician installed a Pressure Reducing Value (PRV) free-of-cost as the input pressure was slightly high. The app monitoring and alerts work well, although the initial setup took a few minutes"
     }
   ]
 }

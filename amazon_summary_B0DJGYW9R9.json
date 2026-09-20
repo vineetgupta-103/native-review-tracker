@@ -1,14 +1,18 @@
 {
-  "scraped": "2026-09-19",
-  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. They like its appearance, adding a modern touch to the door, and appreciate its multiple unlocking options. The build quality is solid, and customers find the app interface good and easy to use. However, the user experience receives mixed feedback, with some customers describing it as a great experience while others find the app terrible.",
+  "scraped": "2026-09-20",
+  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. The app interface is good and easy to use, and customers like its appearance, noting it adds a modern touch to the door. They value the multiple unlocking options and consider it a great value product. However, the user experience receives mixed feedback, with some customers reporting a terrible app experience.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "64"
+      "count": "63"
     },
     {
       "name": "Reliability",
       "count": "50"
+    },
+    {
+      "name": "Value for money",
+      "count": "30"
     },
     {
       "name": "Security",
@@ -25,10 +29,6 @@
     {
       "name": "Features",
       "count": "21"
-    },
-    {
-      "name": "Build quality",
-      "count": "13"
     },
     {
       "name": "User experience",

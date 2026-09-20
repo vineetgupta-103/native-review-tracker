@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-19",
+  "scraped": "2026-09-20",
   "customers_say": "Customers find the water purifier excellent in quality and appreciate its quick installation process, good taste, and ease of use. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with continuous leakage from the machine.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Reshma t j",
+      "rating": 4.0,
+      "title": "Good",
+      "date": "2026-09-17",
+      "date_label": "17 September 2026",
+      "body": "Good product, good looking, best to use."
+    },
+    {
       "author": "SHIVA",
       "rating": 4.0,
       "title": "Good Product and installation also done within 2 days",
@@ -67,14 +75,6 @@
       "date": "2026-09-11",
       "date_label": "11 September 2026",
       "body": "⭐️⭐️⭐️⭐️ The RO is working perfectly and the quality is good. However, the TDS meter is not turning on at all. The RO is good, but the TDS meter needs improvement."
-    },
-    {
-      "author": "Debarshi",
-      "rating": 5.0,
-      "title": "Excellent Water Purifier – Great Performance",
-      "date": "2026-09-11",
-      "date_label": "11 September 2026",
-      "body": "Good Item"
     }
   ]
 }
