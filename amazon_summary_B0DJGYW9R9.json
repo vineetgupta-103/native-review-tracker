@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-20",
+  "scraped": "2026-09-21",
   "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. The app interface is good and easy to use, and customers like its appearance, noting it adds a modern touch to the door. They value the multiple unlocking options and consider it a great value product. However, the user experience receives mixed feedback, with some customers reporting a terrible app experience.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Sree",
+      "rating": 1.0,
+      "title": "Installation Service - not prompt. Product returned.",
+      "date": "2026-09-17",
+      "date_label": "17 September 2026",
+      "body": "Installation support is poor ( was scheduled twice and no show for both occasions ) and finally had to return the item. Item build quality is okay. It runs on AA batteries. Customer support is responsive, but unable to handle their installation partners effectively."
+    },
+    {
       "author": "SOURAV SHARMA",
       "rating": 5.0,
       "title": "NATIVE LOCK PRO",
@@ -67,14 +75,6 @@
       "date": "2026-08-12",
       "date_label": "12 August 2026",
       "body": "The lock is really amazing, looks, built quality, durability and the its heavy duty. I switched from previous old type of normal hand locks which gets loose after few months of usage then after watching so many locks and their reviews i come up with Native Lock pro, the lock delivered next day and the lock is really good. Installation was also quite fast he took the old lock and fitted the new lock. All features are really useful but bell link technology is next level, its very fast and shows notifications in just few seconds with pictures of the person who rang the bell. Overall im glad to bu"
-    },
-    {
-      "author": "Arya Prakash",
-      "rating": 5.0,
-      "title": "Good solid lock",
-      "date": "2026-08-12",
-      "date_label": "12 August 2026",
-      "body": "Installation process was smooth and the technician explained all features in detail. The lock seems good, 1 week after installation. The fingerprint sensor is sensitive and works fine. The doorbell feature makes urban lockpro stand out as compared to other locks."
     }
   ]
 }

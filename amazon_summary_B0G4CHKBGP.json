@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-20",
+  "scraped": "2026-09-21",
   "customers_say": "Customers find the water purifier to be among the best in the market, appreciating its unmatched pricing and performance that works without errors. They like its appearance, with one customer noting the modern touch panel with LED indicators, and its water quality features, including clear filter status updates. However, several customers report reliability issues, with the purifier stopping working within one month of use.",
   "aspects": [
     {
@@ -8,15 +8,15 @@
     },
     {
       "name": "Value for money",
-      "count": "242"
+      "count": "243"
     },
     {
       "name": "Performance",
-      "count": "175"
+      "count": "177"
     },
     {
       "name": "Installation",
-      "count": "157"
+      "count": "156"
     },
     {
       "name": "Water taste",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Reliability",
-      "count": "75"
+      "count": "74"
     }
   ],
   "reviews": [

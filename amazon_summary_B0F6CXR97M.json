@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-20",
-  "customers_say": "Customers find the water purifier's installation process very good, with knowledgeable installation engineers, and appreciate its premium appearance, smart technology, and thorough explanation of functions. The water tastes good without metallic or chemical aftertaste, and customers like its features, with one noting the information parameters of different parts. While some customers say it functions well, others report it stops working after a few days, and opinions on value are mixed, with some finding it worth the money while others regret their purchase.",
+  "scraped": "2026-09-21",
+  "customers_say": "Customers find the water purifier easy to use with a user-friendly app, and appreciate its smart technology and features, with one noting its intelligent TDS-based operation. The product looks premium, tastes good without metallic or chemical aftertaste, and comes with free installation. While some customers say it functions well, others report it stops working after a few days, and opinions on value for money are divided between those who find it worth the price and those who regret buying it.",
   "aspects": [
     {
       "name": "Installation",
@@ -19,12 +19,12 @@
       "count": "65"
     },
     {
-      "name": "Smart",
-      "count": "57"
+      "name": "Ease of use",
+      "count": "64"
     },
     {
-      "name": "Explained",
-      "count": "55"
+      "name": "Smart",
+      "count": "58"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "S.Devadoss",
+      "rating": 5.0,
+      "title": "Satisfied",
+      "date": "2026-09-17",
+      "date_label": "17 September 2026",
+      "body": "It's a very Good Product I searched. Fitting service is very fast and convenient. It's working good.. Satisfied purchase.. will update after a month.."
+    },
     {
       "author": "Ajith",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-29",
       "date_label": "29 August 2026",
       "body": "This was an exchange order for a 15-year-old Aquaguard. The delivery process could have been smoother but the main concern was the condition of the packaging; it was in very poor shape and initially made me worried about the product. Thankfully, the unit itself was intact and works as expected. The installation engineer was knowledgeable, professional, and explained everything clearly. Overall, a good experience with the product and installation, but the packaging could definitely be improved."
-    },
-    {
-      "author": "Pranab",
-      "rating": 5.0,
-      "title": "Superb product my Atomberg. The first adaptible RO/UV filter. And No AMC",
-      "date": "2026-08-23",
-      "date_label": "23 August 2026",
-      "body": "It's been an year since I bought this filter. Pros: 1. The adaptible system of RO /UV: The filter decides on the basis of input water TDS if it requires RO or not. We don't need RO water regularly which discards a lot of water while purifying. Saves a lot of water. Our society gets tanker water only in extreme summers. RO got activated only then. Best part, the filter has taste enhancer, which changes the taste of hard water too. Compared it with a friend's RO. You can manually override and switch RO On continuously too. Keeps the TDS level below the level we select through its app in UV mode."
     }
   ]
 }

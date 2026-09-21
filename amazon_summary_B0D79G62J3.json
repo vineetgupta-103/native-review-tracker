@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-20",
+  "scraped": "2026-09-21",
   "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting it makes a noticeable difference and is very pure. While some customers consider it worth the price, others express concerns about value for money. The reliability and water taste receive mixed reviews, with some reporting it works perfectly while others say it stops working, and some find the taste excellent while others disagree.",
   "aspects": [
     {
@@ -11,8 +11,12 @@
       "count": "326"
     },
     {
+      "name": "Reliability",
+      "count": "290"
+    },
+    {
       "name": "Appearance",
-      "count": "200"
+      "count": "201"
     },
     {
       "name": "Water quality",
@@ -20,19 +24,15 @@
     },
     {
       "name": "Service",
-      "count": "140"
+      "count": "141"
     },
     {
       "name": "Value for money",
       "count": "502"
     },
     {
-      "name": "Reliability",
-      "count": "291"
-    },
-    {
       "name": "Water taste",
-      "count": "212"
+      "count": "213"
     }
   ],
   "reviews": [
@@ -43,6 +43,14 @@
       "date": "2026-09-17",
       "date_label": "17 September 2026",
       "body": "Good to go, if we need RO for sure, if using tap water, you can choose without RO for less water wastage."
+    },
+    {
+      "author": "RAMKRISHNA GIRI",
+      "rating": 5.0,
+      "title": "The best water purifier ever",
+      "date": "2026-09-16",
+      "date_label": "16 September 2026",
+      "body": "Awesome service,excellent purification, marvellous design. Tremendous electric and water saver... Fully satisfied I must say what I was looking for I found it ...I strongly recommend everyone to get this purifier if you are planning to buy a water purifier ..... Thank you Urban company for providing a fantastic purifier ...."
     },
     {
       "author": "Apeksha rathore",
@@ -67,14 +75,6 @@
       "date": "2026-09-12",
       "date_label": "12 September 2026",
       "body": "Installation was smooth..."
-    },
-    {
-      "author": "Ashwinee",
-      "rating": 5.0,
-      "title": "Best RO in segment.",
-      "date": "2026-09-12",
-      "date_label": "12 September 2026",
-      "body": "Water is very pure. After installation technician did Alchaline test & shown water purity."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-20",
+  "scraped": "2026-09-21",
   "customers_say": "Customers find the water purification unit to be of good quality, with quick and perfect installation, and appreciate its elegant design. The water tastes good, and the product serves its purpose well for small families. The reliability and customer experience receive mixed feedback - while some report it works perfectly, others say it stops working properly, and while some have an awesome experience, others find it deeply frustrating.",
   "aspects": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "name": "Service",
-      "count": "51"
+      "count": "52"
     },
     {
       "name": "Customer experience",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Sikandar",
+      "rating": 4.0,
+      "title": "Satisfactory",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Satisfactory"
+    },
     {
       "author": "Very good product 👌🏻",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-09-08",
       "date_label": "8 September 2026",
       "body": "As of now product is working good Installation was also done at timely"
-    },
-    {
-      "author": "abhigyan",
-      "rating": 1.0,
-      "title": "### Extremely Disappointing After-Sales Service from Aquaguard###",
-      "date": "2026-08-22",
-      "date_label": "22 August 2026",
-      "body": "### Extremely Disappointing After-Sales Service from Aquaguard The product worked well for the first four months. However, during the fifth month, the TDS level started increasing, and by the end of the fifth month, it had crossed 120. This is when I raised my first service complaint. A technician visited a few days later, carried out some checks, and assured me that the issue would resolve and the purifier would work fine. For the next few days, the TDS level did come down, but it never dropped below 100. Since the technician had assured us that it would improve in a few days, we trusted his "
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-20",
+  "scraped": "2026-09-21",
   "customers_say": "Customers find the water purifier excellent in quality and appreciate its quick installation process, good taste, and ease of use. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with continuous leakage from the machine.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "507"
+      "count": "508"
     },
     {
       "name": "Water taste",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Reliability",
-      "count": "560"
+      "count": "561"
     },
     {
       "name": "Durability",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Nice",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Nice working and installation also good"
+    },
+    {
+      "author": "Jay",
+      "rating": 5.0,
+      "title": "Trust the Kent",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Kent is the best RO WATER PURIFIER."
+    },
     {
       "author": "Reshma t j",
       "rating": 4.0,
@@ -59,22 +75,6 @@
       "date": "2026-09-13",
       "date_label": "13 September 2026",
       "body": "Looking nice and water test is also good."
-    },
-    {
-      "author": "Sonu",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-09-11",
-      "date_label": "11 September 2026",
-      "body": "Very good product.I liked the colour and shiny texture.Waterflow is very good.Behaviour of the agent was very good..I am satisfied with the overall process."
-    },
-    {
-      "author": "Galaxy",
-      "rating": 4.0,
-      "title": "TDS meter is not working",
-      "date": "2026-09-11",
-      "date_label": "11 September 2026",
-      "body": "⭐️⭐️⭐️⭐️ The RO is working perfectly and the quality is good. However, the TDS meter is not turning on at all. The RO is good, but the TDS meter needs improvement."
     }
   ]
 }
