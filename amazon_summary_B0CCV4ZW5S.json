@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-09-21",
-  "customers_say": "Customers find the smart lock functions well and offers excellent value for money, with one noting it works seamlessly with digital assistants. The installation process is straightforward, and they appreciate its security features, with one highlighting its secure multi-bolt system. The appearance receives positive feedback for its premium finish and wow factor, while the build quality feels strong, and customers like its versatile access options. Battery life experiences are mixed, with some reporting good performance while others mention the battery depleting within a year.",
+  "scraped": "2026-09-23",
+  "customers_say": "Customers find the smart lock functions well and appreciate its security features, with one mentioning its secure multi-bolt system. The installation process is straightforward, and they like its appearance, with one noting it adds a wow factor to their house. Moreover, the build quality feels strong, and they appreciate the many useful functionalities. However, opinions about value for money are mixed, with some finding it excellent while others say it's not worth buying. Additionally, battery life receives mixed reviews, with some reporting good performance while others mention the battery going dead within a year.",
   "aspects": [
     {
       "name": "Functionality",
-      "count": "106"
-    },
-    {
-      "name": "Value for money",
-      "count": "84"
+      "count": "105"
     },
     {
       "name": "Installation",
-      "count": "62"
+      "count": "59"
     },
     {
       "name": "Security",
-      "count": "49"
+      "count": "48"
     },
     {
       "name": "Appearance",
-      "count": "42"
-    },
-    {
-      "name": "Build quality",
-      "count": "31"
+      "count": "40"
     },
     {
       "name": "Features",
-      "count": "31"
+      "count": "29"
+    },
+    {
+      "name": "Value for money",
+      "count": "83"
+    },
+    {
+      "name": "Build quality",
+      "count": "29"
     },
     {
       "name": "Battery life",
-      "count": "29"
+      "count": "28"
     }
   ],
   "reviews": [
@@ -43,14 +43,6 @@
       "date": "2026-09-10",
       "date_label": "10 September 2026",
       "body": "Good quality door lock with a sturdy build. The locking mechanism works smoothly, installation was easy, and it feels secure. Overall, good value for money."
-    },
-    {
-      "author": "DB",
-      "rating": 5.0,
-      "title": "A good product, reasonable price",
-      "date": "2026-09-08",
-      "date_label": "8 September 2026",
-      "body": "The lock is working fine. All the opening features are working to our satisfaction. Installation was done quickly and without any problem."
     },
     {
       "author": "Asantosh",
@@ -75,6 +67,14 @@
       "date": "2026-08-15",
       "date_label": "15 August 2026",
       "body": "I bought an x95 model Golens smart door lock after a lot of research online and physically at outlets. I could find only this model that actually suited my door specs and the carpentry required for replacing the existing conventional lock. Product delivery: Well packed, neatly categorised and highly safe boxing. No surprises of missing components or parts. No complaints in product finishes and build quality. Installation: Although this was arranged 3-4 days after the delivery, the installation was a superb and happy experience. On contrary to my anxieties about the neatness and suitability to "
+    },
+    {
+      "author": "Rahul",
+      "rating": 1.0,
+      "title": "Worst experience with Golens",
+      "date": "2026-08-06",
+      "date_label": "6 August 2026",
+      "body": "Absolutely terrible experience with golens x95. I bought this lock on 7/6/25 and got it installed on 31 july 26 from Golens for an additional charge of 1500 rupees; as there was construction going on in my house. It worked fine for a few days but when the battery drained and I tried to charge it, i noticed that the battery is faulty and not getting charged. Even after charging it for a whole day it worked only for a few mins. When I contacted customer care then I was told I need to pay additional 2850 for replacement battery. Absolutely ridiculous and shady brand. Won't recommend to anyone."
     }
   ]
 }

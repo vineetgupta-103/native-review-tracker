@@ -1,18 +1,14 @@
 {
-  "scraped": "2026-09-21",
-  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting it makes a noticeable difference and is very pure. While some customers consider it worth the price, others express concerns about value for money. The reliability and water taste receive mixed reviews, with some reporting it works perfectly while others say it stops working, and some find the taste excellent while others disagree.",
+  "scraped": "2026-09-23",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting a noticeable improvement, and they appreciate the professional service. While some customers consider it worth the price, others express concerns about value for money. The reliability and water taste receive mixed reviews, with some reporting it works perfectly while others say it stops working, and some find the taste excellent while others disagree.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "2.6K"
+      "count": "2.7K"
     },
     {
       "name": "Installation",
       "count": "326"
-    },
-    {
-      "name": "Reliability",
-      "count": "290"
     },
     {
       "name": "Appearance",
@@ -28,14 +24,26 @@
     },
     {
       "name": "Value for money",
-      "count": "502"
+      "count": "503"
+    },
+    {
+      "name": "Reliability",
+      "count": "291"
     },
     {
       "name": "Water taste",
-      "count": "213"
+      "count": "214"
     }
   ],
   "reviews": [
+    {
+      "author": "Sohil Sundaram",
+      "rating": 5.0,
+      "title": "M1 Pro - A True House Help",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "The Native M1 Pro Purifier is compact, efficient, and delivers noticeably fresher air within minutes. Its sleek design blends well with any space, and the quiet operation makes it perfect for daily use. A reliable choice for cleaner, healthier living. Outlet is also very nominal so low wastage of water."
+    },
     {
       "author": "Santosh Gupta",
       "rating": 4.0,
@@ -67,14 +75,6 @@
       "date": "2026-09-13",
       "date_label": "13 September 2026",
       "body": "So far its been excellent and no issues. Time will tell how this will perform."
-    },
-    {
-      "author": "Udhay kiran",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-09-12",
-      "date_label": "12 September 2026",
-      "body": "Installation was smooth..."
     }
   ]
 }

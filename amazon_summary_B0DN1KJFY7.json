@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-21",
-  "customers_say": "Customers find the water purification unit to be of good quality, with quick and perfect installation, and appreciate its elegant design. The water tastes good, and the product serves its purpose well for small families. The reliability and customer experience receive mixed feedback - while some report it works perfectly, others say it stops working properly, and while some have an awesome experience, others find it deeply frustrating.",
+  "scraped": "2026-09-23",
+  "customers_say": "Customers find the water purifier to be of good quality, with quick and perfect installation, and appreciate its elegant design and functionality for daily use, particularly for small families. The water taste receives positive feedback, with customers noting they can control it according to their water source. The reliability and value for money receive mixed reviews - while some say it works perfectly and is good for its price, others report it stops working properly and consider it a waste of money. The service experience is also mixed, with some praising the customer support while others find it terrible.",
   "aspects": [
     {
       "name": "Quality",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Design",
-      "count": "89"
+      "count": "88"
     },
     {
       "name": "Functionality",
@@ -27,30 +27,30 @@
       "count": "364"
     },
     {
-      "name": "Service",
-      "count": "52"
+      "name": "Value for money",
+      "count": "309"
     },
     {
-      "name": "Customer experience",
-      "count": "49"
+      "name": "Service",
+      "count": "52"
     }
   ],
   "reviews": [
     {
-      "author": "Sikandar",
-      "rating": 4.0,
-      "title": "Satisfactory",
-      "date": "2026-09-18",
-      "date_label": "18 September 2026",
-      "body": "Satisfactory"
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Very nice",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "This product is very nice and working properly . Installation process was very smooth .. overall i liked the product .. must buy and value for money"
     },
     {
-      "author": "Very good product 👌🏻",
+      "author": "Lucky khandelwal",
       "rating": 5.0,
-      "title": "Feedback",
-      "date": "2026-09-15",
-      "date_label": "15 September 2026",
-      "body": "I have been using this product from last 2 months. I am very much satisfied from the product. I recommend it"
+      "title": "Amazing product",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Amazing product , service very good , tds meter is also available for free of cost"
     },
     {
       "author": "Nagamani.B",
@@ -69,12 +69,12 @@
       "body": "Excellent water purifier – looks premium and works great! I am very happy with this Aquaguard water purifier. The design looks very stylish and premium, and the installation was also smooth. The water quality and taste are good, and the smart display is really useful to keep track of the purifier. The build quality feels good and it looks beautiful on the kitchen wall. Overall, a great product for daily use and definitely worth considering if you are looking for a reliable water purifier. Highly recommended! 💧✨"
     },
     {
-      "author": "Amazon Customer",
+      "author": "Rushikesh",
       "rating": 5.0,
-      "title": "Nice product",
-      "date": "2026-09-08",
-      "date_label": "8 September 2026",
-      "body": "As of now product is working good Installation was also done at timely"
+      "title": "Great value for money",
+      "date": "2026-09-06",
+      "date_label": "6 September 2026",
+      "body": "Very nice purifier. Wworks great and the service is also good"
     }
   ]
 }

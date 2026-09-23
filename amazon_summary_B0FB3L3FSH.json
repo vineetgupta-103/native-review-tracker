@@ -1,7 +1,11 @@
 {
-  "scraped": "2026-09-21",
-  "customers_say": "Customers find the water purifier performs well and appreciate that maintenance and service costs are zero for the first two years. The installation process is hassle-free, and they like its appearance, with one customer noting its premium matte finish. Moreover, the water tastes great and is easy to maintain. However, the filter life receives mixed feedback, with some customers reporting malfunction within a month. Additionally, several customers mention issues with water leakage, particularly persistent overflow from the storage tank.",
+  "scraped": "2026-09-23",
+  "customers_say": "Customers find the water purifier to be a very good product that functions well and offers maintenance-free service for the first two years. They appreciate its great taste, appearance, and ease of use, with one customer noting its premium matte finish. The filter life receives mixed reviews, with some customers reporting malfunction within a month.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "283"
+    },
     {
       "name": "Performance",
       "count": "70"
@@ -24,18 +28,22 @@
     },
     {
       "name": "Ease of use",
-      "count": "20"
+      "count": "21"
     },
     {
       "name": "Filter life",
       "count": "19"
-    },
-    {
-      "name": "Leakage",
-      "count": "18"
     }
   ],
   "reviews": [
+    {
+      "author": "syed.suisse",
+      "rating": 5.0,
+      "title": "Very good product.",
+      "date": "2026-09-20",
+      "date_label": "20 September 2026",
+      "body": "simple, best. No app, this is what i want."
+    },
     {
       "author": "sandeep yadav",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-07-22",
       "date_label": "22 July 2026",
       "body": "Value for money..water tds level properly maintained. Low maintenance."
-    },
-    {
-      "author": "Aishwarya Singh",
-      "rating": 5.0,
-      "title": "A Good Product and A greater Service Experience",
-      "date": "2026-07-20",
-      "date_label": "20 July 2026",
-      "body": "Using it for 3weeks no issue so far. installation process was seamless. I would recommend this water purifier for if nothing else then a great customer service experience like thats a novelty in india. also paying for a filter after 2 year is a huge plus and all consultation and maintenance service free for 2 years."
     }
   ]
 }

@@ -1,10 +1,14 @@
 {
-  "scraped": "2026-09-21",
-  "customers_say": "Customers find the smart lock easy to install and use, with a premium appearance and strong security features. Moreover, they appreciate the variety of unlocking methods, including fingerprint, PIN, remote OTP, NFC card, and manual deadbolt. However, the connectivity receives mixed feedback - while it connects via Bluetooth, some customers note it doesn't support Wi-Fi gateway. Additionally, opinions on value for money are divided, with some finding it worth the cost while others advise against purchasing it.",
+  "scraped": "2026-09-23",
+  "customers_say": "Customers find the smart lock easy to use and appreciate its premium appearance, with one noting it comes with 4 different modes of opening. The installation process is smooth, and customers consider it good value for money. They value its security features, with one mentioning the manual deadbolt provides extra peace of mind. The connectivity receives mixed feedback - while it connects via Bluetooth, some customers note it doesn't support Wi-Fi gateway.",
   "aspects": [
     {
       "name": "Installation",
       "count": "34"
+    },
+    {
+      "name": "Value for money",
+      "count": "24"
     },
     {
       "name": "Ease of use",
@@ -27,15 +31,19 @@
       "count": "8"
     },
     {
-      "name": "Value for money",
-      "count": "23"
-    },
-    {
       "name": "Connectivity",
       "count": "13"
     }
   ],
   "reviews": [
+    {
+      "author": "Harshala Patil-Khatate",
+      "rating": 5.0,
+      "title": "Worth buying",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Good product"
+    },
     {
       "author": "Darshanesh Naringrekar",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-30",
       "date_label": "30 August 2026",
       "body": "Aditya has done a good job of installing the door lock"
-    },
-    {
-      "author": "Suraj Rao",
-      "rating": 5.0,
-      "title": "Install and Fitting",
-      "date": "2026-07-11",
-      "date_label": "11 July 2026",
-      "body": "Features are good, an Indian brand which stores ur data locally . Please go for it , worth having it."
     }
   ]
 }

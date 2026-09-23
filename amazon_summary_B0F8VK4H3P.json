@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-21",
+  "scraped": "2026-09-23",
   "customers_say": "Customers find the door lock to be a premium product with solid build quality, great looks, and convenient keyless entry. The installation process is smoothly done, and they appreciate its multiple access options, with one customer highlighting the fingerprint and passcode entry features. While the lock functions well initially, some customers report issues with the front lock not working and the fingerprint scanner stopping unexpectedly. Additionally, connectivity receives mixed feedback, with several customers reporting no wifi connectivity issues.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "KameshM",
+      "rating": 5.0,
+      "title": "Door lock installation",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Service was perfectly done. Installation is perfect. Value product. Sturdy build, looks good too with many options. Thank you."
+    },
+    {
       "author": "Biju Thomas",
       "rating": 1.0,
       "title": "SubQuality product",
@@ -67,14 +75,6 @@
       "date": "2024-09-08",
       "date_label": "8 September 2024",
       "body": "The Qubo Smart Lock Ultra is an impressive device, offering excellent security features combined with modern technology. Its seamless integration with smartphones makes remote access and monitoring incredibly convenient. The fingerprint and passcode entry options provide versatility, and the auto-locking feature enhances safety. Installation is straightforward, and the lock's sleek design adds a stylish touch to any door. Overall, it's a reliable, smart choice for anyone looking to upgrade home security with ease."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Best Smart Door Lock",
-      "date": "2024-07-28",
-      "date_label": "28 July 2024",
-      "body": "Hi, Qubo smart door lock is one of the best smart door locks I have been knowing and I am using since a month. The installation was very smooth and it’s easy to use and more safe which I have noticed. It has many features like number lock, access card, fingerprint etc. I recommend everyone to buy and try it once."
     }
   ]
 }

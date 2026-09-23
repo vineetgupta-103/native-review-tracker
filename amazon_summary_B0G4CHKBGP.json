@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-21",
+  "scraped": "2026-09-23",
   "customers_say": "Customers find the water purifier to be among the best in the market, appreciating its unmatched pricing and performance that works without errors. They like its appearance, with one customer noting the modern touch panel with LED indicators, and its water quality features, including clear filter status updates. However, several customers report reliability issues, with the purifier stopping working within one month of use.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Value for money",
-      "count": "243"
+      "count": "245"
     },
     {
       "name": "Performance",
-      "count": "177"
+      "count": "179"
     },
     {
       "name": "Installation",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Water quality",
-      "count": "95"
+      "count": "96"
     },
     {
       "name": "Appearance",
-      "count": "75"
+      "count": "76"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Siba Prasad Mohanty",
+      "rating": 5.0,
+      "title": "Excellent Product & Hassle-Free Experience – Highly Recommended!",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Really happy with my experience with the Urban Company Native M2 Pro. The product looks premium, works smoothly, and the performance has been excellent so far. The water quality is good, and the overall experience has been hassle-free. The installation and service were also handled professionally. Great product for the price, and I’m satisfied with my purchase. Highly recommended! 👍"
+    },
     {
       "author": "Suraj Sinha",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-09-12",
       "date_label": "12 September 2026",
       "body": "⭐⭐⭐⭐⭐ Excellent Water Purifier – Native M2 Pro I am using the Native M2 Pro with municipal water having around 320 TDS, and I am very satisfied with its purification performance. The water quality and taste after purification are very good. What I particularly like is the real-time monitoring of the purification process and the ability to check the health status of the purifier. The app also provides convenient filter-status monitoring, warranty-period details, and other important information—all in one place. The smart monitoring features make it easy to keep track of the purifier’s performan"
-    },
-    {
-      "author": "Dilip",
-      "rating": 5.0,
-      "title": "Great Water Quality & primium Product with features",
-      "date": "2026-09-03",
-      "date_label": "3 September 2026",
-      "body": "I’m really happy with the water purifier. The water tastes clean and fresh, and the machine is working really well so far. It’s easy to use and the overall quality is good. Very satisfied with the purchase and would definitely recommend it."
     },
     {
       "author": "Jatinder Singh",

@@ -1,18 +1,10 @@
 {
-  "scraped": "2026-09-21",
-  "customers_say": "Customers find the water purifier excellent in quality and appreciate its quick installation process, good taste, and ease of use. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with continuous leakage from the machine.",
+  "scraped": "2026-09-23",
+  "customers_say": "Customers like the water purifier's taste and find it easy to use with smooth operation. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as filters break within 6 months, and there are issues with continuous leakage from the machine. Moreover, customers report high water wastage, with one mentioning it takes 20 liters to produce 8 liters of purified water. Additionally, reliability and service receive mixed feedback, with some customers reporting the purifier stops working and experiencing bad service.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "2.8K"
-    },
-    {
-      "name": "Installation",
-      "count": "508"
-    },
-    {
       "name": "Water taste",
-      "count": "207"
+      "count": "208"
     },
     {
       "name": "Ease of use",
@@ -24,7 +16,11 @@
     },
     {
       "name": "Reliability",
-      "count": "561"
+      "count": "566"
+    },
+    {
+      "name": "Service",
+      "count": "104"
     },
     {
       "name": "Durability",
@@ -33,48 +29,52 @@
     {
       "name": "Leakage",
       "count": "106"
+    },
+    {
+      "name": "Water wastage",
+      "count": "103"
     }
   ],
   "reviews": [
     {
-      "author": "Amazon Customer",
+      "author": "Krushna",
       "rating": 5.0,
-      "title": "Nice",
-      "date": "2026-09-18",
-      "date_label": "18 September 2026",
-      "body": "Nice working and installation also good"
+      "title": "Good quality product",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "As for the product itself, it works wonderfully, the water taste is crisp and clean, and the installation process was smooth."
     },
     {
-      "author": "Jay",
+      "author": "Parani Dhasarathan",
       "rating": 5.0,
-      "title": "Trust the Kent",
-      "date": "2026-09-18",
-      "date_label": "18 September 2026",
-      "body": "Kent is the best RO WATER PURIFIER."
+      "title": "Kent Supreme plus alkaline copper model review",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "This is very good product working as expected. I have checked TDS level which is around 50 to 55. Also checked PH level which is getting 8 to 8.5ph. This is worth for money which I spent"
     },
     {
-      "author": "Reshma t j",
+      "author": "Chirra ashok",
       "rating": 4.0,
+      "title": "Good product great performance",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Very good product.i liked the Kent water purifier.. Good.behaviour of The agent Ranjith was very friendly and good.iam satisfied with the overall performance"
+    },
+    {
+      "author": "Sarath Chandra Deevi",
+      "rating": 5.0,
+      "title": "Product and service is good",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Product is good and Service is very good."
+    },
+    {
+      "author": "Tirumala",
+      "rating": 5.0,
       "title": "Good",
-      "date": "2026-09-17",
-      "date_label": "17 September 2026",
-      "body": "Good product, good looking, best to use."
-    },
-    {
-      "author": "SHIVA",
-      "rating": 4.0,
-      "title": "Good Product and installation also done within 2 days",
-      "date": "2026-09-15",
-      "date_label": "15 September 2026",
-      "body": "Order delivery was fast and installation is also completed with in 2 days"
-    },
-    {
-      "author": "Neeraj Kumar",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-09-13",
-      "date_label": "13 September 2026",
-      "body": "Looking nice and water test is also good."
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Received in good condition and installation went very smoothly and representatives also very good."
     }
   ]
 }

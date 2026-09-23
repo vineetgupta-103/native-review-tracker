@@ -1,14 +1,22 @@
 {
-  "scraped": "2026-09-20",
-  "customers_say": "Customers find the door lock worth its price and appreciate its straightforward installation process. They praise its features, with one customer highlighting its multiple control options, and consider it secure, with one mentioning the anti-pry/tamper alarm. They like its appearance and find it convenient to use, with one noting the camera's usefulness. However, the battery life receives negative feedback, with customers reporting very short duration.",
+  "scraped": "2026-09-23",
+  "customers_say": "Customers find the smart door lock to be of excellent quality and worth its price, with reliable performance and straightforward installation. They appreciate its comprehensive features, easy operation, and security, with one customer noting the anti-pry/tamper alarm adds real security. They like its appearance, describing it as stylish.",
   "aspects": [
     {
+      "name": "Quality",
+      "count": "131"
+    },
+    {
       "name": "Value for money",
-      "count": "44"
+      "count": "41"
+    },
+    {
+      "name": "Reliability",
+      "count": "38"
     },
     {
       "name": "Installation",
-      "count": "36"
+      "count": "34"
     },
     {
       "name": "Ease of use",
@@ -16,23 +24,15 @@
     },
     {
       "name": "Features",
-      "count": "23"
+      "count": "22"
     },
     {
       "name": "Security",
-      "count": "19"
+      "count": "18"
     },
     {
       "name": "Appearance",
-      "count": "16"
-    },
-    {
-      "name": "Convenience",
-      "count": "15"
-    },
-    {
-      "name": "Battery life",
-      "count": "7"
+      "count": "14"
     }
   ],
   "reviews": [
@@ -45,36 +45,36 @@
       "body": "⭐⭐⭐⭐⭐ Very happy with the Lavna LA44 I recently purchased the Lavna LA44 smart lock and so far I’m really happy with it. The lock looks premium and feels very solid and well-built. The installation and setup were pretty straightforward. I really like the fingerprint feature — it works quickly and makes it so much more convenient than carrying a key around. The lock has been working smoothly, and I haven’t faced any issues so far. What I like most is the combination of security, convenience, and the overall look of the lock. It feels like a good upgrade for the home and is definitely worth the "
     },
     {
-      "author": "Nikhil pore",
+      "author": "Najmunnisa",
       "rating": 5.0,
-      "title": "Features are good with the best Price",
-      "date": "2026-09-08",
-      "date_label": "8 September 2026",
-      "body": "Features are good with the best Price"
+      "title": "Lock was good job",
+      "date": "2026-09-04",
+      "date_label": "4 September 2026",
+      "body": "Excellent service . good camara and good service"
     },
     {
-      "author": "Soujanya",
+      "author": "Old Delhi Bazaar",
       "rating": 5.0,
-      "title": "Good and value of money",
-      "date": "2026-09-05",
-      "date_label": "5 September 2026",
-      "body": "I have bought a LAVNA digital lock for my main door... it's good and nice service by Hussain. Value of money. I would suggest to buy... If needed... go for it confidentially."
+      "title": "Perfect lock at a very reasonable price",
+      "date": "2026-09-01",
+      "date_label": "1 September 2026",
+      "body": "Perfect lock. Safe and sturdy. Zero complaints for over one year of use. Highly recommended."
     },
     {
-      "author": "Mushtaq sayed",
+      "author": "Babu",
       "rating": 5.0,
-      "title": "Very Happy with My Purchase!",
-      "date": "2026-09-03",
-      "date_label": "3 September 2026",
-      "body": "⭐⭐⭐⭐⭐ Very Happy with My Purchase! Purchased the LAVNA 8 Way Smart Door Lock from Amazon and I’m very satisfied with it. Excellent quality, stylish design, and the multiple unlocking options are very convenient. Face recognition and fingerprint work smoothly. Overall, a great product and excellent value for money. Highly recommended!"
+      "title": "Lavna smart lock",
+      "date": "2026-09-01",
+      "date_label": "1 September 2026",
+      "body": "I purchased this Lavna smart lock for my new house main door, it's an excellent lock with various modes of keyless unlock and highly safe"
     },
     {
-      "author": "vignesh",
+      "author": "Mukesh Kumar Gupta",
       "rating": 5.0,
-      "title": "Good customer support by LAVNA",
-      "date": "2026-08-31",
-      "date_label": "31 August 2026",
-      "body": "Well supported by LAVNA team for setting up the lock . Very clear instructions given and done setup easily"
+      "title": "Great product !",
+      "date": "2026-08-29",
+      "date_label": "29 August 2026",
+      "body": "The product is very good and Mr Jatin was very helpful in solving small issues over phone....overall very satisfied with my purchase and after sales service..."
     }
   ]
 }

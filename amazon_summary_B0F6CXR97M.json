@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-21",
-  "customers_say": "Customers find the water purifier easy to use with a user-friendly app, and appreciate its smart technology and features, with one noting its intelligent TDS-based operation. The product looks premium, tastes good without metallic or chemical aftertaste, and comes with free installation. While some customers say it functions well, others report it stops working after a few days, and opinions on value for money are divided between those who find it worth the price and those who regret buying it.",
+  "scraped": "2026-09-23",
+  "customers_say": "Customers find the water purifier easy to use with a user-friendly app, and appreciate its smart technology and features, with one customer noting its intelligent TDS-based operation. They like the design, with one describing it as futuristic, and report good water taste without metallic or chemical aftertaste. Installation receives positive feedback, with customers noting the free installation service. However, reliability and value for money receive mixed reviews, with some customers reporting the purifier stops working after a few days and expressing regret about their purchase.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "234"
+      "count": "235"
     },
     {
       "name": "Design",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Water taste",
-      "count": "85"
+      "count": "86"
     },
     {
       "name": "Features",
@@ -28,14 +28,22 @@
     },
     {
       "name": "Reliability",
-      "count": "218"
+      "count": "223"
     },
     {
       "name": "Value for money",
-      "count": "204"
+      "count": "205"
     }
   ],
   "reviews": [
+    {
+      "author": "Riju",
+      "rating": 5.0,
+      "title": "Good experience overall",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Overall experience was seamless. Installation was done the very next day. The technician (Sharaf) was knowledgeable and work was done quickly and neatly. He tested the water quality and pressure. Fixed a booster pump at no additional cost. Then he explained the functions and initial process clearly. Connected the device via app and explained it as well. The product seems to be pretty good except for the water dispenser handle that seems very flimsy on and otherwise well built product. Till now all seems good. I've had good experience with other Atomberg products so expecting the same here too."
+    },
     {
       "author": "S.Devadoss",
       "rating": 5.0,
@@ -45,12 +53,12 @@
       "body": "It's a very Good Product I searched. Fitting service is very fast and convenient. It's working good.. Satisfied purchase.. will update after a month.."
     },
     {
-      "author": "Ajith",
+      "author": "Ajit jha",
       "rating": 5.0,
-      "title": "Installation and product",
-      "date": "2026-09-11",
-      "date_label": "11 September 2026",
-      "body": "Extremely happy with the water purifier installation service. The technician vijay was professional and explained everything clearly. The installation was done neatly without any hassle. Overall, a smooth and satisfactory experience. Highly recommended!!"
+      "title": "After sales Service needs to improve. Rest all good.",
+      "date": "2026-09-13",
+      "date_label": "13 September 2026",
+      "body": "Problem is resolved."
     },
     {
       "author": "Amazon Customer",
@@ -59,14 +67,6 @@
       "date": "2026-09-09",
       "date_label": "9 September 2026",
       "body": "Item is good and working fine. Very good water purifier. Installation also done very quick"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-09-04",
-      "date_label": "4 September 2026",
-      "body": "Lokesh did an excellent job with the water purifier installation. He explained everything in detail and very clearly, including how to use and maintain the purifier. He was professional, patient, and helpful throughout the process. Very satisfied with the installation and service. Highly recommended!"
     },
     {
       "author": "Amazon Customer",
