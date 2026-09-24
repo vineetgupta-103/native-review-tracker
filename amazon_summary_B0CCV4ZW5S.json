@@ -1,13 +1,13 @@
 {
-  "scraped": "2026-09-23",
-  "customers_say": "Customers find the smart lock functions well and appreciate its security features, with one mentioning its secure multi-bolt system. The installation process is straightforward, and they like its appearance, with one noting it adds a wow factor to their house. Moreover, the build quality feels strong, and they appreciate the many useful functionalities. However, opinions about value for money are mixed, with some finding it excellent while others say it's not worth buying. Additionally, battery life receives mixed reviews, with some reporting good performance while others mention the battery going dead within a year.",
+  "scraped": "2026-09-24",
+  "customers_say": "Customers find the smart lock easy to use, particularly through fingerprint recognition, and appreciate its security features, with one customer noting its secure multi-bolt system. The installation process is straightforward, and they like its appearance, with one mentioning it adds a wow factor to their house. Moreover, they value its versatility with multiple access methods and find it useful for home and office settings. However, the battery life receives mixed reviews, with some reporting good performance while others mention the battery going dead within a year. Additionally, opinions on value for money are divided, with some finding it worth the price while others consider it not worth buying.",
   "aspects": [
     {
-      "name": "Functionality",
-      "count": "105"
+      "name": "Installation",
+      "count": "61"
     },
     {
-      "name": "Installation",
+      "name": "Ease of use",
       "count": "59"
     },
     {
@@ -23,12 +23,12 @@
       "count": "29"
     },
     {
-      "name": "Value for money",
-      "count": "83"
+      "name": "Convenience",
+      "count": "28"
     },
     {
-      "name": "Build quality",
-      "count": "29"
+      "name": "Value for money",
+      "count": "84"
     },
     {
       "name": "Battery life",

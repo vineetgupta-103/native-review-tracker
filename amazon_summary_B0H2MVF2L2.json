@@ -1,21 +1,25 @@
 {
-  "scraped": "2026-09-23",
-  "customers_say": "Customers find the smart lock to be a top-tier security solution with impressive build quality and features that are useful for the whole family. They appreciate its user-friendly app, clean appearance that looks like a simple door handle, and consider it worth the money. Installation takes time according to some customers.",
+  "scraped": "2026-09-24",
+  "customers_say": "Customers find the door lock easy to operate with a user-friendly app, and appreciate its impressive build quality and top-tier security features. They like its appearance, noting it looks like a simple door handle, and one customer mentions the mocha finish matches perfectly with their main door. The lock functions well, with one customer highlighting its quick face unlock capability, and customers consider it a good value for money.",
   "aspects": [
     {
-      "name": "Functionality",
-      "count": "56"
+      "name": "Features",
+      "count": "17"
     },
     {
-      "name": "Features",
-      "count": "15"
+      "name": "Functionality",
+      "count": "16"
     },
     {
       "name": "Ease of use",
-      "count": "14"
+      "count": "15"
     },
     {
       "name": "Build quality",
+      "count": "11"
+    },
+    {
+      "name": "Installation",
       "count": "10"
     },
     {
@@ -28,11 +32,7 @@
     },
     {
       "name": "Value for money",
-      "count": "18"
-    },
-    {
-      "name": "Installation",
-      "count": "9"
+      "count": "19"
     }
   ],
   "reviews": [
@@ -45,20 +45,20 @@
       "body": "This product is good but it has a major design flaw. None of my guests able to open the door when they leave the home. I always have to open the door if the visitor is new. Opening door from the inside is non intuitive, hidden behind the handle and very confusing. Nobody still today able to open the door in the first time without asking us to open the door for them. I think I have been using it for 3 months now and still finding a smart one who can open the door in first trial. May be I sound like too dramatic and making it a big deal on small issue. Another issue if you're are right handed an"
     },
     {
-      "author": "Tinu S.",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-09-16",
-      "date_label": "16 September 2026",
-      "body": "I’m pleased with the Urban Company Native Lock. It feels secure, the controls are easy to use, and its features are useful for the whole family. The camera could use some improvement, but overall it has been a good experience. A special thank-you to Aakruti for following up, checking that the functions were working properly, and making sure we were comfortable using the lock. I appreciate her attentive service and she bought me to give this review looks good"
-    },
-    {
       "author": "Rachna",
       "rating": 5.0,
       "title": "Very happy with the purchase",
       "date": "2026-09-16",
       "date_label": "16 September 2026",
       "body": "Best in the lock category.. really happy with the security of the lock and after sale service by Urban Clap. Go ahead and buy… its one time investment ✨"
+    },
+    {
+      "author": "KAUSHIK CHATTERJEE",
+      "rating": 5.0,
+      "title": "Excellent Premium Digital Lock",
+      "date": "2026-09-04",
+      "date_label": "4 September 2026",
+      "body": "Excellent product experience, very good installation and service, product seems to be good. Has so many features.. Installation person was very professional did an excellent job and explained every feature in detail.. App is working seamlessly. Like the product"
     },
     {
       "author": "Raj",
@@ -69,12 +69,12 @@
       "body": "Very happy with my purchase! The mocha finish matches perfectly with our main door, and the lock has some great features that make it convenient and easy to use. Overall, very satisfied with the product."
     },
     {
-      "author": "shivaditya",
+      "author": "abhishek ghadigaonkar",
       "rating": 5.0,
-      "title": "Solid smart lock — exactly what I needed",
-      "date": "2026-08-07",
-      "date_label": "7 August 2026",
-      "body": "Solid smart lock — exactly what I needed Bought the Native Lock Ultra about three weeks ago and I'm genuinely impressed. The build quality feels premium; heavy-duty and solid, nothing like the flimsy locks I've tried before. The auto-lock feature is my favourite — I no longer have to second-guess whether I locked the door before leaving. The app connectivity is smooth and the fingerprint sensor responds quickly. Battery life seems excellent so far, with no signs of draining fast. The keypad backlight is a nice touch for night use. Overall, great value for the price."
+      "title": "Everyone should buy",
+      "date": "2026-08-11",
+      "date_label": "11 August 2026",
+      "body": "Very modern product with modern features. Complete safety, and very easy to use. Loved the product very much. Thank you"
     }
   ]
 }

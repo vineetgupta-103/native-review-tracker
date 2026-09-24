@@ -1,18 +1,14 @@
 {
-  "scraped": "2026-09-23",
-  "customers_say": "Customers find the water purifier to be among the best in the market, appreciating its unmatched pricing and performance that works without errors. They like its appearance, with one customer noting the modern touch panel with LED indicators, and its water quality features, including clear filter status updates. However, several customers report reliability issues, with the purifier stopping working within one month of use.",
+  "scraped": "2026-09-24",
+  "customers_say": "Customers find the water purifier to be worth the money and appreciate its performance, installation, and taste. The water quality receives positive feedback, with the app clearly showing water quality and filter status, and one customer noting TDS levels below 100. Customers like the appearance, with one highlighting the modern touch panel with LED indicators, and they value the 2-year hassle-free service. However, reliability is a concern, with multiple customers reporting that their units stopped working within one month.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "1.1K"
-    },
-    {
       "name": "Value for money",
-      "count": "245"
+      "count": "246"
     },
     {
       "name": "Performance",
-      "count": "179"
+      "count": "180"
     },
     {
       "name": "Installation",
@@ -20,19 +16,23 @@
     },
     {
       "name": "Water taste",
-      "count": "100"
+      "count": "102"
     },
     {
       "name": "Water quality",
-      "count": "96"
+      "count": "98"
     },
     {
       "name": "Appearance",
       "count": "76"
     },
     {
+      "name": "Service",
+      "count": "69"
+    },
+    {
       "name": "Reliability",
-      "count": "74"
+      "count": "79"
     }
   ],
   "reviews": [
@@ -45,12 +45,20 @@
       "body": "Really happy with my experience with the Urban Company Native M2 Pro. The product looks premium, works smoothly, and the performance has been excellent so far. The water quality is good, and the overall experience has been hassle-free. The installation and service were also handled professionally. Great product for the price, and I’m satisfied with my purchase. Highly recommended! 👍"
     },
     {
-      "author": "Suraj Sinha",
+      "author": "Gaurav Teckchandani",
       "rating": 5.0,
-      "title": "Go for it!!!",
-      "date": "2026-09-17",
-      "date_label": "17 September 2026",
-      "body": "Fully satisfied with RO. Writing this review after 6 months of usage. Touch button is very responsive. Water taste has not changed. No issues observed so far."
+      "title": "Value for money",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Very good water purifier and value for money"
+    },
+    {
+      "author": "Nandan kumar",
+      "rating": 5.0,
+      "title": "Service and easy way to handle",
+      "date": "2026-09-16",
+      "date_label": "16 September 2026",
+      "body": "These product is great. Water quality is very good. Service is excellent. Installation was very quick. It's very easy to track everything because everything is visible in the app."
     },
     {
       "author": "Amazon Customer",
@@ -61,20 +69,12 @@
       "body": "⭐⭐⭐⭐⭐ Excellent Water Purifier – Native M2 Pro I am using the Native M2 Pro with municipal water having around 320 TDS, and I am very satisfied with its purification performance. The water quality and taste after purification are very good. What I particularly like is the real-time monitoring of the purification process and the ability to check the health status of the purifier. The app also provides convenient filter-status monitoring, warranty-period details, and other important information—all in one place. The smart monitoring features make it easy to keep track of the purifier’s performan"
     },
     {
-      "author": "Jatinder Singh",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "Look is great, finishing touch in installation and water quality is perfect.",
-      "date": "2026-08-30",
-      "date_label": "30 August 2026",
-      "body": "It's really so good look of the product and water quality is perfect and installation was so quick as i accept, overall everything is great about the product ☺️ thank you Native...."
-    },
-    {
-      "author": "Pro Customer",
-      "rating": 4.0,
-      "title": "its good in every aspect other that wifi issue",
-      "date": "2026-08-25",
-      "date_label": "25 August 2026",
-      "body": "been using it since a week great service by urban as and quick installation as well its a nice fun purifier which lets you allow to monitor your ro with app and nice modern touch buttons one thing only which i didnt like was i have to connect my wifi multiple times its beena. week and it got unsyncef with wifi twice maybe due to power cut or some other reason anyways its storing 7litre of water instead of 8 idk why, then filteration is fine water tastes fine if u are coming from tap water i personally got used it fast so that was okay and yea 4 star just bcoz wifi issue hopefully it doesnt bec"
+      "title": "Excellent Delivery, Professional Installation & Great Service",
+      "date": "2026-08-28",
+      "date_label": "28 August 2026",
+      "body": "Fast delivery and good packaging. The installation was done professionally by the technician on the scheduled day without any waiting. The technician was professional and explained the installation properly. The RO is working perfectly and I am satisfied with the overall service."
     }
   ]
 }

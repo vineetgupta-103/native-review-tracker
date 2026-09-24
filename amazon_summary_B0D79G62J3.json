@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-23",
+  "scraped": "2026-09-24",
   "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting a noticeable improvement, and they appreciate the professional service. While some customers consider it worth the price, others express concerns about value for money. The reliability and water taste receive mixed reviews, with some reporting it works perfectly while others say it stops working, and some find the taste excellent while others disagree.",
   "aspects": [
     {
@@ -12,23 +12,23 @@
     },
     {
       "name": "Appearance",
-      "count": "201"
+      "count": "202"
     },
     {
       "name": "Water quality",
-      "count": "168"
+      "count": "169"
     },
     {
       "name": "Service",
-      "count": "141"
+      "count": "142"
     },
     {
       "name": "Value for money",
-      "count": "503"
+      "count": "504"
     },
     {
       "name": "Reliability",
-      "count": "291"
+      "count": "292"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "ghanshyam",
+      "rating": 5.0,
+      "title": "One of the best purifier",
+      "date": "2026-09-21",
+      "date_label": "21 September 2026",
+      "body": "Till now its working fine..Installation was smooth and on time."
+    },
     {
       "author": "Sohil Sundaram",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-09-15",
       "date_label": "15 September 2026",
       "body": "The best budget RO, Love the product"
-    },
-    {
-      "author": "Manbir Sidhu",
-      "rating": 5.0,
-      "title": "Excellent product!",
-      "date": "2026-09-13",
-      "date_label": "13 September 2026",
-      "body": "So far its been excellent and no issues. Time will tell how this will perform."
     }
   ]
 }

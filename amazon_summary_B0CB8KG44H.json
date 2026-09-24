@@ -1,7 +1,11 @@
 {
-  "scraped": "2026-09-23",
-  "customers_say": "Customers like the water purifier's taste and find it easy to use with smooth operation. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as filters break within 6 months, and there are issues with continuous leakage from the machine. Moreover, customers report high water wastage, with one mentioning it takes 20 liters to produce 8 liters of purified water. Additionally, reliability and service receive mixed feedback, with some customers reporting the purifier stops working and experiencing bad service.",
+  "scraped": "2026-09-24",
+  "customers_say": "Customers find the water purifier excellent in quality and appreciate its taste, with one mentioning the ability to adjust it. The product is easy to use and provides good water quality, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with leakage, with water continuously leaking out. Moreover, reliability and service receive mixed feedback, with some reporting excellent working performance while others say it stops working, and some praising quick customer care while others report bad service.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "2.8K"
+    },
     {
       "name": "Water taste",
       "count": "208"
@@ -12,11 +16,11 @@
     },
     {
       "name": "Water quality",
-      "count": "140"
+      "count": "141"
     },
     {
       "name": "Reliability",
-      "count": "566"
+      "count": "565"
     },
     {
       "name": "Service",
@@ -29,10 +33,6 @@
     {
       "name": "Leakage",
       "count": "106"
-    },
-    {
-      "name": "Water wastage",
-      "count": "103"
     }
   ],
   "reviews": [
@@ -43,14 +43,6 @@
       "date": "2026-09-19",
       "date_label": "19 September 2026",
       "body": "As for the product itself, it works wonderfully, the water taste is crisp and clean, and the installation process was smooth."
-    },
-    {
-      "author": "Parani Dhasarathan",
-      "rating": 5.0,
-      "title": "Kent Supreme plus alkaline copper model review",
-      "date": "2026-09-19",
-      "date_label": "19 September 2026",
-      "body": "This is very good product working as expected. I have checked TDS level which is around 50 to 55. Also checked PH level which is getting 8 to 8.5ph. This is worth for money which I spent"
     },
     {
       "author": "Chirra ashok",
@@ -75,6 +67,14 @@
       "date": "2026-09-19",
       "date_label": "19 September 2026",
       "body": "Received in good condition and installation went very smoothly and representatives also very good."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Nice",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Nice working and installation also good"
     }
   ]
 }
