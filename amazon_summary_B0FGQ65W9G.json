@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-24",
-  "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation, functionality, and appearance. They appreciate its ease of use and consider it worth the price, while also praising the customer service.",
+  "scraped": "2026-09-27",
+  "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation and functionality. They appreciate its appearance and consider it worth the price, while also praising the customer service.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "71"
+      "count": "72"
     },
     {
       "name": "Installation",
@@ -23,15 +23,27 @@
       "count": "7"
     },
     {
-      "name": "Ease of use",
-      "count": "7"
-    },
-    {
       "name": "Customer service",
       "count": "6"
     }
   ],
   "reviews": [
+    {
+      "author": "manish mohan sharma",
+      "rating": 5.0,
+      "title": "Security uncompromised",
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Very good lock!"
+    },
+    {
+      "author": "GS",
+      "rating": 1.0,
+      "title": "Useless product",
+      "date": "2026-09-01",
+      "date_label": "1 September 2026",
+      "body": "Very disappointed. Lock kept getting stuck. We had to open with keys. One day the sky also stopped working. Godrej people refused to take any responsibility and we had to cut our door to open it"
+    },
     {
       "author": "Manju Chaturvedi",
       "rating": 5.0,
@@ -55,22 +67,6 @@
       "date": "2026-08-18",
       "date_label": "18 August 2026",
       "body": "Good"
-    },
-    {
-      "author": "Ram",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-06-23",
-      "date_label": "23 June 2026",
-      "body": "Excellent product"
-    },
-    {
-      "author": "Raja Guru",
-      "rating": 5.0,
-      "title": "Godrej Digital lock",
-      "date": "2025-11-13",
-      "date_label": "13 November 2025",
-      "body": "It’s working good , and the customer service also available at any time, with in 3 working days they will come and solve the problems, It’s safe and secure for home main door, recommend to buy this digital lock.."
     }
   ]
 }

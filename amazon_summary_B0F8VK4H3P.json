@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-24",
-  "customers_say": "Customers find the door lock to be of premium quality, with great looks, smooth installation process, and many features including fingerprint and passcode entry options. They appreciate its convenience and good customer service support. The functionality receives mixed reviews - while some say it works well, others report issues with the front lock not working and the fingerprint scanner stopping unexpectedly. Additionally, connectivity is a concern, with multiple customers reporting no WiFi connectivity.",
+  "scraped": "2026-09-27",
+  "customers_say": "Customers find the door lock to be a premium product with many features, including fingerprint and passcode entry options, and appreciate its appearance and handy convenience. The installation process is smoothly done, and they like its functionality, though some report issues with the front lock not working and the fingerprint scanner stopping unexpectedly. The connectivity receives mixed feedback, with several customers reporting no wifi connectivity issues.",
   "aspects": [
     {
       "name": "Quality",
@@ -23,12 +23,12 @@
       "count": "8"
     },
     {
-      "name": "Customer service",
-      "count": "8"
-    },
-    {
       "name": "Functionality",
       "count": "43"
+    },
+    {
+      "name": "Value for money",
+      "count": "22"
     },
     {
       "name": "Connectivity",

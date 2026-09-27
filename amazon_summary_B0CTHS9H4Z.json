@@ -1,22 +1,14 @@
 {
-  "scraped": "2026-09-24",
-  "customers_say": "Customers find the smart lock to be of excellent quality and worth its price, with reliable performance and straightforward installation. They appreciate its ease of use, comprehensive features, and security, with one customer highlighting the anti-pry/tamper alarm as an added security feature. They also value its convenience, with one noting the camera's usefulness.",
+  "scraped": "2026-09-27",
+  "customers_say": "Customers find the smart lock to be of excellent quality, with straightforward installation and easy operation. They appreciate its comprehensive features and security, with one customer noting the anti-pry/tamper alarm, and they like its stylish appearance. However, the battery life receives negative feedback, with customers reporting very short duration.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "132"
-    },
-    {
-      "name": "Value for money",
-      "count": "40"
-    },
-    {
-      "name": "Reliability",
-      "count": "38"
+      "count": "135"
     },
     {
       "name": "Installation",
-      "count": "34"
+      "count": "35"
     },
     {
       "name": "Ease of use",
@@ -24,18 +16,50 @@
     },
     {
       "name": "Features",
-      "count": "22"
+      "count": "24"
     },
     {
       "name": "Security",
-      "count": "18"
+      "count": "21"
     },
     {
       "name": "Convenience",
+      "count": "16"
+    },
+    {
+      "name": "Appearance",
       "count": "15"
+    },
+    {
+      "name": "Battery life",
+      "count": "7"
     }
   ],
   "reviews": [
+    {
+      "author": "Rajeev Nair",
+      "rating": 5.0,
+      "title": "Great digital lock solution",
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Really great performance. Works really well for us. Quick installation and exhaustive features. Speak appearance. Finger recognition works smooth. Secure solution."
+    },
+    {
+      "author": "Prakash T",
+      "rating": 1.0,
+      "title": "Worst product and customer support",
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Can’t give Zero start that’s why selected 1 star it’s not worthy for single star They don’t have team for installation No one is answering the support call Don’t buy this product , Will suffer a lot"
+    },
+    {
+      "author": "shubha",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "body": "The features are very good and price is reasonable"
+    },
     {
       "author": "helloakrt",
       "rating": 5.0,
@@ -45,36 +69,12 @@
       "body": "I been using the LAVNA smart lock and my experience has been very good so far. The build quality feels premium, installation was smooth, and the lock works reliably. Fingerprint unlocking is quick and convenient, making everyday use much easier. Overall, I’m satisfied with the product and would recommend it to anyone looking for a good smart lock for their home."
     },
     {
-      "author": "srikanth allena",
+      "author": "Yogesh temkar",
       "rating": 5.0,
-      "title": "LA44 is very secure",
-      "date": "2026-09-08",
-      "date_label": "8 September 2026",
-      "body": "⭐⭐⭐⭐⭐ Very happy with the Lavna LA44 I recently purchased the Lavna LA44 smart lock and so far I’m really happy with it. The lock looks premium and feels very solid and well-built. The installation and setup were pretty straightforward. I really like the fingerprint feature — it works quickly and makes it so much more convenient than carrying a key around. The lock has been working smoothly, and I haven’t faced any issues so far. What I like most is the combination of security, convenience, and the overall look of the lock. It feels like a good upgrade for the home and is definitely worth the "
-    },
-    {
-      "author": "Najmunnisa",
-      "rating": 5.0,
-      "title": "Lock was good job",
-      "date": "2026-09-04",
-      "date_label": "4 September 2026",
-      "body": "Excellent service . good camara and good service"
-    },
-    {
-      "author": "Old Delhi Bazaar",
-      "rating": 5.0,
-      "title": "Perfect lock at a very reasonable price",
-      "date": "2026-09-01",
-      "date_label": "1 September 2026",
-      "body": "Perfect lock. Safe and sturdy. Zero complaints for over one year of use. Highly recommended."
-    },
-    {
-      "author": "Babu",
-      "rating": 5.0,
-      "title": "Lavna smart lock",
-      "date": "2026-09-01",
-      "date_label": "1 September 2026",
-      "body": "I purchased this Lavna smart lock for my new house main door, it's an excellent lock with various modes of keyless unlock and highly safe"
+      "title": "Quality",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Great smart lock with great customer service."
     }
   ]
 }

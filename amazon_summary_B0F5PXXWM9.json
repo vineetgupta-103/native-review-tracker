@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-24",
+  "scraped": "2026-09-27",
   "customers_say": "Customers find the water purification unit to be of good quality, with effective multi-stage purification that removes dissolved impurities and produces clean, pure water that tastes good. The product is budget-friendly, easy to use, and works well, with one customer noting it can clear muddy water to less than 20 PPM. However, opinions about customer service are mixed, with some praising the prompt service while others report very bad customer care and after-sales service.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Reliability",
-      "count": "907"
+      "count": "948"
     },
     {
       "name": "Value for money",
-      "count": "850"
+      "count": "856"
     },
     {
       "name": "Water taste",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Water quality",
-      "count": "160"
+      "count": "161"
     },
     {
       "name": "Ease of use",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Filtration",
-      "count": "129"
+      "count": "130"
     },
     {
       "name": "Service",
@@ -37,12 +37,20 @@
   ],
   "reviews": [
     {
-      "author": "Sandeep Nongkynrih",
-      "rating": 5.0,
+      "author": "Placeholder",
+      "rating": 4.0,
       "title": "Review",
-      "date": "2026-09-17",
-      "date_label": "17 September 2026",
-      "body": "It's a water purifier. It purifies water. I don't know what else to say, it's not like I have an in home lab to test how well it purifies the water. But I keep getting calls to leave a review, so I guess I'm leaving a review to stop getting calls. I like the way it looks, nice and sleek. But I wish it had some sort of quantifiable water level indicator. But these are just subjective opinions about aspects of the purifier that don't really matter. The only thing that matters is how well it purifies water. And like I said, I can't know for sure, but it's aquaguard, so I assume it does the job we"
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Good product at affordable price, installed last week. ( Will be giving a final feedback after 6 months ). Thanks for timely delivery and installation"
+    },
+    {
+      "author": "Ajay Ravichandran",
+      "rating": 4.0,
+      "title": "Good Product at this price rang",
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Good"
     },
     {
       "author": "suman J",
@@ -67,14 +75,6 @@
       "date": "2026-08-28",
       "date_label": "28 August 2026",
       "body": "The water purifier itself seems good, but I had a disappointing experience with the installation technician. The technician showed me a TDS meter reading of 900+ ppm and recommended that I purchase an additional pre-filter. I declined because a pre-filter is primarily meant to remove suspended particles/impurities and does not reduce TDS. What concerned me more was that the technician did not check the TDS of the purified water after installation. He also told me that the filter warranty was only 1 year. I specifically chose this model because it was advertised with a 2-year filter warranty, s"
-    },
-    {
-      "author": "Balajee Bhardwaj",
-      "rating": 4.0,
-      "title": "Good performance and great water taste",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "Good water purifier that gets the job done. The filtration works great—it brought down the TDS effectively, and the water tastes fresh and clean with no chemical odor. The build quality is compact and fits nicely in the kitchen without taking up too much space. Water wastage is also relatively lower compared to standard RO models. Deducting one star only because the dispensing flow could be slightly faster and installation took a couple of days to schedule. Overall, reliable value for money."
     }
   ]
 }

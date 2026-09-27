@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-24",
-  "customers_say": "Customers find the digital lock to be a good home security solution with feature-rich capabilities, and they appreciate its ease of use. The installation and service receive positive feedback, with one customer noting the service person's politeness. While the functionality and value for money receive mixed reviews, with some saying it works well and is good for the price, others report issues with camera and fingerprint functionality and find it overpriced.",
+  "scraped": "2026-09-27",
+  "customers_say": "Customers find the digital lock to be a good home security solution with feature-rich capabilities, and they appreciate its ease of use. The installation and service receive positive feedback, with one customer noting the service person's politeness. While some customers consider it good value for the price, others find it very costly. The functionality receives mixed reviews, with some customers reporting it works well while others experience issues.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "102"
+      "count": "104"
     },
     {
       "name": "Installation",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Features",
-      "count": "12"
+      "count": "13"
     },
     {
       "name": "Service",
@@ -27,11 +27,11 @@
       "count": "10"
     },
     {
-      "name": "Functionality",
-      "count": "15"
+      "name": "Value for money",
+      "count": "16"
     },
     {
-      "name": "Value for money",
+      "name": "Functionality",
       "count": "15"
     }
   ],

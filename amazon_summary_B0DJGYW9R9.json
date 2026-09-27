@@ -1,18 +1,14 @@
 {
-  "scraped": "2026-09-24",
-  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. The product offers multiple unlocking options and customers like its appearance, adding a modern touch to their doors. While the app interface is good and easy to use, some customers report a terrible experience with the app.",
+  "scraped": "2026-09-27",
+  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. The lock offers multiple unlocking options and has a modern appearance that adds to its appeal, while customers find it easy to use and well-built. The user experience receives mixed feedback, with some customers describing it as a great experience while others find the app terrible.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "63"
+      "count": "64"
     },
     {
       "name": "Reliability",
-      "count": "53"
-    },
-    {
-      "name": "Value for money",
-      "count": "33"
+      "count": "54"
     },
     {
       "name": "Security",
@@ -20,7 +16,7 @@
     },
     {
       "name": "Ease of use",
-      "count": "25"
+      "count": "24"
     },
     {
       "name": "Features",
@@ -31,11 +27,39 @@
       "count": "21"
     },
     {
+      "name": "Build quality",
+      "count": "13"
+    },
+    {
       "name": "User experience",
       "count": "18"
     }
   ],
   "reviews": [
+    {
+      "author": "M N Raghava",
+      "rating": 5.0,
+      "title": "No duplicate key maintenance",
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Very satisfied with this smart lock :-)"
+    },
+    {
+      "author": "Az user",
+      "rating": 5.0,
+      "title": "Robust and reliable",
+      "date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "body": "Got the Urban Company Native Lock Pro installed recently and so far, I’m really happy with it. The lock is quite responsive and feels solid and robust. The technician visited the very next day after the lock was delivered and completed the installation in less than an hour. The app is also simple and easy to use, which makes the overall experience quite smooth. Hopefully, it continues to perform this well in the long run. 9/10 for me so far."
+    },
+    {
+      "author": "Nidhi gupta",
+      "rating": 5.0,
+      "title": "Excellent",
+      "date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "body": "Very good product 👍 Value for money."
+    },
     {
       "author": "Sree",
       "rating": 1.0,
@@ -45,36 +69,12 @@
       "body": "Installation support is poor ( was scheduled twice and no show for both occasions ) and finally had to return the item. Item build quality is okay. It runs on AA batteries. Customer support is responsive, but unable to handle their installation partners effectively."
     },
     {
-      "author": "SOURAV SHARMA",
-      "rating": 5.0,
-      "title": "NATIVE LOCK PRO",
-      "date": "2026-09-04",
-      "date_label": "4 September 2026",
-      "body": "Good product sturdy and having simple interface, Mr. Arjun installation person has full knowledge and experience.. Great experience for us."
-    },
-    {
-      "author": "Asit kumar Subudhi",
-      "rating": 5.0,
-      "title": "Thank you UC and Amazon for this amazing Door lock.",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "A must buy product. Fully satisfied. Easy to install and use. Provides full security to your entry and also easyvto control the access through app. A value for money product. A little bit desatisfied with the delay in installation bur rest okay."
-    },
-    {
       "author": "Amazon Customer",
       "rating": 5.0,
       "title": "Professional technician",
       "date": "2026-08-16",
       "date_label": "16 August 2026",
       "body": "Great experience with the Urban Company Native lock installation. The technician was extremely professional, skilled, and handled the door fitting with neat precision. He also took the time to explain how the smart lock functions, set up the app, and cleared all the drilling mess after finishing the job. 5/5 stars!"
-    },
-    {
-      "author": "Vansh",
-      "rating": 5.0,
-      "title": "Amazing Lock",
-      "date": "2026-08-12",
-      "date_label": "12 August 2026",
-      "body": "The lock is really amazing, looks, built quality, durability and the its heavy duty. I switched from previous old type of normal hand locks which gets loose after few months of usage then after watching so many locks and their reviews i come up with Native Lock pro, the lock delivered next day and the lock is really good. Installation was also quite fast he took the old lock and fitted the new lock. All features are really useful but bell link technology is next level, its very fast and shows notifications in just few seconds with pictures of the person who rang the bell. Overall im glad to bu"
     }
   ]
 }

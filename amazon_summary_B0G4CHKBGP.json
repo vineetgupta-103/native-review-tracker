@@ -1,30 +1,30 @@
 {
-  "scraped": "2026-09-24",
+  "scraped": "2026-09-27",
   "customers_say": "Customers find the water purifier to be worth the money and appreciate its performance, installation, and taste. The water quality receives positive feedback, with the app clearly showing water quality and filter status, and one customer noting TDS levels below 100. Customers like the appearance, with one highlighting the modern touch panel with LED indicators, and they value the 2-year hassle-free service. However, reliability is a concern, with multiple customers reporting that their units stopped working within one month.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "246"
+      "count": "249"
     },
     {
       "name": "Performance",
-      "count": "180"
+      "count": "182"
     },
     {
       "name": "Installation",
-      "count": "156"
-    },
-    {
-      "name": "Water taste",
-      "count": "102"
+      "count": "158"
     },
     {
       "name": "Water quality",
-      "count": "98"
+      "count": "107"
+    },
+    {
+      "name": "Water taste",
+      "count": "106"
     },
     {
       "name": "Appearance",
-      "count": "76"
+      "count": "77"
     },
     {
       "name": "Service",
@@ -32,10 +32,34 @@
     },
     {
       "name": "Reliability",
-      "count": "79"
+      "count": "84"
     }
   ],
   "reviews": [
+    {
+      "author": "Madhan",
+      "rating": 4.0,
+      "title": "Not superb for this price, water taste is good for me",
+      "date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "body": "I like the product and water also tastes good. Still few issues are there on build and software. 1. Tray build is not good which is already broken for me in a month 2. Software bugs, if you are in offline water consumption level is not tracking. 3. Same as everyone touch is not working. Might need a larger touch sensitivity area so that it can register easily These issues can be adjustable, but overall it's a good purifier as of now 😂"
+    },
+    {
+      "author": "Rakesh Kumar",
+      "rating": 5.0,
+      "title": "Valuable",
+      "date": "2026-09-22",
+      "date_label": "22 September 2026",
+      "body": "Good product and quality is also good"
+    },
+    {
+      "author": "Vag",
+      "rating": 5.0,
+      "title": "Water taste good and quality tds level within limits",
+      "date": "2026-09-21",
+      "date_label": "21 September 2026",
+      "body": "Installation went very well.Urban clap person worked professionally. Overall I am satisfied."
+    },
     {
       "author": "Siba Prasad Mohanty",
       "rating": 5.0,
@@ -45,36 +69,12 @@
       "body": "Really happy with my experience with the Urban Company Native M2 Pro. The product looks premium, works smoothly, and the performance has been excellent so far. The water quality is good, and the overall experience has been hassle-free. The installation and service were also handled professionally. Great product for the price, and I’m satisfied with my purchase. Highly recommended! 👍"
     },
     {
-      "author": "Gaurav Teckchandani",
-      "rating": 5.0,
-      "title": "Value for money",
-      "date": "2026-09-18",
-      "date_label": "18 September 2026",
-      "body": "Very good water purifier and value for money"
-    },
-    {
       "author": "Nandan kumar",
       "rating": 5.0,
       "title": "Service and easy way to handle",
       "date": "2026-09-16",
       "date_label": "16 September 2026",
       "body": "These product is great. Water quality is very good. Service is excellent. Installation was very quick. It's very easy to track everything because everything is visible in the app."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Excellent Water Purifier",
-      "date": "2026-09-12",
-      "date_label": "12 September 2026",
-      "body": "⭐⭐⭐⭐⭐ Excellent Water Purifier – Native M2 Pro I am using the Native M2 Pro with municipal water having around 320 TDS, and I am very satisfied with its purification performance. The water quality and taste after purification are very good. What I particularly like is the real-time monitoring of the purification process and the ability to check the health status of the purifier. The app also provides convenient filter-status monitoring, warranty-period details, and other important information—all in one place. The smart monitoring features make it easy to keep track of the purifier’s performan"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Excellent Delivery, Professional Installation & Great Service",
-      "date": "2026-08-28",
-      "date_label": "28 August 2026",
-      "body": "Fast delivery and good packaging. The installation was done professionally by the technician on the scheduled day without any waiting. The technician was professional and explained the installation properly. The RO is working perfectly and I am satisfied with the overall service."
     }
   ]
 }

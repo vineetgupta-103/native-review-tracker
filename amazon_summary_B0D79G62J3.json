@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-24",
-  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting a noticeable improvement, and they appreciate the professional service. While some customers consider it worth the price, others express concerns about value for money. The reliability and water taste receive mixed reviews, with some reporting it works perfectly while others say it stops working, and some find the taste excellent while others disagree.",
+  "scraped": "2026-09-27",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting it makes a noticeable difference, and they appreciate the professional service. While some customers consider it worth the price, others advise against purchasing it, and there are mixed opinions about its reliability and taste.",
   "aspects": [
     {
       "name": "Quality",
@@ -12,30 +12,46 @@
     },
     {
       "name": "Appearance",
-      "count": "202"
+      "count": "204"
     },
     {
       "name": "Water quality",
-      "count": "169"
+      "count": "168"
     },
     {
       "name": "Service",
-      "count": "142"
+      "count": "146"
     },
     {
       "name": "Value for money",
-      "count": "504"
+      "count": "507"
     },
     {
       "name": "Reliability",
-      "count": "292"
+      "count": "305"
     },
     {
       "name": "Water taste",
-      "count": "214"
+      "count": "216"
     }
   ],
   "reviews": [
+    {
+      "author": "A Flawed Product I recently purchased a Crompton water heater, and within 20 days, I've encountered a terrifying issue. The water connection pipes are inexplicably live, carrying an electric current. This is an extremely dangerous situation that could lead to severe injury or even death. When I contacted Crompton's technical support, their response was utterly shocking. They claimed that this was \"working as expected.\" Such a dismissive and irresponsible attitude is unacceptable, especially given the potential risks involved. I strongly advise against purchasing any Crompton products. Their disregard for customer safety is evident in this incident.",
+      "rating": 5.0,
+      "title": "Excellent Product – Native M1 Pro Water Purifier",
+      "date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "body": "I am very happy with the Native M1 Pro water purifier. The product has a sleek, modern design and delivers excellent water purification. The water tastes clean and refreshing, and the purifier is easy to use and maintain. The build quality is impressive, and it offers great value for money. Overall, a great choice for anyone looking for a reliable, efficient, and stylish water purifier for their home. Highly recommended!"
+    },
+    {
+      "author": "Ahmed Hashmi",
+      "rating": 5.0,
+      "title": "Good taste of water",
+      "date": "2026-09-22",
+      "date_label": "22 September 2026",
+      "body": "this was the best filter I ever had it instantly fills your water bottle easily and good taste of water"
+    },
     {
       "author": "ghanshyam",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-09-17",
       "date_label": "17 September 2026",
       "body": "Good to go, if we need RO for sure, if using tap water, you can choose without RO for less water wastage."
-    },
-    {
-      "author": "RAMKRISHNA GIRI",
-      "rating": 5.0,
-      "title": "The best water purifier ever",
-      "date": "2026-09-16",
-      "date_label": "16 September 2026",
-      "body": "Awesome service,excellent purification, marvellous design. Tremendous electric and water saver... Fully satisfied I must say what I was looking for I found it ...I strongly recommend everyone to get this purifier if you are planning to buy a water purifier ..... Thank you Urban company for providing a fantastic purifier ...."
-    },
-    {
-      "author": "Apeksha rathore",
-      "rating": 5.0,
-      "title": "Perfect Product",
-      "date": "2026-09-15",
-      "date_label": "15 September 2026",
-      "body": "The best budget RO, Love the product"
     }
   ]
 }

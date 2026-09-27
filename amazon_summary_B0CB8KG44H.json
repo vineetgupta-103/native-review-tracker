@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-09-24",
-  "customers_say": "Customers find the water purifier excellent in quality and appreciate its taste, with one mentioning the ability to adjust it. The product is easy to use and provides good water quality, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with leakage, with water continuously leaking out. Moreover, reliability and service receive mixed feedback, with some reporting excellent working performance while others say it stops working, and some praising quick customer care while others report bad service.",
+  "scraped": "2026-09-27",
+  "customers_say": "Customers find the water purifier excellent in quality and appreciate its taste, with one mentioning the ability to adjust it. Moreover, the device is easy to use and provides good water quality, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with leakage, with water continuously leaking out. Additionally, reliability and service receive mixed feedback, with some reporting excellent working performance while others mention the product stops working, and while service support is quick, some customers report bad service.",
   "aspects": [
     {
       "name": "Quality",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Reliability",
-      "count": "565"
+      "count": "568"
     },
     {
       "name": "Service",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Durability",
-      "count": "150"
+      "count": "151"
     },
     {
       "name": "Leakage",
@@ -53,20 +53,20 @@
       "body": "Very good product.i liked the Kent water purifier.. Good.behaviour of The agent Ranjith was very friendly and good.iam satisfied with the overall performance"
     },
     {
-      "author": "Sarath Chandra Deevi",
-      "rating": 5.0,
-      "title": "Product and service is good",
-      "date": "2026-09-19",
-      "date_label": "19 September 2026",
-      "body": "Product is good and Service is very good."
-    },
-    {
       "author": "Tirumala",
       "rating": 5.0,
       "title": "Good",
       "date": "2026-09-19",
       "date_label": "19 September 2026",
       "body": "Received in good condition and installation went very smoothly and representatives also very good."
+    },
+    {
+      "author": "Sarath Chandra Deevi",
+      "rating": 5.0,
+      "title": "Product and service is good",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Product is good and Service is very good."
     },
     {
       "author": "Amazon Customer",
