@@ -1,22 +1,18 @@
 {
-  "scraped": "2026-09-27",
-  "customers_say": "Customers find the water purification unit to be of good quality, with effective multi-stage purification that removes dissolved impurities and produces clean, pure water that tastes good. The product is budget-friendly, easy to use, and works well, with one customer noting it can clear muddy water to less than 20 PPM. However, opinions about customer service are mixed, with some praising the prompt service while others report very bad customer care and after-sales service.",
+  "scraped": "2026-09-28",
+  "customers_say": "Customers find the water purifier reliable, budget-friendly, and easy to use, with good water quality that tests clean and pure. The filtration system effectively removes dissolved impurities through its 9-stage process, and they appreciate its taste. However, the durability receives mixed reviews, with multiple customers reporting that the RO membrane fails within 6 months. Additionally, customer service experiences are mixed, with some praising the prompt service while others complain about poor after-sales support.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "3.8K"
-    },
-    {
       "name": "Reliability",
-      "count": "948"
+      "count": "951"
     },
     {
       "name": "Value for money",
-      "count": "856"
+      "count": "859"
     },
     {
       "name": "Water taste",
-      "count": "270"
+      "count": "269"
     },
     {
       "name": "Water quality",
@@ -24,18 +20,38 @@
     },
     {
       "name": "Ease of use",
-      "count": "134"
+      "count": "133"
     },
     {
       "name": "Filtration",
-      "count": "130"
+      "count": "129"
     },
     {
       "name": "Service",
-      "count": "146"
+      "count": "147"
+    },
+    {
+      "name": "Durability",
+      "count": "127"
     }
   ],
   "reviews": [
+    {
+      "author": "Chinmay",
+      "rating": 4.0,
+      "title": "Good Water Purifier",
+      "date": "2026-09-26",
+      "date_label": "26 September 2026",
+      "body": "The product doesn't have a strong body, looks are fine with all the necessary features, no fancy things like mobile app connectivity and touch sensors, just the 3 indicators, technician came on scheduled time and did his job perfectly, overall a good water purifier. one suggestion for buyers, before you buy any water purifier, test your water TDS level and then buy the relevant one, since nowadays you get all varieties, consider buying an RO purifier only if your TDS is above 300+ level or else simply buy UV+UF water purifier and save money."
+    },
+    {
+      "author": "K. Nagaraju",
+      "rating": 4.0,
+      "title": "Good Product",
+      "date": "2026-09-25",
+      "date_label": "25 September 2026",
+      "body": "Product is working fine for now. As it was only 7 days. However, the only concern thing about warranty details. Since on app it showing only 1 year. So I hope this will be cleared through customer care."
+    },
     {
       "author": "Placeholder",
       "rating": 4.0,
@@ -45,28 +61,12 @@
       "body": "Good product at affordable price, installed last week. ( Will be giving a final feedback after 6 months ). Thanks for timely delivery and installation"
     },
     {
-      "author": "Ajay Ravichandran",
+      "author": "Mukul sinha",
       "rating": 4.0,
-      "title": "Good Product at this price rang",
-      "date": "2026-09-24",
-      "date_label": "24 September 2026",
-      "body": "Good"
-    },
-    {
-      "author": "suman J",
-      "rating": 4.0,
-      "title": "Good product",
-      "date": "2026-09-16",
-      "date_label": "16 September 2026",
-      "body": "We get it installed yesterday,as of now it is working good."
-    },
-    {
-      "author": "Argha P.",
-      "rating": 4.0,
-      "title": "Good product",
-      "date": "2026-09-06",
-      "date_label": "6 September 2026",
-      "body": "The purifier is working fine. Water tastes good, the water wastage in the process of purifying seems to be of justified amount. I hv not tested the tds though, so can not comment on that."
+      "title": "A good buy with average build quality",
+      "date": "2026-09-05",
+      "date_label": "5 September 2026",
+      "body": "It’s working fine after installing a TDS controller, as the company doesn’t provide one. Although my tap water has a TDS of around 120 ppm, I purchased an RO purifier due to the presence of heavy metals. The RO reduced the TDS to 10–15 ppm, so a TDS controller was needed. However, since it bypasses some untreated water, the RO’s purpose is somewhat compromised, as some heavy metals may remain in the final water. Whole body is of plastic having build quality not as expected.Apperance is good, installation service was fast but after sale service is slow.Overall,a good buy,but let's see how it go"
     },
     {
       "author": "Helloworld",

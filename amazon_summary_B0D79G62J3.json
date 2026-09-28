@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-27",
+  "scraped": "2026-09-28",
   "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting it makes a noticeable difference, and they appreciate the professional service. While some customers consider it worth the price, others advise against purchasing it, and there are mixed opinions about its reliability and taste.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Installation",
-      "count": "326"
+      "count": "328"
     },
     {
       "name": "Appearance",
-      "count": "204"
+      "count": "206"
     },
     {
       "name": "Water quality",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Value for money",
-      "count": "507"
+      "count": "509"
     },
     {
       "name": "Reliability",
-      "count": "305"
+      "count": "308"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Karthik Reddy",
+      "rating": 4.0,
+      "title": "Great performance and good looking",
+      "date": "2026-09-25",
+      "date_label": "25 September 2026",
+      "body": "Good water purifier"
+    },
+    {
+      "author": "Shashi Prakash",
+      "rating": 5.0,
+      "title": "Superb",
+      "date": "2026-09-25",
+      "date_label": "25 September 2026",
+      "body": "Its a complete purchase without any stress."
+    },
     {
       "author": "A Flawed Product I recently purchased a Crompton water heater, and within 20 days, I've encountered a terrifying issue. The water connection pipes are inexplicably live, carrying an electric current. This is an extremely dangerous situation that could lead to severe injury or even death. When I contacted Crompton's technical support, their response was utterly shocking. They claimed that this was \"working as expected.\" Such a dismissive and irresponsible attitude is unacceptable, especially given the potential risks involved. I strongly advise against purchasing any Crompton products. Their disregard for customer safety is evident in this incident.",
       "rating": 5.0,
@@ -53,28 +69,12 @@
       "body": "this was the best filter I ever had it instantly fills your water bottle easily and good taste of water"
     },
     {
-      "author": "ghanshyam",
-      "rating": 5.0,
-      "title": "One of the best purifier",
-      "date": "2026-09-21",
-      "date_label": "21 September 2026",
-      "body": "Till now its working fine..Installation was smooth and on time."
-    },
-    {
       "author": "Sohil Sundaram",
       "rating": 5.0,
       "title": "M1 Pro - A True House Help",
       "date": "2026-09-19",
       "date_label": "19 September 2026",
       "body": "The Native M1 Pro Purifier is compact, efficient, and delivers noticeably fresher air within minutes. Its sleek design blends well with any space, and the quiet operation makes it perfect for daily use. A reliable choice for cleaner, healthier living. Outlet is also very nominal so low wastage of water."
-    },
-    {
-      "author": "Santosh Gupta",
-      "rating": 4.0,
-      "title": "Best value for money and recommend",
-      "date": "2026-09-17",
-      "date_label": "17 September 2026",
-      "body": "Good to go, if we need RO for sure, if using tap water, you can choose without RO for less water wastage."
     }
   ]
 }

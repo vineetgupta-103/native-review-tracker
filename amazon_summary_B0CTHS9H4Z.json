@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-27",
-  "customers_say": "Customers find the smart lock to be of excellent quality, with straightforward installation and easy operation. They appreciate its comprehensive features and security, with one customer noting the anti-pry/tamper alarm, and they like its stylish appearance. However, the battery life receives negative feedback, with customers reporting very short duration.",
+  "scraped": "2026-09-28",
+  "customers_say": "Customers find the smart lock to be of excellent quality, with straightforward installation and easy-to-use features. Moreover, the device provides comprehensive security features, including an anti-pry/tamper alarm, and customers appreciate its stylish appearance. Additionally, they value the support from the Lavna team and find it convenient to use.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "135"
+      "count": "138"
     },
     {
       "name": "Installation",
@@ -12,15 +12,15 @@
     },
     {
       "name": "Ease of use",
-      "count": "24"
+      "count": "25"
     },
     {
       "name": "Features",
-      "count": "24"
+      "count": "25"
     },
     {
       "name": "Security",
-      "count": "21"
+      "count": "22"
     },
     {
       "name": "Convenience",
@@ -31,11 +31,35 @@
       "count": "15"
     },
     {
-      "name": "Battery life",
-      "count": "7"
+      "name": "Support",
+      "count": "8"
     }
   ],
   "reviews": [
+    {
+      "author": "Rishabh",
+      "rating": 5.0,
+      "title": "Great and highly effective locks",
+      "date": "2026-09-25",
+      "date_label": "25 September 2026",
+      "body": "Using the lock for the last 2 years. They are easy to use, efficient and working great. Any technical issue is promptly resolved over video call and/or in-person support."
+    },
+    {
+      "author": "Atul Sharma",
+      "rating": 1.0,
+      "title": "Worst after service and product",
+      "date": "2026-09-25",
+      "date_label": "25 September 2026",
+      "body": "I really wanted to support Indian brands, so that is why I chose Lavna, and I trust that was my biggest mistake. First, for installation, they took more than two weeks. After installation, I thought my life was sorted, but not even three weeks later, the lock started causing issues. I highlighted the issue to the support team and mentioned that since it is my main door lock, if I get locked out because of a motor issue, I would need to break the door. First of all, they do not have any spare parts in any city other than Delhi, so every time, they have to ship the spare part first and then the "
+    },
+    {
+      "author": "ankit",
+      "rating": 5.0,
+      "title": "Great lock",
+      "date": "2026-09-25",
+      "date_label": "25 September 2026",
+      "body": "The lock is working perfectly fine. the team is very supportive. I talked to Jatin regarding the installation, and everything was cleared up very beautifully for me."
+    },
     {
       "author": "Rajeev Nair",
       "rating": 5.0,
@@ -45,36 +69,12 @@
       "body": "Really great performance. Works really well for us. Quick installation and exhaustive features. Speak appearance. Finger recognition works smooth. Secure solution."
     },
     {
-      "author": "Prakash T",
-      "rating": 1.0,
-      "title": "Worst product and customer support",
+      "author": "Sai",
+      "rating": 5.0,
+      "title": "Great lock and great support from Lavna team",
       "date": "2026-09-24",
       "date_label": "24 September 2026",
-      "body": "Can’t give Zero start that’s why selected 1 star it’s not worthy for single star They don’t have team for installation No one is answering the support call Don’t buy this product , Will suffer a lot"
-    },
-    {
-      "author": "shubha",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-09-23",
-      "date_label": "23 September 2026",
-      "body": "The features are very good and price is reasonable"
-    },
-    {
-      "author": "helloakrt",
-      "rating": 5.0,
-      "title": "Good Quality Smart Lock, Great Experience",
-      "date": "2026-09-21",
-      "date_label": "21 September 2026",
-      "body": "I been using the LAVNA smart lock and my experience has been very good so far. The build quality feels premium, installation was smooth, and the lock works reliably. Fingerprint unlocking is quick and convenient, making everyday use much easier. Overall, I’m satisfied with the product and would recommend it to anyone looking for a good smart lock for their home."
-    },
-    {
-      "author": "Yogesh temkar",
-      "rating": 5.0,
-      "title": "Quality",
-      "date": "2026-09-18",
-      "date_label": "18 September 2026",
-      "body": "Great smart lock with great customer service."
+      "body": "Really good smart lock! It works well and has a lot of features that can keep your house safe. The customer support is really responsive and they helped me go inside my house when the battery died, All in a simple video call! Special thanks to Jatin who handles the LA44 model support, He instructed me every step of way to reset locks, use emergency power ports, etc."
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-09-27",
-  "customers_say": "Customers find the digital lock to be a good home security solution with feature-rich capabilities, and they appreciate its ease of use. The installation and service receive positive feedback, with one customer noting the service person's politeness. While some customers consider it good value for the price, others find it very costly. The functionality receives mixed reviews, with some customers reporting it works well while others experience issues.",
+  "scraped": "2026-09-28",
+  "customers_say": "Customers find the digital lock to be a good home security solution with feature-rich functionality and easy installation. They appreciate its usability, with one customer noting it's convenient for different family members to use. The value for money receives mixed feedback, with some finding it good for the price while others consider it costly.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "104"
+      "count": "105"
     },
     {
       "name": "Installation",
-      "count": "29"
+      "count": "30"
     },
     {
       "name": "Features",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Soniya",
+      "rating": 5.0,
+      "title": "Everything was good",
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Service was good they helped and explained everything well Ramkish visvokure depo Sharma"
+    },
     {
       "author": "Saroma Hill Resorts",
       "rating": 1.0,
@@ -67,14 +75,6 @@
       "date": "2026-08-31",
       "date_label": "31 August 2026",
       "body": "I am a medium user, for me it serves the purpose well. The camera option serves well for doors without an eye piece. It need 2.4ghz wifi for functioning, and doesn't work with 5g connection. Hence, make sure u ask ur internet provider for the specified frequency. Installation went pretty smooth without any hassle, service people were well equipped and made a good job without any damage to the door. The outside handle wasn't coming back to it's original position - service person said that once u peel off the plastic wrapping on top of the camera lens it should be working fine. Since my builder "
-    },
-    {
-      "author": "Genuine Buyer - Honest Reviews Always",
-      "rating": 5.0,
-      "title": "Godrej Neo Pro View Digital Lock - Superb",
-      "date": "2026-08-29",
-      "date_label": "29 August 2026",
-      "body": "Aditya Kumar serviced very well and professional. Prompt response and very helpful. Recommended against ticket SA 52373408"
     }
   ]
 }

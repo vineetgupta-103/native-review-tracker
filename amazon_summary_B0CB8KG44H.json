@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-09-27",
+  "scraped": "2026-09-28",
   "customers_say": "Customers find the water purifier excellent in quality and appreciate its taste, with one mentioning the ability to adjust it. Moreover, the device is easy to use and provides good water quality, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with leakage, with water continuously leaking out. Additionally, reliability and service receive mixed feedback, with some reporting excellent working performance while others mention the product stops working, and while service support is quick, some customers report bad service.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Lakshmi Narayana",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-09-22",
+      "date_label": "22 September 2026",
+      "body": "Good"
+    },
+    {
       "author": "Krushna",
       "rating": 5.0,
       "title": "Good quality product",
@@ -67,14 +75,6 @@
       "date": "2026-09-19",
       "date_label": "19 September 2026",
       "body": "Product is good and Service is very good."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Nice",
-      "date": "2026-09-18",
-      "date_label": "18 September 2026",
-      "body": "Nice working and installation also good"
     }
   ]
 }
