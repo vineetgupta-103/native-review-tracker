@@ -1,14 +1,14 @@
 {
-  "scraped": "2026-09-28",
+  "scraped": "2026-10-01",
   "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. The lock offers multiple unlocking options and has a modern appearance that adds to its appeal, while customers find it easy to use and well-built. The user experience receives mixed feedback, with some customers describing it as a great experience while others find the app terrible.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "64"
+      "count": "66"
     },
     {
       "name": "Reliability",
-      "count": "54"
+      "count": "56"
     },
     {
       "name": "Security",
@@ -32,17 +32,17 @@
     },
     {
       "name": "User experience",
-      "count": "18"
+      "count": "17"
     }
   ],
   "reviews": [
     {
-      "author": "M N Raghava",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "No duplicate key maintenance",
-      "date": "2026-09-24",
-      "date_label": "24 September 2026",
-      "body": "Very satisfied with this smart lock :-)"
+      "title": "Great smart lock",
+      "date": "2026-09-28",
+      "date_label": "28 September 2026",
+      "body": "Good product, value for money. Installation was smooth."
     },
     {
       "author": "Az user",
@@ -53,20 +53,20 @@
       "body": "Got the Urban Company Native Lock Pro installed recently and so far, I’m really happy with it. The lock is quite responsive and feels solid and robust. The technician visited the very next day after the lock was delivered and completed the installation in less than an hour. The app is also simple and easy to use, which makes the overall experience quite smooth. Hopefully, it continues to perform this well in the long run. 9/10 for me so far."
     },
     {
-      "author": "Nidhi gupta",
-      "rating": 5.0,
-      "title": "Excellent",
-      "date": "2026-09-23",
-      "date_label": "23 September 2026",
-      "body": "Very good product 👍 Value for money."
-    },
-    {
       "author": "Sree",
       "rating": 1.0,
       "title": "Installation Service - not prompt. Product returned.",
       "date": "2026-09-17",
       "date_label": "17 September 2026",
       "body": "Installation support is poor ( was scheduled twice and no show for both occasions ) and finally had to return the item. Item build quality is okay. It runs on AA batteries. Customer support is responsive, but unable to handle their installation partners effectively."
+    },
+    {
+      "author": "Asit kumar Subudhi",
+      "rating": 5.0,
+      "title": "Thank you UC and Amazon for this amazing Door lock.",
+      "date": "2026-08-21",
+      "date_label": "21 August 2026",
+      "body": "A must buy product. Fully satisfied. Easy to install and use. Provides full security to your entry and also easyvto control the access through app. A value for money product. A little bit desatisfied with the delay in installation bur rest okay."
     },
     {
       "author": "Amazon Customer",

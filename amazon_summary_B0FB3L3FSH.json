@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-09-27",
+  "scraped": "2026-10-01",
   "customers_say": "Customers find the water purifier performs well and appreciate that maintenance and service are free for the first two years. They like its appearance, taste, and ease of use, with one customer noting its premium matte finish. However, the filter life receives mixed reviews, with some customers reporting malfunction within a month. Additionally, several customers mention issues with water leakage, particularly persistent overflow from the storage tank.",
   "aspects": [
     {
       "name": "Performance",
-      "count": "70"
+      "count": "71"
     },
     {
       "name": "Value for money",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Appearance",
-      "count": "25"
+      "count": "26"
     },
     {
       "name": "Ease of use",
@@ -37,20 +37,20 @@
   ],
   "reviews": [
     {
+      "author": "S.ARIVAZHAGAN",
+      "rating": 5.0,
+      "title": "App interactive with the installation attendant each and every move",
+      "date": "2026-09-25",
+      "date_label": "25 September 2026",
+      "body": "Installation today..I will share my experience later... overall the machine performance is GOOD"
+    },
+    {
       "author": "syed.suisse",
       "rating": 5.0,
       "title": "Very good product.",
       "date": "2026-09-20",
       "date_label": "20 September 2026",
       "body": "simple, best. No app, this is what i want."
-    },
-    {
-      "author": "sandeep yadav",
-      "rating": 5.0,
-      "title": "2year unconditional warranty",
-      "date": "2026-09-02",
-      "date_label": "2 September 2026",
-      "body": "Till now it's 4 days i am using it works very well, hopes for the future..."
     },
     {
       "author": "Ravi Singh",

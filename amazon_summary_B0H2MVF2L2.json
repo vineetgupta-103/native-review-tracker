@@ -1,18 +1,22 @@
 {
-  "scraped": "2026-09-28",
-  "customers_say": "Customers find the door lock performs exactly as expected and is very easy to operate, with a user-friendly app and quick face unlocking feature. They appreciate its impressive build quality, clean appearance that looks like a simple door handle, and top-tier safety features. The lock receives positive feedback for its features and installation, though opinions on value are mixed.",
+  "scraped": "2026-10-01",
+  "customers_say": "Customers find the door lock reliable and easy to operate, with a user-friendly app and quick face unlock functionality. They appreciate its appearance, noting it looks like a simple door handle, and praise its impressive build quality and top-tier security features. The lock receives positive feedback for its features and installation, though opinions about value for money are mixed.",
   "aspects": [
     {
       "name": "Reliability",
-      "count": "19"
+      "count": "20"
     },
     {
       "name": "Ease of use",
-      "count": "17"
+      "count": "18"
     },
     {
       "name": "Features",
-      "count": "17"
+      "count": "18"
+    },
+    {
+      "name": "Appearance",
+      "count": "13"
     },
     {
       "name": "Build quality",
@@ -23,26 +27,22 @@
       "count": "11"
     },
     {
-      "name": "Appearance",
-      "count": "10"
-    },
-    {
       "name": "Security",
       "count": "9"
     },
     {
       "name": "Value for money",
-      "count": "21"
+      "count": "22"
     }
   ],
   "reviews": [
     {
-      "author": "Amazon Customer",
+      "author": "Gagan Deep",
       "rating": 5.0,
-      "title": "Recommended Product",
-      "date": "2026-09-21",
-      "date_label": "21 September 2026",
-      "body": "The Face unlock is the feature I use the most, has made my life easy AMAZING LOCK AT this price range . Highly recommended"
+      "title": "Great Smart Lock with Premium Features",
+      "date": "2026-09-26",
+      "date_label": "26 September 2026",
+      "body": "Great smart lock! Premium design, easy to use, and the app features like remote unlocking, live view and instant notifications work really well. Feels secure and premium. Happy with the purchase! Worth the price."
     },
     {
       "author": "Tamal Ghosh",
@@ -61,20 +61,20 @@
       "body": "Best in the lock category.. really happy with the security of the lock and after sale service by Urban Clap. Go ahead and buy… its one time investment ✨"
     },
     {
+      "author": "Prashant Sharma",
+      "rating": 3.0,
+      "title": "Really 3rd class app and user experience.",
+      "date": "2026-09-07",
+      "date_label": "7 September 2026",
+      "body": "The lock itself is ok. However, beware, the app they use is really 3rd class. Its slow, laggy, takes forever to connect to the lock. The app has a very poor interface also. You will need to press 3 buttons to reach the lock! And if you try and turn off sound notification, the pop ups also get auto blocked. I am on samsung fold 6. Still havent managed to figure out how to get this app to show me pop ups without sound! And there is a considerable lag in the app notification on mobile from the time someone rings the bell! Last but not least, the wifi capabilities of the lock are really sub par! I"
+    },
+    {
       "author": "KAUSHIK CHATTERJEE",
       "rating": 5.0,
       "title": "Excellent Premium Digital Lock",
       "date": "2026-09-04",
       "date_label": "4 September 2026",
       "body": "Excellent product experience, very good installation and service, product seems to be good. Has so many features.. Installation person was very professional did an excellent job and explained every feature in detail.. App is working seamlessly. Like the product"
-    },
-    {
-      "author": "Raj",
-      "rating": 5.0,
-      "title": "Great Look and Excellent Features",
-      "date": "2026-08-22",
-      "date_label": "22 August 2026",
-      "body": "Very happy with my purchase! The mocha finish matches perfectly with our main door, and the lock has some great features that make it convenient and easy to use. Overall, very satisfied with the product."
     }
   ]
 }

@@ -1,18 +1,14 @@
 {
-  "scraped": "2026-09-28",
-  "customers_say": "Customers find the water purifier reliable, budget-friendly, and easy to use, with good water quality that tests clean and pure. The filtration system effectively removes dissolved impurities through its 9-stage process, and they appreciate its taste. However, the durability receives mixed reviews, with multiple customers reporting that the RO membrane fails within 6 months. Additionally, customer service experiences are mixed, with some praising the prompt service while others complain about poor after-sales support.",
+  "scraped": "2026-10-01",
+  "customers_say": "Customers find the water purifier reliable, easy to use, and appreciate its multi-stage purification that effectively removes dissolved impurities. The taste and quality receive positive feedback, with one customer noting it can clear muddy water to less than 20 PPM. However, durability is a concern as the RO membrane fails within 6 months, and while some customers find it worth the price, others strongly advise against purchasing it. Additionally, customer service experiences are mixed, with some praising the prompt service while others report extremely bad after-sales service.",
   "aspects": [
     {
       "name": "Reliability",
-      "count": "951"
-    },
-    {
-      "name": "Value for money",
-      "count": "859"
+      "count": "950"
     },
     {
       "name": "Water taste",
-      "count": "269"
+      "count": "270"
     },
     {
       "name": "Water quality",
@@ -24,15 +20,19 @@
     },
     {
       "name": "Filtration",
-      "count": "129"
+      "count": "130"
+    },
+    {
+      "name": "Value for money",
+      "count": "867"
     },
     {
       "name": "Service",
-      "count": "147"
+      "count": "148"
     },
     {
       "name": "Durability",
-      "count": "127"
+      "count": "130"
     }
   ],
   "reviews": [

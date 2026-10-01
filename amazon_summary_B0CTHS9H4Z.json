@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-09-28",
-  "customers_say": "Customers find the smart lock to be of excellent quality, with straightforward installation and easy-to-use features. Moreover, the device provides comprehensive security features, including an anti-pry/tamper alarm, and customers appreciate its stylish appearance. Additionally, they value the support from the Lavna team and find it convenient to use.",
+  "scraped": "2026-10-01",
+  "customers_say": "Customers find the door lock reliable and easy to use, with straightforward installation and comprehensive features. They appreciate its security capabilities, with one customer noting the anti-pry/tamper alarm, and find it convenient, with one mentioning the camera's usefulness. The appearance receives positive feedback for its stylish look, though battery life is criticized for being very short, lasting only 30-45 days.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "138"
+      "name": "Reliability",
+      "count": "39"
     },
     {
       "name": "Installation",
-      "count": "35"
+      "count": "33"
     },
     {
       "name": "Ease of use",
-      "count": "25"
+      "count": "24"
     },
     {
       "name": "Features",
-      "count": "25"
+      "count": "22"
     },
     {
       "name": "Security",
-      "count": "22"
+      "count": "19"
     },
     {
       "name": "Convenience",
@@ -28,46 +28,14 @@
     },
     {
       "name": "Appearance",
-      "count": "15"
+      "count": "14"
     },
     {
-      "name": "Support",
-      "count": "8"
+      "name": "Battery life",
+      "count": "7"
     }
   ],
   "reviews": [
-    {
-      "author": "Rishabh",
-      "rating": 5.0,
-      "title": "Great and highly effective locks",
-      "date": "2026-09-25",
-      "date_label": "25 September 2026",
-      "body": "Using the lock for the last 2 years. They are easy to use, efficient and working great. Any technical issue is promptly resolved over video call and/or in-person support."
-    },
-    {
-      "author": "Atul Sharma",
-      "rating": 1.0,
-      "title": "Worst after service and product",
-      "date": "2026-09-25",
-      "date_label": "25 September 2026",
-      "body": "I really wanted to support Indian brands, so that is why I chose Lavna, and I trust that was my biggest mistake. First, for installation, they took more than two weeks. After installation, I thought my life was sorted, but not even three weeks later, the lock started causing issues. I highlighted the issue to the support team and mentioned that since it is my main door lock, if I get locked out because of a motor issue, I would need to break the door. First of all, they do not have any spare parts in any city other than Delhi, so every time, they have to ship the spare part first and then the "
-    },
-    {
-      "author": "ankit",
-      "rating": 5.0,
-      "title": "Great lock",
-      "date": "2026-09-25",
-      "date_label": "25 September 2026",
-      "body": "The lock is working perfectly fine. the team is very supportive. I talked to Jatin regarding the installation, and everything was cleared up very beautifully for me."
-    },
-    {
-      "author": "Rajeev Nair",
-      "rating": 5.0,
-      "title": "Great digital lock solution",
-      "date": "2026-09-24",
-      "date_label": "24 September 2026",
-      "body": "Really great performance. Works really well for us. Quick installation and exhaustive features. Speak appearance. Finger recognition works smooth. Secure solution."
-    },
     {
       "author": "Sai",
       "rating": 5.0,
@@ -75,6 +43,38 @@
       "date": "2026-09-24",
       "date_label": "24 September 2026",
       "body": "Really good smart lock! It works well and has a lot of features that can keep your house safe. The customer support is really responsive and they helped me go inside my house when the battery died, All in a simple video call! Special thanks to Jatin who handles the LA44 model support, He instructed me every step of way to reset locks, use emergency power ports, etc."
+    },
+    {
+      "author": "Vinoth",
+      "rating": 5.0,
+      "title": "LA44 smart lock",
+      "date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "body": "Very useful and secured"
+    },
+    {
+      "author": "srikanth allena",
+      "rating": 5.0,
+      "title": "LA44 is very secure",
+      "date": "2026-09-08",
+      "date_label": "8 September 2026",
+      "body": "⭐⭐⭐⭐⭐ Very happy with the Lavna LA44 I recently purchased the Lavna LA44 smart lock and so far I’m really happy with it. The lock looks premium and feels very solid and well-built. The installation and setup were pretty straightforward. I really like the fingerprint feature — it works quickly and makes it so much more convenient than carrying a key around. The lock has been working smoothly, and I haven’t faced any issues so far. What I like most is the combination of security, convenience, and the overall look of the lock. It feels like a good upgrade for the home and is definitely worth the "
+    },
+    {
+      "author": "Old Delhi Bazaar",
+      "rating": 5.0,
+      "title": "Perfect lock at a very reasonable price",
+      "date": "2026-09-01",
+      "date_label": "1 September 2026",
+      "body": "Perfect lock. Safe and sturdy. Zero complaints for over one year of use. Highly recommended."
+    },
+    {
+      "author": "Shishta Bhatia",
+      "rating": 5.0,
+      "title": "Customer Support",
+      "date": "2026-08-28",
+      "date_label": "28 August 2026",
+      "body": "Support team specially Mr. Jatin who was very prompt and helped me in redressal of my issues within minutes. For any good brand to establish, the Support team plays a major role, post sales. Thanks to Lavna Support team & Mr. Jatin. Keep the same spirit and continue delivering best services."
     }
   ]
 }

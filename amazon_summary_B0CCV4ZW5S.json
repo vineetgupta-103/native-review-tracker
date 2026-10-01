@@ -1,14 +1,10 @@
 {
-  "scraped": "2026-09-28",
-  "customers_say": "Customers find the smart lock to be of good quality, with positive feedback about its installation process and ease of use, particularly through fingerprint recognition. They appreciate its security features, with one customer noting its secure multi-bolt system, and its versatility with multiple access methods. While some customers consider it worth the money, others find it overpriced. The battery life receives mixed reviews, with some reporting good performance while others mention the battery going dead within a year.",
+  "scraped": "2026-10-01",
+  "customers_say": "Customers find the smart lock easy to install, with one noting it works on both single and double panel doors, and appreciate its security features, with one highlighting its secure multi-bolt system. Moreover, they value its versatility with multiple access methods and find it useful for home use, with one mentioning it's particularly convenient for elderly and children. However, the battery life and fingerprint recognition receive mixed reviews - while some find the battery life good, others report it lasting only one year, and while the fingerprint recognition is fast, some experience issues with facial recognition. The value for money receives mixed feedback, with some finding it worth the price while others consider it not worth buying.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "267"
-    },
-    {
       "name": "Installation",
-      "count": "61"
+      "count": "62"
     },
     {
       "name": "Ease of use",
@@ -28,21 +24,33 @@
     },
     {
       "name": "Value for money",
-      "count": "84"
+      "count": "83"
     },
     {
       "name": "Battery life",
       "count": "28"
+    },
+    {
+      "name": "Fingerprint recognition",
+      "count": "27"
     }
   ],
   "reviews": [
     {
-      "author": "rajiv",
+      "author": "SHRAVAN KUMAR GOUD",
+      "rating": 1.0,
+      "title": "Very Poor Product and Extremely Disappointing Customer Service",
+      "date": "2026-09-27",
+      "date_label": "27 September 2026",
+      "body": "This is a very disappointing product, and the company’s customer service is even worse. I purchased this product about one year ago, and I started facing problems within just six months. I have contacted the company several times, but they simply do not respond properly. They keep saying, “We will get back to you,” but nothing is actually done to resolve the issue. I have already shared videos and all the necessary details, but despite repeated follow-ups, the problem has still not been rectified. I am extremely disappointed with both the product and, especially, the after-sales service. In my"
+    },
+    {
+      "author": "Shakkeel U",
       "rating": 3.0,
-      "title": "SERVICE SUPPORT NEED TO IMPROVE",
-      "date": "2026-09-13",
-      "date_label": "13 September 2026",
-      "body": "LOCK OVERALL GOOD, LOCK NOT CONNECT WITH BLUTOOTH FOB KEY, NFC ALSO NOT SUPPORT FROM CUSTOMER SUPPORT TEAM, NEED WORK ON SERVICE TEAM."
+      "title": "Quality not met as expected.",
+      "date": "2026-09-21",
+      "date_label": "21 September 2026",
+      "body": "It is Ok with that price, but I am not satisfied with the quality."
     },
     {
       "author": "Kumkum sharma",
@@ -53,28 +61,20 @@
       "body": "Good quality door lock with a sturdy build. The locking mechanism works smoothly, installation was easy, and it feels secure. Overall, good value for money."
     },
     {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "Go lens x95 review",
+      "date": "2026-09-06",
+      "date_label": "6 September 2026",
+      "body": "The golens x95 smart lock is very simple and easy to use and understand. Helpful installation. Seems very sturdy. The technician- Akhilesh kumar was very helpful and made it easy to understand."
+    },
+    {
       "author": "Dr.Mumtaj khan",
       "rating": 5.0,
       "title": "Excellent security product we believe.its great security Divice",
       "date": "2026-08-21",
       "date_label": "21 August 2026",
       "body": "Write a review I am very glad with this door lock. Golens X95 excellent product worth of money.The build quality feels strong and durable, and installation was quick and straightforward. It fits my main door perfectly and adds an extra layer of security and peace of mind. The locking mechanism works smoothly, and the overall finish looks premium. It is definitely a useful product for Home /Office Nice installation Installation man Mr Sonu good man. Thank u again."
-    },
-    {
-      "author": "Prasad Katre",
-      "rating": 5.0,
-      "title": "Unboxing Experience",
-      "date": "2026-08-17",
-      "date_label": "17 August 2026",
-      "body": "Packaging & Unboxing Experience ​From the moment the package arrived, the presentation gave a strong impression of a premium product. ​Secure Protection: The outer box was sturdy with zero signs of shipping damage. Inside, high-density custom foam inserts cushioned every component—preventing any scratches or scuffs on the lock's finish. ​Neatly Organized: Everything came neatly compartmentalized. The front and rear lock bodies, mortise assembly, RFID key cards, mechanical backup keys, and installation screws were clearly labeled. ​Documentation: Includes an easy-to-read user manual and a drill"
-    },
-    {
-      "author": "SALEEM KAKKATIKARA",
-      "rating": 5.0,
-      "title": "Exelent smart lock",
-      "date": "2026-08-01",
-      "date_label": "1 August 2026",
-      "body": "use for the Golens Smart Lock X95: Title: Excellent product — 5 stars! I’m very impressed with the Golens Smart Lock X95. Installation was quick and simple, and the sleek design looks great on my door. It offers multiple access methods ( face camera fingerprint, keypad, app, and backup key), and all of them work reliably. The fingerprint reader is fast and accurate, the keypad is responsive, and the mobile app is easy to use with helpful real-time notifications and access logs. Security features are solid — encrypted communication and an alarm for unauthorized attempts give me peace of mind. A"
     }
   ]
 }
