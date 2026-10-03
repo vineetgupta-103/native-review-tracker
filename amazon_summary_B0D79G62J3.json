@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-02",
-  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, making a noticeable difference, and customers are satisfied with the service. While some customers say it's worth the price, others warn not to buy it, and there are mixed opinions about its reliability and taste.",
+  "scraped": "2026-10-03",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and premium appearance. The water quality receives positive feedback, with customers noting it makes a noticeable difference and is very pure. While some customers consider it worth the price, others warn not to waste money on it. The reliability and water taste aspects receive mixed reviews, with some reporting it stops working and others saying the water tastes excellent.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "329"
+      "count": "330"
     },
     {
       "name": "Appearance",
@@ -24,11 +24,11 @@
     },
     {
       "name": "Value for money",
-      "count": "511"
+      "count": "515"
     },
     {
       "name": "Reliability",
-      "count": "310"
+      "count": "314"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "SONU KUMAR BHASKAR",
+      "rating": 5.0,
+      "title": "Native m1",
+      "date": "2026-09-29",
+      "date_label": "29 September 2026",
+      "body": "Wonderful product with no other hidden charges, everything is covered! just sit back and relax for 2 years! really surprised by the service promptness in specified time & prompt follow up post delivery & installation felt really good..."
+    },
     {
       "author": "Ajit Anupam",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-09-28",
       "date_label": "28 September 2026",
       "body": "Great product with end to end automation and tension free maintanence."
-    },
-    {
-      "author": "Shashi Prakash",
-      "rating": 5.0,
-      "title": "Superb",
-      "date": "2026-09-25",
-      "date_label": "25 September 2026",
-      "body": "Its a complete purchase without any stress."
     },
     {
       "author": "Karthik Reddy",

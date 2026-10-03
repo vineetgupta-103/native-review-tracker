@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-10-02",
-  "customers_say": "Customers find the door lock reliable and easy to operate, with a user-friendly app and quick face unlock functionality. They appreciate its appearance, noting it looks like a simple door handle, and praise its impressive build quality and top-tier security features. The lock receives positive feedback for its features and installation, though opinions about value for money are mixed.",
+  "scraped": "2026-10-03",
+  "customers_say": "Customers find the door lock reliable, with face unlock working quickly every time, and appreciate its classy design that looks like a simple door handle. Moreover, the lock features are useful for the whole family, is easy to operate with a user-friendly app, and offers top-tier safety. Additionally, the build quality is impressive, installation is straightforward, and customers consider it worth the price.",
   "aspects": [
     {
       "name": "Reliability",
-      "count": "20"
+      "count": "21"
+    },
+    {
+      "name": "Features",
+      "count": "19"
     },
     {
       "name": "Ease of use",
       "count": "18"
     },
     {
-      "name": "Features",
-      "count": "18"
-    },
-    {
-      "name": "Appearance",
-      "count": "13"
+      "name": "Design",
+      "count": "14"
     },
     {
       "name": "Build quality",
-      "count": "11"
+      "count": "12"
     },
     {
       "name": "Installation",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Value for money",
-      "count": "22"
+      "count": "23"
     }
   ],
   "reviews": [
@@ -45,20 +45,20 @@
       "body": "Great smart lock! Premium design, easy to use, and the app features like remote unlocking, live view and instant notifications work really well. Feels secure and premium. Happy with the purchase! Worth the price."
     },
     {
+      "author": "Nishtha",
+      "rating": 5.0,
+      "title": "Better than I expected",
+      "date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "body": "I bought this lock because of the classy design and it has proven to be as useful as it has been aesthetic. Didn’t think I would use the two way talk feature a lot but it’s quite convenient! Getting deliveries while no one is at home has become so easy now. I feel like it’s worth it to even consider upgrading from an existing smart lock to this one, and even more so if you have a manual lock"
+    },
+    {
       "author": "Tamal Ghosh",
       "rating": 1.0,
       "title": "Not flawless",
       "date": "2026-09-16",
       "date_label": "16 September 2026",
       "body": "This product is good but it has a major design flaw. None of my guests able to open the door when they leave the home. I always have to open the door if the visitor is new. Opening door from the inside is non intuitive, hidden behind the handle and very confusing. Nobody still today able to open the door in the first time without asking us to open the door for them. I think I have been using it for 3 months now and still finding a smart one who can open the door in first trial. May be I sound like too dramatic and making it a big deal on small issue. Another issue if you're are right handed an"
-    },
-    {
-      "author": "Rachna",
-      "rating": 5.0,
-      "title": "Very happy with the purchase",
-      "date": "2026-09-16",
-      "date_label": "16 September 2026",
-      "body": "Best in the lock category.. really happy with the security of the lock and after sale service by Urban Clap. Go ahead and buy… its one time investment ✨"
     },
     {
       "author": "Prashant Sharma",

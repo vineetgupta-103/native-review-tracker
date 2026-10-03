@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-02",
-  "customers_say": "Customers find this water purifier to be the best in the market, appreciating its free installation, premium appearance, and user-friendly mobile app. The product receives positive feedback for its taste, removing metallic and chemical aftertaste, and features, with one customer highlighting its information parameters of different parts. While some customers find it well-built, others report it may not last long. The reliability aspect is mixed, with some customers reporting it functions well while others mention it stops working after a few days.",
+  "scraped": "2026-10-03",
+  "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and excellent taste, noting it's free of metallic or chemical aftertaste. They appreciate its user-friendly app, installation process, and features, with one customer highlighting the information parameters of different parts as a useful feature. While some customers consider it worth the money, others deeply regret their purchase. The reliability receives mixed feedback, with some reporting it works well while others mention it stops functioning after a few days.",
   "aspects": [
     {
       "name": "Quality",
@@ -12,11 +12,11 @@
     },
     {
       "name": "Design",
-      "count": "110"
+      "count": "111"
     },
     {
       "name": "Water taste",
-      "count": "86"
+      "count": "85"
     },
     {
       "name": "Ease of use",
@@ -24,18 +24,26 @@
     },
     {
       "name": "Features",
-      "count": "65"
+      "count": "66"
     },
     {
       "name": "Reliability",
       "count": "230"
     },
     {
-      "name": "Build quality",
-      "count": "61"
+      "name": "Value for money",
+      "count": "207"
     }
   ],
   "reviews": [
+    {
+      "author": "Natasha Shrotri",
+      "rating": 5.0,
+      "title": "Works well. Happy with my new water purifier 👍🏼",
+      "date": "2026-09-28",
+      "date_label": "28 September 2026",
+      "body": "Works great and looks neat in the kitchen. Happy with my purchase and the customer service! Go for it!"
+    },
     {
       "author": "Riju",
       "rating": 5.0,
@@ -53,28 +61,20 @@
       "body": "Purchased on 13th Delivered on 18th and same day installation Overall I am satisfied and happy currently , as its newly installed I won’t go all out loving it but i believe that this water purifier will work as promised, it is durable all plastic body so it build to last for 5 to 7 years, No Odour from water as in past I has that experience with Mi water purifier , water looks clean compared to tap water I don’t know why but I am ok with it, water taste fresh and crisp, Water flow is good the adaptive mode is brilliant the purification is fast no unnecessary waste of water and forced RO filtra"
     },
     {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Value and suggest to buy everyone",
+      "date": "2026-09-09",
+      "date_label": "9 September 2026",
+      "body": "Item is good and working fine. Very good water purifier. Installation also done very quick"
+    },
+    {
       "author": "Renjitha R.S",
       "rating": 5.0,
       "title": "Easy, Works well, Best overall",
       "date": "2026-09-03",
       "date_label": "3 September 2026",
       "body": "My home water TDS is below 100, so I needed a purifier which controls TDS. This is RO enabled but uses it wisely. Once I started using this, the water tastes good since the filtration is very good. Every detail including the filter status is available on phone app. We can even change the modes easily. Still the filter is not replaced even after several months. Durable build, looks great. 5 Stars!"
-    },
-    {
-      "author": "Chandrashekhar",
-      "rating": 5.0,
-      "title": "Excellent Water Purifier with Great Service",
-      "date": "2026-09-01",
-      "date_label": "1 September 2026",
-      "body": "The TDS control feature is a very useful option, as it helps prevent the water from having unnecessarily low TDS levels. The purifier performs well and provides good-quality drinking water. The after-sales service is also excellent. The technician responds within 24 hours of raising a service request and resolves the issue promptly, without any additional charges. The companion app could use some bug fixes, as the purifier/device frequently gets disconnected, which can be a little inconvenient. Overall, a reliable product backed by impressive customer service."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 4.0,
-      "title": "Good product, but packaging could be better",
-      "date": "2026-08-29",
-      "date_label": "29 August 2026",
-      "body": "This was an exchange order for a 15-year-old Aquaguard. The delivery process could have been smoother but the main concern was the condition of the packaging; it was in very poor shape and initially made me worried about the product. Thankfully, the unit itself was intact and works as expected. The installation engineer was knowledgeable, professional, and explained everything clearly. Overall, a good experience with the product and installation, but the packaging could definitely be improved."
     }
   ]
 }

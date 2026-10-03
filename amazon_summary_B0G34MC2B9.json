@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-02",
-  "customers_say": "Customers find the digital lock to be a good home security solution with feature-rich functionality and easy installation. They appreciate its usability, with one customer noting it's convenient for different family members to use. The value for money receives mixed feedback, with some finding it good for the price while others consider it costly.",
+  "scraped": "2026-10-03",
+  "customers_say": "Customers find the digital lock to be a good home security solution with feature-rich capabilities, including multiple unlocking options. The installation and service receive positive feedback, and customers appreciate its ease of use and convenience. While some customers consider it good value for the price, others find it very costly.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "105"
+      "count": "106"
     },
     {
       "name": "Installation",
@@ -27,15 +27,23 @@
       "count": "10"
     },
     {
-      "name": "Value for money",
-      "count": "16"
+      "name": "Convenience",
+      "count": "8"
     },
     {
-      "name": "Functionality",
-      "count": "15"
+      "name": "Value for money",
+      "count": "17"
     }
   ],
   "reviews": [
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "Very patient",
+      "date": "2026-09-29",
+      "date_label": "29 September 2026",
+      "body": "Very nice workmanship and done in right time."
+    },
     {
       "author": "nidhi",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-09-24",
       "date_label": "24 September 2026",
       "body": "Service was good they helped and explained everything well Ramkish visvokure depo Sharma"
-    },
-    {
-      "author": "Kunal gulati",
-      "rating": 5.0,
-      "title": "Perfect service",
-      "date": "2026-09-06",
-      "date_label": "6 September 2026",
-      "body": "Kishan was great help during the installation everything was amazing"
     },
     {
       "author": "Pallishree Sourav",

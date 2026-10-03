@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-02",
+  "scraped": "2026-10-03",
   "customers_say": "Customers find the smart door lock to be of excellent quality, with smooth installation that doesn't damage the door. Moreover, the lock works as expected with no issues, and customers appreciate its user-friendly app, multiple unlock options, and top-notch security features that transform home management. Additionally, the detailed demonstrations and clear instructions receive positive feedback. However, opinions on value for money are mixed, with some finding it worth the investment while others consider it overpriced.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Mohammad Saif",
+      "rating": 5.0,
+      "title": "Safety",
+      "date": "2026-10-01",
+      "date_label": "1 October 2026",
+      "body": "Very good very handy... value for money"
+    },
+    {
       "author": "subramani",
       "rating": 5.0,
       "title": "Very good product and on time support",
@@ -59,14 +67,6 @@
       "date": "2026-08-16",
       "date_label": "16 August 2026",
       "body": "Very good lock and more over the installation process was very smooth. The technician was very cooperative."
-    },
-    {
-      "author": "Leo",
-      "rating": 5.0,
-      "title": "Installation mygate",
-      "date": "2026-08-11",
-      "date_label": "11 August 2026",
-      "body": "Good product, easy installation"
     },
     {
       "author": "Abyisheik",
