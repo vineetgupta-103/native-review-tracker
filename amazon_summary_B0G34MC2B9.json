@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-03",
+  "scraped": "2026-10-04",
   "customers_say": "Customers find the digital lock to be a good home security solution with feature-rich capabilities, including multiple unlocking options. The installation and service receive positive feedback, and customers appreciate its ease of use and convenience. While some customers consider it good value for the price, others find it very costly.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "106"
+      "count": "107"
     },
     {
       "name": "Installation",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Bhanu kiran",
+      "rating": 5.0,
+      "title": "Lock",
+      "date": "2026-10-01",
+      "date_label": "1 October 2026",
+      "body": "Good"
+    },
+    {
       "author": "Placeholder",
       "rating": 5.0,
       "title": "Very patient",
@@ -67,14 +75,6 @@
       "date": "2026-09-05",
       "date_label": "5 September 2026",
       "body": "Very good product. As i thought it is more advanced in technology aspect.. And i am very much glad for the service i am getting from Godrej."
-    },
-    {
-      "author": "To be very honest, this doesn't help the heel as said. Mentally you will feel that you are wearing it but physically it doesn't make any difference. My suggestion would be, better buy a good walking shoe from any good brand.",
-      "rating": 4.0,
-      "title": "Good lock with nice features",
-      "date": "2026-08-31",
-      "date_label": "31 August 2026",
-      "body": "I am a medium user, for me it serves the purpose well. The camera option serves well for doors without an eye piece. It need 2.4ghz wifi for functioning, and doesn't work with 5g connection. Hence, make sure u ask ur internet provider for the specified frequency. Installation went pretty smooth without any hassle, service people were well equipped and made a good job without any damage to the door. The outside handle wasn't coming back to it's original position - service person said that once u peel off the plastic wrapping on top of the camera lens it should be working fine. Since my builder "
     }
   ]
 }

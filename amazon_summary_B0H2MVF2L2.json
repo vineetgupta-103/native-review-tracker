@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-10-03",
-  "customers_say": "Customers find the door lock reliable, with face unlock working quickly every time, and appreciate its classy design that looks like a simple door handle. Moreover, the lock features are useful for the whole family, is easy to operate with a user-friendly app, and offers top-tier safety. Additionally, the build quality is impressive, installation is straightforward, and customers consider it worth the price.",
+  "scraped": "2026-10-04",
+  "customers_say": "Customers find the door lock convenient to use with a user-friendly app, and appreciate its premium design that looks like a simple door handle. They praise its build quality, security features, and installation process, and consider it a good value for money. The lock's reliability receives mixed feedback, with some customers reporting it performs as expected while others find it laggy.",
   "aspects": [
     {
-      "name": "Reliability",
-      "count": "21"
+      "name": "Value for money",
+      "count": "25"
     },
     {
       "name": "Features",
-      "count": "19"
+      "count": "20"
     },
     {
       "name": "Ease of use",
-      "count": "18"
+      "count": "19"
     },
     {
-      "name": "Design",
-      "count": "14"
+      "name": "Appearance",
+      "count": "15"
     },
     {
       "name": "Build quality",
-      "count": "12"
+      "count": "13"
     },
     {
       "name": "Installation",
@@ -31,11 +31,19 @@
       "count": "9"
     },
     {
-      "name": "Value for money",
-      "count": "23"
+      "name": "Reliability",
+      "count": "26"
     }
   ],
   "reviews": [
+    {
+      "author": "Shreyas Patil",
+      "rating": 5.0,
+      "title": "The live video feature is commendable.",
+      "date": "2026-10-01",
+      "date_label": "1 October 2026",
+      "body": "Fantastic purchase... The live video feature is commendable. Helps me stay at ease as far as security is concerned. The premium build makes the door look very lively."
+    },
     {
       "author": "Gagan Deep",
       "rating": 5.0,
@@ -45,12 +53,12 @@
       "body": "Great smart lock! Premium design, easy to use, and the app features like remote unlocking, live view and instant notifications work really well. Feels secure and premium. Happy with the purchase! Worth the price."
     },
     {
-      "author": "Nishtha",
+      "author": "swaroopbhat",
       "rating": 5.0,
-      "title": "Better than I expected",
-      "date": "2026-09-23",
-      "date_label": "23 September 2026",
-      "body": "I bought this lock because of the classy design and it has proven to be as useful as it has been aesthetic. Didn’t think I would use the two way talk feature a lot but it’s quite convenient! Getting deliveries while no one is at home has become so easy now. I feel like it’s worth it to even consider upgrading from an existing smart lock to this one, and even more so if you have a manual lock"
+      "title": "Best smart lock with amazing features!",
+      "date": "2026-09-26",
+      "date_label": "26 September 2026",
+      "body": "Just got the native lock installed at my place. The quality, finish and features they offer is just mind-blowing! The locking and unlocking of the door is soo smooth. I got it installed for my parents and they're really enjoying it (especially the fingerprint) as it's very convenient for them now!"
     },
     {
       "author": "Tamal Ghosh",
@@ -67,14 +75,6 @@
       "date": "2026-09-07",
       "date_label": "7 September 2026",
       "body": "The lock itself is ok. However, beware, the app they use is really 3rd class. Its slow, laggy, takes forever to connect to the lock. The app has a very poor interface also. You will need to press 3 buttons to reach the lock! And if you try and turn off sound notification, the pop ups also get auto blocked. I am on samsung fold 6. Still havent managed to figure out how to get this app to show me pop ups without sound! And there is a considerable lag in the app notification on mobile from the time someone rings the bell! Last but not least, the wifi capabilities of the lock are really sub par! I"
-    },
-    {
-      "author": "KAUSHIK CHATTERJEE",
-      "rating": 5.0,
-      "title": "Excellent Premium Digital Lock",
-      "date": "2026-09-04",
-      "date_label": "4 September 2026",
-      "body": "Excellent product experience, very good installation and service, product seems to be good. Has so many features.. Installation person was very professional did an excellent job and explained every feature in detail.. App is working seamlessly. Like the product"
     }
   ]
 }

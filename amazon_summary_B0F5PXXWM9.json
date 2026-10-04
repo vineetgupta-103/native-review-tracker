@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-03",
+  "scraped": "2026-10-04",
   "customers_say": "Customers find the water purifier to be of good quality, working well, and budget-friendly, with clean and pure water that tastes good. They appreciate its ease of use and consider it worth the price. However, the durability receives mixed reviews, with multiple customers reporting that the RO membrane fails within 6 months of use. Additionally, customer service experiences are mixed, with some finding it customer-friendly while others report very bad customer care and after-sales service.",
   "aspects": [
     {
@@ -8,11 +8,11 @@
     },
     {
       "name": "Reliability",
-      "count": "920"
+      "count": "921"
     },
     {
       "name": "Value for money",
-      "count": "867"
+      "count": "868"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Ajit Mhatre",
+      "rating": 5.0,
+      "title": "Good value for money water purifier",
+      "date": "2026-10-01",
+      "date_label": "1 October 2026",
+      "body": "Quick delivery by Amazon and quick installation by Eureka Forbes ( Amazon people did not initiate the installation process & it is very difficult to contact Amazon installation service, I personally contacted Eureka Forbes customer care and got the RO installed) The RO looks nice, the test of water is normal just like how it should be, just installed the unit today so will update the review after 3 months of usage."
+    },
     {
       "author": "Amazon Customer",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-09-25",
       "date_label": "25 September 2026",
       "body": "Product is working fine for now. As it was only 7 days. However, the only concern thing about warranty details. Since on app it showing only 1 year. So I hope this will be cleared through customer care."
-    },
-    {
-      "author": "Placeholder",
-      "rating": 4.0,
-      "title": "Review",
-      "date": "2026-09-24",
-      "date_label": "24 September 2026",
-      "body": "Good product at affordable price, installed last week. ( Will be giving a final feedback after 6 months ). Thanks for timely delivery and installation"
     }
   ]
 }
