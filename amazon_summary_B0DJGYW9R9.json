@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-04",
-  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliability and security features, particularly the triple deadlocks and multiple authentication methods. The product receives positive feedback for its appearance, adding a modern touch to the door, and customers like its features, including multiple unlocking options. While customers find it easy to use and consider it a great value, opinions about the user experience are mixed, with some reporting bad experiences with the app.",
+  "scraped": "2026-10-06",
+  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliability and security features, particularly the triple deadlocks and multiple authentication methods. The product offers multiple unlocking options and adds a modern touch to the door, while customers find it easy to use and consider it good value for money. The user experience receives mixed feedback, with some customers having a terrible experience with the app.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "66"
+      "count": "67"
     },
     {
       "name": "Reliability",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Appearance",
-      "count": "21"
+      "count": "22"
     },
     {
       "name": "User experience",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Praveen",
+      "rating": 5.0,
+      "title": "Looks promising",
+      "date": "2026-10-02",
+      "date_label": "2 October 2026",
+      "body": "Looks good. Installed well. 1st day seems slow on bell notification."
+    },
     {
       "author": "Amazon Customer",
       "rating": 5.0,
@@ -59,14 +67,6 @@
       "date": "2026-09-17",
       "date_label": "17 September 2026",
       "body": "Installation support is poor ( was scheduled twice and no show for both occasions ) and finally had to return the item. Item build quality is okay. It runs on AA batteries. Customer support is responsive, but unable to handle their installation partners effectively."
-    },
-    {
-      "author": "Asit kumar Subudhi",
-      "rating": 5.0,
-      "title": "Thank you UC and Amazon for this amazing Door lock.",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "A must buy product. Fully satisfied. Easy to install and use. Provides full security to your entry and also easyvto control the access through app. A value for money product. A little bit desatisfied with the delay in installation bur rest okay."
     },
     {
       "author": "Amazon Customer",

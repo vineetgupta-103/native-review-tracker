@@ -1,14 +1,10 @@
 {
-  "scraped": "2026-10-04",
-  "customers_say": "Customers find the digital lock to be a good home security solution with feature-rich capabilities, including multiple unlocking options. The installation and service receive positive feedback, and customers appreciate its ease of use and convenience. While some customers consider it good value for the price, others find it very costly.",
+  "scraped": "2026-10-06",
+  "customers_say": "Customers find the digital lock easy to install and appreciate its security features, describing it as a good home security solution with a premium look. Moreover, the lock offers multiple access options and is convenient to use, with one customer noting it's easy for different family members to operate. Additionally, the service receives positive feedback, with one mentioning the service person is polite. However, opinions on value for money are mixed, with some finding it good for the price while others consider it very costly.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "107"
-    },
-    {
       "name": "Installation",
-      "count": "30"
+      "count": "31"
     },
     {
       "name": "Features",
@@ -31,18 +27,22 @@
       "count": "8"
     },
     {
+      "name": "Appearance",
+      "count": "7"
+    },
+    {
       "name": "Value for money",
       "count": "17"
     }
   ],
   "reviews": [
     {
-      "author": "Bhanu kiran",
+      "author": "Kindle Customer",
       "rating": 5.0,
       "title": "Lock",
-      "date": "2026-10-01",
-      "date_label": "1 October 2026",
-      "body": "Good"
+      "date": "2026-10-02",
+      "date_label": "2 October 2026",
+      "body": "Excellent product and nicely installed."
     },
     {
       "author": "Placeholder",
