@@ -1,72 +1,47 @@
 {
-  "scraped": "2026-10-06",
-  "customers_say": "Customers find the digital lock to be of good quality, with positive feedback about its installation and functionality. They appreciate its appearance and consider it worth the price, while also praising the customer service.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "72"
-    },
-    {
-      "name": "Installation",
-      "count": "29"
-    },
-    {
-      "name": "Functionality",
-      "count": "12"
-    },
-    {
-      "name": "Value for money",
-      "count": "10"
-    },
-    {
-      "name": "Appearance",
-      "count": "7"
-    },
-    {
-      "name": "Customer service",
-      "count": "6"
-    }
-  ],
+  "scraped": "2026-10-07",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
     {
-      "author": "manish mohan sharma",
+      "author": "Pranab",
       "rating": 5.0,
-      "title": "Security uncompromised",
-      "date": "2026-09-24",
-      "date_label": "24 September 2026",
-      "body": "Very good lock!"
+      "title": "Excellent lock with multiple safety features",
+      "date": "2026-09-27",
+      "date_label": "27 September 2026",
+      "body": "It's more than giving an excellent rating. Perfectly meets our requirements. It was very well fitted by Alpesh Kharva and features were well explained by him"
     },
     {
-      "author": "GS",
-      "rating": 1.0,
-      "title": "Useless product",
-      "date": "2026-09-01",
-      "date_label": "1 September 2026",
-      "body": "Very disappointed. Lock kept getting stuck. We had to open with keys. One day the sky also stopped working. Godrej people refused to take any responsibility and we had to cut our door to open it"
-    },
-    {
-      "author": "Manju Chaturvedi",
+      "author": "Varun",
       "rating": 5.0,
-      "title": "Good",
-      "date": "2026-08-27",
-      "date_label": "27 August 2026",
-      "body": "Good"
+      "title": "Good lock and installation",
+      "date": "2026-09-27",
+      "date_label": "27 September 2026",
+      "body": "Installation done very professionally and correctly by Kishan"
     },
     {
-      "author": "Krishnan",
-      "rating": 4.0,
-      "title": "Godrej Catus Touch Plus Digital Lock",
-      "date": "2026-08-27",
-      "date_label": "27 August 2026",
-      "body": "Easy to operate. Godrej very prompt in installation"
-    },
-    {
-      "author": "Placeholder",
+      "author": "ANEESH NATARAJAN",
       "rating": 5.0,
-      "title": "It was attended within 48 hr. Mr. Uddin fitted it very nicely.",
-      "date": "2026-08-18",
-      "date_label": "18 August 2026",
-      "body": "Good"
+      "title": "Excellent Digital Lock & Professional Installation",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Good product with a premium look and smooth operation. Purchased the Godrej Neo Prime Digital Lock from Amazon and got it installed today by Mr. Chandran Radhakrishnan from Godrej. He was very professional and completed the installation properly. Overall, a very good experience with both the product and installation service."
+    },
+    {
+      "author": "SHASHWAT Shroff",
+      "rating": 5.0,
+      "title": "Installation review",
+      "date": "2026-09-12",
+      "date_label": "12 September 2026",
+      "body": "Nice product till now just installed."
+    },
+    {
+      "author": "Bhawesh",
+      "rating": 5.0,
+      "title": "Good product support from godrej",
+      "date": "2026-09-12",
+      "date_label": "12 September 2026",
+      "body": "Very good service."
     }
   ]
 }

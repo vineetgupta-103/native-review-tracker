@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-06",
+  "scraped": "2026-10-07",
   "customers_say": "Customers find the door lock reliable and worth its price, with straightforward installation and easy operation. Moreover, they appreciate its comprehensive features and security capabilities, with one customer noting the anti-pry/tamper alarm. Additionally, they like its appearance and convenience, with one mentioning the camera's usefulness.",
   "aspects": [
     {
@@ -37,6 +37,22 @@
   ],
   "reviews": [
     {
+      "author": "Nikhil",
+      "rating": 5.0,
+      "title": "Excellent Smart Lock – Secure and Easy to Use",
+      "date": "2026-10-05",
+      "date_label": "5 October 2026",
+      "body": "Very good smart lock with fast fingerprint recognition and multiple unlocking options. Easy to use, good build quality, and enhances home security. Installation was smooth and the app works well. Highly recommended. ⭐⭐⭐⭐⭐"
+    },
+    {
+      "author": "Aditya Tendulkar",
+      "rating": 5.0,
+      "title": "A very good quality lock at a fraction of the cost of competitors.",
+      "date": "2026-10-05",
+      "date_label": "5 October 2026",
+      "body": "Good Lock offers multiple features and a strong locking mechanism. While there was an issue with the camera, the customer support team was excellent and promptly sent me a replacement. The device includes a variety of unlocking options, such as fingerprint and face unlock, making it a worthwhile investment."
+    },
+    {
       "author": "Sai",
       "rating": 5.0,
       "title": "Great lock and great support from Lavna team",
@@ -59,22 +75,6 @@
       "date": "2026-09-08",
       "date_label": "8 September 2026",
       "body": "⭐⭐⭐⭐⭐ Very happy with the Lavna LA44 I recently purchased the Lavna LA44 smart lock and so far I’m really happy with it. The lock looks premium and feels very solid and well-built. The installation and setup were pretty straightforward. I really like the fingerprint feature — it works quickly and makes it so much more convenient than carrying a key around. The lock has been working smoothly, and I haven’t faced any issues so far. What I like most is the combination of security, convenience, and the overall look of the lock. It feels like a good upgrade for the home and is definitely worth the "
-    },
-    {
-      "author": "Old Delhi Bazaar",
-      "rating": 5.0,
-      "title": "Perfect lock at a very reasonable price",
-      "date": "2026-09-01",
-      "date_label": "1 September 2026",
-      "body": "Perfect lock. Safe and sturdy. Zero complaints for over one year of use. Highly recommended."
-    },
-    {
-      "author": "Mounika",
-      "rating": 5.0,
-      "title": "Very good product and worth every penny.",
-      "date": "2026-08-12",
-      "date_label": "12 August 2026",
-      "body": "The product is very good, it works with multiple keyless options like fingerprint, numeric lock, we can lock and unlock from mobile app also. We charged the battery almost 6-7 months back but still it is working with out any issue. Worth the amount."
     }
   ]
 }
