@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-07",
+  "scraped": "2026-10-08",
   "customers_say": "Customers find the smart lock easy to use and appreciate its premium appearance, with one noting it comes with 4 different modes of opening. The installation process is smooth, and customers consider it good value for money. They value its security features, with one mentioning the manual deadbolt provides extra peace of mind. The connectivity receives mixed feedback - while it connects via Bluetooth, some customers note it doesn't support Wi-Fi gateway.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Sachin",
+      "rating": 5.0,
+      "title": "Good recomended product",
+      "date": "2026-10-05",
+      "date_label": "5 October 2026",
+      "body": "One of the best buy after discount I got it , and all the features worked so far no problem it was easy to installed there was guide"
+    },
+    {
       "author": "Pushpender Yadav",
       "rating": 5.0,
       "title": "Great",
@@ -67,14 +75,6 @@
       "date": "2026-09-09",
       "date_label": "9 September 2026",
       "body": "Good product, very trendy and useful. Value for money"
-    },
-    {
-      "author": "saurabh",
-      "rating": 5.0,
-      "title": "Smart lock",
-      "date": "2026-09-09",
-      "date_label": "9 September 2026",
-      "body": "Overall good experience. Nice lock"
     }
   ]
 }

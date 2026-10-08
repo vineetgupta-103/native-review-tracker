@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-07",
+  "scraped": "2026-10-08",
   "customers_say": "Customers find the water purifier excellent in quality and appreciate its taste, with one mentioning the ability to adjust it. Moreover, the device is easy to use and provides good water quality, with one customer noting a substantial improvement in filtration. However, durability is a concern as filters break within 6 months, and there are issues with leakage, with water continuously leaking out. Additionally, reliability and service receive mixed feedback, with some reporting excellent working performance while others mention the product stops working, and while service support is quick, some customers report bad service.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Chandra Mohan Mamgai",
+      "rating": 5.0,
+      "title": "Packaging",
+      "date": "2026-10-05",
+      "date_label": "5 October 2026",
+      "body": "The item itself was satisfactory, yet the packaging was disappointing. The carton showed tears in several spots, raising concerns about potential drops or mishandling. Its exterior appeared pressed against something during shipping, with numerous wrinkles visible. I hope future packaging avoids such issues."
+    },
+    {
       "author": "Manoj Kumar singh",
       "rating": 4.0,
       "title": "Product is good as compaire to others.",
@@ -59,14 +67,6 @@
       "date": "2026-09-27",
       "date_label": "27 September 2026",
       "body": "Product is good and service is too good."
-    },
-    {
-      "author": "Ankit",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-09-27",
-      "date_label": "27 September 2026",
-      "body": "Very good service."
     },
     {
       "author": "Sudeep",
