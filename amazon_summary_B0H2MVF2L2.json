@@ -1,18 +1,26 @@
 {
-  "scraped": "2026-10-08",
-  "customers_say": "Customers find the door lock convenient to use with a user-friendly app, and appreciate its premium design that looks like a simple door handle. They praise its build quality, security features, and installation process, and consider it a good value for money. The lock's reliability receives mixed feedback, with some customers reporting it performs as expected while others find it laggy.",
+  "scraped": "2026-10-09",
+  "customers_say": "Customers are impressed with the smart lock's reliability, noting that the face unlock feature works quickly every time, and appreciate its user-friendly app interface. The lock features a simple door handle design that matches well with home decor, and customers find it convenient to use. They praise its build quality and installation process, and consider it a good value for money.",
   "aspects": [
     {
+      "name": "Quality",
+      "count": "72"
+    },
+    {
       "name": "Value for money",
+      "count": "26"
+    },
+    {
+      "name": "Reliability",
       "count": "25"
     },
     {
       "name": "Features",
-      "count": "20"
+      "count": "22"
     },
     {
       "name": "Ease of use",
-      "count": "19"
+      "count": "21"
     },
     {
       "name": "Appearance",
@@ -20,29 +28,29 @@
     },
     {
       "name": "Build quality",
-      "count": "13"
+      "count": "15"
     },
     {
       "name": "Installation",
-      "count": "11"
-    },
-    {
-      "name": "Security",
-      "count": "9"
-    },
-    {
-      "name": "Reliability",
-      "count": "26"
+      "count": "12"
     }
   ],
   "reviews": [
     {
-      "author": "Shreyas Patil",
+      "author": "Satyam Singh",
       "rating": 5.0,
-      "title": "The live video feature is commendable.",
+      "title": "Excellent smart lock with great build quality",
+      "date": "2026-10-05",
+      "date_label": "5 October 2026",
+      "body": "Really impressed with the Native Lock Ultra. The build quality feels premium, installation was smooth, and the lock works reliably. The smart features are convenient and make everyday access much easier. Overall, a great product for the price and definitely worth recommending."
+    },
+    {
+      "author": "Anish Joshi",
+      "rating": 5.0,
+      "title": "Native Lock Ultra review",
       "date": "2026-10-01",
       "date_label": "1 October 2026",
-      "body": "Fantastic purchase... The live video feature is commendable. Helps me stay at ease as far as security is concerned. The premium build makes the door look very lively."
+      "body": "Excellent smart lock! Great build quality and very convenient to use. The fingerprint unlock is quick and reliable. Very happy with the Native lock."
     },
     {
       "author": "Gagan Deep",
@@ -53,12 +61,12 @@
       "body": "Great smart lock! Premium design, easy to use, and the app features like remote unlocking, live view and instant notifications work really well. Feels secure and premium. Happy with the purchase! Worth the price."
     },
     {
-      "author": "swaroopbhat",
+      "author": "Nishtha",
       "rating": 5.0,
-      "title": "Best smart lock with amazing features!",
-      "date": "2026-09-26",
-      "date_label": "26 September 2026",
-      "body": "Just got the native lock installed at my place. The quality, finish and features they offer is just mind-blowing! The locking and unlocking of the door is soo smooth. I got it installed for my parents and they're really enjoying it (especially the fingerprint) as it's very convenient for them now!"
+      "title": "Better than I expected",
+      "date": "2026-09-23",
+      "date_label": "23 September 2026",
+      "body": "I bought this lock because of the classy design and it has proven to be as useful as it has been aesthetic. Didn’t think I would use the two way talk feature a lot but it’s quite convenient! Getting deliveries while no one is at home has become so easy now. I feel like it’s worth it to even consider upgrading from an existing smart lock to this one, and even more so if you have a manual lock"
     },
     {
       "author": "Tamal Ghosh",
@@ -67,14 +75,6 @@
       "date": "2026-09-16",
       "date_label": "16 September 2026",
       "body": "This product is good but it has a major design flaw. None of my guests able to open the door when they leave the home. I always have to open the door if the visitor is new. Opening door from the inside is non intuitive, hidden behind the handle and very confusing. Nobody still today able to open the door in the first time without asking us to open the door for them. I think I have been using it for 3 months now and still finding a smart one who can open the door in first trial. May be I sound like too dramatic and making it a big deal on small issue. Another issue if you're are right handed an"
-    },
-    {
-      "author": "Lohith N",
-      "rating": 5.0,
-      "title": "Free from keys!",
-      "date": "2026-08-06",
-      "date_label": "6 August 2026",
-      "body": "Delivery was prompt. Installation took time and was dusty but was done neatly. Have been using it from >15 days and I would say it's made my life easy one (key less) at a time! Pros: No need to carry keys, no need to ask someone at home to lock the door when going out as it automatically locks. Camera unlocks even if it's dark. Battery is at 70% even after >15 days. Good job UC. Product price is at a higher end but worth. Cons: Mine was a heavy Honne wood door and sometimes the door gets stuck (mostly due to weather changes) instead of opening but it's the door and not the lock."
     }
   ]
 }

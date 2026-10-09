@@ -1,30 +1,26 @@
 {
-  "scraped": "2026-10-08",
-  "customers_say": "Customers find the door lock reliable and worth its price, with straightforward installation and easy operation. Moreover, they appreciate its comprehensive features and security capabilities, with one customer noting the anti-pry/tamper alarm. Additionally, they like its appearance and convenience, with one mentioning the camera's usefulness.",
+  "scraped": "2026-10-09",
+  "customers_say": "Customers find the door lock worth its price and appreciate its reliable performance, with one noting that fingerprint and face recognition work perfectly. The installation process is straightforward and quick, and the lock provides multiple unlocking options. They value its security features, with one mentioning the anti-pry/tamper alarm, and find it convenient to use, with one noting the camera's usefulness. Customers like its appearance and service.",
   "aspects": [
     {
-      "name": "Reliability",
-      "count": "39"
+      "name": "Value for money",
+      "count": "38"
     },
     {
-      "name": "Value for money",
+      "name": "Reliability",
       "count": "37"
     },
     {
       "name": "Installation",
-      "count": "33"
-    },
-    {
-      "name": "Ease of use",
-      "count": "24"
+      "count": "34"
     },
     {
       "name": "Features",
-      "count": "22"
+      "count": "24"
     },
     {
       "name": "Security",
-      "count": "19"
+      "count": "21"
     },
     {
       "name": "Convenience",
@@ -33,17 +29,13 @@
     {
       "name": "Appearance",
       "count": "14"
+    },
+    {
+      "name": "Service",
+      "count": "7"
     }
   ],
   "reviews": [
-    {
-      "author": "Nikhil",
-      "rating": 5.0,
-      "title": "Excellent Smart Lock – Secure and Easy to Use",
-      "date": "2026-10-05",
-      "date_label": "5 October 2026",
-      "body": "Very good smart lock with fast fingerprint recognition and multiple unlocking options. Easy to use, good build quality, and enhances home security. Installation was smooth and the app works well. Highly recommended. ⭐⭐⭐⭐⭐"
-    },
     {
       "author": "Aditya Tendulkar",
       "rating": 5.0,
@@ -51,6 +43,14 @@
       "date": "2026-10-05",
       "date_label": "5 October 2026",
       "body": "Good Lock offers multiple features and a strong locking mechanism. While there was an issue with the camera, the customer support team was excellent and promptly sent me a replacement. The device includes a variety of unlocking options, such as fingerprint and face unlock, making it a worthwhile investment."
+    },
+    {
+      "author": "Nikhil",
+      "rating": 5.0,
+      "title": "Excellent Smart Lock – Secure and Easy to Use",
+      "date": "2026-10-05",
+      "date_label": "5 October 2026",
+      "body": "Very good smart lock with fast fingerprint recognition and multiple unlocking options. Easy to use, good build quality, and enhances home security. Installation was smooth and the app works well. Highly recommended. ⭐⭐⭐⭐⭐"
     },
     {
       "author": "Sai",

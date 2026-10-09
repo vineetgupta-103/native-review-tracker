@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-10-08",
-  "customers_say": "Customers find the water purifier to be the best in the market with a premium appearance and excellent installation process. The product receives positive feedback for its taste, with one customer noting it's free of metallic or chemical aftertaste, and its features are well-explained. The build quality and reliability receive mixed reviews - while some find it solid, others report it may break soon, and some units stopped working after a few days. Value for money is also mixed, with some customers finding it worth the price while others deeply regret their purchase.",
+  "scraped": "2026-10-09",
+  "customers_say": "Customers find this water purifier to be the best in the market with impressive smart technology and features, noting its premium look and crisp water taste. They appreciate the installation process, with one mentioning the knowledgeable installation engineer. While some customers consider it worth the money, others deeply regret their purchase. The reliability receives mixed feedback, with some reporting it works well while others mention it stops functioning after a few days.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "946"
+      "count": "953"
     },
     {
       "name": "Installation",
-      "count": "239"
+      "count": "243"
     },
     {
       "name": "Design",
-      "count": "114"
+      "count": "115"
     },
     {
       "name": "Water taste",
@@ -20,22 +20,38 @@
     },
     {
       "name": "Features",
-      "count": "68"
+      "count": "69"
+    },
+    {
+      "name": "Smart",
+      "count": "59"
     },
     {
       "name": "Reliability",
-      "count": "230"
+      "count": "237"
     },
     {
       "name": "Value for money",
-      "count": "208"
-    },
-    {
-      "name": "Build quality",
-      "count": "64"
+      "count": "211"
     }
   ],
   "reviews": [
+    {
+      "author": "Mohan",
+      "rating": 5.0,
+      "title": "Worth the money",
+      "date": "2026-10-06",
+      "date_label": "6 October 2026",
+      "body": "Overall, its a nice product and good for borewell and corporate waters. Had a nice experince with customer serivice. After delivery, the service person came quickly and installed the device without any hassle."
+    },
+    {
+      "author": "Harish",
+      "rating": 5.0,
+      "title": "Good Product and Smooth Installation",
+      "date": "2026-10-02",
+      "date_label": "2 October 2026",
+      "body": "Received my Automberg water purifier recently, and overall, I’m happy with the experience. The product was delivered safely and on time. The installation process was also smooth and hassle-free, with everything set up properly. So far, the product looks good and works well. Overall, a good experience with both the delivery and installation."
+    },
     {
       "author": "Jay",
       "rating": 5.0,
@@ -43,14 +59,6 @@
       "date": "2026-10-01",
       "date_label": "1 October 2026",
       "body": "Been using this purifier for a couple of weeks now and overall experience is good. Water tastes clean and the purifier looks quite premium in the kitchen. Installation was also smooth. So far, no issues with the product. The adaptive mode was the main reason I went for this one. Water quality in my area keeps changing, so I didn't want RO running unnecessarily all the time. The purifier adjusts according to the incoming water, which is quite convenient. Good product overall. Build quality is genuinely good. It feels sturdy and the finishing is also nice. I have seen a lot of bulky purifiers bu"
-    },
-    {
-      "author": "Riju",
-      "rating": 5.0,
-      "title": "Good experience overall",
-      "date": "2026-09-18",
-      "date_label": "18 September 2026",
-      "body": "Overall experience was seamless. Installation was done the very next day. The technician (Sharaf) was knowledgeable and work was done quickly and neatly. He tested the water quality and pressure. Fixed a booster pump at no additional cost. Then he explained the functions and initial process clearly. Connected the device via app and explained it as well. The product seems to be pretty good except for the water dispenser handle that seems very flimsy on and otherwise well built product. Till now all seems good. I've had good experience with other Atomberg products so expecting the same here too."
     },
     {
       "author": "@Pranoy_Chauaan",
@@ -61,20 +69,12 @@
       "body": "Purchased on 13th Delivered on 18th and same day installation Overall I am satisfied and happy currently , as its newly installed I won’t go all out loving it but i believe that this water purifier will work as promised, it is durable all plastic body so it build to last for 5 to 7 years, No Odour from water as in past I has that experience with Mi water purifier , water looks clean compared to tap water I don’t know why but I am ok with it, water taste fresh and crisp, Water flow is good the adaptive mode is brilliant the purification is fast no unnecessary waste of water and forced RO filtra"
     },
     {
-      "author": "Amazon Customer",
+      "author": "Riju",
       "rating": 5.0,
-      "title": "Value and suggest to buy everyone",
-      "date": "2026-09-09",
-      "date_label": "9 September 2026",
-      "body": "Item is good and working fine. Very good water purifier. Installation also done very quick"
-    },
-    {
-      "author": "Pradeep Kandaswamy",
-      "rating": 5.0,
-      "title": "Atomberg Intellon - Great versatile purifier with smart TDS-based RO — recommended",
-      "date": "2026-08-10",
-      "date_label": "10 August 2026",
-      "body": "Installed the Atomberg Intellon RO today (August 10, 2026), and overall, Very happy with the Atomberg Intellon so far. The TDS-based switching is a smart feature that reduces RO usage when it isn’t needed. This should help reduce wastewater while retaining more minerals, especially with the alkaliser. The water tastes clean and slightly alkaline, and the 8L tank is sufficient for our family of four. The technician installed a Pressure Reducing Value (PRV) free-of-cost as the input pressure was slightly high. The app monitoring and alerts work well, although the initial setup took a few minutes"
+      "title": "Good experience overall",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Overall experience was seamless. Installation was done the very next day. The technician (Sharaf) was knowledgeable and work was done quickly and neatly. He tested the water quality and pressure. Fixed a booster pump at no additional cost. Then he explained the functions and initial process clearly. Connected the device via app and explained it as well. The product seems to be pretty good except for the water dispenser handle that seems very flimsy on and otherwise well built product. Till now all seems good. I've had good experience with other Atomberg products so expecting the same here too."
     }
   ]
 }

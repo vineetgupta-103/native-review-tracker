@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-08",
-  "customers_say": "Customers find the water purifier to be of good quality, working well, and budget-friendly, with clean and pure water that tastes good. They appreciate its ease of use and consider it worth the price. However, the durability receives mixed reviews, with multiple customers reporting that the RO membrane fails within 6 months of use. Additionally, customer service experiences are mixed, with some finding it customer-friendly while others report very bad customer care and after-sales service.",
+  "scraped": "2026-10-09",
+  "customers_say": "Customers find the water purification unit to be of good quality, working well, and consider it a budget-friendly option. The water quality is excellent, with hard water purified to the best possible quality, and they appreciate its taste and ease of use. The service receives mixed feedback, with some customers praising the prompt service while others report extremely poor customer care and after-sales service.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,15 +8,15 @@
     },
     {
       "name": "Reliability",
-      "count": "922"
+      "count": "895"
     },
     {
       "name": "Value for money",
-      "count": "871"
+      "count": "808"
     },
     {
       "name": "Water taste",
-      "count": "270"
+      "count": "273"
     },
     {
       "name": "Water quality",
@@ -24,33 +24,25 @@
     },
     {
       "name": "Ease of use",
-      "count": "133"
+      "count": "135"
     },
     {
       "name": "Service",
-      "count": "147"
+      "count": "151"
     },
     {
-      "name": "Durability",
-      "count": "131"
+      "name": "Purchase",
+      "count": "181"
     }
   ],
   "reviews": [
     {
-      "author": "Shaik S.",
-      "rating": 5.0,
-      "title": "Good",
-      "date": "2026-10-06",
-      "date_label": "6 October 2026",
-      "body": "I recently purchased this Aquaguard RO from Amazon and I’m very happy with the product. The water purification quality is good, and the water tastes clean and fresh. The installation process was also smooth, and the overall product quality feels reliable. The design is neat and it is easy to use. So far, I’m satisfied with my purchase and I would recommend this Aquaguard RO to others looking for a good water purifier at a reasonable price. Overall, a good purchase! 👍"
-    },
-    {
-      "author": "Rishivanth Vel",
+      "author": "Amazon Customer",
       "rating": 4.0,
-      "title": "Worth it",
-      "date": "2026-10-03",
-      "date_label": "3 October 2026",
-      "body": "Nice product."
+      "title": "Good product",
+      "date": "2026-10-05",
+      "date_label": "5 October 2026",
+      "body": "Good product for the value"
     },
     {
       "author": "kamalakannan",
@@ -75,6 +67,14 @@
       "date": "2026-09-25",
       "date_label": "25 September 2026",
       "body": "Product is working fine for now. As it was only 7 days. However, the only concern thing about warranty details. Since on app it showing only 1 year. So I hope this will be cleared through customer care."
+    },
+    {
+      "author": "Argha P.",
+      "rating": 4.0,
+      "title": "Good product",
+      "date": "2026-09-06",
+      "date_label": "6 September 2026",
+      "body": "The purifier is working fine. Water tastes good, the water wastage in the process of purifying seems to be of justified amount. I hv not tested the tds though, so can not comment on that."
     }
   ]
 }

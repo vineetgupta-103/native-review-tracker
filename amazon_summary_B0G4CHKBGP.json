@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-08",
-  "customers_say": "Customers find the water purifier performs better than expected and appreciate its appearance, with one noting its modern touch panel with LED indicators. The water quality receives positive feedback, with the app clearly showing water quality and filter status, and customers consider it an excellent choice with no service needed for 2 years. However, reliability is a concern, with multiple customers reporting it stopped working within a month of installation.",
+  "scraped": "2026-10-09",
+  "customers_say": "Customers find the water purifier performs better than expected and appreciate its good installation process. The water quality receives positive feedback, with one customer noting TDS levels below 100, while the mobile app provides vital monitoring information. They consider it an excellent choice with zero-service hassle for two years. However, reliability is a concern as some units stopped working within a month of use.",
   "aspects": [
     {
       "name": "Performance",
-      "count": "191"
+      "count": "197"
     },
     {
       "name": "Installation",
@@ -12,15 +12,11 @@
     },
     {
       "name": "Water taste",
-      "count": "111"
+      "count": "112"
     },
     {
       "name": "Water quality",
-      "count": "109"
-    },
-    {
-      "name": "Appearance",
-      "count": "80"
+      "count": "111"
     },
     {
       "name": "Recommendation",
@@ -31,11 +27,31 @@
       "count": "72"
     },
     {
+      "name": "App functionality",
+      "count": "64"
+    },
+    {
       "name": "Reliability",
-      "count": "92"
+      "count": "89"
     }
   ],
   "reviews": [
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Amazing purchase",
+      "date": "2026-10-05",
+      "date_label": "5 October 2026",
+      "body": "I am writing this review after six months of purchase. The purifier is working without any problems. The design is sleek and modern. The customer service has been great and the taste of the water has been great and consistent."
+    },
+    {
+      "author": "Ganesh",
+      "rating": 5.0,
+      "title": "The Only Brand That Actually Honors Its Warranty",
+      "date": "2026-10-01",
+      "date_label": "1 October 2026",
+      "body": "Anyone who buys a Native RO purifier by Urban Company will never switch to another brand—it is hands-down the best water purifier in India today. ​Their customer service is exceptional and easily the best in the market. Most other brands only offer warranties on paper; when an issue arises, they endlessly redirect your calls and offer zero clarity. Urban Company, on the other hand, genuinely honors their unconditional warranty in practice. I’ve experienced it firsthand. ​The filtration quality, durability, and filter efficiency are top-notch. Having evaluated various options in India, Native b"
+    },
     {
       "author": "JITENDER DHIMAN",
       "rating": 5.0,
@@ -51,22 +67,6 @@
       "date": "2026-09-22",
       "date_label": "22 September 2026",
       "body": "I have been using the Native M2 Pro RO purifier and overall, I am quite satisfied with the product. The design is sleek, the water quality is good, and the purifier is easy to operate. The purification performance and taste of the water have been good so far. I also appreciate the smart features and overall user-friendly experience. One area where I feel there is scope for improvement is the after-sales service and clarity regarding filter replacement and maintenance costs. A more proactive service system and better communication about maintenance schedules would make the overall experience ev"
-    },
-    {
-      "author": "Siba Prasad Mohanty",
-      "rating": 5.0,
-      "title": "Excellent Product & Hassle-Free Experience – Highly Recommended!",
-      "date": "2026-09-19",
-      "date_label": "19 September 2026",
-      "body": "Really happy with my experience with the Urban Company Native M2 Pro. The product looks premium, works smoothly, and the performance has been excellent so far. The water quality is good, and the overall experience has been hassle-free. The installation and service were also handled professionally. Great product for the price, and I’m satisfied with my purchase. Highly recommended! 👍"
-    },
-    {
-      "author": "Nandan kumar",
-      "rating": 5.0,
-      "title": "Service and easy way to handle",
-      "date": "2026-09-16",
-      "date_label": "16 September 2026",
-      "body": "These product is great. Water quality is very good. Service is excellent. Installation was very quick. It's very easy to track everything because everything is visible in the app."
     },
     {
       "author": "Amazon Customer",

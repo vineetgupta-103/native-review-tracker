@@ -1,14 +1,10 @@
 {
-  "scraped": "2026-10-08",
-  "customers_say": "Customers find the water purifier to be of good quality, with quick and perfect installation, and appreciate its elegant design and functionality for daily use, particularly for small families. The water taste receives positive feedback, with customers noting they can control it according to their water source. The reliability and value for money receive mixed reviews - while some say it works perfectly and is good for its price, others report it stops working properly and consider it a waste of money. The service experience is also mixed, with some praising the customer support while others find it terrible.",
+  "scraped": "2026-10-09",
+  "customers_say": "Customers give positive feedback about the water purifier's design, describing it as elegant, and appreciate its functionality for small families and everyday use. The installation process is quick and perfect, and the water tastes good, with customers noting they can control the taste according to their water source. The reliability and value for money receive mixed reviews - while some say it works perfectly and is worth the money, others report it stops working properly and consider it a waste of money. The service and customer experience also get mixed reactions, with some praising the service while others find it terrible.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "1.4K"
-    },
-    {
       "name": "Installation",
-      "count": "176"
+      "count": "175"
     },
     {
       "name": "Water taste",
@@ -20,29 +16,33 @@
     },
     {
       "name": "Functionality",
-      "count": "55"
+      "count": "54"
     },
     {
       "name": "Reliability",
-      "count": "369"
+      "count": "371"
     },
     {
       "name": "Value for money",
-      "count": "313"
+      "count": "315"
     },
     {
       "name": "Service",
       "count": "52"
+    },
+    {
+      "name": "Customer experience",
+      "count": "49"
     }
   ],
   "reviews": [
     {
-      "author": "biswadev datta",
+      "author": "Noah",
       "rating": 5.0,
-      "title": "For better life aquaguard is inevitable",
-      "date": "2026-10-03",
-      "date_label": "3 October 2026",
-      "body": "Awesome service and very good machine, works smoothly"
+      "title": "Product is good and happy currently",
+      "date": "2026-10-07",
+      "date_label": "7 October 2026",
+      "body": "Very good product and working fine currently.. TDS level also reduced drastically.. Happy about the product and installation was also good. Technician was way ahead of time and installed clarified all our doubts."
     },
     {
       "author": "Kavi Chakravarthi",
@@ -61,20 +61,20 @@
       "body": "Really happy with my purchase of the Aquaguard ENRICH Marvel RO+UV+UF Water Purifier. The 12-stage purification, copper and alkaline booster, and high water recovery make it a great choice for everyday use. The water tastes clean and fresh, and the purifier works smoothly without making much noise. I also like that it is suitable for different water sources and comes with a long filter life, which makes it convenient and economical in the long run. Overall, a reliable and premium-quality water purifier. The technician was also very good, professional, and supportive throughout the installation"
     },
     {
-      "author": "Narmadha",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-09-24",
-      "date_label": "24 September 2026",
-      "body": "Working Well"
-    },
-    {
       "author": "Amazon Customer",
       "rating": 5.0,
       "title": "Very nice",
       "date": "2026-09-19",
       "date_label": "19 September 2026",
       "body": "This product is very nice and working properly . Installation process was very smooth .. overall i liked the product .. must buy and value for money"
+    },
+    {
+      "author": "Amrendra",
+      "rating": 5.0,
+      "title": "Highly recommended",
+      "date": "2026-09-09",
+      "date_label": "9 September 2026",
+      "body": "Excellent water purifier – looks premium and works great! I am very happy with this Aquaguard water purifier. The design looks very stylish and premium, and the installation was also smooth. The water quality and taste are good, and the smart display is really useful to keep track of the purifier. The build quality feels good and it looks beautiful on the kitchen wall. Overall, a great product for daily use and definitely worth considering if you are looking for a reliable water purifier. Highly recommended! 💧✨"
     }
   ]
 }

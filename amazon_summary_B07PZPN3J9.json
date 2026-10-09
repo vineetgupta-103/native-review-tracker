@@ -1,8 +1,49 @@
 {
-  "scraped": "2026-10-08",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-10-09",
+  "customers_say": "Customers find the water purifier easy to install and appreciate its good taste, clean output, and great service. The reliability and durability receive mixed feedback - while some say it works well initially, others report it stops working after 4 months and won't last more than a year. The value for money and water wastage aspects also get mixed reviews, with some finding it worth the price while others consider it costly and question the zero-wastage claim.",
+  "aspects": [
+    {
+      "name": "Installation",
+      "count": "35"
+    },
+    {
+      "name": "Water taste",
+      "count": "23"
+    },
+    {
+      "name": "Water quality",
+      "count": "14"
+    },
+    {
+      "name": "Service",
+      "count": "12"
+    },
+    {
+      "name": "Value for money",
+      "count": "84"
+    },
+    {
+      "name": "Reliability",
+      "count": "53"
+    },
+    {
+      "name": "Water wastage",
+      "count": "20"
+    },
+    {
+      "name": "Durability",
+      "count": "21"
+    }
+  ],
   "reviews": [
+    {
+      "author": "Ali",
+      "rating": 1.0,
+      "title": "Problem after 4th month, bad service experience",
+      "date": "2026-10-04",
+      "date_label": "4 October 2026",
+      "body": "After 4 months, landed into a problem.. getting serviced is very difficult. I need to follow up and call assigned technicians (note: Kent asked me to contact assigned technician) . Technician don’t care, they will come at ease after two days."
+    },
     {
       "author": "Sushma Bhagat",
       "rating": 3.0,
@@ -34,14 +75,6 @@
       "date": "2026-09-09",
       "date_label": "9 September 2026",
       "body": "Great product."
-    },
-    {
-      "author": "Soumit chandra",
-      "rating": 5.0,
-      "title": "Good Product",
-      "date": "2026-09-03",
-      "date_label": "3 September 2026",
-      "body": "Good product"
     }
   ]
 }

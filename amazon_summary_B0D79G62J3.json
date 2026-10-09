@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-08",
-  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation, premium appearance, and good water quality that makes a noticeable difference. Moreover, the service receives positive feedback, with one customer noting the technical expertise of the service team. However, opinions about value for money are mixed, with some finding it worth the price while others say not to buy it. Additionally, reliability and taste receive mixed reviews, with some reporting it works perfectly while others say it doesn't work properly, and some praising the taste while others find it bad.",
+  "scraped": "2026-10-09",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation, premium appearance, and great water quality that makes a noticeable difference. Moreover, the service receives positive feedback for being the best in the industry. However, opinions about value for money are mixed, with some finding it worth the price while others say not to waste money on it. Additionally, reliability and taste receive mixed reviews, with some reporting the purifier stops working and others saying the water tastes excellent.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,34 +8,42 @@
     },
     {
       "name": "Installation",
-      "count": "328"
+      "count": "333"
     },
     {
       "name": "Appearance",
-      "count": "207"
+      "count": "206"
     },
     {
       "name": "Water quality",
-      "count": "170"
+      "count": "156"
     },
     {
       "name": "Service",
-      "count": "144"
+      "count": "146"
     },
     {
       "name": "Value for money",
-      "count": "521"
+      "count": "524"
     },
     {
       "name": "Reliability",
-      "count": "319"
+      "count": "320"
     },
     {
       "name": "Water taste",
-      "count": "217"
+      "count": "218"
     }
   ],
   "reviews": [
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "Great quality",
+      "date": "2026-10-04",
+      "date_label": "4 October 2026",
+      "body": "Top notch at this price Best quality water & best service together they are winning"
+    },
     {
       "author": "Shayani",
       "rating": 5.0,
@@ -51,14 +59,6 @@
       "date": "2026-09-29",
       "date_label": "29 September 2026",
       "body": "Wonderful product with no other hidden charges, everything is covered! just sit back and relax for 2 years! really surprised by the service promptness in specified time & prompt follow up post delivery & installation felt really good..."
-    },
-    {
-      "author": "Ayantik Khamrui",
-      "rating": 5.0,
-      "title": "Great RO filter at a very affordable price",
-      "date": "2026-09-29",
-      "date_label": "29 September 2026",
-      "body": "Brief content visible, double tap to read full content.Full content visible, double tap to read brief content. Read moreRead less"
     },
     {
       "author": "Ajit Anupam",
