@@ -1,15 +1,7 @@
 {
-  "scraped": "2026-10-10",
-  "customers_say": "Customers find the door lock worth its price and appreciate its reliable performance, with one noting that fingerprint and face recognition work perfectly. The installation process is straightforward and quick, and the lock provides multiple unlocking options. They value its security features, with one mentioning the anti-pry/tamper alarm, and find it convenient to use, with one noting the camera's usefulness. Customers like its appearance and service.",
+  "scraped": "2026-10-11",
+  "customers_say": "Customers find the door lock straightforward to install and appreciate its comprehensive features, with one noting how well the setup process is explained. They praise its security features, with one mentioning the anti-pry/tamper alarm, and find it convenient to use, with one highlighting the camera's usefulness. The lock receives positive feedback for its appearance, service, and support, though battery life receives mixed reviews.",
   "aspects": [
-    {
-      "name": "Reliability",
-      "count": "37"
-    },
-    {
-      "name": "Value for money",
-      "count": "37"
-    },
     {
       "name": "Installation",
       "count": "34"
@@ -33,9 +25,25 @@
     {
       "name": "Service",
       "count": "7"
+    },
+    {
+      "name": "Support",
+      "count": "7"
+    },
+    {
+      "name": "Battery life",
+      "count": "6"
     }
   ],
   "reviews": [
+    {
+      "author": "Tyagi SK",
+      "rating": 5.0,
+      "title": "Value for money",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "This is a cost effective digital lock with so many features. Value for money. I like this lock."
+    },
     {
       "author": "Ahamed Mohideen",
       "rating": 1.0,
@@ -45,36 +53,28 @@
       "body": "Alredy buy from amazon last 15 days back. Lock insulated yesterday. But the lock does not work properly. I contacted the above mention of your service call no. But do not pick up the call. How to replace the lock? Service is very worst."
     },
     {
+      "author": "Sapna",
+      "rating": 5.0,
+      "title": "Nice feature.",
+      "date": "2026-10-08",
+      "date_label": "8 October 2026",
+      "body": "Product safety is good and service is also best and quick response."
+    },
+    {
+      "author": "Hali Welly",
+      "rating": 5.0,
+      "title": "One of the best lock ever.",
+      "date": "2026-10-08",
+      "date_label": "8 October 2026",
+      "body": "One of the best smart lock ever I had since 5years I have been using this lock."
+    },
+    {
       "author": "Nikhil",
       "rating": 5.0,
       "title": "Excellent Smart Lock – Secure and Easy to Use",
       "date": "2026-10-05",
       "date_label": "5 October 2026",
       "body": "Very good smart lock with fast fingerprint recognition and multiple unlocking options. Easy to use, good build quality, and enhances home security. Installation was smooth and the app works well. Highly recommended. ⭐⭐⭐⭐⭐"
-    },
-    {
-      "author": "Sai",
-      "rating": 5.0,
-      "title": "Great lock and great support from Lavna team",
-      "date": "2026-09-24",
-      "date_label": "24 September 2026",
-      "body": "Really good smart lock! It works well and has a lot of features that can keep your house safe. The customer support is really responsive and they helped me go inside my house when the battery died, All in a simple video call! Special thanks to Jatin who handles the LA44 model support, He instructed me every step of way to reset locks, use emergency power ports, etc."
-    },
-    {
-      "author": "Vinoth",
-      "rating": 5.0,
-      "title": "LA44 smart lock",
-      "date": "2026-09-23",
-      "date_label": "23 September 2026",
-      "body": "Very useful and secured"
-    },
-    {
-      "author": "srikanth allena",
-      "rating": 5.0,
-      "title": "LA44 is very secure",
-      "date": "2026-09-08",
-      "date_label": "8 September 2026",
-      "body": "⭐⭐⭐⭐⭐ Very happy with the Lavna LA44 I recently purchased the Lavna LA44 smart lock and so far I’m really happy with it. The lock looks premium and feels very solid and well-built. The installation and setup were pretty straightforward. I really like the fingerprint feature — it works quickly and makes it so much more convenient than carrying a key around. The lock has been working smoothly, and I haven’t faced any issues so far. What I like most is the combination of security, convenience, and the overall look of the lock. It feels like a good upgrade for the home and is definitely worth the "
     }
   ]
 }

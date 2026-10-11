@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-10",
+  "scraped": "2026-10-11",
   "customers_say": "Customers find the water purifier reliable and worth the price, particularly appreciating that maintenance and service costs are zero for the first two years. The product receives positive feedback for its great taste, appearance, and ease of use, with one customer noting its premium matte finish. Installation is hassle-free, and while the filter life receives mixed reviews with some units malfunctioning within a month, customers report issues with water leakage, mentioning persistent overflow from the storage tank.",
   "aspects": [
     {
       "name": "Performance",
-      "count": "71"
+      "count": "72"
     },
     {
       "name": "Value for money",
@@ -53,6 +53,14 @@
       "body": "Installation today..I will share my experience later... overall the machine performance is GOOD"
     },
     {
+      "author": "syed.suisse",
+      "rating": 5.0,
+      "title": "Very good product.",
+      "date": "2026-09-20",
+      "date_label": "20 September 2026",
+      "body": "simple, best. No app, this is what i want."
+    },
+    {
       "author": "Ravi Singh",
       "rating": 5.0,
       "title": "Good Product at a reasonable price.",
@@ -67,14 +75,6 @@
       "date": "2026-08-23",
       "date_label": "23 August 2026",
       "body": "Buying to installation is very good experience. All parts is provided by company. No need to pay anything after purchasing."
-    },
-    {
-      "author": "Rijuwan shaikh",
-      "rating": 4.0,
-      "title": "Great looks",
-      "date": "2026-07-22",
-      "date_label": "22 July 2026",
-      "body": "Value for money..water tds level properly maintained. Low maintenance."
     }
   ]
 }

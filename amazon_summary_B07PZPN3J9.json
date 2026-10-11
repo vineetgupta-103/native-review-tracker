@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-10",
-  "customers_say": "Customers find the water purifier easy to install and appreciate its good taste, clean output, and great service. The reliability and durability receive mixed feedback - while some say it works well initially, others report it stops working after 4 months and won't last more than a year. The value for money and water wastage aspects also get mixed reviews, with some finding it worth the price while others consider it costly and question the zero-wastage claim.",
+  "scraped": "2026-10-11",
+  "customers_say": "Customers find the water purifier easy to install and appreciate its clean output, with one noting it completely changes water hardness and taste. Moreover, the service receives positive feedback. However, the product's reliability and durability are mixed - while some say it works well, others report it stops working after 4 months and won't last more than a year. Additionally, opinions on water wastage are divided, with some claiming zero wastage while others say it's a gimmick. The value for money is also mixed, with some finding it worth the cost while others consider it expensive.",
   "aspects": [
     {
       "name": "Installation",
@@ -11,11 +11,11 @@
       "count": "23"
     },
     {
-      "name": "Water quality",
-      "count": "13"
+      "name": "Service",
+      "count": "12"
     },
     {
-      "name": "Service",
+      "name": "Water quality",
       "count": "12"
     },
     {

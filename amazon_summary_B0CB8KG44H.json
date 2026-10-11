@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-10",
-  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, ease of use, and water quality. However, the reliability receives mixed reviews, with some reporting it stops working while others say it performs well. Moreover, durability is a concern as filters break within 6 months, and there are issues with continuous leakage from the machine. Additionally, water wastage is a significant problem, with customers noting that 20 liters are wasted to produce 8 liters of purified water.",
+  "scraped": "2026-10-11",
+  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, ease of use, and water quality, with one customer noting a substantial improvement in filtration. However, the reliability and durability receive mixed reviews - while some say it works well initially, others report it stops working and the filters break within 6 months. Moreover, several customers mention issues with continuous leakage from the machine. The value for money aspect also receives mixed feedback, with some finding it good for the price while others consider it not worth the investment.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Water taste",
-      "count": "209"
+      "count": "210"
     },
     {
       "name": "Ease of use",
@@ -16,11 +16,15 @@
     },
     {
       "name": "Water quality",
-      "count": "141"
+      "count": "140"
+    },
+    {
+      "name": "Value for money",
+      "count": "670"
     },
     {
       "name": "Reliability",
-      "count": "592"
+      "count": "587"
     },
     {
       "name": "Durability",
@@ -29,13 +33,17 @@
     {
       "name": "Leakage",
       "count": "106"
-    },
-    {
-      "name": "Water wastage",
-      "count": "103"
     }
   ],
   "reviews": [
+    {
+      "author": "Nishankkulshreshtha",
+      "rating": 5.0,
+      "title": "Good purchase!",
+      "date": "2026-10-08",
+      "date_label": "8 October 2026",
+      "body": "Really good water purifier, buy it and forget. Installation was quick, no issues so far."
+    },
     {
       "author": "Divya Shibu",
       "rating": 5.0,
@@ -61,20 +69,12 @@
       "body": "The item itself was satisfactory, yet the packaging was disappointing. The carton showed tears in several spots, raising concerns about potential drops or mishandling. Its exterior appeared pressed against something during shipping, with numerous wrinkles visible. I hope future packaging avoids such issues."
     },
     {
-      "author": "Nataji",
-      "rating": 5.0,
-      "title": "Satisfaction",
-      "date": "2026-09-29",
-      "date_label": "29 September 2026",
-      "body": "Kent 💯/💯, wonderful product with good service support"
-    },
-    {
-      "author": "Kunal Nhavi",
-      "rating": 5.0,
-      "title": "product review",
-      "date": "2026-09-27",
-      "date_label": "27 September 2026",
-      "body": "Product is good and service is too good."
+      "author": "Sudeep",
+      "rating": 4.0,
+      "title": "Good",
+      "date": "2026-09-26",
+      "date_label": "26 September 2026",
+      "body": "Just installed, 1500 extra charge for iron pre filter & installation person behavior is good, clean and professional. 🙂"
     }
   ]
 }

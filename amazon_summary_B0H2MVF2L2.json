@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-10-10",
-  "customers_say": "Customers are impressed with the smart lock's reliability, noting that the face unlock feature works quickly every time, and appreciate its user-friendly app interface. The lock features a simple door handle design that matches well with home decor, and customers find it convenient to use. They praise its build quality and installation process, and consider it a good value for money.",
+  "scraped": "2026-10-11",
+  "customers_say": "Customers find the door lock reliable, with face unlock working quickly every time, and appreciate its variety of access options and premium-looking design that looks like a simple door handle. The lock receives positive feedback for its build quality, installation experience, and security features, with one customer noting its top-tier safety. They consider it budget-friendly and convenient, with one mentioning the ability to open the door from anywhere.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "72"
-    },
-    {
       "name": "Value for money",
-      "count": "26"
+      "count": "27"
     },
     {
       "name": "Reliability",
-      "count": "25"
+      "count": "26"
     },
     {
       "name": "Features",
-      "count": "22"
+      "count": "24"
     },
     {
-      "name": "Ease of use",
-      "count": "21"
-    },
-    {
-      "name": "Appearance",
-      "count": "15"
+      "name": "Design",
+      "count": "18"
     },
     {
       "name": "Build quality",
-      "count": "15"
+      "count": "17"
     },
     {
       "name": "Installation",
-      "count": "12"
+      "count": "15"
+    },
+    {
+      "name": "Convenience",
+      "count": "9"
+    },
+    {
+      "name": "Security",
+      "count": "9"
     }
   ],
   "reviews": [
@@ -43,6 +43,14 @@
       "date": "2026-10-07",
       "date_label": "7 October 2026",
       "body": "Excellent Smart Lock with Premium Looks and Features I recently purchased the Native Lock Ultra by Urban Company from Amazon, and so far, I am very impressed with the product. The lock has a sleek, premium-looking design and blends really well with the door. What I particularly like is the variety of access options available — fingerprint, face recognition and RFID, in addition to the other conventional options. Having multiple ways to unlock the door is extremely convenient for a family. The Native app is another highlight. It is well designed, intuitive and makes configuring and managing the"
+    },
+    {
+      "author": "Hareesh",
+      "rating": 5.0,
+      "title": "Worth the upgrade",
+      "date": "2026-10-06",
+      "date_label": "6 October 2026",
+      "body": "I recently purchased the Native Lock Ultra and have been really impressed with the overall experience. The lock has a sleek and premium design, and the build quality feels solid and reliable.The installation was smooth, and the lock is very convenient to use. The smart features make it easy to manage access without having to depend on traditional keys, which is especially useful for everyday use.What I liked most is the combination of security, convenience, and modern design. The product feels well thought out and adds a premium touch to the door. Overall, I’m happy with the Native Lock Ultra "
     },
     {
       "author": "Satyam Singh",
@@ -67,14 +75,6 @@
       "date": "2026-09-26",
       "date_label": "26 September 2026",
       "body": "Great smart lock! Premium design, easy to use, and the app features like remote unlocking, live view and instant notifications work really well. Feels secure and premium. Happy with the purchase! Worth the price."
-    },
-    {
-      "author": "swaroopbhat",
-      "rating": 5.0,
-      "title": "Best smart lock with amazing features!",
-      "date": "2026-09-26",
-      "date_label": "26 September 2026",
-      "body": "Just got the native lock installed at my place. The quality, finish and features they offer is just mind-blowing! The locking and unlocking of the door is soo smooth. I got it installed for my parents and they're really enjoying it (especially the fingerprint) as it's very convenient for them now!"
     }
   ]
 }

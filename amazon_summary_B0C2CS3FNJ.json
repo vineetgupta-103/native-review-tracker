@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-10",
-  "customers_say": "Customers find the smart lock to be of good quality, easy to install, and worth the money. They appreciate its premium appearance, strong security features, and multiple unlocking options, with one customer noting it's particularly convenient for keyless entry while maintaining safety. The connectivity aspect receives mixed feedback - while it connects via Bluetooth, some customers note it lacks WiFi and Google Home integration.",
+  "scraped": "2026-10-11",
+  "customers_say": "Customers find the smart lock to be of good quality and appreciate its appearance, describing it as beautiful and premium-looking. Moreover, the installation process receives positive feedback, with one customer noting seamless integration through the app. Additionally, they praise its functionality, with one mentioning flawless real-time alerts, and its ease of use, with one highlighting the convenient finger and password entry options. Customers value its security features, with one noting it provides keyless entry without compromising safety, and consider it worth the money spent.",
   "aspects": [
     {
       "name": "Quality",
@@ -9,6 +9,10 @@
     {
       "name": "Installation",
       "count": "35"
+    },
+    {
+      "name": "Functionality",
+      "count": "30"
     },
     {
       "name": "Value for money",
@@ -29,10 +33,6 @@
     {
       "name": "Security",
       "count": "14"
-    },
-    {
-      "name": "Connectivity",
-      "count": "13"
     }
   ],
   "reviews": [

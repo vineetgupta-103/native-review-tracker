@@ -1,14 +1,18 @@
 {
-  "scraped": "2026-10-10",
-  "customers_say": "Customers find the water purifier performs better than expected and appreciate its good installation process. The water quality receives positive feedback, with one customer noting TDS levels below 100, while the mobile app provides vital monitoring information. They consider it an excellent choice with zero-service hassle for two years. However, reliability is a concern as some units stopped working within a month of use.",
+  "scraped": "2026-10-11",
+  "customers_say": "Customers find this water purifier to be the best in the market with excellent performance, particularly appreciating its zero-service hassle and 2-year warranty. The product receives positive feedback for its taste, water quality, and installation process. However, reliability is a concern as some units stopped working within a month of use.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "1.2K"
+    },
     {
       "name": "Performance",
       "count": "197"
     },
     {
       "name": "Installation",
-      "count": "162"
+      "count": "161"
     },
     {
       "name": "Water taste",
@@ -27,23 +31,11 @@
       "count": "72"
     },
     {
-      "name": "App functionality",
-      "count": "64"
-    },
-    {
       "name": "Reliability",
-      "count": "89"
+      "count": "90"
     }
   ],
   "reviews": [
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Amazing purchase",
-      "date": "2026-10-05",
-      "date_label": "5 October 2026",
-      "body": "I am writing this review after six months of purchase. The purifier is working without any problems. The design is sleek and modern. The customer service has been great and the taste of the water has been great and consistent."
-    },
     {
       "author": "Ganesh",
       "rating": 5.0,
@@ -67,6 +59,14 @@
       "date": "2026-09-22",
       "date_label": "22 September 2026",
       "body": "I have been using the Native M2 Pro RO purifier and overall, I am quite satisfied with the product. The design is sleek, the water quality is good, and the purifier is easy to operate. The purification performance and taste of the water have been good so far. I also appreciate the smart features and overall user-friendly experience. One area where I feel there is scope for improvement is the after-sales service and clarity regarding filter replacement and maintenance costs. A more proactive service system and better communication about maintenance schedules would make the overall experience ev"
+    },
+    {
+      "author": "Siba Prasad Mohanty",
+      "rating": 5.0,
+      "title": "Excellent Product & Hassle-Free Experience – Highly Recommended!",
+      "date": "2026-09-19",
+      "date_label": "19 September 2026",
+      "body": "Really happy with my experience with the Urban Company Native M2 Pro. The product looks premium, works smoothly, and the performance has been excellent so far. The water quality is good, and the overall experience has been hassle-free. The installation and service were also handled professionally. Great product for the price, and I’m satisfied with my purchase. Highly recommended! 👍"
     },
     {
       "author": "Amazon Customer",

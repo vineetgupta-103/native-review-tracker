@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-10",
-  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation, premium appearance, and great water quality that makes a noticeable difference. Moreover, the service receives positive feedback for being the best in the industry. However, opinions about value for money are mixed, with some finding it worth the price while others say not to waste money on it. Additionally, reliability and taste receive mixed reviews, with some reporting the purifier stops working and others saying the water tastes excellent.",
+  "scraped": "2026-10-11",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation, premium appearance, and great water quality that makes a noticeable difference. Moreover, they appreciate its ease of use and hassle-free operation, along with professional service. However, opinions about value for money are mixed, with some finding it worth the price while others consider it not value for money. Additionally, customers disagree on the taste of the water.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,7 @@
     },
     {
       "name": "Installation",
-      "count": "333"
+      "count": "336"
     },
     {
       "name": "Appearance",
@@ -16,19 +16,19 @@
     },
     {
       "name": "Water quality",
-      "count": "156"
+      "count": "157"
     },
     {
       "name": "Service",
-      "count": "146"
+      "count": "148"
+    },
+    {
+      "name": "Ease of use",
+      "count": "94"
     },
     {
       "name": "Value for money",
-      "count": "524"
-    },
-    {
-      "name": "Reliability",
-      "count": "320"
+      "count": "531"
     },
     {
       "name": "Water taste",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Srinivas .N",
+      "rating": 4.0,
+      "title": "Must buy",
+      "date": "2026-10-08",
+      "date_label": "8 October 2026",
+      "body": "Very good"
+    },
+    {
+      "author": "Aditya K.",
+      "rating": 4.0,
+      "title": "Good purification",
+      "date": "2026-10-08",
+      "date_label": "8 October 2026",
+      "body": "Good water purifier low water wastage No issue found yet,add essential miniral also."
+    },
     {
       "author": "Shrikrishna",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-09-29",
       "date_label": "29 September 2026",
       "body": "Wonderful product with no other hidden charges, everything is covered! just sit back and relax for 2 years! really surprised by the service promptness in specified time & prompt follow up post delivery & installation felt really good..."
-    },
-    {
-      "author": "Ajit Anupam",
-      "rating": 5.0,
-      "title": "Excellent",
-      "date": "2026-09-28",
-      "date_label": "28 September 2026",
-      "body": "The entire experience from fast delivery to installation was completely seamless. The technician was extremely knowledgeable and explained all the features and maintenance thoroughly. Getting the TDS meter was a great touch—it made verifying the water quality and taste improvement immediate. The purifier works quietly, looks great, and delivers excellent performance. Highly recommended!"
-    },
-    {
-      "author": "Karthik Reddy",
-      "rating": 4.0,
-      "title": "Great performance and good looking",
-      "date": "2026-09-25",
-      "date_label": "25 September 2026",
-      "body": "Good water purifier"
     }
   ]
 }

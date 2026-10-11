@@ -1,38 +1,38 @@
 {
-  "scraped": "2026-10-10",
-  "customers_say": "Customers give positive feedback about the water purifier's design, describing it as elegant, and appreciate its functionality for small families and everyday use. The installation process is quick and perfect, and the water tastes good, with customers noting they can control the taste according to their water source. The reliability and value for money receive mixed reviews - while some say it works perfectly and is worth the money, others report it stops working properly and consider it a waste of money. The service and customer experience also get mixed reactions, with some praising the service while others find it terrible.",
+  "scraped": "2026-10-11",
+  "customers_say": "Customers find the water purifier delivers clean, safe drinking water consistently and appreciate its premium design. The installation process is smooth, and the water tastes good, with customers noting they can control the taste according to their water source. While some customers consider it worth the price, others feel it's overpriced. The service receives mixed feedback, with some customers reporting good service while others find it terrible.",
   "aspects": [
     {
-      "name": "Installation",
-      "count": "175"
-    },
-    {
-      "name": "Water taste",
-      "count": "108"
-    },
-    {
-      "name": "Design",
-      "count": "88"
-    },
-    {
-      "name": "Functionality",
-      "count": "54"
+      "name": "Quality",
+      "count": "1K"
     },
     {
       "name": "Reliability",
-      "count": "371"
+      "count": "239"
+    },
+    {
+      "name": "Installation",
+      "count": "119"
+    },
+    {
+      "name": "Water quality",
+      "count": "79"
+    },
+    {
+      "name": "Water taste",
+      "count": "70"
+    },
+    {
+      "name": "Design",
+      "count": "63"
     },
     {
       "name": "Value for money",
-      "count": "315"
+      "count": "221"
     },
     {
       "name": "Service",
-      "count": "52"
-    },
-    {
-      "name": "Customer experience",
-      "count": "49"
+      "count": "34"
     }
   ],
   "reviews": [
@@ -53,20 +53,12 @@
       "body": "Working great, worth for every penny"
     },
     {
-      "author": "S P",
+      "author": "Narmadha",
       "rating": 4.0,
-      "title": "Pure water",
-      "date": "2026-09-28",
-      "date_label": "28 September 2026",
-      "body": "I have just bought the equipment. On first glance, built quality is ok. It comes with an RO FILTER which is not required for my area. Anyone buying online please check your TDS level of water before buying. I will update on the product once I fully use it. Presently I am rating it 4 star because after receiving the item even for 2day on one came for installation. I had to call customer care of Amazon and only then the process started. I lost 4days due to this."
-    },
-    {
-      "author": "BONITA RAI",
-      "rating": 5.0,
-      "title": "Filter for your home",
-      "date": "2026-09-13",
-      "date_label": "13 September 2026",
-      "body": "It’s doing a great job, all the details are visible on your phone, you don’t need to keep on checking the water purifier physically."
+      "title": "Good",
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Working Well"
     },
     {
       "author": "Amrendra",
@@ -75,6 +67,14 @@
       "date": "2026-09-09",
       "date_label": "9 September 2026",
       "body": "Excellent water purifier – looks premium and works great! I am very happy with this Aquaguard water purifier. The design looks very stylish and premium, and the installation was also smooth. The water quality and taste are good, and the smart display is really useful to keep track of the purifier. The build quality feels good and it looks beautiful on the kitchen wall. Overall, a great product for daily use and definitely worth considering if you are looking for a reliable water purifier. Highly recommended! 💧✨"
+    },
+    {
+      "author": "Rushikesh",
+      "rating": 5.0,
+      "title": "Great value for money",
+      "date": "2026-09-06",
+      "date_label": "6 September 2026",
+      "body": "Very nice purifier. Wworks great and the service is also good"
     }
   ]
 }
