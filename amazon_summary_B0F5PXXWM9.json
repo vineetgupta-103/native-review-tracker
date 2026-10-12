@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-11",
-  "customers_say": "Customers find the water purification unit to be of good quality, working well, and consider it a budget-friendly option. The water quality is excellent, with hard water purified to the best possible quality, and they appreciate its taste and ease of use. The service receives mixed feedback, with some customers praising the prompt service while others report extremely poor customer care and after-sales service.",
+  "scraped": "2026-10-12",
+  "customers_say": "Customers find the water purification unit to be of good quality and reliable, with clean and pure water that tastes good and is easy to use. The service and customer experience receive mixed feedback - while some report prompt service and positive experiences, others complain about bad customer care and after-sales service. Several customers strongly advise against purchasing this product.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,11 +8,7 @@
     },
     {
       "name": "Reliability",
-      "count": "898"
-    },
-    {
-      "name": "Value for money",
-      "count": "811"
+      "count": "899"
     },
     {
       "name": "Water taste",
@@ -31,11 +27,23 @@
       "count": "151"
     },
     {
+      "name": "Customer experience",
+      "count": "126"
+    },
+    {
       "name": "Purchase",
       "count": "181"
     }
   ],
   "reviews": [
+    {
+      "author": "Charitha Reddy Malasani",
+      "rating": 5.0,
+      "title": "Aquaguard Review",
+      "date": "2026-10-10",
+      "date_label": "10 October 2026",
+      "body": "Great product and the installation service quick and technician was perfect. His knowledge about the product was really good and gave us a demo too. Happy with product and the service.(Technician code: 2015649)"
+    },
     {
       "author": "Vishwa",
       "rating": 4.0,
@@ -43,14 +51,6 @@
       "date": "2026-10-06",
       "date_label": "6 October 2026",
       "body": "Water taste is good"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 4.0,
-      "title": "Good product",
-      "date": "2026-10-05",
-      "date_label": "5 October 2026",
-      "body": "Good product for the value"
     },
     {
       "author": "kamalakannan",

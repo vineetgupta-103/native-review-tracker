@@ -1,7 +1,11 @@
 {
-  "scraped": "2026-10-11",
-  "customers_say": "Customers find the water purifier reliable and worth the price, particularly appreciating that maintenance and service costs are zero for the first two years. The product receives positive feedback for its great taste, appearance, and ease of use, with one customer noting its premium matte finish. Installation is hassle-free, and while the filter life receives mixed reviews with some units malfunctioning within a month, customers report issues with water leakage, mentioning persistent overflow from the storage tank.",
+  "scraped": "2026-10-12",
+  "customers_say": "Customers find this water purifier to be the best in the market with excellent performance and maintenance-free operation for the first two years. They appreciate its great taste, premium appearance, and hassle-free installation process. The filter life receives mixed reviews, with some customers reporting malfunction within a month.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "291"
+    },
     {
       "name": "Performance",
       "count": "72"
@@ -29,13 +33,17 @@
     {
       "name": "Filter life",
       "count": "19"
-    },
-    {
-      "name": "Water leakage",
-      "count": "19"
     }
   ],
   "reviews": [
+    {
+      "author": "Sadath Ali",
+      "rating": 4.0,
+      "title": "Item quality",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "Good product"
+    },
     {
       "author": "Rahul",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-10-07",
       "date_label": "7 October 2026",
       "body": "It's been a year, no issues till date"
-    },
-    {
-      "author": "S.ARIVAZHAGAN",
-      "rating": 5.0,
-      "title": "App interactive with the installation attendant each and every move",
-      "date": "2026-09-25",
-      "date_label": "25 September 2026",
-      "body": "Installation today..I will share my experience later... overall the machine performance is GOOD"
     },
     {
       "author": "syed.suisse",

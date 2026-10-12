@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-11",
-  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation, premium appearance, and great water quality that makes a noticeable difference. Moreover, they appreciate its ease of use and hassle-free operation, along with professional service. However, opinions about value for money are mixed, with some finding it worth the price while others consider it not value for money. Additionally, customers disagree on the taste of the water.",
+  "scraped": "2026-10-12",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and reliable performance that lasts up to 2 years without issues. The product receives positive feedback for its appearance, with one customer noting it stands out among its peers, and they appreciate its water quality, reporting noticeable improvements. While some customers find it worth the price, others express concerns about value for money, and opinions about water taste are mixed.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,7 +8,11 @@
     },
     {
       "name": "Installation",
-      "count": "336"
+      "count": "337"
+    },
+    {
+      "name": "Reliability",
+      "count": "327"
     },
     {
       "name": "Appearance",
@@ -16,26 +20,38 @@
     },
     {
       "name": "Water quality",
-      "count": "157"
+      "count": "159"
     },
     {
       "name": "Service",
-      "count": "148"
-    },
-    {
-      "name": "Ease of use",
-      "count": "94"
+      "count": "149"
     },
     {
       "name": "Value for money",
-      "count": "531"
+      "count": "534"
     },
     {
       "name": "Water taste",
-      "count": "218"
+      "count": "219"
     }
   ],
   "reviews": [
+    {
+      "author": "Jobee Philip",
+      "rating": 5.0,
+      "title": "A perfect water purifier",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "A perfect water purifier meeting all standards and catering to essential mineral needs. Easy to install and no hassles in connecting to the WiFi. Can monitor the ROs health remotely and control it as well. Perfect buy"
+    },
+    {
+      "author": "The1",
+      "rating": 5.0,
+      "title": "Very good product for banglore",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "Very good product.. getting desired filter water and service was very good"
+    },
     {
       "author": "Srinivas .N",
       "rating": 4.0,
@@ -45,12 +61,12 @@
       "body": "Very good"
     },
     {
-      "author": "Aditya K.",
-      "rating": 4.0,
-      "title": "Good purification",
+      "author": "Nathan Job Antony",
+      "rating": 5.0,
+      "title": "Great product. Good service",
       "date": "2026-10-08",
       "date_label": "8 October 2026",
-      "body": "Good water purifier low water wastage No issue found yet,add essential miniral also."
+      "body": "Great product. Been working good so far."
     },
     {
       "author": "Shrikrishna",
@@ -59,22 +75,6 @@
       "date": "2026-10-07",
       "date_label": "7 October 2026",
       "body": "Very good product. Quick installation by team. Very happy with product"
-    },
-    {
-      "author": "Shayani",
-      "rating": 5.0,
-      "title": "Super buy",
-      "date": "2026-10-02",
-      "date_label": "2 October 2026",
-      "body": "Amazing, good design, very classy, works superb"
-    },
-    {
-      "author": "SONU KUMAR BHASKAR",
-      "rating": 5.0,
-      "title": "Native m1",
-      "date": "2026-09-29",
-      "date_label": "29 September 2026",
-      "body": "Wonderful product with no other hidden charges, everything is covered! just sit back and relax for 2 years! really surprised by the service promptness in specified time & prompt follow up post delivery & installation felt really good..."
     }
   ]
 }

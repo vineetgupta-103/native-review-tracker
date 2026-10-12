@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-10-11",
+  "scraped": "2026-10-12",
   "customers_say": "Customers find this water purifier to be the best in the market with impressive smart technology and features, noting its premium look and crisp water taste. They appreciate the installation process, with one mentioning the knowledgeable installation engineer. While some customers consider it worth the money, others deeply regret their purchase. The reliability receives mixed feedback, with some reporting it works well while others mention it stops functioning after a few days.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "956"
+      "count": "958"
     },
     {
       "name": "Installation",
-      "count": "245"
+      "count": "246"
     },
     {
       "name": "Design",
-      "count": "116"
+      "count": "117"
     },
     {
       "name": "Water taste",
@@ -28,14 +28,22 @@
     },
     {
       "name": "Reliability",
-      "count": "239"
+      "count": "238"
     },
     {
       "name": "Value for money",
-      "count": "212"
+      "count": "213"
     }
   ],
   "reviews": [
+    {
+      "author": "Justin",
+      "rating": 5.0,
+      "title": "Best one - out there",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "Amazing product and great installation experience. Clear explanation provided. I recommend this over all other non adaptive water purifiers. Saves water plus saves money."
+    },
     {
       "author": "Mohan",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-10-06",
       "date_label": "6 October 2026",
       "body": "Overall, its a nice product and good for borewell and corporate waters. Had a nice experince with customer serivice. After delivery, the service person came quickly and installed the device without any hassle."
-    },
-    {
-      "author": "Harish",
-      "rating": 5.0,
-      "title": "Good Product and Smooth Installation",
-      "date": "2026-10-02",
-      "date_label": "2 October 2026",
-      "body": "Received my Automberg water purifier recently, and overall, I’m happy with the experience. The product was delivered safely and on time. The installation process was also smooth and hassle-free, with everything set up properly. So far, the product looks good and works well. Overall, a good experience with both the delivery and installation."
     },
     {
       "author": "Jay",

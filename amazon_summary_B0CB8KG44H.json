@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-11",
+  "scraped": "2026-10-12",
   "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, ease of use, and water quality, with one customer noting a substantial improvement in filtration. However, the reliability and durability receive mixed reviews - while some say it works well initially, others report it stops working and the filters break within 6 months. Moreover, several customers mention issues with continuous leakage from the machine. The value for money aspect also receives mixed feedback, with some finding it good for the price while others consider it not worth the investment.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "shahbaz",
+      "rating": 5.0,
+      "title": "RO",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "Good Purifier"
+    },
+    {
       "author": "Nishankkulshreshtha",
       "rating": 5.0,
       "title": "Good purchase!",
@@ -67,14 +75,6 @@
       "date": "2026-10-05",
       "date_label": "5 October 2026",
       "body": "The item itself was satisfactory, yet the packaging was disappointing. The carton showed tears in several spots, raising concerns about potential drops or mishandling. Its exterior appeared pressed against something during shipping, with numerous wrinkles visible. I hope future packaging avoids such issues."
-    },
-    {
-      "author": "Sudeep",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-09-26",
-      "date_label": "26 September 2026",
-      "body": "Just installed, 1500 extra charge for iron pre filter & installation person behavior is good, clean and professional. 🙂"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-11",
+  "scraped": "2026-10-12",
   "customers_say": "Customers find this water purifier to be the best in the market with excellent performance, particularly appreciating its zero-service hassle and 2-year warranty. The product receives positive feedback for its taste, water quality, and installation process. However, reliability is a concern as some units stopped working within a month of use.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Performance",
-      "count": "197"
+      "count": "196"
     },
     {
       "name": "Installation",
@@ -16,11 +16,11 @@
     },
     {
       "name": "Water taste",
-      "count": "112"
+      "count": "113"
     },
     {
       "name": "Water quality",
-      "count": "111"
+      "count": "112"
     },
     {
       "name": "Recommendation",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Reliability",
-      "count": "90"
+      "count": "91"
     }
   ],
   "reviews": [

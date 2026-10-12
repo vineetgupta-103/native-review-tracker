@@ -1,14 +1,18 @@
 {
-  "scraped": "2026-10-11",
-  "customers_say": "Customers find the door lock straightforward to install and appreciate its comprehensive features, with one noting how well the setup process is explained. They praise its security features, with one mentioning the anti-pry/tamper alarm, and find it convenient to use, with one highlighting the camera's usefulness. The lock receives positive feedback for its appearance, service, and support, though battery life receives mixed reviews.",
+  "scraped": "2026-10-12",
+  "customers_say": "Customers find the smart lock worth its price and appreciate its straightforward installation process. The device offers comprehensive features, with one customer noting its multiple unlocking options, and provides good security with an anti-pry/tamper alarm. They like its stylish appearance and find it convenient to use, with one mentioning the camera's usefulness. Customers value the service and support provided by the company.",
   "aspects": [
+    {
+      "name": "Value for money",
+      "count": "39"
+    },
     {
       "name": "Installation",
       "count": "34"
     },
     {
       "name": "Features",
-      "count": "23"
+      "count": "24"
     },
     {
       "name": "Security",
@@ -29,10 +33,6 @@
     {
       "name": "Support",
       "count": "7"
-    },
-    {
-      "name": "Battery life",
-      "count": "6"
     }
   ],
   "reviews": [
@@ -45,6 +45,14 @@
       "body": "This is a cost effective digital lock with so many features. Value for money. I like this lock."
     },
     {
+      "author": "Mehul Dharamshi",
+      "rating": 5.0,
+      "title": "Supportive customer care staff",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "Nice product User friendly app Most convenient for family"
+    },
+    {
       "author": "Ahamed Mohideen",
       "rating": 1.0,
       "title": "Simly waste money",
@@ -53,28 +61,20 @@
       "body": "Alredy buy from amazon last 15 days back. Lock insulated yesterday. But the lock does not work properly. I contacted the above mention of your service call no. But do not pick up the call. How to replace the lock? Service is very worst."
     },
     {
-      "author": "Sapna",
-      "rating": 5.0,
-      "title": "Nice feature.",
-      "date": "2026-10-08",
-      "date_label": "8 October 2026",
-      "body": "Product safety is good and service is also best and quick response."
-    },
-    {
-      "author": "Hali Welly",
-      "rating": 5.0,
-      "title": "One of the best lock ever.",
-      "date": "2026-10-08",
-      "date_label": "8 October 2026",
-      "body": "One of the best smart lock ever I had since 5years I have been using this lock."
-    },
-    {
       "author": "Nikhil",
       "rating": 5.0,
       "title": "Excellent Smart Lock – Secure and Easy to Use",
       "date": "2026-10-05",
       "date_label": "5 October 2026",
       "body": "Very good smart lock with fast fingerprint recognition and multiple unlocking options. Easy to use, good build quality, and enhances home security. Installation was smooth and the app works well. Highly recommended. ⭐⭐⭐⭐⭐"
+    },
+    {
+      "author": "Sai",
+      "rating": 5.0,
+      "title": "Great lock and great support from Lavna team",
+      "date": "2026-09-24",
+      "date_label": "24 September 2026",
+      "body": "Really good smart lock! It works well and has a lot of features that can keep your house safe. The customer support is really responsive and they helped me go inside my house when the battery died, All in a simple video call! Special thanks to Jatin who handles the LA44 model support, He instructed me every step of way to reset locks, use emergency power ports, etc."
     }
   ]
 }
