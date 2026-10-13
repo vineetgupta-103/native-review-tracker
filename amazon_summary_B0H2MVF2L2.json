@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-10-12",
+  "scraped": "2026-10-13",
   "customers_say": "Customers find the door lock reliable, with face unlock working quickly every time, and appreciate its variety of access options and premium-looking design that looks like a simple door handle. The lock receives positive feedback for its build quality, installation experience, and security features, with one customer noting its top-tier safety. They consider it budget-friendly and convenient, with one mentioning the ability to open the door from anywhere.",
   "aspects": [
+    {
+      "name": "Reliability",
+      "count": "27"
+    },
     {
       "name": "Value for money",
       "count": "27"
     },
     {
-      "name": "Reliability",
-      "count": "26"
-    },
-    {
       "name": "Features",
-      "count": "25"
+      "count": "26"
     },
     {
       "name": "Design",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Ramaswamy Ranga Raju",
+      "rating": 5.0,
+      "title": "Awesome Product",
+      "date": "2026-10-08",
+      "date_label": "8 October 2026",
+      "body": "Lock features I loved it , fingerprint , face unlock and especially live video in mobile 📱. Overall Quality of the product is good and mobile connectivity in UC app is easy"
+    },
+    {
       "author": "PARAG SACHANIA",
       "rating": 5.0,
       "title": "Sleek and utilitarian",
@@ -59,14 +67,6 @@
       "date": "2026-10-05",
       "date_label": "5 October 2026",
       "body": "Really impressed with the Native Lock Ultra. The build quality feels premium, installation was smooth, and the lock works reliably. The smart features are convenient and make everyday access much easier. Overall, a great product for the price and definitely worth recommending."
-    },
-    {
-      "author": "Akriti",
-      "rating": 5.0,
-      "title": "NATIVE SMART LOCK is indeed smart!",
-      "date": "2026-10-04",
-      "date_label": "4 October 2026",
-      "body": "smart lock As the name suggests the lock is a smart one with commendable features such as live video and the convenience to open door from anywhere. it has clear camera quality and is easy to use."
     },
     {
       "author": "Shreyas Patil",

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-12",
+  "scraped": "2026-10-13",
   "customers_say": "Customers find the water purifier delivers clean, safe drinking water consistently and appreciate its elegant design. The installation process is smooth, and they like the taste, with one customer noting the ability to control it according to water source. While some customers say it works well and consider it worth the price, others report it completely stops working and consider it a waste of money. The service receives mixed feedback, with some praising it while others find it terrible.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Kushal Kanojiya",
+      "rating": 5.0,
+      "title": "Good work",
+      "date": "2026-10-10",
+      "date_label": "10 October 2026",
+      "body": "Good quality"
+    },
+    {
       "author": "PRIYA",
       "rating": 5.0,
       "title": "Good",
@@ -67,14 +75,6 @@
       "date": "2026-09-24",
       "date_label": "24 September 2026",
       "body": "Working Well"
-    },
-    {
-      "author": "Amrendra",
-      "rating": 5.0,
-      "title": "Highly recommended",
-      "date": "2026-09-09",
-      "date_label": "9 September 2026",
-      "body": "Excellent water purifier – looks premium and works great! I am very happy with this Aquaguard water purifier. The design looks very stylish and premium, and the installation was also smooth. The water quality and taste are good, and the smart display is really useful to keep track of the purifier. The build quality feels good and it looks beautiful on the kitchen wall. Overall, a great product for daily use and definitely worth considering if you are looking for a reliable water purifier. Highly recommended! 💧✨"
     }
   ]
 }

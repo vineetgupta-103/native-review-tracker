@@ -1,22 +1,26 @@
 {
-  "scraped": "2026-10-12",
-  "customers_say": "Customers find the water purification unit to be of good quality and reliable, with clean and pure water that tastes good and is easy to use. The service and customer experience receive mixed feedback - while some report prompt service and positive experiences, others complain about bad customer care and after-sales service. Several customers strongly advise against purchasing this product.",
+  "scraped": "2026-10-13",
+  "customers_say": "Customers find the water purifier reliable, budget-friendly, and easy to use, with good installation and water quality that tests clean and pure. The water tastes good, and they appreciate the prompt service. However, opinions about customer service are mixed, with some praising the after-sales service while others report extremely poor customer care.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "3.9K"
+      "name": "Reliability",
+      "count": "907"
     },
     {
-      "name": "Reliability",
-      "count": "899"
+      "name": "Value for money",
+      "count": "820"
+    },
+    {
+      "name": "Installation",
+      "count": "589"
     },
     {
       "name": "Water taste",
-      "count": "276"
+      "count": "277"
     },
     {
       "name": "Water quality",
-      "count": "160"
+      "count": "162"
     },
     {
       "name": "Ease of use",
@@ -27,30 +31,18 @@
       "count": "151"
     },
     {
-      "name": "Customer experience",
-      "count": "126"
-    },
-    {
       "name": "Purchase",
-      "count": "181"
+      "count": "183"
     }
   ],
   "reviews": [
     {
-      "author": "Charitha Reddy Malasani",
+      "author": "Govindraj Mutkiri",
       "rating": 5.0,
-      "title": "Aquaguard Review",
-      "date": "2026-10-10",
-      "date_label": "10 October 2026",
-      "body": "Great product and the installation service quick and technician was perfect. His knowledge about the product was really good and gave us a demo too. Happy with product and the service.(Technician code: 2015649)"
-    },
-    {
-      "author": "Vishwa",
-      "rating": 4.0,
-      "title": "Good product",
-      "date": "2026-10-06",
-      "date_label": "6 October 2026",
-      "body": "Water taste is good"
+      "title": "Excellent Installation Service by Aquaguard",
+      "date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "body": "The installation service was smooth and hassle-free. The technician was professional, explained the purifier's operation, checked the water TDS before and after purification, and completed the installation properly. Overall, I am satisfied with the installation service and the technician's work. Thank you..."
     },
     {
       "author": "kamalakannan",
@@ -61,20 +53,28 @@
       "body": "TDS level very low 30 which is below than normal , there is no TDS control in this device. Auquaguard installaton engineer & backend manager says this is how it works try to convince us TDS 30 is ok to drink, then why we to buy with mineral guard ? Poor customer service, installation don't have enough knowledge asked to buy addition connectors & charged us when all required already comes with unit itself"
     },
     {
-      "author": "Chinmay",
+      "author": "Mukul sinha",
       "rating": 4.0,
-      "title": "Good Water Purifier",
-      "date": "2026-09-26",
-      "date_label": "26 September 2026",
-      "body": "The product doesn't have a strong body, looks are fine with all the necessary features, no fancy things like mobile app connectivity and touch sensors, just the 3 indicators, technician came on scheduled time and did his job perfectly, overall a good water purifier. one suggestion for buyers, before you buy any water purifier, test your water TDS level and then buy the relevant one, since nowadays you get all varieties, consider buying an RO purifier only if your TDS is above 300+ level or else simply buy UV+UF water purifier and save money."
+      "title": "A good buy with average build quality",
+      "date": "2026-09-05",
+      "date_label": "5 September 2026",
+      "body": "It’s working fine after installing a TDS controller, as the company doesn’t provide one. Although my tap water has a TDS of around 120 ppm, I purchased an RO purifier due to the presence of heavy metals. The RO reduced the TDS to 10–15 ppm, so a TDS controller was needed. However, since it bypasses some untreated water, the RO’s purpose is somewhat compromised, as some heavy metals may remain in the final water. Whole body is of plastic having build quality not as expected.Apperance is good, installation service was fast but after sale service is slow.Overall,a good buy,but let's see how it go"
     },
     {
-      "author": "K. Nagaraju",
+      "author": "Helloworld",
+      "rating": 3.0,
+      "title": "Worst experience",
+      "date": "2026-08-28",
+      "date_label": "28 August 2026",
+      "body": "The water purifier itself seems good, but I had a disappointing experience with the installation technician. The technician showed me a TDS meter reading of 900+ ppm and recommended that I purchase an additional pre-filter. I declined because a pre-filter is primarily meant to remove suspended particles/impurities and does not reduce TDS. What concerned me more was that the technician did not check the TDS of the purified water after installation. He also told me that the filter warranty was only 1 year. I specifically chose this model because it was advertised with a 2-year filter warranty, s"
+    },
+    {
+      "author": "Balajee Bhardwaj",
       "rating": 4.0,
-      "title": "Good Product",
-      "date": "2026-09-25",
-      "date_label": "25 September 2026",
-      "body": "Product is working fine for now. As it was only 7 days. However, the only concern thing about warranty details. Since on app it showing only 1 year. So I hope this will be cleared through customer care."
+      "title": "Good performance and great water taste",
+      "date": "2026-08-21",
+      "date_label": "21 August 2026",
+      "body": "Good water purifier that gets the job done. The filtration works great—it brought down the TDS effectively, and the water tastes fresh and clean with no chemical odor. The build quality is compact and fits nicely in the kitchen without taking up too much space. Water wastage is also relatively lower compared to standard RO models. Deducting one star only because the dispensing flow could be slightly faster and installation took a couple of days to schedule. Overall, reliable value for money."
     }
   ]
 }

@@ -1,41 +1,57 @@
 {
-  "scraped": "2026-10-12",
-  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and reliable performance that lasts up to 2 years without issues. The product receives positive feedback for its appearance, with one customer noting it stands out among its peers, and they appreciate its water quality, reporting noticeable improvements. While some customers find it worth the price, others express concerns about value for money, and opinions about water taste are mixed.",
+  "scraped": "2026-10-13",
+  "customers_say": "Customers find the water purifier to be among the best in the market, with excellent installation and reliable performance that lasts up to 2 years without issues. The product receives positive feedback for its appearance, with one customer noting it stands out among its peers, and customers consistently report great water quality that makes a noticeable difference. While some customers say it's worth the price, others express concerns about value for money, and opinions on water taste are mixed.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "2.7K"
+      "count": "2.8K"
     },
     {
       "name": "Installation",
-      "count": "337"
+      "count": "338"
     },
     {
       "name": "Reliability",
-      "count": "327"
+      "count": "333"
     },
     {
       "name": "Appearance",
-      "count": "206"
+      "count": "207"
     },
     {
       "name": "Water quality",
-      "count": "159"
+      "count": "160"
     },
     {
       "name": "Service",
-      "count": "149"
+      "count": "150"
     },
     {
       "name": "Value for money",
-      "count": "534"
+      "count": "541"
     },
     {
       "name": "Water taste",
-      "count": "219"
+      "count": "221"
     }
   ],
   "reviews": [
+    {
+      "author": "Rechardo",
+      "rating": 4.0,
+      "title": "Great Purifier",
+      "date": "2026-10-10",
+      "date_label": "10 October 2026",
+      "body": "Excellent purifier! Pure, sweet water, stylish design & quick service. Very happy with Uran Company - highly recommended."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "No any",
+      "date": "2026-10-10",
+      "date_label": "10 October 2026",
+      "body": "Very good product.. Fast dilivery and installation"
+    },
     {
       "author": "Jobee Philip",
       "rating": 5.0,
@@ -45,36 +61,20 @@
       "body": "A perfect water purifier meeting all standards and catering to essential mineral needs. Easy to install and no hassles in connecting to the WiFi. Can monitor the ROs health remotely and control it as well. Perfect buy"
     },
     {
-      "author": "The1",
+      "author": "piyush",
       "rating": 5.0,
-      "title": "Very good product for banglore",
+      "title": "Budget friendly, best service, great water test",
       "date": "2026-10-09",
       "date_label": "9 October 2026",
-      "body": "Very good product.. getting desired filter water and service was very good"
+      "body": "Best experience ever to this purifier.... Go with... Fill free to purchase.. Nice water test and service 2 years maintananc free.."
     },
     {
-      "author": "Srinivas .N",
-      "rating": 4.0,
-      "title": "Must buy",
-      "date": "2026-10-08",
-      "date_label": "8 October 2026",
-      "body": "Very good"
-    },
-    {
-      "author": "Nathan Job Antony",
+      "author": "Starlight",
       "rating": 5.0,
-      "title": "Great product. Good service",
-      "date": "2026-10-08",
-      "date_label": "8 October 2026",
-      "body": "Great product. Been working good so far."
-    },
-    {
-      "author": "Shrikrishna",
-      "rating": 5.0,
-      "title": "Very good product. Value for money",
-      "date": "2026-10-07",
-      "date_label": "7 October 2026",
-      "body": "Very good product. Quick installation by team. Very happy with product"
+      "title": "Working well!",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "Its been 3 months and the purifier is working well. The installation service was available right after the delivery of the product. The storage capacity is great and the filtration is good."
     }
   ]
 }
