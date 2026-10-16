@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-12",
-  "customers_say": "Customers find the door lock to be of excellent quality, with great looks, smooth installation process, and many features including fingerprint and passcode entry options. Moreover, they appreciate its convenience and good customer service support. However, the functionality receives mixed reviews, with some reporting issues with the front lock not working. Additionally, connectivity is a concern, with several customers experiencing no wifi connectivity.",
+  "scraped": "2026-10-16",
+  "customers_say": "Customers find the smart door lock to be a premium product with solid build quality and good security features. The installation process is smoothly done, and they appreciate its many features, with one customer highlighting the fingerprint and passcode entry options. The functionality receives mixed reviews - while many say it works well, some report issues with the front lock not working and the fingerprint scanner stopping unexpectedly. Additionally, connectivity is a concern, with several customers reporting no WiFi connectivity.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "76"
+      "count": "77"
     },
     {
       "name": "Appearance",
@@ -12,19 +12,19 @@
     },
     {
       "name": "Installation",
-      "count": "20"
+      "count": "21"
+    },
+    {
+      "name": "Build quality",
+      "count": "15"
     },
     {
       "name": "Features",
       "count": "15"
     },
     {
-      "name": "Convenience",
-      "count": "8"
-    },
-    {
-      "name": "Customer service",
-      "count": "8"
+      "name": "Security",
+      "count": "9"
     },
     {
       "name": "Functionality",
@@ -37,12 +37,28 @@
   ],
   "reviews": [
     {
-      "author": "Hitesh Gandhi",
+      "author": "saran",
       "rating": 5.0,
-      "title": "Great product",
-      "date": "2026-10-10",
-      "date_label": "10 October 2026",
-      "body": "Amazing product and great service. The product seems very robust, and feel satisfied with it."
+      "title": "Very good lock",
+      "date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "body": "Installation is fast and intact. Techinician is very good interms of explaining everything. I highly recommend this locl"
+    },
+    {
+      "author": "sushant",
+      "rating": 5.0,
+      "title": "Smart lock",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Amazing product…sturdy built, easy to setup and finger print scanner very responsive. Super happy"
+    },
+    {
+      "author": "Vimal gaikwad",
+      "rating": 5.0,
+      "title": "Good buy",
+      "date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "body": "Installation, very good security and value for money"
     },
     {
       "author": "vinay",
@@ -59,22 +75,6 @@
       "date": "2026-09-19",
       "date_label": "19 September 2026",
       "body": "Service was perfectly done. Installation is perfect. Value product. Sturdy build, looks good too with many options. Thank you."
-    },
-    {
-      "author": "Ali Hasni",
-      "rating": 1.0,
-      "title": "Touchpad constantly lit, fingerprint scanner completely dead.",
-      "date": "2025-07-08",
-      "date_label": "8 July 2025",
-      "body": "The product is beautiful when it comes to aesthetic/design. But the service that Qubo provides is really very poor. The finger print scanner stopped working completely, it is dead and the keypad is constantly lit draining the battery constantly, the guy who came through support after 5 days said the lock will be replaced only to disappoint later saying it is not in warranty any more. Please note that there was no damage to the product, this just happened out of the blue, I suspect it has something to do with their app update, but then their team won't check/troubleshoot, not even repairing, al"
-    },
-    {
-      "author": "Kanraj Jain",
-      "rating": 4.0,
-      "title": "Good Features, but Fingerprint Sensitivity Needs Improvement",
-      "date": "2025-06-18",
-      "date_label": "18 June 2025",
-      "body": "The Qubo Smart Lock offers great functionality overall—keyless entry works seamlessly, and the mobile app integration is smooth. Installation was fairly straightforward, and the build quality feels solid and premium. However, one major drawback I faced was while trying to register fingerprints. It consistently failed to recognize or register my wife’s fingerprint, no matter how many times we tried. This could be a serious limitation for elderly users or those with faint fingerprint patterns. Pros: • Sleek design and good build quality • Easy to install • Convenient keyless entry with multiple "
     }
   ]
 }

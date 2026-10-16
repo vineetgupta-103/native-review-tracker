@@ -1,15 +1,31 @@
 {
-  "scraped": "2026-10-12",
+  "scraped": "2026-10-16",
   "customers_say": "",
   "aspects": [],
   "reviews": [
     {
-      "author": "Pranab",
+      "author": "Sandeep Dangi",
       "rating": 5.0,
-      "title": "Excellent lock with multiple safety features",
-      "date": "2026-09-27",
-      "date_label": "27 September 2026",
-      "body": "It's more than giving an excellent rating. Perfectly meets our requirements. It was very well fitted by Alpesh Kharva and features were well explained by him"
+      "title": "Good Quality product with prompt free service.",
+      "date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "body": "Good product by Godrej and good Service by it's technician. Fast and prompt service. Good Installation. Value for Money. Hopefully should be durable. Fitting was done free of cost although Product page said fitting charges are 499. There was a slight play in the inner handle which technician said is normal for all locks. As for instructions on how to use and set code and finger prints, etc., I suggest use chat gpt as technician can never fully explain everything properly."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Godrej smart lock",
+      "date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "body": "Good installation by Technician Prabhu. Good product."
+    },
+    {
+      "author": "SJ",
+      "rating": 5.0,
+      "title": "Installation technician Uddin did a very professional job. Very experienced & friendly person. Happy",
+      "date": "2026-10-12",
+      "date_label": "12 October 2026",
+      "body": "Good product"
     },
     {
       "author": "Varun",
@@ -20,28 +36,12 @@
       "body": "Installation done very professionally and correctly by Kishan"
     },
     {
-      "author": "ANEESH NATARAJAN",
+      "author": "Pranab",
       "rating": 5.0,
-      "title": "Excellent Digital Lock & Professional Installation",
-      "date": "2026-09-18",
-      "date_label": "18 September 2026",
-      "body": "Good product with a premium look and smooth operation. Purchased the Godrej Neo Prime Digital Lock from Amazon and got it installed today by Mr. Chandran Radhakrishnan from Godrej. He was very professional and completed the installation properly. Overall, a very good experience with both the product and installation service."
-    },
-    {
-      "author": "SHASHWAT Shroff",
-      "rating": 5.0,
-      "title": "Installation review",
-      "date": "2026-09-12",
-      "date_label": "12 September 2026",
-      "body": "Nice product till now just installed."
-    },
-    {
-      "author": "Bhawesh",
-      "rating": 5.0,
-      "title": "Good product support from godrej",
-      "date": "2026-09-12",
-      "date_label": "12 September 2026",
-      "body": "Very good service."
+      "title": "Excellent lock with multiple safety features",
+      "date": "2026-09-27",
+      "date_label": "27 September 2026",
+      "body": "It's more than giving an excellent rating. Perfectly meets our requirements. It was very well fitted by Alpesh Kharva and features were well explained by him"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-13",
-  "customers_say": "Customers find this water purifier to be the best in the market with excellent performance and maintenance-free operation for the first two years. They appreciate its great taste, premium appearance, and hassle-free installation process. The filter life receives mixed reviews, with some customers reporting malfunction within a month.",
+  "scraped": "2026-10-16",
+  "customers_say": "Customers find this water purifier to be the best in the market, with reliable performance and no issues reported. The product offers maintenance-free service for the first two years, and customers appreciate its great taste, appearance, and ease of use, with one noting its premium matte finish. However, several customers report leakage problems with the purifier.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "292"
+      "count": "294"
     },
     {
       "name": "Performance",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Value for money",
-      "count": "67"
+      "count": "68"
     },
     {
       "name": "Installation",
@@ -31,18 +31,18 @@
       "count": "21"
     },
     {
-      "name": "Filter life",
-      "count": "19"
+      "name": "Leakage",
+      "count": "20"
     }
   ],
   "reviews": [
     {
-      "author": "Nalini Kanta Choudhury",
+      "author": "Satish",
       "rating": 5.0,
-      "title": "Native M0",
-      "date": "2026-10-10",
-      "date_label": "10 October 2026",
-      "body": "Good"
+      "title": "Best in Segment item",
+      "date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "body": "Excellent Product"
     },
     {
       "author": "Sadath Ali",

@@ -1,14 +1,18 @@
 {
-  "scraped": "2026-10-13",
-  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance and triple deadlocks for high security. The lock offers multiple unlocking options and adds a modern touch to the door, while being solidly built and convenient for the whole family. The user experience receives mixed feedback, with some customers describing it as a terrible app experience.",
+  "scraped": "2026-10-16",
+  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. The lock offers multiple unlocking options and adds a modern touch to the door, making it convenient for the whole family. While customers consider it a great value, they have mixed opinions about the app experience.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "67"
+      "count": "68"
     },
     {
       "name": "Reliability",
-      "count": "57"
+      "count": "58"
+    },
+    {
+      "name": "Value for money",
+      "count": "37"
     },
     {
       "name": "Security",
@@ -27,15 +31,35 @@
       "count": "15"
     },
     {
-      "name": "Build quality",
-      "count": "13"
-    },
-    {
       "name": "User experience",
       "count": "18"
     }
   ],
   "reviews": [
+    {
+      "author": "Nainesh",
+      "rating": 5.0,
+      "title": "Very good lock with special features",
+      "date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "body": "Very nice lock it's the only locks where you can it to your original bell already fitted in your house no need to charge it. And once the door bell rings you can see it on your mobile. .....You is on the door and can open it also from mobile. The technician was also knowledgeable and very nice person also who guided us very well. Keep going urban clap. We request urban clap to provide a separate app for native door lock. Thank you"
+    },
+    {
+      "author": "Rathin Biswas",
+      "rating": 5.0,
+      "title": "Very very important",
+      "date": "2026-10-12",
+      "date_label": "12 October 2026",
+      "body": "Items is very good and working very smoothly"
+    },
+    {
+      "author": "Asfa Durdana",
+      "rating": 5.0,
+      "title": "Prompt installation and so far great!",
+      "date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "body": "Excellent installation service by Mr Khaja from UC!"
+    },
     {
       "author": "Sri",
       "rating": 5.0,
@@ -45,36 +69,12 @@
       "body": "This smart door lock has truly made our lives easier! We’ve been using it for the past few months, and it’s been a great experience. No more worrying about carrying or keeping track of keys. The remote unlocking feature is very convenient, and we also receive notifications with photos of visitors who ring the doorbell. It offers great convenience and peace of mind. Excellent product and highly recommended!"
     },
     {
-      "author": "Praveen",
-      "rating": 5.0,
-      "title": "Looks promising",
-      "date": "2026-10-02",
-      "date_label": "2 October 2026",
-      "body": "Looks good. Installed well. 1st day seems slow on bell notification."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Great smart lock",
-      "date": "2026-09-28",
-      "date_label": "28 September 2026",
-      "body": "Good product, value for money. Installation was smooth."
-    },
-    {
-      "author": "Az user",
-      "rating": 5.0,
-      "title": "Robust and reliable",
-      "date": "2026-09-23",
-      "date_label": "23 September 2026",
-      "body": "Got the Urban Company Native Lock Pro installed recently and so far, I’m really happy with it. The lock is quite responsive and feels solid and robust. The technician visited the very next day after the lock was delivered and completed the installation in less than an hour. The app is also simple and easy to use, which makes the overall experience quite smooth. Hopefully, it continues to perform this well in the long run. 9/10 for me so far."
-    },
-    {
-      "author": "Sree",
+      "author": "Val",
       "rating": 1.0,
-      "title": "Installation Service - not prompt. Product returned.",
-      "date": "2026-09-17",
-      "date_label": "17 September 2026",
-      "body": "Installation support is poor ( was scheduled twice and no show for both occasions ) and finally had to return the item. Item build quality is okay. It runs on AA batteries. Customer support is responsive, but unable to handle their installation partners effectively."
+      "title": "Highly inconvenient",
+      "date": "2026-10-09",
+      "date_label": "9 October 2026",
+      "body": "Highly inconvenient to activate it. If you buy on Amazon they have to register your number on urban company to activate it."
     }
   ]
 }

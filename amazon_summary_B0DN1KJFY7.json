@@ -1,48 +1,56 @@
 {
-  "scraped": "2026-10-13",
-  "customers_say": "Customers find the water purifier delivers clean, safe drinking water consistently and appreciate its elegant design. The installation process is smooth, and they like the taste, with one customer noting the ability to control it according to water source. While some customers say it works well and consider it worth the price, others report it completely stops working and consider it a waste of money. The service receives mixed feedback, with some praising it while others find it terrible.",
+  "scraped": "2026-10-16",
+  "customers_say": "Customers give positive feedback about the water purifier's appearance, taste, and TDS display feature. However, the product's reliability and value for money receive mixed reviews, with some saying it works well while others report it completely stops working and consider it a money waste. Installation experiences are mixed, with some finding it quick while others experience delays. Moreover, the TDS monitoring receives negative feedback, with one customer reporting TDS levels remain around 22 even after purification. Additionally, several customers report water leakage issues.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "1K"
-    },
-    {
-      "name": "Installation",
-      "count": "119"
-    },
-    {
-      "name": "Water quality",
-      "count": "79"
-    },
-    {
       "name": "Water taste",
-      "count": "70"
+      "count": "28"
     },
     {
-      "name": "Design",
-      "count": "63"
+      "name": "Appearance",
+      "count": "21"
     },
     {
       "name": "Reliability",
-      "count": "268"
+      "count": "120"
     },
     {
       "name": "Value for money",
-      "count": "221"
+      "count": "100"
     },
     {
-      "name": "Service",
-      "count": "34"
+      "name": "Installation",
+      "count": "60"
+    },
+    {
+      "name": "Tds display",
+      "count": "21"
+    },
+    {
+      "name": "Tds monitoring",
+      "count": "22"
+    },
+    {
+      "name": "Leakage",
+      "count": "19"
     }
   ],
   "reviews": [
     {
-      "author": "Kushal Kanojiya",
+      "author": "Chennai Siva",
       "rating": 5.0,
-      "title": "Good work",
-      "date": "2026-10-10",
-      "date_label": "10 October 2026",
-      "body": "Good quality"
+      "title": "Good",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Satisfied"
+    },
+    {
+      "author": "Abhi Kumar",
+      "rating": 5.0,
+      "title": "Good buy",
+      "date": "2026-10-12",
+      "date_label": "12 October 2026",
+      "body": "Good product and good service done"
     },
     {
       "author": "PRIYA",
@@ -61,20 +69,12 @@
       "body": "Its working really well"
     },
     {
-      "author": "Kavi Chakravarthi",
-      "rating": 5.0,
-      "title": "Wonderful product",
+      "author": "S P",
+      "rating": 4.0,
+      "title": "Pure water",
       "date": "2026-09-28",
       "date_label": "28 September 2026",
-      "body": "Working great, worth for every penny"
-    },
-    {
-      "author": "Narmadha",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-09-24",
-      "date_label": "24 September 2026",
-      "body": "Working Well"
+      "body": "I have just bought the equipment. On first glance, built quality is ok. It comes with an RO FILTER which is not required for my area. Anyone buying online please check your TDS level of water before buying. I will update on the product once I fully use it. Presently I am rating it 4 star because after receiving the item even for 2day on one came for installation. I had to call customer care of Amazon and only then the process started. I lost 4days due to this."
     }
   ]
 }

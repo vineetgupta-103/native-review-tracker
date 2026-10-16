@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-12",
+  "scraped": "2026-10-16",
   "customers_say": "Customers find the digital lock to be a good home security solution with a premium look and feature-rich capabilities, including multiple unlocking options. They appreciate its ease of use, with one customer noting it's easy for different family members to use, and consider it convenient, with one mentioning the camera and view screen are very useful. The installation and service receive positive feedback, with one customer highlighting the polite and knowledgeable service person. While some customers consider it good value for the price, others find it very costly.",
   "aspects": [
     {
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Shivendra Kumar",
+      "rating": 5.0,
+      "title": "Good service",
+      "date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "body": "Installation is good and product seems to be having good features. Service is seemless. Kishan is a well behaved technician."
+    },
+    {
       "author": "AMIYA RANJAN SAHU",
       "rating": 5.0,
       "title": "Good lock",
@@ -67,14 +75,6 @@
       "date": "2026-09-25",
       "date_label": "25 September 2026",
       "body": "He installed very quick & explained very well"
-    },
-    {
-      "author": "Pallishree Sourav",
-      "rating": 5.0,
-      "title": "Lock safety",
-      "date": "2026-09-05",
-      "date_label": "5 September 2026",
-      "body": "Very good product. As i thought it is more advanced in technology aspect.. And i am very much glad for the service i am getting from Godrej."
     }
   ]
 }

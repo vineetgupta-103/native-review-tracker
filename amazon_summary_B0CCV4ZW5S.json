@@ -1,80 +1,68 @@
 {
-  "scraped": "2026-10-12",
-  "customers_say": "Customers find the smart lock to be of excellent quality, with all features working smoothly and providing peace of mind through its secure multi-bolt system. They appreciate its ease of use, particularly through fingerprint recognition, and consider it a must-buy for every home. Installation is straightforward, with one customer noting it can be used on both single and double panel doors. While some customers report good battery life, others mention the battery dies within a day of use.",
+  "scraped": "2026-10-16",
+  "customers_say": "Customers have mixed opinions about the lock's quality and functionality, with some finding it good while others consider it the worst lock available. Moreover, the value for money receives mixed feedback, with some customers satisfied while others feel it's not worth the price. Additionally, installation experiences are negative, with one customer mentioning installation difficulties, and connectivity issues are reported, particularly with app connectivity problems.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "275"
+      "count": "25"
     },
     {
       "name": "Functionality",
-      "count": "108"
+      "count": "15"
     },
     {
       "name": "Value for money",
-      "count": "84"
+      "count": "9"
     },
     {
       "name": "Installation",
-      "count": "63"
+      "count": "7"
     },
     {
-      "name": "Ease of use",
-      "count": "60"
-    },
-    {
-      "name": "Security",
-      "count": "48"
-    },
-    {
-      "name": "Customer support",
-      "count": "34"
-    },
-    {
-      "name": "Battery life",
-      "count": "29"
+      "name": "Connectivity",
+      "count": "5"
     }
   ],
   "reviews": [
     {
-      "author": "Hari prakash",
-      "rating": 5.0,
-      "title": "Best smart lock",
-      "date": "2026-10-02",
-      "date_label": "2 October 2026",
-      "body": "True review. Using 3 Golens Smart locks for more 6 months. No issue... Everything is smooth. Do buy Golens. Stay tension free...hassle free.... Carefree .."
-    },
-    {
-      "author": "SHRAVAN KUMAR GOUD",
+      "author": "Srinivas S V",
       "rating": 1.0,
-      "title": "Very Poor Product and Extremely Disappointing Customer Service",
-      "date": "2026-09-27",
-      "date_label": "27 September 2026",
-      "body": "This is a very disappointing product, and the company’s customer service is even worse. I purchased this product about one year ago, and I started facing problems within just six months. I have contacted the company several times, but they simply do not respond properly. They keep saying, “We will get back to you,” but nothing is actually done to resolve the issue. I have already shared videos and all the necessary details, but despite repeated follow-ups, the problem has still not been rectified. I am extremely disappointed with both the product and, especially, the after-sales service. In my"
+      "title": "Worst lock",
+      "date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "body": "Didn't even work for 2 days worst ever lock never buy these local golen locks"
     },
     {
-      "author": "rajiv",
-      "rating": 3.0,
-      "title": "SERVICE SUPPORT NEED TO IMPROVE",
-      "date": "2026-09-13",
-      "date_label": "13 September 2026",
-      "body": "LOCK OVERALL GOOD, LOCK NOT CONNECT WITH BLUTOOTH FOB KEY, NFC ALSO NOT SUPPORT FROM CUSTOMER SUPPORT TEAM, NEED WORK ON SERVICE TEAM."
+      "author": "Placeholder",
+      "rating": 2.0,
+      "title": "Ok for wooden door but service need to improve",
+      "date": "2026-09-14",
+      "date_label": "14 September 2026",
+      "body": "If your looking for metal door , think twice before buying , they will arrange technician only for installation for metal door alterations it should bourn by you There technician costed 1600 For metal cutting costed 2000 And after sale services is very bad they don't reply , after adding fingerprint, its getting verification failed I complained but no response from company"
     },
     {
-      "author": "Kumkum sharma",
+      "author": "Adarsh",
       "rating": 5.0,
-      "title": "Best door lock",
-      "date": "2026-09-10",
-      "date_label": "10 September 2026",
-      "body": "Good quality door lock with a sturdy build. The locking mechanism works smoothly, installation was easy, and it feels secure. Overall, good value for money."
+      "title": "Very Good Product & Service",
+      "date": "2026-09-09",
+      "date_label": "9 September 2026",
+      "body": "Excellent product and very good suppprt from their team to help setup."
     },
     {
-      "author": "Dr.Mumtaj khan",
-      "rating": 5.0,
-      "title": "Excellent security product we believe.its great security Divice",
-      "date": "2026-08-21",
-      "date_label": "21 August 2026",
-      "body": "Write a review I am very glad with this door lock. Golens X95 excellent product worth of money.The build quality feels strong and durable, and installation was quick and straightforward. It fits my main door perfectly and adds an extra layer of security and peace of mind. The locking mechanism works smoothly, and the overall finish looks premium. It is definitely a useful product for Home /Office Nice installation Installation man Mr Sonu good man. Thank u again."
+      "author": "Eu Gee",
+      "rating": 1.0,
+      "title": "Pathetic Service support",
+      "date": "2026-08-27",
+      "date_label": "27 August 2026",
+      "body": "They have just imported a cheap Tuya lock. Tuya is NOTORIOUS for their devices not being able to link with their 'Smart Life' App. The vendor hasn't bothered to give even a Wiring Diagram which can tell which connection to go where., not an explanatory video. They don't even bother to reply back with any promptness. Wasted 3 DAYS in trying to configure this Stupid lock."
+    },
+    {
+      "author": "Ragupathy R",
+      "rating": 2.0,
+      "title": "Poor customer support",
+      "date": "2026-08-23",
+      "date_label": "23 August 2026",
+      "body": "Last month I purchased this product but installed 15 days back. Wifi is not working; I contacted customer care. They are sending an installation video only. Repeatedly I am contacting customer care. No use. I am not able to connect with the mobile app. Quality-wise, it is a very good product, but customer service is not upto our expectation. Still, I cannot able to connect with mobile app"
     }
   ]
 }

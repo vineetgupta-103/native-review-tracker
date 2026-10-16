@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-13",
+  "scraped": "2026-10-16",
   "customers_say": "Customers find the water purifier easy to install and appreciate its clean output, with one noting it completely changes water hardness and taste. Moreover, the service receives positive feedback. However, the product's reliability and durability are mixed - while some say it works well, others report it stops working after 4 months and won't last more than a year. Additionally, opinions on water wastage are divided, with some claiming zero wastage while others say it's a gimmick. The value for money is also mixed, with some finding it worth the cost while others consider it expensive.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "35"
+      "count": "37"
     },
     {
       "name": "Water taste",
@@ -20,11 +20,11 @@
     },
     {
       "name": "Value for money",
-      "count": "84"
+      "count": "85"
     },
     {
       "name": "Reliability",
-      "count": "52"
+      "count": "53"
     },
     {
       "name": "Water wastage",
@@ -32,49 +32,49 @@
     },
     {
       "name": "Durability",
-      "count": "21"
+      "count": "23"
     }
   ],
   "reviews": [
     {
-      "author": "CHRISTADIMA",
-      "rating": 1.0,
-      "title": "Poor Product Quality and Unresolved Issue Despite 3 Service Visits”",
-      "date": "2026-10-06",
-      "date_label": "6 October 2026",
-      "body": "Very disappointing product and service. The product has not been working properly since I purchased it. I have contacted customer service multiple times, and the technician has visited three times and carried out servicing, but the problem still continues. Despite repeated service visits, the issue has not been properly resolved. I expected much better quality and after-sales support from KENT. I would not recommend this product unless the company can fix the issue permanently."
-    },
-    {
-      "author": "Sushma Bhagat",
-      "rating": 3.0,
-      "title": "Not capable for hard water",
-      "date": "2026-09-16",
-      "date_label": "16 September 2026",
-      "body": "Such big brands not capable of handling hard water. The filter got crashed within a month. Thank god this was under warranty period and I was not charged."
-    },
-    {
-      "author": "Nikitha T.",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "Water filter",
-      "date": "2026-09-09",
-      "date_label": "9 September 2026",
-      "body": "Good product and service as well"
+      "title": "Good RO",
+      "date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "body": "Fats easy installation"
     },
     {
-      "author": "Indranil Mukherjee",
+      "author": "Amazon Customer",
       "rating": 5.0,
-      "title": "Best RO",
-      "date": "2026-09-09",
-      "date_label": "9 September 2026",
-      "body": "Great product."
+      "title": "Wortyto buy",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Good product. Worthy to purchase it."
     },
     {
-      "author": "Soumit chandra",
+      "author": "Pujitha",
+      "rating": 4.0,
+      "title": "Good",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Instalation: he did a good job."
+    },
+    {
+      "author": "Glen",
       "rating": 5.0,
-      "title": "Good Product",
-      "date": "2026-09-03",
-      "date_label": "3 September 2026",
-      "body": "Good product"
+      "title": "Great product and Installation service",
+      "date": "2026-10-12",
+      "date_label": "12 October 2026",
+      "body": "Professional service with quick setup"
+    },
+    {
+      "author": "Ambar k.",
+      "rating": 5.0,
+      "title": "Nice",
+      "date": "2026-10-10",
+      "date_label": "10 October 2026",
+      "body": "Good installation.Product nice"
     }
   ]
 }
