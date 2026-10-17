@@ -1,7 +1,15 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "Customers find the door lock reliable, with face unlock working consistently and quickly. They appreciate its features, including multiple access options, and its premium-looking design that looks like a simple door handle. The lock receives positive feedback for its build quality, installation experience, and security features, with one customer noting its top-tier safety. They consider it a good value for money.",
+  "scraped": "2026-10-17",
+  "customers_say": "Customers are impressed with this smart lock's features, particularly its variety of access options and reliable face unlock functionality that works quickly every time. They appreciate its classy design that looks like a simple door handle, its build quality, and find the installation experience perfect. They consider it a good value for money, and one customer mentions it makes everyday access much easier.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "78"
+    },
+    {
+      "name": "Features",
+      "count": "27"
+    },
     {
       "name": "Reliability",
       "count": "27"
@@ -11,12 +19,8 @@
       "count": "27"
     },
     {
-      "name": "Features",
-      "count": "26"
-    },
-    {
-      "name": "Design",
-      "count": "20"
+      "name": "Appearance",
+      "count": "19"
     },
     {
       "name": "Build quality",
@@ -29,10 +33,6 @@
     {
       "name": "Convenience",
       "count": "11"
-    },
-    {
-      "name": "Security",
-      "count": "10"
     }
   ],
   "reviews": [
@@ -69,12 +69,12 @@
       "body": "Really impressed with the Native Lock Ultra. The build quality feels premium, installation was smooth, and the lock works reliably. The smart features are convenient and make everyday access much easier. Overall, a great product for the price and definitely worth recommending."
     },
     {
-      "author": "Shreyas Patil",
+      "author": "Gagan Deep",
       "rating": 5.0,
-      "title": "The live video feature is commendable.",
-      "date": "2026-10-01",
-      "date_label": "1 October 2026",
-      "body": "Fantastic purchase... The live video feature is commendable. Helps me stay at ease as far as security is concerned. The premium build makes the door look very lively."
+      "title": "Great Smart Lock with Premium Features",
+      "date": "2026-09-26",
+      "date_label": "26 September 2026",
+      "body": "Great smart lock! Premium design, easy to use, and the app features like remote unlocking, live view and instant notifications work really well. Feels secure and premium. Happy with the purchase! Worth the price."
     }
   ]
 }

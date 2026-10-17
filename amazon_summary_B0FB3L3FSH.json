@@ -1,11 +1,7 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "Customers find this water purifier to be the best in the market, with reliable performance and no issues reported. The product offers maintenance-free service for the first two years, and customers appreciate its great taste, appearance, and ease of use, with one noting its premium matte finish. However, several customers report leakage problems with the purifier.",
+  "scraped": "2026-10-17",
+  "customers_say": "Customers find the water purifier reliable and worth the price, particularly appreciating that maintenance and service are free for the first two years. They like its appearance, ease of use, and water taste, with one customer noting its premium matte finish. Installation is hassle-free, though some report issues with water leakage. The filter life receives mixed reviews, with several customers reporting malfunction within a month of use.",
   "aspects": [
-    {
-      "name": "Quality",
-      "count": "294"
-    },
     {
       "name": "Performance",
       "count": "72"
@@ -31,11 +27,23 @@
       "count": "21"
     },
     {
+      "name": "Filter life",
+      "count": "19"
+    },
+    {
       "name": "Leakage",
       "count": "20"
     }
   ],
   "reviews": [
+    {
+      "author": "Vaibhav Parmar",
+      "rating": 5.0,
+      "title": "Good",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Nice"
+    },
     {
       "author": "Satish",
       "rating": 5.0,
@@ -43,14 +51,6 @@
       "date": "2026-10-11",
       "date_label": "11 October 2026",
       "body": "Excellent Product"
-    },
-    {
-      "author": "Sadath Ali",
-      "rating": 4.0,
-      "title": "Item quality",
-      "date": "2026-10-09",
-      "date_label": "9 October 2026",
-      "body": "Good product"
     },
     {
       "author": "Rahul",

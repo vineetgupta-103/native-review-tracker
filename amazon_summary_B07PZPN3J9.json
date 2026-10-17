@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-16",
+  "scraped": "2026-10-17",
   "customers_say": "Customers find the water purifier easy to install and appreciate its clean output, with one noting it completely changes water hardness and taste. Moreover, the service receives positive feedback. However, the product's reliability and durability are mixed - while some say it works well, others report it stops working after 4 months and won't last more than a year. Additionally, opinions on water wastage are divided, with some claiming zero wastage while others say it's a gimmick. The value for money is also mixed, with some finding it worth the cost while others consider it expensive.",
   "aspects": [
     {
@@ -37,12 +37,28 @@
   ],
   "reviews": [
     {
-      "author": "Amazon Customer",
+      "author": "Yashgunjal",
       "rating": 5.0,
-      "title": "Good RO",
-      "date": "2026-10-14",
-      "date_label": "14 October 2026",
-      "body": "Fats easy installation"
+      "title": "Excellent water purifier",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "KENT Marvel Water Purifier Review ⭐⭐⭐⭐☆ Excellent water purification with RO + UF + TDS Control and UV protection. The 8L storage capacity is suitable for family use, and the water taste is good. However, maintenance costs and water wastage should be considered before buying. Overall, a good option for high-TDS water if after-sales service is reliable."
+    },
+    {
+      "author": "Harsha",
+      "rating": 5.0,
+      "title": "Super quality tdsqualitiy",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "Buject friendly good product"
+    },
+    {
+      "author": "Santosh kushwaha",
+      "rating": 4.0,
+      "title": "Good",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "Good"
     },
     {
       "author": "Amazon Customer",
@@ -59,22 +75,6 @@
       "date": "2026-10-13",
       "date_label": "13 October 2026",
       "body": "Instalation: he did a good job."
-    },
-    {
-      "author": "Glen",
-      "rating": 5.0,
-      "title": "Great product and Installation service",
-      "date": "2026-10-12",
-      "date_label": "12 October 2026",
-      "body": "Professional service with quick setup"
-    },
-    {
-      "author": "Ambar k.",
-      "rating": 5.0,
-      "title": "Nice",
-      "date": "2026-10-10",
-      "date_label": "10 October 2026",
-      "body": "Good installation.Product nice"
     }
   ]
 }

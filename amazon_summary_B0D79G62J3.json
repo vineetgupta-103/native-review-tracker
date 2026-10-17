@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "Customers find this water purifier to be among the best in the market, offering excellent value with transparent pricing and budget-friendly features. The installation process receives positive feedback, and customers report it has been working reliably for two years without issues. They appreciate its premium appearance and water quality, noting it makes a noticeable difference and produces clear water. The taste receives mixed reviews, with some customers finding it excellent while others disagree.",
+  "scraped": "2026-10-17",
+  "customers_say": "Customers find this water purifier to be among the best in the market, appreciating its premium appearance and excellent installation process. They consider it a budget-friendly option that makes a noticeable difference in water quality, and they find it easy to use with a hassle-free process. While some customers say the water tastes excellent, others report a bad taste.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,19 +8,15 @@
     },
     {
       "name": "Value for money",
-      "count": "551"
+      "count": "552"
     },
     {
       "name": "Installation",
-      "count": "341"
-    },
-    {
-      "name": "Reliability",
-      "count": "338"
+      "count": "342"
     },
     {
       "name": "Appearance",
-      "count": "209"
+      "count": "210"
     },
     {
       "name": "Water quality",
@@ -28,7 +24,11 @@
     },
     {
       "name": "Service",
-      "count": "151"
+      "count": "144"
+    },
+    {
+      "name": "Ease of use",
+      "count": "100"
     },
     {
       "name": "Water taste",
@@ -45,6 +45,14 @@
       "body": "Water purifier is too good. Taste of the water is also good."
     },
     {
+      "author": "Vikas",
+      "rating": 4.0,
+      "title": "Premium Design and Good First Impression",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "The Native M1 Pro Water Purifier was installed just a day ago, and my initial experience has been good. The design looks premium, and the purifier seems convenient for daily use. It’s too early to comment on long-term performance and service, but so far, I’m satisfied with the overall experience."
+    },
+    {
       "author": "Ashok kumar Alti",
       "rating": 5.0,
       "title": "Value buy and very professional brand installation service",
@@ -53,12 +61,12 @@
       "body": "Very good product and super fast delivery by Amazon. Urban company as a brand is very professional with installation. Over all good product and experience"
     },
     {
-      "author": "Sunil",
-      "rating": 5.0,
-      "title": "Best water purifier in the market !!",
-      "date": "2026-10-12",
-      "date_label": "12 October 2026",
-      "body": "It is almost 6 months we started using Native water purifier. Excellent water purifier so far. No issues..just go for it. !!!"
+      "author": "Rechardo",
+      "rating": 4.0,
+      "title": "Great Purifier",
+      "date": "2026-10-10",
+      "date_label": "10 October 2026",
+      "body": "Excellent purifier! Pure, sweet water, stylish design & quick service. Very happy with Uran Company - highly recommended."
     },
     {
       "author": "Anchal Chaturvedi",
@@ -67,14 +75,6 @@
       "date": "2026-10-10",
       "date_label": "10 October 2026",
       "body": "It's a nice product. I am using it since 1 year and it's working perfectly fine, everything is under warranty so no worries and you just need to change filter once in 2 years making it cost effective too. Water quality is decent. Overall good product."
-    },
-    {
-      "author": "Rechardo",
-      "rating": 4.0,
-      "title": "Great Purifier",
-      "date": "2026-10-10",
-      "date_label": "10 October 2026",
-      "body": "Excellent purifier! Pure, sweet water, stylish design & quick service. Very happy with Uran Company - highly recommended."
     }
   ]
 }

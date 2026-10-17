@@ -1,8 +1,25 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "",
-  "aspects": [],
+  "scraped": "2026-10-17",
+  "customers_say": "Customers find the digital lock to be of good quality and appreciate its installation, with one mentioning that the fitting was done free of cost.",
+  "aspects": [
+    {
+      "name": "Quality",
+      "count": "7"
+    },
+    {
+      "name": "Installation",
+      "count": "6"
+    }
+  ],
   "reviews": [
+    {
+      "author": "Madhavi Grandhi",
+      "rating": 5.0,
+      "title": "Superb",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "Service and installation good"
+    },
     {
       "author": "Sandeep Dangi",
       "rating": 5.0,
@@ -34,14 +51,6 @@
       "date": "2026-09-27",
       "date_label": "27 September 2026",
       "body": "Installation done very professionally and correctly by Kishan"
-    },
-    {
-      "author": "Pranab",
-      "rating": 5.0,
-      "title": "Excellent lock with multiple safety features",
-      "date": "2026-09-27",
-      "date_label": "27 September 2026",
-      "body": "It's more than giving an excellent rating. Perfectly meets our requirements. It was very well fitted by Alpesh Kharva and features were well explained by him"
     }
   ]
 }

@@ -1,30 +1,30 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "Customers find the water purifier reliable and appreciate its premium appearance, with one noting it's suitable for a family of 4 to 5 people. The product is easy to use, has good installation, and produces clean, pure water that tastes good. While some customers report prompt service, others find the customer support extremely disappointing.",
+  "scraped": "2026-10-17",
+  "customers_say": "Customers find the water purifier reliable, budget-friendly, and easy to use, with good water quality that tests clean and pure. They appreciate the free installation process and find the water tastes good. The service receives mixed feedback, with some praising the prompt service while others find the customer support disappointing.",
   "aspects": [
     {
       "name": "Reliability",
-      "count": "922"
+      "count": "923"
+    },
+    {
+      "name": "Value for money",
+      "count": "743"
     },
     {
       "name": "Installation",
-      "count": "604"
+      "count": "612"
     },
     {
       "name": "Water taste",
-      "count": "281"
+      "count": "282"
     },
     {
       "name": "Water quality",
-      "count": "163"
+      "count": "164"
     },
     {
       "name": "Ease of use",
       "count": "137"
-    },
-    {
-      "name": "Appearance",
-      "count": "127"
     },
     {
       "name": "Service",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Customer experience",
-      "count": "129"
+      "count": "130"
     }
   ],
   "reviews": [
@@ -45,20 +45,12 @@
       "body": "Product is very good. I see that water is filtered 40tdm from 215tdm. I am happy with product. I an using for municipal and bore water. Happy to purchase and recommended to this."
     },
     {
-      "author": "pipalwa",
+      "author": "Tejas Rane",
       "rating": 5.0,
-      "title": "TITLE",
+      "title": "Quick installation and water taste is much better now",
       "date": "2026-10-14",
       "date_label": "14 October 2026",
-      "body": "Looks great, we'll update once we use it a month or so!! Got installed the very next of the delivery in the morning itself"
-    },
-    {
-      "author": "PKR",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-10-14",
-      "date_label": "14 October 2026",
-      "body": "It is so good product installation was very neat and clean. No issues with technician, and he will explain everything. Thank you."
+      "body": "Aquaguard installation service was quick and well done. The water taste is much better now—clean and odorles. The service technician, Akhilesh Yadav, was polite and professional, and he provided a detailed demo explaining how to use and maintain the purifier. Very satisfied with the service."
     },
     {
       "author": "Rajkumar Yaduwanshi",
@@ -75,6 +67,14 @@
       "date": "2026-10-13",
       "date_label": "13 October 2026",
       "body": "I purchased this Aquaguard water purifier from Amazon expecting clean and pure drinking water. However, after installation, the technician informed me that I needed to install an additional iron filter, which would cost ₹2,100 extra. If I am purchasing a water purifier, I expect to know about such additional requirements and costs beforehand, not after the product has been delivered and installed. Why should I have to pay extra just to make the purifier suitable for my water? This experience has been extremely disappointing. The additional cost and lack of clear information have left me dissat"
+    },
+    {
+      "author": "Jigesh",
+      "rating": 5.0,
+      "title": "Best",
+      "date": "2026-10-12",
+      "date_label": "12 October 2026",
+      "body": "This is best but iska Jo filter hai usko sahi se fit nahin karne per Pani likh sakta hai Baki agar credit card discount Laga Ke 7000 ka kuchh pad raha hai to bahut achcha hai value for money"
     }
   ]
 }

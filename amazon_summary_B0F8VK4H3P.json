@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "Customers find the smart door lock to be a premium product with solid build quality and good security features. The installation process is smoothly done, and they appreciate its many features, with one customer highlighting the fingerprint and passcode entry options. The functionality receives mixed reviews - while many say it works well, some report issues with the front lock not working and the fingerprint scanner stopping unexpectedly. Additionally, connectivity is a concern, with several customers reporting no WiFi connectivity.",
+  "scraped": "2026-10-17",
+  "customers_say": "Customers find the smart lock to be a premium product with solid build quality, great looks, and smooth installation process. They appreciate its security features and multiple access options, with one customer highlighting the fingerprint and passcode entry options for versatility. The functionality receives mixed reviews - while many say it works well, some report issues with the front lock not working and the fingerprint scanner stopping unexpectedly. Additionally, connectivity is a concern, with several customers reporting no WiFi connectivity.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "77"
+      "count": "78"
     },
     {
       "name": "Appearance",
@@ -37,6 +37,14 @@
   ],
   "reviews": [
     {
+      "author": "Joel",
+      "rating": 1.0,
+      "title": "Worst product",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "worst product, dont buy this product."
+    },
+    {
       "author": "saran",
       "rating": 5.0,
       "title": "Very good lock",
@@ -67,14 +75,6 @@
       "date": "2026-10-09",
       "date_label": "9 October 2026",
       "body": "Product is excellent.Qubo doorbell technician is good"
-    },
-    {
-      "author": "KameshM",
-      "rating": 5.0,
-      "title": "Door lock installation",
-      "date": "2026-09-19",
-      "date_label": "19 September 2026",
-      "body": "Service was perfectly done. Installation is perfect. Value product. Sturdy build, looks good too with many options. Thank you."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "Customers find the water purifier to be the best in the market with excellent performance and installation. They appreciate its ease of use, with one customer noting the preset dispensing feature makes regular use smoother and more convenient. The water quality receives positive feedback, with one customer mentioning TDS levels below 100, and customers value the zero-service hassle for two years. However, reliability is a concern as some units stopped working within a month of use.",
+  "scraped": "2026-10-17",
+  "customers_say": "Customers find this water purifier to be the best in the market, with excellent performance and installation. They appreciate its appearance, with one customer noting its modern touch panel with LED indicators, and they like its taste and water quality, with one mentioning TDS levels below 100. However, reliability is a concern as multiple customers report units stopping working within a month.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,31 +8,31 @@
     },
     {
       "name": "Performance",
-      "count": "206"
+      "count": "212"
     },
     {
       "name": "Installation",
-      "count": "166"
+      "count": "168"
     },
     {
       "name": "Water taste",
-      "count": "116"
+      "count": "120"
     },
     {
       "name": "Water quality",
-      "count": "111"
+      "count": "112"
     },
     {
-      "name": "Ease of use",
-      "count": "77"
+      "name": "Appearance",
+      "count": "92"
     },
     {
-      "name": "Service",
-      "count": "68"
+      "name": "Recommendation",
+      "count": "79"
     },
     {
       "name": "Reliability",
-      "count": "96"
+      "count": "92"
     }
   ],
   "reviews": [
@@ -45,6 +45,22 @@
       "body": "The product was delivered on time, and the quality looks very good. Installation was fast and hassle-free. I am happy with the initial experience, and I hope the product will last long."
     },
     {
+      "author": "Amazon Customer",
+      "rating": 5.0,
+      "title": "Beauty & Functional. But with misrepresentation",
+      "date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "body": "The filter is very good. But you must not falsefy the advertisement. No where are the pipe shown or the additional external filter. Without them, it was a rude surprise, that made for quick option to keep the scarce water which the RO expells into a container. It is absolutely shameful. When there is a water supply crisis that huge amount of water needs to be thrown away. Provide with proper water storage solution that can be used for gardening or flushing. It is extremely irresponsible for such large company to not consider Sustainable Development Goals. Sandeep Goswami Climate Science and Po"
+    },
+    {
+      "author": "Kunal Hembram",
+      "rating": 4.0,
+      "title": "Urban company M2 pro water purifier",
+      "date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "body": "No spoken audio Excellent Experience with Urban Company Native M2 Pro Water Purifier I am very satisfied with the Urban Company Native M2 Pro Water Purifier. The design is stylish, the water quality is good, and the purifier is easy to use. It is a great choice for everyday household needs. The overall experience is smooth, and the product offers good value for money. Highly recommended for anyone looking for a modern and reliable water purifier for their home."
+    },
+    {
       "author": "Lalit",
       "rating": 5.0,
       "title": "Excellent Product with Great Performance and Premium Design!",
@@ -53,28 +69,12 @@
       "body": "I am extremely happy with my Native M2 Pro water purifier. The design is sleek and premium, the features are impressive, and the water dispensing is smooth and convenient. The purifier works well for everyday use and offers great value for money. The overall experience has been excellent, and I am very satisfied with my purchase. Highly recommended for anyone looking for a modern, feature-rich water purifier for their home!"
     },
     {
-      "author": "JITENDER DHIMAN",
-      "rating": 5.0,
-      "title": "Title: Fully satisfied",
-      "date": "2026-09-30",
-      "date_label": "30 September 2026",
-      "body": "I am writing this review after using the Native M2 Pro RO for 3 months, and I am completely satisfied with its performance. The water tastes great. The best part is the zero-service hassle for 2 years. The touch dispensing and battery backup features work flawlessly. Go for it without any doubt!"
-    },
-    {
       "author": "Nayaz Mohammed",
       "rating": 5.0,
       "title": "Good Purifier with Smart Features",
       "date": "2026-09-22",
       "date_label": "22 September 2026",
       "body": "I have been using the Native M2 Pro RO purifier and overall, I am quite satisfied with the product. The design is sleek, the water quality is good, and the purifier is easy to operate. The purification performance and taste of the water have been good so far. I also appreciate the smart features and overall user-friendly experience. One area where I feel there is scope for improvement is the after-sales service and clarity regarding filter replacement and maintenance costs. A more proactive service system and better communication about maintenance schedules would make the overall experience ev"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Excellent Water Purifier",
-      "date": "2026-09-12",
-      "date_label": "12 September 2026",
-      "body": "⭐⭐⭐⭐⭐ Excellent Water Purifier – Native M2 Pro I am using the Native M2 Pro with municipal water having around 320 TDS, and I am very satisfied with its purification performance. The water quality and taste after purification are very good. What I particularly like is the real-time monitoring of the purification process and the ability to check the health status of the purifier. The app also provides convenient filter-status monitoring, warranty-period details, and other important information—all in one place. The smart monitoring features make it easy to keep track of the purifier’s performan"
     }
   ]
 }

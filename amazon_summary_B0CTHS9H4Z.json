@@ -1,7 +1,11 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "Customers find the door lock straightforward to install and easy to use, with comprehensive features that include multiple unlocking options. They appreciate its security features, with one customer noting the anti-pry/tamper alarm, and find it convenient, with one mentioning the camera's usefulness. The lock has a stylish appearance and receives positive feedback for its service. However, battery life is a concern, with customers reporting low battery backup lasting 30-45 days.",
+  "scraped": "2026-10-17",
+  "customers_say": "Customers find the door lock worth its price and appreciate its straightforward installation and ease of use. They praise its comprehensive features and security capabilities, with one customer highlighting the anti-pry/tamper alarm, while another notes the multiple unlocking options. The lock receives positive feedback for its appearance and convenience, with one customer specifically mentioning the camera's usefulness. However, battery life is a concern, with customers reporting low battery backup lasting 30-45 days.",
   "aspects": [
+    {
+      "name": "Value for money",
+      "count": "39"
+    },
     {
       "name": "Installation",
       "count": "35"
@@ -12,11 +16,11 @@
     },
     {
       "name": "Features",
-      "count": "25"
+      "count": "26"
     },
     {
       "name": "Security",
-      "count": "21"
+      "count": "22"
     },
     {
       "name": "Convenience",
@@ -25,10 +29,6 @@
     {
       "name": "Appearance",
       "count": "15"
-    },
-    {
-      "name": "Service",
-      "count": "7"
     },
     {
       "name": "Battery life",
@@ -45,20 +45,20 @@
       "body": "everything is good .."
     },
     {
-      "author": "Vivek Mathur",
-      "rating": 5.0,
-      "title": "Lavna lock is good",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "Lavna is quite good. It's user friendly and easy to operate with full security"
-    },
-    {
       "author": "Amazon Customer",
       "rating": 1.0,
       "title": "Lock not working",
       "date": "2026-10-13",
       "date_label": "13 October 2026",
       "body": "Lock is not working and battery needs to be replaced"
+    },
+    {
+      "author": "Vivek Mathur",
+      "rating": 5.0,
+      "title": "Lavna lock is good",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Lavna is quite good. It's user friendly and easy to operate with full security"
     },
     {
       "author": "Placeholder",

@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-16",
+  "scraped": "2026-10-17",
   "customers_say": "Customers have mixed opinions about the lock's quality and functionality, with some finding it good while others consider it the worst lock available. Moreover, the value for money receives mixed feedback, with some customers satisfied while others feel it's not worth the price. Additionally, installation experiences are negative, with one customer mentioning installation difficulties, and connectivity issues are reported, particularly with app connectivity problems.",
   "aspects": [
     {
@@ -25,6 +25,14 @@
   ],
   "reviews": [
     {
+      "author": "Amit Upkar Print House",
+      "rating": 5.0,
+      "title": "Very good support also.",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Very good product, value for money compare to competition."
+    },
+    {
       "author": "Srinivas S V",
       "rating": 1.0,
       "title": "Worst lock",
@@ -47,14 +55,6 @@
       "date": "2026-09-09",
       "date_label": "9 September 2026",
       "body": "Excellent product and very good suppprt from their team to help setup."
-    },
-    {
-      "author": "Eu Gee",
-      "rating": 1.0,
-      "title": "Pathetic Service support",
-      "date": "2026-08-27",
-      "date_label": "27 August 2026",
-      "body": "They have just imported a cheap Tuya lock. Tuya is NOTORIOUS for their devices not being able to link with their 'Smart Life' App. The vendor hasn't bothered to give even a Wiring Diagram which can tell which connection to go where., not an explanatory video. They don't even bother to reply back with any promptness. Wasted 3 DAYS in trying to configure this Stupid lock."
     },
     {
       "author": "Ragupathy R",

@@ -1,14 +1,18 @@
 {
-  "scraped": "2026-10-16",
-  "customers_say": "Customers find the door lock easy to install, with one noting it fits perfectly on wooden door frames, and appreciate its reliable performance with triple deadlocks for high security. The lock offers multiple unlocking options and adds a modern touch to the door, making it convenient for the whole family. While customers consider it a great value, they have mixed opinions about the app experience.",
+  "scraped": "2026-10-17",
+  "customers_say": "Customers find the smart lock to be of best-in-class quality, with simple installation and reliable performance. They appreciate its security features, particularly the triple deadlocks and multiple authentication methods, while also noting its modern appearance and multiple unlocking options. The value for money is considered good, though opinions about the user experience are mixed.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "219"
+    },
     {
       "name": "Installation",
       "count": "68"
     },
     {
       "name": "Reliability",
-      "count": "58"
+      "count": "59"
     },
     {
       "name": "Value for money",
@@ -19,16 +23,12 @@
       "count": "28"
     },
     {
+      "name": "Features",
+      "count": "23"
+    },
+    {
       "name": "Appearance",
       "count": "22"
-    },
-    {
-      "name": "Features",
-      "count": "22"
-    },
-    {
-      "name": "Convenience",
-      "count": "15"
     },
     {
       "name": "User experience",
