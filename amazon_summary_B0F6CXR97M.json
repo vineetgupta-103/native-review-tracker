@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-10-17",
+  "scraped": "2026-10-18",
   "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and user-friendly mobile app. The installation process is well-executed, and they appreciate its features, with one customer highlighting the information parameters of different parts. The taste is good, and customers find it easy to use. However, reliability and value for money receive mixed reviews, with some reporting it stops working after a few days and others expressing regret about their purchase.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "976"
+      "count": "981"
     },
     {
       "name": "Installation",
-      "count": "251"
+      "count": "252"
     },
     {
       "name": "Design",
-      "count": "119"
+      "count": "120"
     },
     {
       "name": "Water taste",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Reliability",
-      "count": "239"
+      "count": "240"
     },
     {
       "name": "Value for money",

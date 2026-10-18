@@ -1,21 +1,21 @@
 {
-  "scraped": "2026-10-17",
-  "customers_say": "Customers find the door lock worth its price and appreciate its straightforward installation and ease of use. They praise its comprehensive features and security capabilities, with one customer highlighting the anti-pry/tamper alarm, while another notes the multiple unlocking options. The lock receives positive feedback for its appearance and convenience, with one customer specifically mentioning the camera's usefulness. However, battery life is a concern, with customers reporting low battery backup lasting 30-45 days.",
+  "scraped": "2026-10-18",
+  "customers_say": "Customers find the smart door lock worth its price and appreciate its straightforward installation process. Moreover, the device provides all necessary features, is easy to use, and keeps homes safe with its anti-pry/tamper alarm. Additionally, they like its stylish appearance and consider the service timely.",
   "aspects": [
     {
       "name": "Value for money",
-      "count": "39"
+      "count": "40"
     },
     {
       "name": "Installation",
-      "count": "35"
-    },
-    {
-      "name": "Ease of use",
-      "count": "26"
+      "count": "36"
     },
     {
       "name": "Features",
+      "count": "27"
+    },
+    {
+      "name": "Ease of use",
       "count": "26"
     },
     {
@@ -31,50 +31,9 @@
       "count": "15"
     },
     {
-      "name": "Battery life",
-      "count": "7"
+      "name": "Service",
+      "count": "9"
     }
   ],
-  "reviews": [
-    {
-      "author": "Amit",
-      "rating": 5.0,
-      "title": "good installation",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "everything is good .."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 1.0,
-      "title": "Lock not working",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "Lock is not working and battery needs to be replaced"
-    },
-    {
-      "author": "Vivek Mathur",
-      "rating": 5.0,
-      "title": "Lavna lock is good",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "Lavna is quite good. It's user friendly and easy to operate with full security"
-    },
-    {
-      "author": "Placeholder",
-      "rating": 5.0,
-      "title": "4th Lavna lock in 30 months — Tomorrow’s tech at a price no one can touch!",
-      "date": "2026-10-12",
-      "date_label": "12 October 2026",
-      "body": "This is my 4th smart lock from Lavna over the past two and a half years. I started with the older LA24, then the LA8 and LA44, and now finally installed their flagship LX900. Having lived with their products across multiple doors and generations, I can confidently say that each one has been absolute value for money for its time. Lavna has genuinely cracked the code on giving you cutting-edge hardware while legacy brands are still busy testing the same features in their labs. What truly impresses me about the LX900 is how much thought has gone into practical everyday living. Take the 3D face re"
-    },
-    {
-      "author": "Tyagi SK",
-      "rating": 5.0,
-      "title": "Value for money",
-      "date": "2026-10-09",
-      "date_label": "9 October 2026",
-      "body": "This is a cost effective digital lock with so many features. Value for money. I like this lock."
-    }
-  ]
+  "reviews": []
 }

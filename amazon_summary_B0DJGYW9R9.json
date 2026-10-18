@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-10-17",
-  "customers_say": "Customers find the smart lock to be of best-in-class quality, with simple installation and reliable performance. They appreciate its security features, particularly the triple deadlocks and multiple authentication methods, while also noting its modern appearance and multiple unlocking options. The value for money is considered good, though opinions about the user experience are mixed.",
+  "scraped": "2026-10-18",
+  "customers_say": "Customers find the smart lock to be of best-in-class quality, with simple installation and reliable performance. They appreciate its security features, particularly the triple deadlocks and multiple authentication methods, and like its appearance, noting it adds a modern touch to the door. The lock offers multiple unlocking options, and customers consider it a great value. The user experience receives mixed feedback, with some customers reporting a terrible app experience.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "219"
+      "count": "221"
     },
     {
       "name": "Installation",
-      "count": "68"
+      "count": "69"
     },
     {
       "name": "Reliability",
-      "count": "59"
+      "count": "60"
     },
     {
       "name": "Value for money",
@@ -37,20 +37,28 @@
   ],
   "reviews": [
     {
+      "author": "ratna kumar kolli",
+      "rating": 5.0,
+      "title": "Strongly recommended",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "Nice product timely installed. Good service"
+    },
+    {
+      "author": "Koyel chatterjee",
+      "rating": 5.0,
+      "title": "Nice product",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "Product is very use food and fully digitally functioning Happy with the product and great quality"
+    },
+    {
       "author": "Nainesh",
       "rating": 5.0,
       "title": "Very good lock with special features",
       "date": "2026-10-14",
       "date_label": "14 October 2026",
       "body": "Very nice lock it's the only locks where you can it to your original bell already fitted in your house no need to charge it. And once the door bell rings you can see it on your mobile. .....You is on the door and can open it also from mobile. The technician was also knowledgeable and very nice person also who guided us very well. Keep going urban clap. We request urban clap to provide a separate app for native door lock. Thank you"
-    },
-    {
-      "author": "Rathin Biswas",
-      "rating": 5.0,
-      "title": "Very very important",
-      "date": "2026-10-12",
-      "date_label": "12 October 2026",
-      "body": "Items is very good and working very smoothly"
     },
     {
       "author": "Asfa Durdana",
@@ -67,14 +75,6 @@
       "date": "2026-10-10",
       "date_label": "10 October 2026",
       "body": "This smart door lock has truly made our lives easier! We’ve been using it for the past few months, and it’s been a great experience. No more worrying about carrying or keeping track of keys. The remote unlocking feature is very convenient, and we also receive notifications with photos of visitors who ring the doorbell. It offers great convenience and peace of mind. Excellent product and highly recommended!"
-    },
-    {
-      "author": "Val",
-      "rating": 1.0,
-      "title": "Highly inconvenient",
-      "date": "2026-10-09",
-      "date_label": "9 October 2026",
-      "body": "Highly inconvenient to activate it. If you buy on Amazon they have to register your number on urban company to activate it."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-17",
-  "customers_say": "Customers find this water purifier to be among the best in the market, appreciating its premium appearance and excellent installation process. They consider it a budget-friendly option that makes a noticeable difference in water quality, and they find it easy to use with a hassle-free process. While some customers say the water tastes excellent, others report a bad taste.",
+  "scraped": "2026-10-18",
+  "customers_say": "Customers find this water purifier to be among the best in the market, offering excellent value with transparent pricing and the ability to save on service costs. The installation process receives positive feedback, and customers report it has been working reliably for up to two years without issues. They appreciate its premium appearance and water quality, noting it makes a noticeable difference in water purity. The taste receives mixed reviews, with some customers finding it excellent while others disagree.",
   "aspects": [
     {
       "name": "Quality",
@@ -8,15 +8,19 @@
     },
     {
       "name": "Value for money",
-      "count": "552"
+      "count": "554"
     },
     {
       "name": "Installation",
       "count": "342"
     },
     {
+      "name": "Reliability",
+      "count": "336"
+    },
+    {
       "name": "Appearance",
-      "count": "210"
+      "count": "213"
     },
     {
       "name": "Water quality",
@@ -24,33 +28,29 @@
     },
     {
       "name": "Service",
-      "count": "144"
-    },
-    {
-      "name": "Ease of use",
-      "count": "100"
+      "count": "152"
     },
     {
       "name": "Water taste",
-      "count": "222"
+      "count": "225"
     }
   ],
   "reviews": [
     {
-      "author": "Parusuram",
+      "author": "Santosh Nangare",
       "rating": 5.0,
-      "title": "Best purchase",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "Water purifier is too good. Taste of the water is also good."
+      "title": "Amazing",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "\"The Native M1 is an amazing water purifier. It has a very sleek and modern design that looks great in the kitchen. The 10-stage filtration gives complete peace of mind about water safety. The taste of the water improved instantly after installation. Great value for money and totally hassle-free!\" 👍"
     },
     {
-      "author": "Vikas",
-      "rating": 4.0,
-      "title": "Premium Design and Good First Impression",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "The Native M1 Pro Water Purifier was installed just a day ago, and my initial experience has been good. The design looks premium, and the purifier seems convenient for daily use. It’s too early to comment on long-term performance and service, but so far, I’m satisfied with the overall experience."
+      "author": "Dev",
+      "rating": 5.0,
+      "title": "Excellent Purifier",
+      "date": "2026-10-14",
+      "date_label": "14 October 2026",
+      "body": "The installation process was flawless. The technician who installed my purifier was incredibly knowledgeable. He took the time to explain how the system actually works behind the scenes and shared several important details that the company doesn’t explicitly mention in the standard specs sheet. Knowing these \"hidden\" engineering details makes me appreciate the product even more. The water taste is excellent, and the build quality feels premium. What I love about it: • Unmatched Warranty: The 2-year unconditional warranty that covers all filters and spare parts gives complete peace of mind. No "
     },
     {
       "author": "Ashok kumar Alti",

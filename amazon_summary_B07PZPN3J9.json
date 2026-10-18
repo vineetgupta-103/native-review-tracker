@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-17",
+  "scraped": "2026-10-18",
   "customers_say": "Customers find the water purifier easy to install and appreciate its clean output, with one noting it completely changes water hardness and taste. Moreover, the service receives positive feedback. However, the product's reliability and durability are mixed - while some say it works well, others report it stops working after 4 months and won't last more than a year. Additionally, opinions on water wastage are divided, with some claiming zero wastage while others say it's a gimmick. The value for money is also mixed, with some finding it worth the cost while others consider it expensive.",
   "aspects": [
     {
@@ -8,14 +8,14 @@
     },
     {
       "name": "Water taste",
-      "count": "23"
-    },
-    {
-      "name": "Service",
-      "count": "12"
+      "count": "24"
     },
     {
       "name": "Water quality",
+      "count": "13"
+    },
+    {
+      "name": "Service",
       "count": "12"
     },
     {
@@ -37,20 +37,20 @@
   ],
   "reviews": [
     {
+      "author": "Monuj K.",
+      "rating": 5.0,
+      "title": "Review",
+      "date": "2026-10-16",
+      "date_label": "16 October 2026",
+      "body": "Product to Installation was very Good. Instalation was very good."
+    },
+    {
       "author": "Yashgunjal",
       "rating": 5.0,
       "title": "Excellent water purifier",
       "date": "2026-10-15",
       "date_label": "15 October 2026",
       "body": "KENT Marvel Water Purifier Review ⭐⭐⭐⭐☆ Excellent water purification with RO + UF + TDS Control and UV protection. The 8L storage capacity is suitable for family use, and the water taste is good. However, maintenance costs and water wastage should be considered before buying. Overall, a good option for high-TDS water if after-sales service is reliable."
-    },
-    {
-      "author": "Harsha",
-      "rating": 5.0,
-      "title": "Super quality tdsqualitiy",
-      "date": "2026-10-15",
-      "date_label": "15 October 2026",
-      "body": "Buject friendly good product"
     },
     {
       "author": "Santosh kushwaha",

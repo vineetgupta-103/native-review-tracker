@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-10-17",
-  "customers_say": "Customers find the water purifier reliable, budget-friendly, and easy to use, with good water quality that tests clean and pure. They appreciate the free installation process and find the water tastes good. The service receives mixed feedback, with some praising the prompt service while others find the customer support disappointing.",
+  "scraped": "2026-10-18",
+  "customers_say": "Customers find the water purifier reliable, budget-friendly, and easy to use, with good water quality that tests clean and pure. They appreciate the free installation process, and the water has a good taste. The service and customer experience receive mixed feedback - while some report prompt service, others find the customer care team disappointing.",
   "aspects": [
     {
       "name": "Reliability",
-      "count": "923"
+      "count": "927"
     },
     {
       "name": "Value for money",
-      "count": "743"
+      "count": "742"
     },
     {
       "name": "Installation",
-      "count": "612"
+      "count": "615"
     },
     {
       "name": "Water taste",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Water quality",
-      "count": "164"
+      "count": "163"
     },
     {
       "name": "Ease of use",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Service",
-      "count": "153"
+      "count": "155"
     },
     {
       "name": "Customer experience",
@@ -37,20 +37,12 @@
   ],
   "reviews": [
     {
-      "author": "Pavan reddy",
+      "author": "Rajesh Jayam",
       "rating": 5.0,
-      "title": "Good quality product",
-      "date": "2026-10-14",
-      "date_label": "14 October 2026",
-      "body": "Product is very good. I see that water is filtered 40tdm from 215tdm. I am happy with product. I an using for municipal and bore water. Happy to purchase and recommended to this."
-    },
-    {
-      "author": "Tejas Rane",
-      "rating": 5.0,
-      "title": "Quick installation and water taste is much better now",
-      "date": "2026-10-14",
-      "date_label": "14 October 2026",
-      "body": "Aquaguard installation service was quick and well done. The water taste is much better now—clean and odorles. The service technician, Akhilesh Yadav, was polite and professional, and he provided a detailed demo explaining how to use and maintain the purifier. Very satisfied with the service."
+      "title": "Aquaguard Purifier",
+      "date": "2026-10-16",
+      "date_label": "16 October 2026",
+      "body": "The water purifier works well and provides clean, safe-tasting water. The quality is good, and it is easy to use. Overall, I’m satisfied with the product."
     },
     {
       "author": "Rajkumar Yaduwanshi",
@@ -69,12 +61,20 @@
       "body": "I purchased this Aquaguard water purifier from Amazon expecting clean and pure drinking water. However, after installation, the technician informed me that I needed to install an additional iron filter, which would cost ₹2,100 extra. If I am purchasing a water purifier, I expect to know about such additional requirements and costs beforehand, not after the product has been delivered and installed. Why should I have to pay extra just to make the purifier suitable for my water? This experience has been extremely disappointing. The additional cost and lack of clear information have left me dissat"
     },
     {
-      "author": "Jigesh",
-      "rating": 5.0,
-      "title": "Best",
-      "date": "2026-10-12",
-      "date_label": "12 October 2026",
-      "body": "This is best but iska Jo filter hai usko sahi se fit nahin karne per Pani likh sakta hai Baki agar credit card discount Laga Ke 7000 ka kuchh pad raha hai to bahut achcha hai value for money"
+      "author": "Yogesh Khaladkar",
+      "rating": 4.0,
+      "title": "Good product and Quick Installation from Acqugard technician",
+      "date": "2026-10-10",
+      "date_label": "10 October 2026",
+      "body": "Good product and Technician has good knowledge and explained all details. Delivery and installation done on same day"
+    },
+    {
+      "author": "Mukul sinha",
+      "rating": 4.0,
+      "title": "A good buy with average build quality",
+      "date": "2026-09-05",
+      "date_label": "5 September 2026",
+      "body": "It’s working fine after installing a TDS controller, as the company doesn’t provide one. Although my tap water has a TDS of around 120 ppm, I purchased an RO purifier due to the presence of heavy metals. The RO reduced the TDS to 10–15 ppm, so a TDS controller was needed. However, since it bypasses some untreated water, the RO’s purpose is somewhat compromised, as some heavy metals may remain in the final water. Whole body is of plastic having build quality not as expected.Apperance is good, installation service was fast but after sale service is slow.Overall,a good buy,but let's see how it go"
     }
   ]
 }

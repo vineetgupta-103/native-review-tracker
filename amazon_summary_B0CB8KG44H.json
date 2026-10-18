@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-17",
-  "customers_say": "Customers like the water purifier's taste and find it easy to use with smooth operation. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as filters break within 6 months, and there are issues with continuous leakage from the machine. While some customers find it good value for money, others say it's not worth the investment, and reliability is mixed with reports of the purifier stopping working.",
+  "scraped": "2026-10-18",
+  "customers_say": "Customers like the water purifier's taste and find it easy to use and maintain. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as filters break within 6 months, and there are issues with leakage, with water continuously leaking out. Moreover, reliability and value for money receive mixed reviews, with some finding it a good product for the price while others say it's not worth the investment. Additionally, service experiences are mixed, with some praising quick customer care while others report bad service.",
   "aspects": [
     {
       "name": "Water taste",
@@ -12,15 +12,15 @@
     },
     {
       "name": "Water quality",
-      "count": "140"
+      "count": "139"
     },
     {
       "name": "Value for money",
-      "count": "671"
+      "count": "672"
     },
     {
       "name": "Reliability",
-      "count": "594"
+      "count": "592"
     },
     {
       "name": "Service",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Amin Shaikh",
+      "rating": 5.0,
+      "title": "Excellent Product Quality and Performance",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "Very satisfied with my KENT RO Supreme Plus water purifier. Excellent product quality, stylish design, and useful features. Happy with my purchase and would recommend it to others!"
+    },
     {
       "author": "santanu a.",
       "rating": 4.0,
@@ -67,14 +75,6 @@
       "date": "2026-10-08",
       "date_label": "8 October 2026",
       "body": "Really good water purifier, buy it and forget. Installation was quick, no issues so far."
-    },
-    {
-      "author": "Divya Shibu",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-10-07",
-      "date_label": "7 October 2026",
-      "body": "If you get those product below 13k it is good. The water taste is very good. The storage capacity is good for a small family. It produces lot of waste water. The filter replacement costs is huge. It is a good looking unit."
     }
   ]
 }

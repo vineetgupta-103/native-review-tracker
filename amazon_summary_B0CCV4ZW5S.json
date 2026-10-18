@@ -1,68 +1,80 @@
 {
-  "scraped": "2026-10-17",
-  "customers_say": "Customers have mixed opinions about the lock's quality and functionality, with some finding it good while others consider it the worst lock available. Moreover, the value for money receives mixed feedback, with some customers satisfied while others feel it's not worth the price. Additionally, installation experiences are negative, with one customer mentioning installation difficulties, and connectivity issues are reported, particularly with app connectivity problems.",
+  "scraped": "2026-10-18",
+  "customers_say": "Customers find the smart lock functions well and offers excellent value for money. They appreciate its ease of use, particularly through fingerprint technology, and its security features provide peace of mind. The device is versatile with multiple access methods and convenient for daily use, with one customer noting it's especially helpful for elderly and children. Battery life and fingerprint recognition receive mixed reviews - while some find the battery life good, others report it dying within a day, and while the fingerprint recognition is fast, some mention issues with facial recognition speed.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "25"
-    },
-    {
       "name": "Functionality",
-      "count": "15"
+      "count": "109"
     },
     {
       "name": "Value for money",
-      "count": "9"
+      "count": "85"
     },
     {
-      "name": "Installation",
-      "count": "7"
+      "name": "Ease of use",
+      "count": "57"
     },
     {
-      "name": "Connectivity",
-      "count": "5"
+      "name": "Security",
+      "count": "48"
+    },
+    {
+      "name": "Features",
+      "count": "30"
+    },
+    {
+      "name": "Convenience",
+      "count": "28"
+    },
+    {
+      "name": "Battery life",
+      "count": "27"
+    },
+    {
+      "name": "Fingerprint recognition",
+      "count": "24"
     }
   ],
   "reviews": [
     {
-      "author": "Amit Upkar Print House",
+      "author": "Hari prakash",
       "rating": 5.0,
-      "title": "Very good support also.",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "Very good product, value for money compare to competition."
-    },
-    {
-      "author": "Srinivas S V",
-      "rating": 1.0,
-      "title": "Worst lock",
-      "date": "2026-10-11",
-      "date_label": "11 October 2026",
-      "body": "Didn't even work for 2 days worst ever lock never buy these local golen locks"
+      "title": "Best smart lock",
+      "date": "2026-10-02",
+      "date_label": "2 October 2026",
+      "body": "True review. Using 3 Golens Smart locks for more 6 months. No issue... Everything is smooth. Do buy Golens. Stay tension free...hassle free.... Carefree .."
     },
     {
       "author": "Placeholder",
-      "rating": 2.0,
-      "title": "Ok for wooden door but service need to improve",
-      "date": "2026-09-14",
-      "date_label": "14 September 2026",
-      "body": "If your looking for metal door , think twice before buying , they will arrange technician only for installation for metal door alterations it should bourn by you There technician costed 1600 For metal cutting costed 2000 And after sale services is very bad they don't reply , after adding fingerprint, its getting verification failed I complained but no response from company"
-    },
-    {
-      "author": "Adarsh",
       "rating": 5.0,
-      "title": "Very Good Product & Service",
-      "date": "2026-09-09",
-      "date_label": "9 September 2026",
-      "body": "Excellent product and very good suppprt from their team to help setup."
+      "title": "Go lens x95 review",
+      "date": "2026-09-06",
+      "date_label": "6 September 2026",
+      "body": "The golens x95 smart lock is very simple and easy to use and understand. Helpful installation. Seems very sturdy. The technician- Akhilesh kumar was very helpful and made it easy to understand."
     },
     {
-      "author": "Ragupathy R",
-      "rating": 2.0,
-      "title": "Poor customer support",
-      "date": "2026-08-23",
-      "date_label": "23 August 2026",
-      "body": "Last month I purchased this product but installed 15 days back. Wifi is not working; I contacted customer care. They are sending an installation video only. Repeatedly I am contacting customer care. No use. I am not able to connect with the mobile app. Quality-wise, it is a very good product, but customer service is not upto our expectation. Still, I cannot able to connect with mobile app"
+      "author": "Asantosh",
+      "rating": 4.0,
+      "title": "Value for money",
+      "date": "2026-08-22",
+      "date_label": "22 August 2026",
+      "body": "Bell ring should be more loud. Back Camera Viewer is only connected through WiFi. Bust costwise its a good product."
+    },
+    {
+      "author": "Dr.Mumtaj khan",
+      "rating": 5.0,
+      "title": "Excellent security product we believe.its great security Divice",
+      "date": "2026-08-21",
+      "date_label": "21 August 2026",
+      "body": "Write a review I am very glad with this door lock. Golens X95 excellent product worth of money.The build quality feels strong and durable, and installation was quick and straightforward. It fits my main door perfectly and adds an extra layer of security and peace of mind. The locking mechanism works smoothly, and the overall finish looks premium. It is definitely a useful product for Home /Office Nice installation Installation man Mr Sonu good man. Thank u again."
+    },
+    {
+      "author": "Rahul",
+      "rating": 1.0,
+      "title": "Worst experience with Golens",
+      "date": "2026-08-06",
+      "date_label": "6 August 2026",
+      "body": "Absolutely terrible experience with golens x95. I bought this lock on 7/6/25 and got it installed on 31 july 26 from Golens for an additional charge of 1500 rupees; as there was construction going on in my house. It worked fine for a few days but when the battery drained and I tried to charge it, i noticed that the battery is faulty and not getting charged. Even after charging it for a whole day it worked only for a few mins. When I contacted customer care then I was told I need to pay additional 2850 for replacement battery. Absolutely ridiculous and shady brand. Won't recommend to anyone."
     }
   ]
 }
