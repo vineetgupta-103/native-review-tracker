@@ -1,34 +1,34 @@
 {
-  "scraped": "2026-10-18",
-  "customers_say": "Customers find this water purifier to be the best in the market with excellent performance and installation. They appreciate its premium appearance, with one customer noting its modern touch panel with LED indicators, and they like its taste and water quality, with one mentioning TDS levels below 100. However, reliability is a concern as multiple customers report units going completely dead within 24 hours of installation.",
+  "scraped": "2026-10-19",
+  "customers_say": "Customers find the water purifier to be among the best in the market, appreciating its unmatched pricing and performance that works better than expected. The product receives positive feedback for its appearance, with one customer noting its modern touch panel with LED indicators, and they like its taste and water quality, with one mentioning TDS levels below 100. However, reliability is a concern as multiple customers report units going completely dead within 24 hours of installation.",
   "aspects": [
     {
       "name": "Quality",
       "count": "1.3K"
     },
     {
+      "name": "Value for money",
+      "count": "278"
+    },
+    {
       "name": "Performance",
-      "count": "211"
+      "count": "215"
     },
     {
       "name": "Installation",
-      "count": "169"
+      "count": "171"
     },
     {
       "name": "Water taste",
-      "count": "120"
+      "count": "121"
     },
     {
       "name": "Water quality",
-      "count": "112"
+      "count": "118"
     },
     {
       "name": "Appearance",
       "count": "93"
-    },
-    {
-      "name": "Recommendation",
-      "count": "80"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Sukesh s dev",
+      "rating": 5.0,
+      "title": "Must buyyy",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Very nice product my family members liked it very clean installation by the team on time and water taste is also good and app information is very informative thank Amazon for this offer I got it for 11.5k from sale worth every penny…!"
+    },
+    {
+      "author": "Naresh",
+      "rating": 5.0,
+      "title": "Great taste, simple operation, and convenient smart features! Review:",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "I’ve had a fantastic experience with the Native M2 Pro water filter. The water tastes very good and fresh. The filtration process is extremely straightforward and simple to use. Plus, the app interface is very well-designed, smooth, and user-friendly. Highly recommended if you're looking for a reliable and modern water purifier!"
+    },
     {
       "author": "Yatendra Kumar",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-10-11",
       "date_label": "11 October 2026",
       "body": "Excellent Experience with Urban Company Native M2 Pro Water Purifier I am very satisfied with the Urban Company Native M2 Pro Water Purifier. The design is stylish, the water quality is good, and the purifier is easy to use. It is a great choice for everyday household needs. The overall experience is smooth, and the product offers good value for money. Highly recommended for anyone looking for a modern and reliable water purifier for their home."
-    },
-    {
-      "author": "Lalit",
-      "rating": 5.0,
-      "title": "Excellent Product with Great Performance and Premium Design!",
-      "date": "2026-10-10",
-      "date_label": "10 October 2026",
-      "body": "I am extremely happy with my Native M2 Pro water purifier. The design is sleek and premium, the features are impressive, and the water dispensing is smooth and convenient. The purifier works well for everyday use and offers great value for money. The overall experience has been excellent, and I am very satisfied with my purchase. Highly recommended for anyone looking for a modern, feature-rich water purifier for their home!"
-    },
-    {
-      "author": "JITENDER DHIMAN",
-      "rating": 5.0,
-      "title": "Title: Fully satisfied",
-      "date": "2026-09-30",
-      "date_label": "30 September 2026",
-      "body": "I am writing this review after using the Native M2 Pro RO for 3 months, and I am completely satisfied with its performance. The water tastes great. The best part is the zero-service hassle for 2 years. The touch dispensing and battery backup features work flawlessly. Go for it without any doubt!"
     }
   ]
 }

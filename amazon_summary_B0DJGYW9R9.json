@@ -1,22 +1,18 @@
 {
-  "scraped": "2026-10-18",
-  "customers_say": "Customers find the smart lock to be of best-in-class quality, with simple installation and reliable performance. They appreciate its security features, particularly the triple deadlocks and multiple authentication methods, and like its appearance, noting it adds a modern touch to the door. The lock offers multiple unlocking options, and customers consider it a great value. The user experience receives mixed feedback, with some customers reporting a terrible app experience.",
+  "scraped": "2026-10-19",
+  "customers_say": "Customers find the smart lock to be a best-in-class product with triple deadlocks for high security and multiple authentication methods. The installation process is simple, and customers appreciate its convenience for the whole family, with one noting it saves hassle searching for keys. The appearance adds a modern touch to the door, and customers like its features, with one highlighting the password masking functionality. While the overall experience is positive, some customers report a terrible experience with the app.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "221"
+      "count": "224"
     },
     {
       "name": "Installation",
-      "count": "69"
+      "count": "70"
     },
     {
       "name": "Reliability",
       "count": "60"
-    },
-    {
-      "name": "Value for money",
-      "count": "37"
     },
     {
       "name": "Security",
@@ -31,18 +27,22 @@
       "count": "22"
     },
     {
+      "name": "Convenience",
+      "count": "15"
+    },
+    {
       "name": "User experience",
       "count": "18"
     }
   ],
   "reviews": [
     {
-      "author": "ratna kumar kolli",
+      "author": "DeV Salve",
       "rating": 5.0,
-      "title": "Strongly recommended",
-      "date": "2026-10-15",
-      "date_label": "15 October 2026",
-      "body": "Nice product timely installed. Good service"
+      "title": "UC best installation and service",
+      "date": "2026-10-16",
+      "date_label": "16 October 2026",
+      "body": "Very happy with service and specially glad it’s available in tear 2 city with excellent quality."
     },
     {
       "author": "Koyel chatterjee",
@@ -53,20 +53,20 @@
       "body": "Product is very use food and fully digitally functioning Happy with the product and great quality"
     },
     {
+      "author": "ratna kumar kolli",
+      "rating": 5.0,
+      "title": "Strongly recommended",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "Nice product timely installed. Good service"
+    },
+    {
       "author": "Nainesh",
       "rating": 5.0,
       "title": "Very good lock with special features",
       "date": "2026-10-14",
       "date_label": "14 October 2026",
       "body": "Very nice lock it's the only locks where you can it to your original bell already fitted in your house no need to charge it. And once the door bell rings you can see it on your mobile. .....You is on the door and can open it also from mobile. The technician was also knowledgeable and very nice person also who guided us very well. Keep going urban clap. We request urban clap to provide a separate app for native door lock. Thank you"
-    },
-    {
-      "author": "Asfa Durdana",
-      "rating": 5.0,
-      "title": "Prompt installation and so far great!",
-      "date": "2026-10-11",
-      "date_label": "11 October 2026",
-      "body": "Excellent installation service by Mr Khaja from UC!"
     },
     {
       "author": "Sri",

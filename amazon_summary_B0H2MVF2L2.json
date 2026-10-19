@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-18",
-  "customers_say": "Customers find the door lock to be a budget-friendly option with reliable performance, particularly noting that the face unlock feature works quickly every time. They appreciate its classy design that looks like a simple door handle, and one customer mentions how the mocha finish matches perfectly with their main door. The lock receives positive feedback for its build quality, security features, and perfect installation experience. Customers value its features, with one highlighting the variety of access options available, and find it convenient, with one noting how it makes everyday access easier.",
+  "scraped": "2026-10-19",
+  "customers_say": "Customers find the door lock to be a budget-friendly option with reliable performance, particularly noting that the face unlock feature works quickly every time. They appreciate its user-friendly app, classy design that looks like a simple door handle, and its security features. The lock receives positive feedback for its build quality and installation process.",
   "aspects": [
     {
       "name": "Value for money",
@@ -13,6 +13,10 @@
     {
       "name": "Reliability",
       "count": "27"
+    },
+    {
+      "name": "Ease of use",
+      "count": "22"
     },
     {
       "name": "Appearance",
@@ -29,10 +33,6 @@
     {
       "name": "Installation",
       "count": "15"
-    },
-    {
-      "name": "Convenience",
-      "count": "11"
     }
   ],
   "reviews": [
@@ -69,12 +69,12 @@
       "body": "Really impressed with the Native Lock Ultra. The build quality feels premium, installation was smooth, and the lock works reliably. The smart features are convenient and make everyday access much easier. Overall, a great product for the price and definitely worth recommending."
     },
     {
-      "author": "Shreyas Patil",
+      "author": "Akriti",
       "rating": 5.0,
-      "title": "The live video feature is commendable.",
-      "date": "2026-10-01",
-      "date_label": "1 October 2026",
-      "body": "Fantastic purchase... The live video feature is commendable. Helps me stay at ease as far as security is concerned. The premium build makes the door look very lively."
+      "title": "NATIVE SMART LOCK is indeed smart!",
+      "date": "2026-10-04",
+      "date_label": "4 October 2026",
+      "body": "smart lock As the name suggests the lock is a smart one with commendable features such as live video and the convenience to open door from anywhere. it has clear camera quality and is easy to use."
     }
   ]
 }

@@ -1,18 +1,22 @@
 {
-  "scraped": "2026-10-18",
-  "customers_say": "Customers find the smart door lock worth its price and appreciate its straightforward installation process. Moreover, the device provides all necessary features, is easy to use, and keeps homes safe with its anti-pry/tamper alarm. Additionally, they like its stylish appearance and consider the service timely.",
+  "scraped": "2026-10-19",
+  "customers_say": "Customers find this smart door lock to be of excellent quality and value for money, with straightforward installation and multiple unlocking features. They appreciate its security features, with one customer noting the anti-pry/tamper alarm, and find it easy to use and convenient. They like its appearance, with one customer describing it as premium-looking.",
   "aspects": [
     {
+      "name": "Quality",
+      "count": "143"
+    },
+    {
       "name": "Value for money",
-      "count": "40"
+      "count": "42"
     },
     {
       "name": "Installation",
-      "count": "36"
+      "count": "37"
     },
     {
       "name": "Features",
-      "count": "27"
+      "count": "28"
     },
     {
       "name": "Ease of use",
@@ -29,11 +33,48 @@
     {
       "name": "Appearance",
       "count": "15"
-    },
-    {
-      "name": "Service",
-      "count": "9"
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "author": "Kingshuk Ray",
+      "rating": 5.0,
+      "title": "Excellent Value for money product",
+      "date": "2026-10-16",
+      "date_label": "16 October 2026",
+      "body": "Cost effective excellent product with multiple unlocking features no other product is offering right now. Quality of the product is also good."
+    },
+    {
+      "author": "Smiti Mahabir",
+      "rating": 5.0,
+      "title": "Good product, good features",
+      "date": "2026-10-15",
+      "date_label": "15 October 2026",
+      "body": "The product is worth buying & the installation was very efficient & timely . The technician Lucky who came to install was patient & knowledgeable . All in all we are happy with the purchase & the service ."
+    },
+    {
+      "author": "Amazon Customer",
+      "rating": 1.0,
+      "title": "Lock not working",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Lock is not working and battery needs to be replaced"
+    },
+    {
+      "author": "Vivek Mathur",
+      "rating": 5.0,
+      "title": "Lavna lock is good",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Lavna is quite good. It's user friendly and easy to operate with full security"
+    },
+    {
+      "author": "Placeholder",
+      "rating": 5.0,
+      "title": "4th Lavna lock in 30 months — Tomorrow’s tech at a price no one can touch!",
+      "date": "2026-10-12",
+      "date_label": "12 October 2026",
+      "body": "This is my 4th smart lock from Lavna over the past two and a half years. I started with the older LA24, then the LA8 and LA44, and now finally installed their flagship LX900. Having lived with their products across multiple doors and generations, I can confidently say that each one has been absolute value for money for its time. Lavna has genuinely cracked the code on giving you cutting-edge hardware while legacy brands are still busy testing the same features in their labs. What truly impresses me about the LX900 is how much thought has gone into practical everyday living. Take the 3D face re"
+    }
+  ]
 }

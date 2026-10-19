@@ -1,5 +1,5 @@
 {
-  "scraped": "2026-10-18",
+  "scraped": "2026-10-19",
   "customers_say": "Customers find this water purifier to be among the best in the market, offering excellent value with transparent pricing and the ability to save on service costs. The installation process receives positive feedback, and customers report it has been working reliably for up to two years without issues. They appreciate its premium appearance and water quality, noting it makes a noticeable difference in water purity. The taste receives mixed reviews, with some customers finding it excellent while others disagree.",
   "aspects": [
     {
@@ -8,7 +8,7 @@
     },
     {
       "name": "Value for money",
-      "count": "554"
+      "count": "555"
     },
     {
       "name": "Installation",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Water taste",
-      "count": "225"
+      "count": "226"
     }
   ],
   "reviews": [
@@ -53,6 +53,14 @@
       "body": "The installation process was flawless. The technician who installed my purifier was incredibly knowledgeable. He took the time to explain how the system actually works behind the scenes and shared several important details that the company doesn’t explicitly mention in the standard specs sheet. Knowing these \"hidden\" engineering details makes me appreciate the product even more. The water taste is excellent, and the build quality feels premium. What I love about it: • Unmatched Warranty: The 2-year unconditional warranty that covers all filters and spare parts gives complete peace of mind. No "
     },
     {
+      "author": "Parusuram",
+      "rating": 5.0,
+      "title": "Best purchase",
+      "date": "2026-10-13",
+      "date_label": "13 October 2026",
+      "body": "Water purifier is too good. Taste of the water is also good."
+    },
+    {
       "author": "Ashok kumar Alti",
       "rating": 5.0,
       "title": "Value buy and very professional brand installation service",
@@ -67,14 +75,6 @@
       "date": "2026-10-10",
       "date_label": "10 October 2026",
       "body": "Excellent purifier! Pure, sweet water, stylish design & quick service. Very happy with Uran Company - highly recommended."
-    },
-    {
-      "author": "Anchal Chaturvedi",
-      "rating": 5.0,
-      "title": "Must change filters once in every 2 year and you are good to go.",
-      "date": "2026-10-10",
-      "date_label": "10 October 2026",
-      "body": "It's a nice product. I am using it since 1 year and it's working perfectly fine, everything is under warranty so no worries and you just need to change filter once in 2 years making it cost effective too. Water quality is decent. Overall good product."
     }
   ]
 }

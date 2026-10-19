@@ -1,16 +1,8 @@
 {
-  "scraped": "2026-10-18",
+  "scraped": "2026-10-19",
   "customers_say": "",
   "aspects": [],
   "reviews": [
-    {
-      "author": "samir mehta",
-      "rating": 5.0,
-      "title": "Nice service and lock",
-      "date": "2026-10-14",
-      "date_label": "14 October 2026",
-      "body": "SK Nuruddin is the beat technician and best installation completed with cool and friendly natural"
-    },
     {
       "author": "chandan",
       "rating": 5.0,
@@ -42,6 +34,14 @@
       "date": "2026-09-11",
       "date_label": "11 September 2026",
       "body": "Extremely professional work done by Mr. Hameed. Liked the prompt service and help. Atomberg .... Plz keep up the good work."
+    },
+    {
+      "author": "Ajay Chandreja",
+      "rating": 5.0,
+      "title": "Cypheo",
+      "date": "2026-08-19",
+      "date_label": "19 August 2026",
+      "body": "Superb"
     }
   ]
 }

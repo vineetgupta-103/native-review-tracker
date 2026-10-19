@@ -1,10 +1,14 @@
 {
-  "scraped": "2026-10-18",
-  "customers_say": "Customers find the water purifier easy to install and appreciate its clean output, with one noting it completely changes water hardness and taste. Moreover, the service receives positive feedback. However, the product's reliability and durability are mixed - while some say it works well, others report it stops working after 4 months and won't last more than a year. Additionally, opinions on water wastage are divided, with some claiming zero wastage while others say it's a gimmick. The value for money is also mixed, with some finding it worth the cost while others consider it expensive.",
+  "scraped": "2026-10-19",
+  "customers_say": "Customers find the water purification unit to be of good quality, with positive feedback about its installation, taste, and water quality. However, the reliability and durability receive mixed reviews - while some say it works well, others report it stops working after 4 months and won't last more than a year. The value for money and water wastage aspects also draw mixed reactions, with some finding it worth the price while others say it's not budget-friendly and the zero-wastage feature is a gimmick.",
   "aspects": [
     {
+      "name": "Quality",
+      "count": "291"
+    },
+    {
       "name": "Installation",
-      "count": "37"
+      "count": "39"
     },
     {
       "name": "Water taste",
@@ -13,10 +17,6 @@
     {
       "name": "Water quality",
       "count": "13"
-    },
-    {
-      "name": "Service",
-      "count": "12"
     },
     {
       "name": "Value for money",
@@ -37,12 +37,12 @@
   ],
   "reviews": [
     {
-      "author": "Monuj K.",
+      "author": "R B",
       "rating": 5.0,
-      "title": "Review",
+      "title": "Seems good so far",
       "date": "2026-10-16",
       "date_label": "16 October 2026",
-      "body": "Product to Installation was very Good. Instalation was very good."
+      "body": "Smooth delivery and installation process"
     },
     {
       "author": "Yashgunjal",

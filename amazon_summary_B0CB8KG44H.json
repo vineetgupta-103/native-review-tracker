@@ -1,7 +1,15 @@
 {
-  "scraped": "2026-10-18",
-  "customers_say": "Customers like the water purifier's taste and find it easy to use and maintain. The water quality receives positive feedback, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as filters break within 6 months, and there are issues with leakage, with water continuously leaking out. Moreover, reliability and value for money receive mixed reviews, with some finding it a good product for the price while others say it's not worth the investment. Additionally, service experiences are mixed, with some praising quick customer care while others report bad service.",
+  "scraped": "2026-10-19",
+  "customers_say": "Customers find the water purifier to be of good quality, with positive feedback about its taste, installation process, and ease of use. The water quality receives positive reviews, with one customer noting a substantial improvement in filtration quality. However, durability is a concern as multiple customers report filters breaking within 6 months of use. Moreover, reliability is mixed, with some customers reporting the purifier stops working, and opinions on value for money are divided between those who find it good for the price and those who consider it not worth the investment.",
   "aspects": [
+    {
+      "name": "Quality",
+      "count": "2.8K"
+    },
+    {
+      "name": "Installation",
+      "count": "515"
+    },
     {
       "name": "Water taste",
       "count": "211"
@@ -12,27 +20,19 @@
     },
     {
       "name": "Water quality",
-      "count": "139"
+      "count": "141"
     },
     {
       "name": "Value for money",
-      "count": "672"
+      "count": "673"
     },
     {
       "name": "Reliability",
       "count": "592"
     },
     {
-      "name": "Service",
-      "count": "104"
-    },
-    {
       "name": "Durability",
       "count": "145"
-    },
-    {
-      "name": "Leakage",
-      "count": "108"
     }
   ],
   "reviews": [
@@ -53,20 +53,12 @@
       "body": "The product looking good except one scratch at one place."
     },
     {
-      "author": "Kindle Customer",
-      "rating": 3.0,
-      "title": "Bad service, Bad Quality Build",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "I am writing a product review after using the water purifier for two years. First i will the cons so that you do not miss them. 1. The plastic water tank is not durable. It breaks very frequently. I changed the tank on Jan2026 and it broken again in October. The build is not good. 2. You would never know when the candles are out of service. You need to replace them very frequently especially when you are staying in or having hard water. 3. They say UV light protects from algae formation and stuff. I have never seen the UV light turning on. 4. The tap shown here is silver color. People mistake "
-    },
-    {
-      "author": "Vaibhav Nigam",
+      "author": "Satya Prakash",
       "rating": 5.0,
-      "title": "Kent supreme plus",
-      "date": "2026-10-12",
-      "date_label": "12 October 2026",
-      "body": "Ajaz Ahmed came for installation of Kent Supreme plus and clear all doubts regarding installation, filter servicing and future schedule. Company provide good quality food grade products as mentioned with cordial service."
+      "title": "It was good",
+      "date": "2026-10-11",
+      "date_label": "11 October 2026",
+      "body": "Very good . The installation of the product is done"
     },
     {
       "author": "Nishankkulshreshtha",
@@ -75,6 +67,14 @@
       "date": "2026-10-08",
       "date_label": "8 October 2026",
       "body": "Really good water purifier, buy it and forget. Installation was quick, no issues so far."
+    },
+    {
+      "author": "Divya Shibu",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-10-07",
+      "date_label": "7 October 2026",
+      "body": "If you get those product below 13k it is good. The water taste is very good. The storage capacity is good for a small family. It produces lot of waste water. The filter replacement costs is huge. It is a good looking unit."
     }
   ]
 }

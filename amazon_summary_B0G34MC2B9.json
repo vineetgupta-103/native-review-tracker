@@ -1,10 +1,10 @@
 {
-  "scraped": "2026-10-18",
+  "scraped": "2026-10-19",
   "customers_say": "Customers find the digital lock easy to install, with one noting it completes installation without damaging the door. Moreover, they appreciate its features, including multiple access options, and consider it a good home security solution that adds convenience. Additionally, the service receives positive feedback, with one customer highlighting the polite and knowledgeable service person. However, opinions about reliability and value for money are mixed, with some finding it works well while others report issues, and some consider it good value while others find it costly.",
   "aspects": [
     {
       "name": "Installation",
-      "count": "32"
+      "count": "33"
     },
     {
       "name": "Features",
@@ -20,11 +20,11 @@
     },
     {
       "name": "Usability",
-      "count": "10"
+      "count": "11"
     },
     {
       "name": "Convenience",
-      "count": "8"
+      "count": "9"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,22 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Pramod Kumar Srivastava",
+      "rating": 5.0,
+      "title": "He is very supportive and helpful",
+      "date": "2026-10-17",
+      "date_label": "17 October 2026",
+      "body": "It was very helpful and supportive"
+    },
+    {
+      "author": "Uk",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-10-16",
+      "date_label": "16 October 2026",
+      "body": "Installed by Mr Prabhu on 16/10/2026. Easy installation if it is a new wooden door, for existing replacement lock you have to measure property before buying. There will be some extra carpenter work needed. Operations are very clear and anyone can understand."
+    },
     {
       "author": "Vishal",
       "rating": 5.0,
@@ -59,22 +75,6 @@
       "date": "2026-10-09",
       "date_label": "9 October 2026",
       "body": "Excellent work done with neatly completed and installed by Mr Venkatchary"
-    },
-    {
-      "author": "Kindle Customer",
-      "rating": 5.0,
-      "title": "Lock",
-      "date": "2026-10-02",
-      "date_label": "2 October 2026",
-      "body": "Excellent product and nicely installed."
-    },
-    {
-      "author": "nidhi",
-      "rating": 5.0,
-      "title": "Very good",
-      "date": "2026-09-25",
-      "date_label": "25 September 2026",
-      "body": "He installed very quick & explained very well"
     }
   ]
 }
