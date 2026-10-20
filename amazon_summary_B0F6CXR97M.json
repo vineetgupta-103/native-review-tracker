@@ -1,18 +1,18 @@
 {
-  "scraped": "2026-10-19",
+  "scraped": "2026-10-20",
   "customers_say": "Customers find this water purifier to be the best in the market with a premium appearance and user-friendly mobile app. The installation process is well-executed, and they appreciate its features, with one customer highlighting the information parameters of different parts. The taste is good, and customers find it easy to use. However, reliability and value for money receive mixed reviews, with some reporting it stops working after a few days and others expressing regret about their purchase.",
   "aspects": [
     {
       "name": "Quality",
-      "count": "986"
+      "count": "988"
     },
     {
       "name": "Installation",
-      "count": "252"
+      "count": "251"
     },
     {
       "name": "Design",
-      "count": "120"
+      "count": "121"
     },
     {
       "name": "Water taste",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Features",
-      "count": "69"
+      "count": "70"
     },
     {
       "name": "Ease of use",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Reliability",
-      "count": "243"
+      "count": "241"
     },
     {
       "name": "Value for money",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Manish Kanbi",
+      "rating": 5.0,
+      "title": "Smart Technology and Modern Design!",
+      "date": "2026-10-17",
+      "date_label": "17 October 2026",
+      "body": "The Atomberg Intellon Adaptive Water Purifier looks modern and offers an innovative approach to water purification. Its smart features and adaptive technology make it an interesting choice for a modern home. The design is attractive, and the product feels like a thoughtful addition to the kitchen. Overall, a promising product from Atomberg. Looking forward to a good experience with its performance and reliability. Recommended for those looking for a modern water purifier with smart features"
+    },
     {
       "author": "Justin",
       "rating": 5.0,
@@ -45,28 +53,20 @@
       "body": "Amazing product and great installation experience. Clear explanation provided. I recommend this over all other non adaptive water purifiers. Saves water plus saves money."
     },
     {
-      "author": "Mohan",
-      "rating": 5.0,
-      "title": "Worth the money",
-      "date": "2026-10-06",
-      "date_label": "6 October 2026",
-      "body": "Overall, its a nice product and good for borewell and corporate waters. Had a nice experince with customer serivice. After delivery, the service person came quickly and installed the device without any hassle."
-    },
-    {
-      "author": "Harish",
-      "rating": 5.0,
-      "title": "Good Product and Smooth Installation",
-      "date": "2026-10-02",
-      "date_label": "2 October 2026",
-      "body": "Received my Automberg water purifier recently, and overall, I’m happy with the experience. The product was delivered safely and on time. The installation process was also smooth and hassle-free, with everything set up properly. So far, the product looks good and works well. Overall, a good experience with both the delivery and installation."
-    },
-    {
       "author": "Jay",
       "rating": 5.0,
       "title": "Good one",
       "date": "2026-10-01",
       "date_label": "1 October 2026",
       "body": "Been using this purifier for a couple of weeks now and overall experience is good. Water tastes clean and the purifier looks quite premium in the kitchen. Installation was also smooth. So far, no issues with the product. The adaptive mode was the main reason I went for this one. Water quality in my area keeps changing, so I didn't want RO running unnecessarily all the time. The purifier adjusts according to the incoming water, which is quite convenient. Good product overall. Build quality is genuinely good. It feels sturdy and the finishing is also nice. I have seen a lot of bulky purifiers bu"
+    },
+    {
+      "author": "Riju",
+      "rating": 5.0,
+      "title": "Good experience overall",
+      "date": "2026-09-18",
+      "date_label": "18 September 2026",
+      "body": "Overall experience was seamless. Installation was done the very next day. The technician (Sharaf) was knowledgeable and work was done quickly and neatly. He tested the water quality and pressure. Fixed a booster pump at no additional cost. Then he explained the functions and initial process clearly. Connected the device via app and explained it as well. The product seems to be pretty good except for the water dispenser handle that seems very flimsy on and otherwise well built product. Till now all seems good. I've had good experience with other Atomberg products so expecting the same here too."
     },
     {
       "author": "@Pranoy_Chauaan",

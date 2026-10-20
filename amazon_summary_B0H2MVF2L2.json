@@ -1,11 +1,7 @@
 {
-  "scraped": "2026-10-19",
-  "customers_say": "Customers find the door lock to be a budget-friendly option with reliable performance, particularly noting that the face unlock feature works quickly every time. They appreciate its user-friendly app, classy design that looks like a simple door handle, and its security features. The lock receives positive feedback for its build quality and installation process.",
+  "scraped": "2026-10-20",
+  "customers_say": "Customers find the door lock's features convenient and appreciate its reliability, with face unlock working consistently and quickly. The lock is easy to use, with a user-friendly app, and customers like its classy design that looks like a simple door handle. They praise its build quality, security, and installation process. The value for money receives mixed feedback, with some customers considering it a good purchase while others express dissatisfaction.",
   "aspects": [
-    {
-      "name": "Value for money",
-      "count": "28"
-    },
     {
       "name": "Features",
       "count": "27"
@@ -33,6 +29,10 @@
     {
       "name": "Installation",
       "count": "15"
+    },
+    {
+      "name": "Value for money",
+      "count": "29"
     }
   ],
   "reviews": [

@@ -1,6 +1,6 @@
 {
-  "scraped": "2026-10-19",
-  "customers_say": "Customers find the digital lock easy to install, with one noting it completes installation without damaging the door. Moreover, they appreciate its features, including multiple access options, and consider it a good home security solution that adds convenience. Additionally, the service receives positive feedback, with one customer highlighting the polite and knowledgeable service person. However, opinions about reliability and value for money are mixed, with some finding it works well while others report issues, and some consider it good value while others find it costly.",
+  "scraped": "2026-10-20",
+  "customers_say": "Customers find the digital lock easy to install and use, with good service and security features, and one customer notes it works well on wooden doors. Moreover, they appreciate its multiple access options and consider it a good home security solution. However, the reliability and value for money receive mixed feedback, with some saying it functions well while others report issues, and some find it good value while others consider it costly.",
   "aspects": [
     {
       "name": "Installation",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Convenience",
-      "count": "9"
+      "count": "10"
     },
     {
       "name": "Reliability",
@@ -36,6 +36,14 @@
     }
   ],
   "reviews": [
+    {
+      "author": "Karishma jain",
+      "rating": 5.0,
+      "title": "Goodrej lock",
+      "date": "2026-10-18",
+      "date_label": "18 October 2026",
+      "body": "Maya enterprise goa . Excellent service , neat and clean installation, well trained technicians for installation."
+    },
     {
       "author": "Pramod Kumar Srivastava",
       "rating": 5.0,
@@ -67,14 +75,6 @@
       "date": "2026-10-14",
       "date_label": "14 October 2026",
       "body": "Installation is good and product seems to be having good features. Service is seemless. Kishan is a well behaved technician."
-    },
-    {
-      "author": "AMIYA RANJAN SAHU",
-      "rating": 5.0,
-      "title": "Good lock",
-      "date": "2026-10-09",
-      "date_label": "9 October 2026",
-      "body": "Excellent work done with neatly completed and installed by Mr Venkatchary"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "scraped": "2026-10-19",
-  "customers_say": "Customers find the water purification unit to be of good quality, with positive feedback about its installation, taste, and water quality. However, the reliability and durability receive mixed reviews - while some say it works well, others report it stops working after 4 months and won't last more than a year. The value for money and water wastage aspects also draw mixed reactions, with some finding it worth the price while others say it's not budget-friendly and the zero-wastage feature is a gimmick.",
+  "scraped": "2026-10-20",
+  "customers_say": "Customers find the water purifier easy to install and appreciate its good taste, clean output, and great service. However, the reliability and durability receive mixed feedback - while some say it works well, others report it stops working after 4 months and won't last more than a year. Moreover, opinions are divided on water wastage, with some claiming zero waste while others consider it a gimmick. The value for money is also mixed, with some finding it worth the price while others say it's not budget-friendly.",
   "aspects": [
     {
-      "name": "Quality",
-      "count": "291"
-    },
-    {
       "name": "Installation",
-      "count": "39"
+      "count": "40"
     },
     {
       "name": "Water taste",
-      "count": "24"
+      "count": "25"
     },
     {
       "name": "Water quality",
-      "count": "13"
+      "count": "16"
+    },
+    {
+      "name": "Service",
+      "count": "12"
     },
     {
       "name": "Value for money",
-      "count": "85"
+      "count": "86"
     },
     {
       "name": "Reliability",
@@ -37,44 +37,44 @@
   ],
   "reviews": [
     {
+      "author": "Adarsh",
+      "rating": 4.0,
+      "title": "Good",
+      "date": "2026-10-18",
+      "date_label": "18 October 2026",
+      "body": "Good water quality,but no water level indicator for dispenser"
+    },
+    {
+      "author": "Mahi",
+      "rating": 5.0,
+      "title": "Worth Buying for Home",
+      "date": "2026-10-17",
+      "date_label": "17 October 2026",
+      "body": "Good product from KENT. The water tastes clean and fresh, and the purifier is easy to use. The design is attractive, and the purification process gives me confidence in the quality of drinking water. Overall, a good product for home use."
+    },
+    {
+      "author": "Rupesh",
+      "rating": 1.0,
+      "title": "सर्विस बेहद खराब और निराशाजनक है।",
+      "date": "2026-10-17",
+      "date_label": "17 October 2026",
+      "body": "⭐ KENT Grand Plus की सर्विस बेहद खराब और निराशाजनक है। मैं KENT Grand Plus वाटर प्यूरीफायर की सर्विस से बिल्कुल संतुष्ट नहीं हूँ। मशीन में लगातार बीप की आवाज आ रही है, लाल लाइट जल रही है और पानी भी नहीं आ रहा है। इस तरह की समस्या के कारण काफी परेशानी का सामना करना पड़ रहा है। सबसे निराशाजनक बात यह है कि इतनी बड़ी कंपनी से बेहतर सर्विस और त्वरित समाधान की उम्मीद होती है, लेकिन ग्राहक को परेशानी झेलनी पड़ती है। प्रोडक्ट की कीमत लेने के बाद कंपनी की जिम्मेदारी है कि वह समय पर उचित सर्विस और तकनीकी सहायता उपलब्ध कराए। मैं KENT की सर्विस से बिल्कुल खुश नहीं हूँ और अपने अनुभव के आधार पर इसे 1 स्टार "
+    },
+    {
+      "author": "Monuj K.",
+      "rating": 5.0,
+      "title": "Review",
+      "date": "2026-10-16",
+      "date_label": "16 October 2026",
+      "body": "Product to Installation was very Good. Instalation was very good."
+    },
+    {
       "author": "R B",
       "rating": 5.0,
       "title": "Seems good so far",
       "date": "2026-10-16",
       "date_label": "16 October 2026",
       "body": "Smooth delivery and installation process"
-    },
-    {
-      "author": "Yashgunjal",
-      "rating": 5.0,
-      "title": "Excellent water purifier",
-      "date": "2026-10-15",
-      "date_label": "15 October 2026",
-      "body": "KENT Marvel Water Purifier Review ⭐⭐⭐⭐☆ Excellent water purification with RO + UF + TDS Control and UV protection. The 8L storage capacity is suitable for family use, and the water taste is good. However, maintenance costs and water wastage should be considered before buying. Overall, a good option for high-TDS water if after-sales service is reliable."
-    },
-    {
-      "author": "Santosh kushwaha",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-10-15",
-      "date_label": "15 October 2026",
-      "body": "Good"
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Wortyto buy",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "Good product. Worthy to purchase it."
-    },
-    {
-      "author": "Pujitha",
-      "rating": 4.0,
-      "title": "Good",
-      "date": "2026-10-13",
-      "date_label": "13 October 2026",
-      "body": "Instalation: he did a good job."
     }
   ]
 }

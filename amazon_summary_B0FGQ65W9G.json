@@ -1,25 +1,8 @@
 {
-  "scraped": "2026-10-19",
-  "customers_say": "Customers find the lock to be of good quality, with one mentioning it perfectly meets their requirements. The installation process receives positive feedback, with one customer noting that the fitting was done free of cost.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "11"
-    },
-    {
-      "name": "Installation",
-      "count": "9"
-    }
-  ],
+  "scraped": "2026-10-20",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
-    {
-      "author": "Akash Kumar",
-      "rating": 1.0,
-      "title": "Extremely pathetic product & service by Godrej",
-      "date": "2026-10-16",
-      "date_label": "16 October 2026",
-      "body": "Extremely pathetic product. It doesn't work properly. Trust me you will buy the product and will regret everyday. You will be left without help from Godrej and might have to break the lock to get in. Please buy some other brand like Native for better product and service. Worst product ever"
-    },
     {
       "author": "Anuj Singh rajput",
       "rating": 5.0,
@@ -51,6 +34,14 @@
       "date": "2026-10-14",
       "date_label": "14 October 2026",
       "body": "Good installation by Technician Prabhu. Good product."
+    },
+    {
+      "author": "SJ",
+      "rating": 5.0,
+      "title": "Installation technician Uddin did a very professional job. Very experienced & friendly person. Happy",
+      "date": "2026-10-12",
+      "date_label": "12 October 2026",
+      "body": "Good product"
     }
   ]
 }
