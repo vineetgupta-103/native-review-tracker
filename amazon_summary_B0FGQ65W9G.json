@@ -1,8 +1,24 @@
 {
-  "scraped": "2026-10-20",
+  "scraped": "2026-10-22",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "vatsal agarwal",
+      "rating": 5.0,
+      "title": "Good product",
+      "date": "2026-10-17",
+      "date_label": "17 October 2026",
+      "body": "Good product"
+    },
+    {
+      "author": "Pitambar Devikar",
+      "rating": 5.0,
+      "title": "Good service",
+      "date": "2026-10-16",
+      "date_label": "16 October 2026",
+      "body": "Excellent"
+    },
     {
       "author": "Anuj Singh rajput",
       "rating": 5.0,
@@ -26,22 +42,6 @@
       "date": "2026-10-14",
       "date_label": "14 October 2026",
       "body": "Good product by Godrej and good Service by it's technician. Fast and prompt service. Good Installation. Value for Money. Hopefully should be durable. Fitting was done free of cost although Product page said fitting charges are 499. There was a slight play in the inner handle which technician said is normal for all locks. As for instructions on how to use and set code and finger prints, etc., I suggest use chat gpt as technician can never fully explain everything properly."
-    },
-    {
-      "author": "Amazon Customer",
-      "rating": 5.0,
-      "title": "Godrej smart lock",
-      "date": "2026-10-14",
-      "date_label": "14 October 2026",
-      "body": "Good installation by Technician Prabhu. Good product."
-    },
-    {
-      "author": "SJ",
-      "rating": 5.0,
-      "title": "Installation technician Uddin did a very professional job. Very experienced & friendly person. Happy",
-      "date": "2026-10-12",
-      "date_label": "12 October 2026",
-      "body": "Good product"
     }
   ]
 }
