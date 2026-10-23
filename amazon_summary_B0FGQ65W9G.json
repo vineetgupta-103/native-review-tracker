@@ -1,8 +1,24 @@
 {
-  "scraped": "2026-10-22",
+  "scraped": "2026-10-23",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "MANVENDRA kumar",
+      "rating": 5.0,
+      "title": "Ok",
+      "date": "2026-10-19",
+      "date_label": "19 October 2026",
+      "body": "Godrej door lock is good & installation is excellent installation by wasif"
+    },
+    {
+      "author": "Poonam patil",
+      "rating": 5.0,
+      "title": "Godrej neo prime digital lock",
+      "date": "2026-10-18",
+      "date_label": "18 October 2026",
+      "body": "Found product very nice and service technicain visit was very detailed and helpful. Happy with product."
+    },
     {
       "author": "vatsal agarwal",
       "rating": 5.0,
@@ -12,12 +28,12 @@
       "body": "Good product"
     },
     {
-      "author": "Pitambar Devikar",
-      "rating": 5.0,
-      "title": "Good service",
+      "author": "Akash Kumar",
+      "rating": 1.0,
+      "title": "Extremely pathetic product & service by Godrej",
       "date": "2026-10-16",
       "date_label": "16 October 2026",
-      "body": "Excellent"
+      "body": "Extremely pathetic product. It doesn't work properly. Trust me you will buy the product and will regret everyday. You will be left without help from Godrej and might have to break the lock to get in. Please buy some other brand like Native for better product and service. Worst product ever"
     },
     {
       "author": "Anuj Singh rajput",
@@ -26,22 +42,6 @@
       "date": "2026-10-15",
       "date_label": "15 October 2026",
       "body": "Very good installation done by company , I m very happy best quality of lock"
-    },
-    {
-      "author": "Madhavi Grandhi",
-      "rating": 5.0,
-      "title": "Superb",
-      "date": "2026-10-15",
-      "date_label": "15 October 2026",
-      "body": "Service and installation good"
-    },
-    {
-      "author": "Sandeep Dangi",
-      "rating": 5.0,
-      "title": "Good Quality product with prompt free service.",
-      "date": "2026-10-14",
-      "date_label": "14 October 2026",
-      "body": "Good product by Godrej and good Service by it's technician. Fast and prompt service. Good Installation. Value for Money. Hopefully should be durable. Fitting was done free of cost although Product page said fitting charges are 499. There was a slight play in the inner handle which technician said is normal for all locks. As for instructions on how to use and set code and finger prints, etc., I suggest use chat gpt as technician can never fully explain everything properly."
     }
   ]
 }

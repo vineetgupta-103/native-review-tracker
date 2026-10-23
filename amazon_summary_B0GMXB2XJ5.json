@@ -1,8 +1,16 @@
 {
-  "scraped": "2026-10-20",
+  "scraped": "2026-10-23",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "jino",
+      "rating": 5.0,
+      "title": "Excellent Lock",
+      "date": "2026-10-21",
+      "date_label": "21 October 2026",
+      "body": "Excellent product. Easy to use. Installation was done Profesionally by Suraj."
+    },
     {
       "author": "chandan",
       "rating": 5.0,
@@ -34,14 +42,6 @@
       "date": "2026-09-11",
       "date_label": "11 September 2026",
       "body": "Extremely professional work done by Mr. Hameed. Liked the prompt service and help. Atomberg .... Plz keep up the good work."
-    },
-    {
-      "author": "Ajay Chandreja",
-      "rating": 5.0,
-      "title": "Cypheo",
-      "date": "2026-08-19",
-      "date_label": "19 August 2026",
-      "body": "Superb"
     }
   ]
 }
