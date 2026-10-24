@@ -1,8 +1,24 @@
 {
-  "scraped": "2026-10-23",
+  "scraped": "2026-10-24",
   "customers_say": "",
   "aspects": [],
   "reviews": [
+    {
+      "author": "Ayush Mohanty",
+      "rating": 5.0,
+      "title": "Very satisfied",
+      "date": "2026-10-22",
+      "date_label": "22 October 2026",
+      "body": "This is my 3rd piece, I am very addicted user to Godrej Fingerprint lock system."
+    },
+    {
+      "author": "Ishan Batham",
+      "rating": 5.0,
+      "title": "Product and service",
+      "date": "2026-10-22",
+      "date_label": "22 October 2026",
+      "body": "Great and quick installation by godrej team and very good product well recommended"
+    },
     {
       "author": "MANVENDRA kumar",
       "rating": 5.0,
@@ -10,22 +26,6 @@
       "date": "2026-10-19",
       "date_label": "19 October 2026",
       "body": "Godrej door lock is good & installation is excellent installation by wasif"
-    },
-    {
-      "author": "Poonam patil",
-      "rating": 5.0,
-      "title": "Godrej neo prime digital lock",
-      "date": "2026-10-18",
-      "date_label": "18 October 2026",
-      "body": "Found product very nice and service technicain visit was very detailed and helpful. Happy with product."
-    },
-    {
-      "author": "vatsal agarwal",
-      "rating": 5.0,
-      "title": "Good product",
-      "date": "2026-10-17",
-      "date_label": "17 October 2026",
-      "body": "Good product"
     },
     {
       "author": "Akash Kumar",
