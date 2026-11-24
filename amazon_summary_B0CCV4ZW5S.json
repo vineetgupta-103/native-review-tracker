@@ -1,48 +1,15 @@
 {
-  "scraped": "2026-11-23",
-  "customers_say": "Customers find this smart door lock to be of premium quality, with all features working smoothly and providing peace of mind through enhanced home security. They appreciate its easy use, nice installation process, and premium finish that adds a wow factor to their house. Customers consider it the best smart lock in its price range and like its multifunctionality, with one customer noting it includes FaceID, fingerprint, and password options.",
-  "aspects": [
-    {
-      "name": "Quality",
-      "count": "301"
-    },
-    {
-      "name": "Reliability",
-      "count": "113"
-    },
-    {
-      "name": "Value for money",
-      "count": "93"
-    },
-    {
-      "name": "Ease of use",
-      "count": "75"
-    },
-    {
-      "name": "Installation",
-      "count": "72"
-    },
-    {
-      "name": "Security",
-      "count": "52"
-    },
-    {
-      "name": "Appearance",
-      "count": "50"
-    },
-    {
-      "name": "Features",
-      "count": "36"
-    }
-  ],
+  "scraped": "2026-11-24",
+  "customers_say": "",
+  "aspects": [],
   "reviews": [
     {
-      "author": "Arif Mohammad",
-      "rating": 5.0,
-      "title": "Excellent service and highly professional work",
-      "date": "2026-11-18",
-      "date_label": "18 November 2026",
-      "body": "Excellent service and highly professional work! The digital door lock was supplied and installed perfectly. The installation was smooth, and the technician was knowledgeable, punctual, and helpful. The product quality is excellent, and the entire process was handled with great care. Very satisfied with the service and would highly recommend them to anyone looking for a reliable digital door lock supply and installation."
+      "author": "Rajagopal",
+      "rating": 3.0,
+      "title": "Golems x32",
+      "date": "2026-11-15",
+      "date_label": "15 November 2026",
+      "body": "Fingerprints is not working I want to exchange it Please call me Regards Rajagopal C V"
     },
     {
       "author": "Asish",
@@ -53,28 +20,28 @@
       "body": "I am really happy with my experience with the Golense X2 Smart Lock. The product offers good features, convenience, and a modern smart-home experience. What impressed me most was the proactive support from the Golense team, especially during installation and configuration. Their team was very responsive, patient, and willing to guide me through the process whenever I faced any difficulties. Another great thing is their commitment to customer satisfaction. They are even willing to replace parts if you encounter any issues during installation or configuration, which gives customers additional co"
     },
     {
-      "author": "Jayadevan",
-      "rating": 4.0,
-      "title": "Amazing Golens x95 smart lock good purchase",
-      "date": "2026-11-07",
-      "date_label": "7 November 2026",
-      "body": "Works well so far: fingerprint, PIN and face unlock. Installed the Golens X95 17 days ago and it has worked satisfactorily with no issues. Installation was smooth, and registering fingerprints, PINs and faces was simple. Fingerprint and face unlock are quick and accurate, and the PIN is handy for guests. The build feels sturdy and the finish looks neat. Too early to comment on long-term durability and battery life, but so far it has met my expectations. Will update after a few months. Strongly recommended."
-    },
-    {
-      "author": "Dr. P C Rajan",
+      "author": "Chikka Joonna",
       "rating": 5.0,
-      "title": "The product has a premium look, excellent build quality and a smooth locking mechanism",
-      "date": "2026-11-01",
-      "date_label": "1 November 2026",
-      "body": "I am very satisfied with the Golens door lock. The product has a premium look, excellent build quality and a smooth locking mechanism. It feels sturdy, reliable and provides an added sense of security. The design is elegant, and the overall functionality is impressive. Excellent value for money. Highly recommended!"
-    },
-    {
-      "author": "Anjana",
-      "rating": 5.0,
-      "title": "Great Value and Impressive Performance",
+      "title": "Installation easy and they guide everything proper",
       "date": "2026-10-31",
       "date_label": "31 October 2026",
-      "body": "I've been using the GoLens X32 Pro for a while now, and I'm genuinely impressed with its performance. The build quality feels solid and premium, while the design is sleek and comfortable to use. Setup was straightforward, and the device worked smoothly right out of the box. The display quality is clear and vibrant, with good brightness and sharp details. Performance is fast and responsive, making it suitable for both everyday use and more demanding tasks. Battery life is also impressive, lasting long enough for extended use without frequent charging. What stands out most is the value for money"
+      "body": "Had a wonderful experience with Golens Locks! The lock quality is excellent, and the product is impressive. Their customer support is outstanding. The team patiently explained everything, including how to use and operate the lock. Very professional, helpful, and supportive staff. Highly recommended for their excellent products and customer service. Keep up the great work! 👏"
+    },
+    {
+      "author": "rajesh bhatia",
+      "rating": 4.0,
+      "title": "Overall Good",
+      "date": "2026-10-24",
+      "date_label": "24 October 2026",
+      "body": "Overall good. This is I think the only option that is available for the doors where soace is less than 60mm between saftey and main door. All other doorlocks require 65mm or more space. Till now it is working good. Sometimes, it misses the fingerprint recognition, but not much. Isntallation process and the oerson who installed provided good service. Overall satisfactory till now. Just one thing, that till now i couldnt get any update on getting passgae mode ON in this lock."
+    },
+    {
+      "author": "Heet",
+      "rating": 5.0,
+      "title": "Value for money",
+      "date": "2026-10-23",
+      "date_label": "23 October 2026",
+      "body": "Really good lock definitely value for money"
     }
   ]
 }
